@@ -1,0 +1,185 @@
+name: Feature Test Suite
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  feature-tests:
+    name: Android ${{ matrix.android_version }} feature tests
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - android_version: "13"
+            api_level: "33"
+            patcher_script: scripts/patcher_a13.sh
+            source_base: Sources/android13
+          - android_version: "14"
+            api_level: "34"
+            patcher_script: scripts/patcher_a14.sh
+            source_base: Sources/android14
+          - android_version: "15"
+            api_level: "35"
+            patcher_script: scripts/patcher_a15.sh
+            source_base: Sources/android15
+          - android_version: "16"
+            api_level: "36"
+            patcher_script: scripts/patcher_a16.sh
+            source_base: Sources/android16
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Run feature tests
+        id: run_feature_tests
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          SOURCE_BASE="${{ matrix.source_base }}"
+          PATCHER="./${{ matrix.patcher_script }}"
+          API_LEVEL="${{ matrix.api_level }}"
+          DEVICE_NAME="CI Android ${{ matrix.android_version }}"
+          DEVICE_CODENAME="ci-a${{ matrix.android_version }}"
+          VERSION_NAME="ci-${GITHUB_RUN_NUMBER}-${GITHUB_RUN_ATTEMPT}"
+
+          chmod +x "$PATCHER"
+
+          find_source_jar() {
+            local base="$1"
+            local relative="$2"
+            find "$base" -type f -path "*/${relative}/${relative}.jar" | head -n1
+          }
+
+          FRAMEWORK_SRC="$(find_source_jar "$SOURCE_BASE" framework)"
+          SERVICES_SRC="$(find_source_jar "$SOURCE_BASE" services)"
+          MIUI_SERVICES_SRC="$(find_source_jar "$SOURCE_BASE" miui-services)"
+          MIUI_FRAMEWORK_SRC="$(find_source_jar "$SOURCE_BASE" miui-framework)"
+
+          if [ -z "$FRAMEWORK_SRC" ] || [ -z "$SERVICES_SRC" ]; then
+            echo "No usable source JAR set found under ${SOURCE_BASE}; skipping Android ${{ matrix.android_version }} tests."
+            exit 0
+          fi
+
+          case "${{ matrix.android_version }}" in
+            13|14)
+              FEATURES=(
+                "--disable-signature-verification"
+                "--kaorios-toolbox"
+                "--add-gboard"
+              )
+              ;;
+            15|16)
+              FEATURES=(
+                "--disable-signature-verification"
+                "--cn-notification-fix"
+                "--disable-secure-flag"
+                "--kaorios-toolbox"
+                "--add-gboard"
+              )
+              ;;
+            *)
+              echo "Unsupported Android version in matrix: ${{ matrix.android_version }}"
+              exit 1
+              ;;
+          esac
+
+          RESULTS_ROOT="test-results/android${{ matrix.android_version }}"
+          mkdir -p "$RESULTS_ROOT"
+
+          failures=0
+          tests_run=0
+
+          for feature in "${FEATURES[@]}"; do
+            tests_run=$((tests_run + 1))
+            case_name="${feature#--}"
+            case_dir="${RESULTS_ROOT}/${case_name}"
+            mkdir -p "$case_dir"
+
+            rm -rf backup framework_decompile services_decompile miui-services_decompile miui-framework_decompile
+            rm -f framework.jar services.jar miui-services.jar miui-framework.jar
+            rm -f framework_patched.jar services_patched.jar miui-services_patched.jar miui-framework_patched.jar
+            rm -f Framework-Patcher-*.zip
+
+            cp "$FRAMEWORK_SRC" framework.jar
+            cp "$SERVICES_SRC" services.jar
+            [ -n "$MIUI_SERVICES_SRC" ] && cp "$MIUI_SERVICES_SRC" miui-services.jar || true
+            [ -n "$MIUI_FRAMEWORK_SRC" ] && cp "$MIUI_FRAMEWORK_SRC" miui-framework.jar || true
+
+            JAR_FLAGS=()
+            [ -f framework.jar ] && JAR_FLAGS+=(--framework)
+            [ -f services.jar ] && JAR_FLAGS+=(--services)
+            [ -f miui-services.jar ] && JAR_FLAGS+=(--miui-services)
+            [ -f miui-framework.jar ] && JAR_FLAGS+=(--miui-framework)
+
+            echo "============================================================"
+            echo "Android ${{ matrix.android_version }} | Running feature: ${feature}"
+            echo "Using JAR flags: ${JAR_FLAGS[*]}"
+            echo "============================================================"
+
+            set +e
+            bash "$PATCHER" \
+              "$API_LEVEL" \
+              "$DEVICE_CODENAME" \
+              "${VERSION_NAME}-${case_name}" \
+              "${JAR_FLAGS[@]}" \
+              "$feature" \
+              2>&1 | tee "${case_dir}/run.log"
+            cmd_status=${PIPESTATUS[0]}
+            set -e
+
+            if [ "$cmd_status" -ne 0 ]; then
+              echo "FAILED: ${feature} (exit ${cmd_status})"
+              failures=$((failures + 1))
+              continue
+            fi
+
+            module_zip="$(ls Framework-Patcher-*.zip 2>/dev/null | head -n1 || true)"
+            if [ -z "$module_zip" ]; then
+              echo "FAILED: ${feature} (module zip not created)"
+              failures=$((failures + 1))
+              continue
+            fi
+
+            for output_jar in framework_patched.jar services_patched.jar miui-services_patched.jar miui-framework_patched.jar; do
+              if [ -f "$output_jar" ]; then
+                cp "$output_jar" "${case_dir}/"
+              fi
+            done
+
+            echo "PASSED: ${feature}"
+          done
+
+          echo "tests_run=${tests_run}" >> "$GITHUB_OUTPUT"
+          echo "failures=${failures}" >> "$GITHUB_OUTPUT"
+
+          if [ "$failures" -gt 0 ]; then
+            echo "Feature test suite failed (${failures}/${tests_run} failed)."
+            exit 1
+          fi
+
+          echo "Feature test suite completed successfully (${tests_run}/${tests_run} passed)."
+
+      - name: Upload patched JAR artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: android${{ matrix.android_version }}-feature-test-jars-${{ github.run_id }}
+          if-no-files-found: warn
+          path: |
+            test-results/android${{ matrix.android_version }}/**/*_patched.jar
+          retention-days: 7
