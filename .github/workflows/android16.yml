@@ -195,6 +195,11 @@ jobs:
 
       - name: Run Android 16 patcher
         run: |
+          LOG_FILE="build_log_android16.txt"
+          : > "$LOG_FILE"
+          exec > >(tee -a "$LOG_FILE") 2>&1
+          set -o pipefail
+
           chmod +x scripts/patcher_a16.sh
           
           # Build feature flags
@@ -420,6 +425,15 @@ jobs:
           path: Framework-Patcher-${{ steps.set_codename.outputs.codename }}*.zip
           retention-days: 7
 
+      - name: Upload build log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: android16-build-log-${{ github.run_id }}
+          if-no-files-found: warn
+          path: build_log_android16.txt
+          retention-days: 7
+
       - name: Send Telegram Notification (Success)
         if: success() && github.event.inputs.user_id != ''
         run: |
@@ -455,12 +469,17 @@ jobs:
             echo "$1" | sed -e 's/\\/\\\\/g' -e 's/\./\\./g' -e 's/\-/\\-/g' -e 's/!/\\!/g' -e 's/#/\\#/g' -e 's/{/\\{/g' -e 's/}/\\}/g' -e 's/(/\\(/g' -e 's/)/\\)/g'
           }
 
-          DEVICE_CODENAME_ESCAPED=$(escape_mdv2 "${{ steps.set_codename.outputs.codename }}")
+          DEVICE_CODENAME="${{ steps.set_codename.outputs.codename }}"
+          if [ -z "$DEVICE_CODENAME" ]; then
+            DEVICE_CODENAME="${{ github.event.inputs.device_codename }}"
+          fi
+
+          DEVICE_CODENAME_ESCAPED=$(escape_mdv2 "$DEVICE_CODENAME")
           DEVICE_NAME_ESCAPED=$(escape_mdv2 "${{ github.event.inputs.device_name }}")
           VERSION_NAME_ESCAPED=$(escape_mdv2 "${{ github.event.inputs.version_name }}")
           WORKFLOW_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 
-          MESSAGE=$(printf "Android 16 framework patch failed for your device:\n\n> *Device:* \`%s\`\n> *Codename:* \`%s\`\n> *Version:* \`%s\`\n\nPlease check the workflow logs for more details." \
+          MESSAGE=$(printf "Android 16 framework patch failed for your device:\n\n> *Device:* \`%s\`\n> *Codename:* \`%s\`\n> *Version:* \`%s\`\n\nCheckout logs below\." \
             "$DEVICE_NAME_ESCAPED" \
             "$DEVICE_CODENAME_ESCAPED" \
             "$VERSION_NAME_ESCAPED")
@@ -472,3 +491,21 @@ jobs:
             -d text="$MESSAGE" \
             -d parse_mode="MarkdownV2" \
             -d reply_markup="$REPLY_MARKUP"
+
+          LOG_FILE="build_log_android16.txt"
+          if [ ! -s "$LOG_FILE" ]; then
+            LOG_FILE="failure_summary_android16.txt"
+            {
+              echo "Build log file was not generated."
+              echo "Device: ${{ github.event.inputs.device_name }}"
+              echo "Codename: $DEVICE_CODENAME"
+              echo "Version: ${{ github.event.inputs.version_name }}"
+              echo "Workflow run: $WORKFLOW_URL"
+              echo "Please open the workflow URL for full runner logs."
+            } > "$LOG_FILE"
+          fi
+
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendDocument" \
+            -F chat_id="${{ github.event.inputs.user_id }}" \
+            -F document=@"$LOG_FILE" \
+            -F caption="Android 16 failure log"
