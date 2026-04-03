@@ -102,20 +102,20 @@ create_module() {
         
         # 1. Install APK as system app (priv-app)
         if [ -f "kaorios_toolbox/KaoriosToolbox.apk" ]; then
-            mkdir -p "$build_dir/system/product/priv-app/KaoriosToolbox"
-            cp "kaorios_toolbox/KaoriosToolbox.apk" "$build_dir/system/product/priv-app/KaoriosToolbox/KaoriosToolbox.apk"
+            mkdir -p "$build_dir/system/priv-app/KaoriosToolbox"
+            cp "kaorios_toolbox/KaoriosToolbox.apk" "$build_dir/system/priv-app/KaoriosToolbox/KaoriosToolbox.apk"
             
             # Extract native libraries
             log "  • Extracting native libraries from APK..."
-            mkdir -p "$build_dir/system/product/priv-app/KaoriosToolbox/lib"
+            mkdir -p "$build_dir/system/priv-app/KaoriosToolbox/lib"
             # Extract lib/arm64-v8a or lib/armeabi-v7a to lib/
-            unzip -q "kaorios_toolbox/KaoriosToolbox.apk" "lib/*" -d "$build_dir/system/product/priv-app/KaoriosToolbox/" || true
+            unzip -q "kaorios_toolbox/KaoriosToolbox.apk" "lib/*" -d "$build_dir/system/priv-app/KaoriosToolbox/" || true
         fi
 
         # 2. Install permissions
         if [ -f "kaorios_toolbox/privapp_whitelist_com.kousei.kaorios.xml" ]; then
-            mkdir -p "$build_dir/system/product/etc/permissions"
-            cp "kaorios_toolbox/privapp_whitelist_com.kousei.kaorios.xml" "$build_dir/system/product/etc/permissions/"
+            mkdir -p "$build_dir/system/etc/permissions"
+            cp "kaorios_toolbox/privapp_whitelist_com.kousei.kaorios.xml" "$build_dir/system/etc/permissions/"
         fi
         
         # 3. Configure system properties

@@ -243,6 +243,8 @@ jobs:
               continue
             fi
 
+            cp "$module_zip" "${case_dir}/Framework-Patcher-android${{ matrix.android_version }}-${case_name}.zip"
+
             for output_jar in framework_patched.jar services_patched.jar miui-services_patched.jar miui-framework_patched.jar; do
               if [ -f "$output_jar" ]; then
                 cp "$output_jar" "${case_dir}/"
@@ -278,4 +280,14 @@ jobs:
           if-no-files-found: warn
           path: |
             test-results/android${{ matrix.android_version }}/**/*_patched.jar
+          retention-days: 7
+
+      - name: Upload module ZIP artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: android${{ matrix.android_version }}-feature-test-modules-${{ github.run_id }}
+          if-no-files-found: warn
+          path: |
+            test-results/android${{ matrix.android_version }}/**/Framework-Patcher-android${{ matrix.android_version }}-*.zip
           retention-days: 7
