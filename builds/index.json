@@ -27,6 +27,11 @@
         "android_version": "16",
         "build_time": "2026-04-26T20:42:17Z",
         "patch_version": "3.0.0"
+      },
+      "OS3.0.302.0.WOKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-26T22:50:36Z",
+        "patch_version": "3.0.0"
       }
     },
     "Tapas": {
@@ -37,6 +42,6 @@
       }
     }
   },
-  "last_updated": "2026-04-26T21:28:54Z",
+  "last_updated": "2026-04-26T22:51:17Z",
   "engine_version": "3.0.0"
 }
