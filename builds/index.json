@@ -4,11 +4,11 @@
     "xaga": {
       "V14.0.5.0.TEST": {
         "android_version": "16",
-        "build_time": "2026-04-26T18:10:41Z",
+        "build_time": "2026-04-26T18:23:28Z",
         "patch_version": "3.0.0"
       }
     }
   },
-  "last_updated": "2026-04-26T18:11:21Z",
+  "last_updated": "2026-04-26T18:24:07Z",
   "engine_version": "3.0.0"
 }
