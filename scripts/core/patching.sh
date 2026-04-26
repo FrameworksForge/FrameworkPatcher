@@ -5,11 +5,7 @@
 find_smali_method_file() {
     local decompile_dir="$1"
     local method="$2"
-    # returns first match (stdout)
-    find "$decompile_dir" -type f -name "*.smali" -print0 |
-        xargs -0 grep -s -l -- ".method" 2>/dev/null |
-        xargs -r -I{} sh -c "grep -s -q \"[[:space:]]*\\.method.*${method}\" \"{}\" && printf '%s\n' \"{}\"" |
-        head -n1
+    grep -r -l --include="*.smali" "[[:space:]]*\.method.*${method}" "$decompile_dir" 2>/dev/null | head -n1
 }
 
 add_static_return_patch() {

@@ -312,7 +312,7 @@ jobs:
                   await github.rest.git.deleteRef({
                     owner: context.repo.owner,
                     repo: context.repo.repo,
-                    ref: 'tags/${{ steps.release_info.outputs.tag }}'
+                    ref: 'tags/' + '${{ steps.release_info.outputs.tag }}'
                   });
                 } catch (e) {
                   console.log('Tag might not exist, continuing...');
@@ -402,7 +402,8 @@ jobs:
           tag_name: ${{ steps.release_info.outputs.tag }}
           name: ${{ steps.release_info.outputs.name }}
           files: ${{ steps.find_zip.outputs.file_path }}
-          body: ${{ steps.generate_release_body.outputs.release_body }}
+          body: |
+            ${{ steps.generate_release_body.outputs.release_body }}
 
       - name: Upload patched jars
         uses: actions/upload-artifact@v4

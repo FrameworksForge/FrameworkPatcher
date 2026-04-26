@@ -335,8 +335,6 @@ jobs:
           fi
 
           if [ ${#FEATURES_LIST[@]} -eq 0 ]; then
-
-          if [ ${#FEATURES_LIST[@]} -eq 0 ]; then
             FEATURES="- Signature Verification Bypass (default)"
           else
             FEATURES=$(printf '%s\n' "${FEATURES_LIST[@]}")

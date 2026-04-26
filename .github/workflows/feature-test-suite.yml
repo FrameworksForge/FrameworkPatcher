@@ -291,3 +291,17 @@ jobs:
           path: |
             test-results/android${{ matrix.android_version }}/**/Framework-Patcher-android${{ matrix.android_version }}-*.zip
           retention-days: 7
+
+  # Completion job to provide a static status check name for branch protection rules
+  check:
+    name: Feature Test Suite
+    needs: feature-tests
+    runs-on: ubuntu-latest
+    if: always()
+    steps:
+      - name: All tests passed
+        if: ${{ !(contains(needs.feature-tests.result, 'failure')) && !(contains(needs.feature-tests.result, 'cancelled')) }}
+        run: exit 0
+      - name: Tests failed
+        if: ${{ contains(needs.feature-tests.result, 'failure') || contains(needs.feature-tests.result, 'cancelled') }}
+        run: exit 1
