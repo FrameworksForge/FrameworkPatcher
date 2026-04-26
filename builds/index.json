@@ -7,8 +7,15 @@
         "build_time": "2026-04-26T18:23:28Z",
         "patch_version": "3.0.0"
       }
+    },
+    "dash": {
+      "OS3.0.2.0.WPLIDXM": {
+        "android_version": "16",
+        "build_time": "2026-04-26T18:48:35Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-26T18:24:07Z",
+  "last_updated": "2026-04-26T18:49:16Z",
   "engine_version": "3.0.0"
 }

@@ -1,0 +1,24 @@
+{
+  "device": "dash",
+  "builds": {
+    "OS3.0.2.0.WPLIDXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-04-26T18:48:35Z",
+      "git_commit": "9e73028",
+      "checksums": {
+        "framework_patched.jar": "sha256:bc03f4d475df7bfbe0559582192c1d7fe39fb3a8c61b6959ff691a418ffe7147",
+        "services_patched.jar": "sha256:379c66ffb7f1369d66a5ba8f92cbf203f1b8ec94a319327e32c14c454989b7f4",
+        "miui-services_patched.jar": "sha256:c7dbc569bd9d9935831b85a9ddfdc71da95d70241b7adcfb68d32fa238592c91",
+        "module_zip": "sha256:17be1cea5a12cb23c846bfa70c4c41e9083c24ac0b06dbf86ab9287314826127"
+      },
+      "workflow_run_id": "24964245613",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24964245613"
+    }
+  },
+  "last_updated": "2026-04-26T18:49:16Z"
+}
