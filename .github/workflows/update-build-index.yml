@@ -78,68 +78,68 @@ jobs:
           export BASE_ROM
           export DEVICE_FILE
 
-            python3 <<'PYEOF'
-            import json, os, sys
-            from datetime import datetime, timezone
+          python3 <<'PYEOF'
+          import json, os, sys
+          from datetime import datetime, timezone
 
-            manifest_path = os.environ.get("MANIFEST_FILE", "/tmp/manifest/build-manifest.json")
-            device = os.environ.get("DEVICE", "unknown")
-            base_rom = os.environ.get("BASE_ROM", "unknown")
-            device_file = os.environ.get("DEVICE_FILE", f"builds/{device}.json")
-            run_id = "${{ github.event.workflow_run.id }}"
-            repo = "${{ github.repository }}"
+          manifest_path = os.environ.get("MANIFEST_FILE", "/tmp/manifest/build-manifest.json")
+          device = os.environ.get("DEVICE", "unknown")
+          base_rom = os.environ.get("BASE_ROM", "unknown")
+          device_file = os.environ.get("DEVICE_FILE", f"builds/{device}.json")
+          run_id = "${{ github.event.workflow_run.id }}"
+          repo = "${{ github.repository }}"
 
-            with open(manifest_path) as f:
-              manifest = json.load(f)
+          with open(manifest_path) as f:
+            manifest = json.load(f)
 
-            # Load or create device index
-            if os.path.exists(device_file):
-              with open(device_file) as f:
-                device_data = json.load(f)
-            else:
-              device_data = {"device": device, "builds": {}}
+          # Load or create device index
+          if os.path.exists(device_file):
+            with open(device_file) as f:
+              device_data = json.load(f)
+          else:
+            device_data = {"device": device, "builds": {}}
 
-            # Upsert build entry
-            release_url = f"https://github.com/{repo}/actions/runs/{run_id}"
-            device_data["builds"][base_rom] = {
-              "android_version": manifest.get("android_version", "unknown"),
-              "patch_version": manifest.get("patch_engine_version", "unknown"),
-              "features": manifest.get("features", []),
-              "build_time": manifest.get("build_time", ""),
-              "git_commit": manifest.get("git_commit", ""),
-              "checksums": manifest.get("checksums", {}),
-              "workflow_run_id": run_id,
-              "release_url": release_url,
-            }
-            device_data["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+          # Upsert build entry
+          release_url = f"https://github.com/{repo}/actions/runs/{run_id}"
+          device_data["builds"][base_rom] = {
+            "android_version": manifest.get("android_version", "unknown"),
+            "patch_version": manifest.get("patch_engine_version", "unknown"),
+            "features": manifest.get("features", []),
+            "build_time": manifest.get("build_time", ""),
+            "git_commit": manifest.get("git_commit", ""),
+            "checksums": manifest.get("checksums", {}),
+            "workflow_run_id": run_id,
+            "release_url": release_url,
+          }
+          device_data["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-            with open(device_file, "w") as f:
-              json.dump(device_data, f, indent=2)
+          with open(device_file, "w") as f:
+            json.dump(device_data, f, indent=2)
 
-            # Update summary index
-            index_path = "builds/index.json"
-            if os.path.exists(index_path):
-              with open(index_path) as f:
-                index = json.load(f)
-            else:
-              index = {"schema_version": "1.0", "devices": {}}
+          # Update summary index
+          index_path = "builds/index.json"
+          if os.path.exists(index_path):
+            with open(index_path) as f:
+              index = json.load(f)
+          else:
+            index = {"schema_version": "1.0", "devices": {}}
 
-            index["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-            index["engine_version"] = manifest.get("patch_engine_version", "unknown")
+          index["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+          index["engine_version"] = manifest.get("patch_engine_version", "unknown")
 
-            if device not in index["devices"]:
-              index["devices"][device] = {}
-            index["devices"][device][base_rom] = {
-              "android_version": manifest.get("android_version", "unknown"),
-              "build_time": manifest.get("build_time", ""),
-              "patch_version": manifest.get("patch_engine_version", "unknown"),
-            }
+          if device not in index["devices"]:
+            index["devices"][device] = {}
+          index["devices"][device][base_rom] = {
+            "android_version": manifest.get("android_version", "unknown"),
+            "build_time": manifest.get("build_time", ""),
+            "patch_version": manifest.get("patch_engine_version", "unknown"),
+          }
 
-            with open(index_path, "w") as f:
-              json.dump(index, f, indent=2)
+          with open(index_path, "w") as f:
+            json.dump(index, f, indent=2)
 
-            print(f"✅ Updated index for {device}/{base_rom}")
-            PYEOF
+          print(f"✅ Updated index for {device}/{base_rom}")
+          PYEOF
 
       - name: Validate JSON
         run: |
