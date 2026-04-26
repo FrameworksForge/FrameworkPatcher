@@ -14,8 +14,15 @@
         "build_time": "2026-04-26T18:48:35Z",
         "patch_version": "3.0.0"
       }
+    },
+    "malachite": {
+      "OS3.0.303.0.WOOCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-26T20:20:38Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-26T18:49:16Z",
+  "last_updated": "2026-04-26T20:21:10Z",
   "engine_version": "3.0.0"
 }
