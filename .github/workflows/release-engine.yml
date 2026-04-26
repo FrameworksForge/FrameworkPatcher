@@ -68,11 +68,24 @@ jobs:
           make_latest: true
           generate_release_notes: false
 
-      - name: Checkout gh-pages
-        uses: actions/checkout@v4
-        with:
-          ref: gh-pages
-          path: gh-pages
+      - name: Setup gh-pages
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if git fetch origin gh-pages; then
+            git clone --branch gh-pages --depth 1 https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git gh-pages
+          else
+            echo "gh-pages branch not found, initializing..."
+            mkdir -p gh-pages
+            cd gh-pages
+            git init
+            git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            git checkout -b gh-pages
+            touch .gitkeep
+            git add .gitkeep
+            git commit -m "Initialize gh-pages"
+            cd ..
+          fi
 
       - name: Update latest stable JSON
         run: |
@@ -97,5 +110,5 @@ jobs:
             echo "No latest.json changes to commit"
           else
             git commit -m "Update latest stable to v${{ github.event.inputs.version }}"
-            git push
+            git push origin gh-pages
           fi
