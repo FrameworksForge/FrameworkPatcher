@@ -7,6 +7,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [3.0.0] - 2026-04-26
+
+### Platform Upgrade - Production Hardening
+
+### Added
+
+- `VERSION` file as the single source of patch engine version (`3.0.0`)
+- `scripts/core/version.sh` to export `PATCH_ENGINE_VERSION`
+- `scripts/core/manifest.sh` for structured `build-manifest.json` generation
+- `tools/versions.lock` with pinned apktool URL/version/SHA256
+- Build index workflows and release workflows for platform-level automation
+- `RELEASE.md` as human-readable stable release pointer
+
+### Changed
+
+- All patcher scripts now show the patch engine version in startup banner
+- Module generation now embeds `META-INF/build-manifest.json`
+- Build flows now include manifest artifacts and reproducibility metadata
+- Feature test workflow now enforces VERSION/CHANGELOG consistency
+
+### Fixed
+
+- Removed duplicated compatibility properties from `build_module/module.prop`
+- Standardized release metadata generation across Android build workflows
+
+---
+
 ## [2.0.0] - 2025-10-13
 
 ### Major Release - Feature Selection System
