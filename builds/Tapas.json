@@ -1,0 +1,21 @@
+{
+  "device": "Tapas",
+  "builds": {
+    "2.204.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-04-26T21:28:23Z",
+      "git_commit": "9e73028",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:7b1c0b27c7e289acd51e11900fd1b18f9cdc6893930902aa6c07a1e073b2c012",
+        "module_zip": "sha256:73c6f9ff8dd2f2c6cc02ebc0a7c9a777554d6853205c04101c98652bea3abe02"
+      },
+      "workflow_run_id": "24967470014",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24967470014"
+    }
+  },
+  "last_updated": "2026-04-26T21:28:54Z"
+}
