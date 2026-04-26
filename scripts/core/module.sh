@@ -5,7 +5,9 @@
 # Source dependencies
 SCRIPT_CORE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # shellcheck source=scripts/core/version.sh
-[ -z "$PATCH_ENGINE_VERSION" ] && source "$SCRIPT_CORE_DIR/version.sh"
+if [ -z "${PATCH_ENGINE_VERSION:-}" ]; then
+    source "$SCRIPT_CORE_DIR/version.sh"
+fi
 # shellcheck source=scripts/core/manifest.sh
 source "$SCRIPT_CORE_DIR/manifest.sh"
 
