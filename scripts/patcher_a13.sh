@@ -534,6 +534,7 @@ patch_miui_framework() {
 # Source helper functions
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/helper.sh"
+source "$SCRIPT_DIR/core/version.sh"
 
 # Main function
 main() {
@@ -626,11 +627,19 @@ EOF
 
     # Display selected features
     echo "============================================"
+    echo "Framework Patcher Engine v${PATCH_ENGINE_VERSION:-unknown}"
+    echo "============================================"
     echo "Selected Features:"
     [ $FEATURE_DISABLE_SIGNATURE_VERIFICATION -eq 1 ] && echo "  ✓ Disable Signature Verification"
     [ $FEATURE_KAORIOS_TOOLBOX -eq 1 ] && echo "  ✓ Include Kaorios Toolbox"
     [ $FEATURE_ADD_GBOARD -eq 1 ] && echo "  ✓ Add Gboard Support"
     echo "============================================"
+
+    # Build features CSV for manifest
+    local FEATURES_CSV=""
+    [ $FEATURE_DISABLE_SIGNATURE_VERIFICATION -eq 1 ] && FEATURES_CSV="${FEATURES_CSV:+$FEATURES_CSV,}disable_signature_verification"
+    [ $FEATURE_KAORIOS_TOOLBOX -eq 1 ] && FEATURES_CSV="${FEATURES_CSV:+$FEATURES_CSV,}kaorios_toolbox"
+    [ $FEATURE_ADD_GBOARD -eq 1 ] && FEATURES_CSV="${FEATURES_CSV:+$FEATURES_CSV,}add_gboard"
 
     # Initialize environment and check tools
     init_env
@@ -653,8 +662,9 @@ EOF
         patch_miui_framework
     fi
 
-    # Create module
-    create_module "$API_LEVEL" "$DEVICE_NAME" "$VERSION_NAME" "$FEATURE_KAORIOS_TOOLBOX"
+    # Create module with manifest metadata
+    create_module "$API_LEVEL" "$DEVICE_NAME" "$VERSION_NAME" "$FEATURE_KAORIOS_TOOLBOX" \
+        "13" "$FEATURES_CSV" "${WORKFLOW_RUN_ID:-local}" "${WORKFLOW_URL:-}"
 
     echo "All patching completed successfully!"
 }

@@ -1294,6 +1294,7 @@ patch_miui_framework() {
 # Source helper functions
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 source "$SCRIPT_DIR/helper.sh"
+source "$SCRIPT_DIR/core/version.sh"
 
 # ----------------------------------------------
 # Main entrypoint
@@ -1403,6 +1404,8 @@ EOF
 
     # Display selected features
     log "============================================"
+    log "Framework Patcher Engine v${PATCH_ENGINE_VERSION:-unknown}"
+    log "============================================"
     log "Selected Features:"
     [ $FEATURE_DISABLE_SIGNATURE_VERIFICATION -eq 1 ] && log "  ✓ Disable Signature Verification"
     [ $FEATURE_CN_NOTIFICATION_FIX -eq 1 ] && log "  ✓ CN Notification Fix"
@@ -1410,6 +1413,14 @@ EOF
     [ $FEATURE_KAORIOS_TOOLBOX -eq 1 ] && log "  ✓ Kaorios Toolbox (Play Integrity Fix)"
     [ $FEATURE_ADD_GBOARD -eq 1 ] && log "  ✓ Add Gboard Support"
     log "============================================"
+
+    # Build features CSV for manifest
+    local FEATURES_CSV=""
+    [ $FEATURE_DISABLE_SIGNATURE_VERIFICATION -eq 1 ] && FEATURES_CSV="${FEATURES_CSV:+$FEATURES_CSV,}disable_signature_verification"
+    [ $FEATURE_CN_NOTIFICATION_FIX -eq 1 ] && FEATURES_CSV="${FEATURES_CSV:+$FEATURES_CSV,}cn_notification_fix"
+    [ $FEATURE_DISABLE_SECURE_FLAG -eq 1 ] && FEATURES_CSV="${FEATURES_CSV:+$FEATURES_CSV,}disable_secure_flag"
+    [ $FEATURE_KAORIOS_TOOLBOX -eq 1 ] && FEATURES_CSV="${FEATURES_CSV:+$FEATURES_CSV,}kaorios_toolbox"
+    [ $FEATURE_ADD_GBOARD -eq 1 ] && FEATURES_CSV="${FEATURES_CSV:+$FEATURES_CSV,}add_gboard"
 
     init_env
     ensure_tools || exit 1
@@ -1435,9 +1446,10 @@ EOF
         patch_miui_framework
     fi
 
-    # Create module
+    # Create module with manifest metadata
     log "Creating Magisk/KSU module..."
-    create_module "$api_level" "$device_name" "$version_name" "$FEATURE_KAORIOS_TOOLBOX"
+    create_module "$api_level" "$device_name" "$version_name" "$FEATURE_KAORIOS_TOOLBOX" \
+        "16" "$FEATURES_CSV" "${WORKFLOW_RUN_ID:-local}" "${WORKFLOW_URL:-}"
 
     log "✓ All operations completed successfully!"
 }

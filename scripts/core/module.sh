@@ -2,11 +2,23 @@
 # scripts/core/module.sh
 # Module creation functions
 
+# Source dependencies
+SCRIPT_CORE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+# shellcheck source=scripts/core/version.sh
+[ -z "$PATCH_ENGINE_VERSION" ] && source "$SCRIPT_CORE_DIR/version.sh"
+# shellcheck source=scripts/core/manifest.sh
+source "$SCRIPT_CORE_DIR/manifest.sh"
+
 create_module() {
-    # local api_level="$1"  # Currently unused but kept for future use
+    local api_level="$1"
     local device_name="$2"
     local version_name="$3"
     local kaorios_enabled="${4:-0}"
+    # New metadata parameters for manifest generation
+    local android_version="${5:-}"
+    local features_csv="${6:-}"
+    local workflow_run_id="${7:-local}"
+    local workflow_url="${8:-}"
 
     log "Creating module using FrameworkPatcherModule for $device_name (v$version_name)"
 
@@ -40,18 +52,8 @@ create_module() {
         # Remove updateJson line
         sed -i "/^updateJson=/d" "$module_prop"
 
-        # Add universal compatibility properties
-        {
-            echo "minMagisk=20400"
-            echo "ksu=1"
-            echo "minKsu=10904"
-            echo "sufs=1"
-            echo "minSufs=10000"
-            echo "minApi=34"
-            echo "maxApi=34"
-            echo "requireReboot=true"
-            echo "support=https://t.me/Jefino9488"
-        } >>"$module_prop"
+        # Note: compatibility properties (minMagisk, ksu, etc.) are already in the template.
+        # Do NOT append them again — this previously caused duplication.
     fi
 
     # Update customize.sh with framework replacements
@@ -141,6 +143,17 @@ create_module() {
         log "✓ Kaorios Toolbox files added to module"
     fi
 
+    # Generate build manifest
+    generate_manifest "$device_name" "$version_name" "${android_version:-unknown}" "${api_level:-unknown}" "$features_csv" "$workflow_run_id" "$workflow_url"
+
+    # Embed manifest in module ZIP
+    local manifest_src="${WORK_DIR:-.}/build-manifest.json"
+    if [ -f "$manifest_src" ]; then
+        mkdir -p "$build_dir/META-INF"
+        cp "$manifest_src" "$build_dir/META-INF/build-manifest.json"
+        log "Embedded build manifest in module"
+    fi
+
     local safe_version
     safe_version=$(printf "%s" "$version_name" | sed 's/[. ]/-/g')
     local zip_name="Framework-Patcher-${device_name}-${safe_version}.zip"
@@ -159,6 +172,9 @@ create_module() {
         err "No archiver found (7z or zip). Install one to create module archive."
         return 1
     fi
+
+    # Update manifest with final ZIP checksum
+    update_manifest_with_zip_checksum "$zip_name"
 
     log "Created module: $zip_name"
     echo "$zip_name"
