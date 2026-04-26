@@ -1,0 +1,101 @@
+name: Release Patch Engine
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Engine version to release (must match VERSION file, e.g., 3.0.0)'
+        required: true
+        type: string
+
+jobs:
+  release:
+    name: Release Engine v${{ github.event.inputs.version }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate version
+        run: |
+          FILE_VERSION=$(tr -d '[:space:]' < VERSION)
+          INPUT_VERSION="${{ github.event.inputs.version }}"
+          if [ "$FILE_VERSION" != "$INPUT_VERSION" ]; then
+            echo "❌ VERSION file ($FILE_VERSION) does not match input ($INPUT_VERSION)"
+            echo "Update the VERSION file first, then run this workflow."
+            exit 1
+          fi
+          echo "✅ Version validated: v${INPUT_VERSION}"
+
+      - name: Check tag doesn't already exist
+        run: |
+          if git rev-parse "v${{ github.event.inputs.version }}" >/dev/null 2>&1; then
+            echo "❌ Tag v${{ github.event.inputs.version }} already exists"
+            exit 1
+          fi
+
+      - name: Generate changelog excerpt
+        id: changelog
+        run: |
+          VERSION="${{ github.event.inputs.version }}"
+          # Extract the section for this version from CHANGELOG.md
+          EXCERPT=$(awk "/^## \[${VERSION}\]/{found=1; next} /^## \[/{if(found) exit} found{print}" CHANGELOG.md)
+          if [ -z "$EXCERPT" ]; then
+            EXCERPT="No changelog entry found for v${VERSION}. Please update CHANGELOG.md."
+          fi
+          # Output using heredoc delimiter
+          echo "body<<CHANGELOG_EOF" >> $GITHUB_OUTPUT
+          echo "$EXCERPT" >> $GITHUB_OUTPUT
+          echo "CHANGELOG_EOF" >> $GITHUB_OUTPUT
+
+      - name: Create engine release
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v${{ github.event.inputs.version }}
+          name: "Patch Engine v${{ github.event.inputs.version }}"
+          body: |
+            # Patch Engine v${{ github.event.inputs.version }}
+
+            ${{ steps.changelog.outputs.body }}
+
+            ---
+            **Full Changelog:** [CHANGELOG.md](https://github.com/${{ github.repository }}/blob/master/CHANGELOG.md)
+          make_latest: true
+          generate_release_notes: false
+
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Update latest stable JSON
+        run: |
+          mkdir -p gh-pages/builds
+
+          cat > gh-pages/builds/latest.json <<EOF
+          {
+            "engine_version": "${{ github.event.inputs.version }}",
+            "release_url": "https://github.com/${{ github.repository }}/releases/tag/v${{ github.event.inputs.version }}",
+            "release_date": "$(date -u +%Y-%m-%d)",
+            "supported_android": ["13", "14", "15", "16"]
+          }
+          EOF
+
+      - name: Commit and push latest.json
+        run: |
+          cd gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add builds/latest.json
+          if git diff --cached --quiet; then
+            echo "No latest.json changes to commit"
+          else
+            git commit -m "Update latest stable to v${{ github.event.inputs.version }}"
+            git push
+          fi

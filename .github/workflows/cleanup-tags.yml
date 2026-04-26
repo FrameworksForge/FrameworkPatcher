@@ -1,0 +1,77 @@
+name: Cleanup Build Tags
+
+on:
+  schedule:
+    # Run weekly on Sunday at 03:00 UTC
+    - cron: '0 3 * * 0'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run — show what would be deleted without deleting'
+        required: false
+        default: 'true'
+        type: choice
+        options:
+          - 'true'
+          - 'false'
+
+jobs:
+  cleanup:
+    name: Cleanup temporary build tags
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # need full history for tags
+
+      - name: Find and delete temporary and legacy build tags
+        env:
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: |
+          echo "Scanning for temporary and legacy build tags..."
+
+          # New temporary tags + legacy patterns from older workflows.
+          # Keep semantic version tags (vX.Y.Z) intact.
+          TAGS=$(
+            {
+              git tag -l 'build-tmp-*'
+              git tag -l 'android13-*'
+              git tag -l 'android14-*'
+              git tag -l 'android15-*'
+              git tag -l 'android16-*'
+            } | sed '/^$/d' | sort -u
+          )
+
+          COUNT=$(printf '%s\n' "$TAGS" | sed '/^$/d' | wc -l | tr -d ' ')
+
+          echo "Found $COUNT cleanup candidate tags"
+
+          if [ "$COUNT" -eq 0 ]; then
+            echo "No temporary tags to clean up"
+            exit 0
+          fi
+
+          if [ "$DRY_RUN" = "true" ]; then
+            echo "=== DRY RUN — would delete these tags ==="
+            echo "$TAGS"
+            echo "=== End of dry run ==="
+          else
+            echo "Deleting $COUNT temporary build tags..."
+            printf '%s\n' "$TAGS" | while read -r tag; do
+              if [ -n "$tag" ]; then
+                git push --delete origin "$tag" 2>/dev/null || echo "Failed to delete $tag (may already be gone)"
+                git tag -d "$tag" 2>/dev/null || true
+              fi
+            done
+            echo "✅ Cleanup complete"
+          fi
+
+      - name: Summary
+        run: |
+          REMAINING=$(git tag | wc -l)
+          echo "Total remaining tags: $REMAINING"
+          echo "Engine release tags:"
+          git tag -l 'v*' | head -20
