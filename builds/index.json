@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "devices": {
+    "xaga": {
+      "V14.0.5.0.TEST": {
+        "android_version": "16",
+        "build_time": "2026-04-26T18:10:41Z",
+        "patch_version": "3.0.0"
+      }
+    }
+  },
+  "last_updated": "2026-04-26T18:11:21Z",
+  "engine_version": "3.0.0"
+}

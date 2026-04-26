@@ -1,0 +1,25 @@
+{
+  "device": "xaga",
+  "builds": {
+    "V14.0.5.0.TEST": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-26T18:10:41Z",
+      "git_commit": "9e73028",
+      "checksums": {
+        "framework_patched.jar": "sha256:5c037d4802e61334332075a4e8f3156cfc3c8c59ee296f01f7887cd5249805ac",
+        "services_patched.jar": "sha256:28e6ffd015694cf29af5a93d020bc76cc726b2180bfb16d63c9bfc883e09b4fa",
+        "miui-services_patched.jar": "sha256:bf3ffbf5c40c100aa552cec1bddcc328e5a6ecd882c8833be8d8f6b79748d725",
+        "module_zip": "sha256:adbbcfc02c74f5481116c67381caa4c902332c8a805593a40effd0c314af5c11"
+      },
+      "workflow_run_id": "24963484969",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24963484969"
+    }
+  },
+  "last_updated": "2026-04-26T18:11:21Z"
+}
