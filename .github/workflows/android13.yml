@@ -67,9 +67,17 @@ jobs:
       - name: Prepare tools directory
         run: |
           mkdir -p tools
+          APKTOOL_URL=$(python3 -c "import json; print(json.load(open('tools/versions.lock'))['apktool']['url'])")
+          APKTOOL_SHA=$(python3 -c "import json; print(json.load(open('tools/versions.lock'))['apktool']['sha256'])")
           if [ ! -f tools/apktool.jar ]; then
-            wget -O tools/apktool.jar https://github.com/iBotPeaches/Apktool/releases/download/v2.9.3/apktool_2.9.3.jar
+            wget -q -O tools/apktool.jar "$APKTOOL_URL"
           fi
+          ACTUAL_SHA=$(sha256sum tools/apktool.jar | cut -d' ' -f1)
+          if [ "$ACTUAL_SHA" != "$APKTOOL_SHA" ]; then
+            echo "❌ apktool.jar SHA256 mismatch!"
+            exit 1
+          fi
+          echo "✅ apktool.jar verified"
 
       - name: Download framework JARs
         run: |
@@ -234,6 +242,9 @@ jobs:
           echo "Running patcher with JAR flags: $JAR_FLAGS"
           echo "Feature flags: $FEATURE_FLAGS"
 
+          export WORKFLOW_RUN_ID="${{ github.run_id }}"
+          export WORKFLOW_URL="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
           ./scripts/patcher_a13.sh \
             "${{ github.event.inputs.api_level }}" \
             "${{ steps.set_codename.outputs.codename }}" \
@@ -257,13 +268,10 @@ jobs:
       - name: Set Release Info
         id: release_info
         run: |
-          # Format version name to be git tag friendly
-          SAFE_VERSION=$(echo "${{ github.event.inputs.version_name }}" | sed 's/[^a-zA-Z0-9._-]/_/g')
-          # Add timestamp to ensure unique tags
-          TIMESTAMP=$(date +'%Y%m%d-%H%M%S')
-          RELEASE_TAG="${{ steps.set_codename.outputs.codename }}_${SAFE_VERSION}_${TIMESTAMP}"
+          RELEASE_TAG="build-tmp-${{ github.run_id }}"
+          RELEASE_NAME="Android 13 | ${{ steps.set_codename.outputs.codename }} | ${{ github.event.inputs.version_name }}"
           echo "tag=${RELEASE_TAG}" >> $GITHUB_OUTPUT
-          echo "name=Android 13 Framework Patch for ${{ github.event.inputs.device_name }} (${{ github.event.inputs.version_name }})" >> $GITHUB_OUTPUT
+          echo "name=${RELEASE_NAME}" >> $GITHUB_OUTPUT
 
       - name: Find Module ZIP
         id: find_zip
@@ -392,7 +400,9 @@ jobs:
         with:
           tag_name: ${{ steps.release_info.outputs.tag }}
           name: ${{ steps.release_info.outputs.name }}
-          files: ${{ steps.find_zip.outputs.file_path }}
+          files: |
+            ${{ steps.find_zip.outputs.file_path }}
+            build-manifest.json
           body: |
             ${{ steps.generate_release_body.outputs.release_body }}
 
@@ -425,6 +435,15 @@ jobs:
           if-no-files-found: warn
           path: build_log_android13.txt
           retention-days: 7
+
+      - name: Upload build manifest
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: build-manifest-${{ github.run_id }}
+          if-no-files-found: warn
+          path: build-manifest.json
+          retention-days: 30
 
       - name: Send Telegram Notification (Success)
         if: success() && github.event.inputs.user_id != ''

@@ -1,0 +1,8 @@
+{
+  "apktool": {
+    "version": "2.9.3",
+    "url": "https://github.com/iBotPeaches/Apktool/releases/download/v2.9.3/apktool_2.9.3.jar",
+    "sha256": "effb69dab2f93806cafc0d232f6be32c2551b8d51c67650f575e46c016908fdd",
+    "filename": "apktool.jar"
+  }
+}
