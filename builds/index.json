@@ -21,8 +21,15 @@
         "build_time": "2026-04-26T20:20:38Z",
         "patch_version": "3.0.0"
       }
+    },
+    "zorn": {
+      "3.0.301.0.WOKIDXM": {
+        "android_version": "16",
+        "build_time": "2026-04-26T20:42:17Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-26T20:21:10Z",
+  "last_updated": "2026-04-26T20:42:51Z",
   "engine_version": "3.0.0"
 }

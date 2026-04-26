@@ -1,0 +1,26 @@
+{
+  "device": "zorn",
+  "builds": {
+    "3.0.301.0.WOKIDXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-26T20:42:17Z",
+      "git_commit": "9e73028",
+      "checksums": {
+        "framework_patched.jar": "sha256:ad2136c892461779fc6961bfc1b7c4886443d7a176a4173d8eaa096646beba24",
+        "services_patched.jar": "sha256:5ee777789674258d013007e8c80a240e64fd9944de5c3cf264c40e3e87524ea8",
+        "miui-services_patched.jar": "sha256:48c3cfa0db94ce2f73faea0e67427df3e99a332367f7fb8df7baae728b7fddba",
+        "module_zip": "sha256:430cf8a5fffe05a8fac5d108c7e108088c1b98c133fb79075622cbecc3b964c0"
+      },
+      "workflow_run_id": "24966522429",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24966522429"
+    }
+  },
+  "last_updated": "2026-04-26T20:42:51Z"
+}
