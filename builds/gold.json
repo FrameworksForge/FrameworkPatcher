@@ -1,0 +1,23 @@
+{
+  "device": "gold",
+  "builds": {
+    "OS3.0.7.0.VNQCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T00:44:08Z",
+      "git_commit": "9e73028",
+      "checksums": {
+        "framework_patched.jar": "sha256:3d5def6ccb2633890c466a323e207bd3795edab7caf1dc319ee771dd65f2f330",
+        "miui-services_patched.jar": "sha256:b55016c0bb5d0df76202b08149613fca026288f2ceb600c0a44987abafa26d6e",
+        "module_zip": "sha256:c3f5c6eeba89337c2b0a7458b882d18e339ffe59313d10f4c0e95b64e3cb093d"
+      },
+      "workflow_run_id": "24971245097",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24971245097"
+    }
+  },
+  "last_updated": "2026-04-27T00:44:45Z"
+}
