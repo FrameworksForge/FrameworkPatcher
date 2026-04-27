@@ -153,8 +153,15 @@
         "build_time": "2026-04-27T18:17:46Z",
         "patch_version": "3.0.0"
       }
+    },
+    "tapas": {
+      "OS2.0.205.0.VMTMIXM": {
+        "android_version": "15",
+        "build_time": "2026-04-27T18:21:12Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T18:18:31Z",
+  "last_updated": "2026-04-27T18:21:52Z",
   "engine_version": "3.0.0"
 }

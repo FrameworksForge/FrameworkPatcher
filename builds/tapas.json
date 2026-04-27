@@ -1,0 +1,25 @@
+{
+  "device": "tapas",
+  "builds": {
+    "OS2.0.205.0.VMTMIXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T18:21:12Z",
+      "git_commit": "8192c41",
+      "checksums": {
+        "framework_patched.jar": "sha256:767e416efd4b8ebc46c7c180262c13a1aa47237b39262b60beac0f028feb2af9",
+        "services_patched.jar": "sha256:e9df6d323f2739bc3a5eaab605497e619fe5d2def32c7eb3cbd20a3f8746a62f",
+        "miui-services_patched.jar": "sha256:f4afc17b0c3587241754ad4921f219d442acefe6f85b17c13d24bb2b6a6a9bd9",
+        "module_zip": "sha256:62175b191293dd7c0e319f495aaca3a4c79b6b900da9c8d62dcec41810eee2e5"
+      },
+      "workflow_run_id": "25011961172",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25011961172"
+    }
+  },
+  "last_updated": "2026-04-27T18:21:52Z"
+}
