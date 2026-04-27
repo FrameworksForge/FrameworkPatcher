@@ -19,7 +19,27 @@
       },
       "workflow_run_id": "24963741456",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24963741456"
+    },
+    "XagaOS3.0.1.0.VLHCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T16:36:10Z",
+      "git_commit": "8192c41",
+      "checksums": {
+        "framework_patched.jar": "sha256:95d956c56ad2a64c6ef4ba8b842c1e73b1648fbf0ff5d32efd699d931ccef85a",
+        "services_patched.jar": "sha256:da888b7c3deda9221716b9542c21b2a857837189ce68cbb5cfe3901207c24bcc",
+        "miui-services_patched.jar": "sha256:63794d6e1c88a0015cfa58f7c106bda9dbaf9969a6d6e9052a07858c08c3861c",
+        "module_zip": "sha256:aefd1afa0260205b1f12181399e19c5b74a7ab94db4fffc9b014e3a059b552ce"
+      },
+      "workflow_run_id": "25007233701",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25007233701"
     }
   },
-  "last_updated": "2026-04-26T18:24:07Z"
+  "last_updated": "2026-04-27T16:36:51Z"
 }

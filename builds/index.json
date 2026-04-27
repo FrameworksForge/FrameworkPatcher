@@ -6,6 +6,11 @@
         "android_version": "16",
         "build_time": "2026-04-26T18:23:28Z",
         "patch_version": "3.0.0"
+      },
+      "XagaOS3.0.1.0.VLHCNXM": {
+        "android_version": "15",
+        "build_time": "2026-04-27T16:36:10Z",
+        "patch_version": "3.0.0"
       }
     },
     "dash": {
@@ -129,6 +134,6 @@
       }
     }
   },
-  "last_updated": "2026-04-27T14:47:41Z",
+  "last_updated": "2026-04-27T16:36:51Z",
   "engine_version": "3.0.0"
 }
