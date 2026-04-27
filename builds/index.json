@@ -99,8 +99,15 @@
         "build_time": "2026-04-27T10:27:24Z",
         "patch_version": "3.0.0"
       }
+    },
+    "dada": {
+      "OS3.0.302.0.WOCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-27T10:34:59Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T10:28:06Z",
+  "last_updated": "2026-04-27T10:35:37Z",
   "engine_version": "3.0.0"
 }
