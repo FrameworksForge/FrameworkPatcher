@@ -40,8 +40,15 @@
         "build_time": "2026-04-26T21:28:23Z",
         "patch_version": "3.0.0"
       }
+    },
+    "mondrian": {
+      "16.0.5.701.IN": {
+        "android_version": "16",
+        "build_time": "2026-04-27T00:34:56Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-26T22:51:17Z",
+  "last_updated": "2026-04-27T00:35:34Z",
   "engine_version": "3.0.0"
 }

@@ -1,0 +1,23 @@
+{
+  "device": "mondrian",
+  "builds": {
+    "16.0.5.701.IN": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-04-27T00:34:56Z",
+      "git_commit": "9e73028",
+      "checksums": {
+        "framework_patched.jar": "sha256:033633f0c87b547e7964eb157a890952639d7b370dc34bac7d6670299eba193c",
+        "services_patched.jar": "sha256:a8f4332607e55dc9f6ba59056ab54089668f7d153c1ba84c932ff6778ad08b0f",
+        "miui-services_patched.jar": "sha256:7f9055b08a805167f5d9733d684e613825b5a3a647b3972b9016d2f4dd1ea9fe",
+        "module_zip": "sha256:fb01530a32e156c9bf511647674524bc9ff7eff6b16c57273510281b60ba76d3"
+      },
+      "workflow_run_id": "24971041346",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24971041346"
+    }
+  },
+  "last_updated": "2026-04-27T00:35:34Z"
+}
