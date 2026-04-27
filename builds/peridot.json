@@ -1,0 +1,26 @@
+{
+  "device": "peridot",
+  "builds": {
+    "OS3.0.9.0.WNPCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T08:27:48Z",
+      "git_commit": "8192c41",
+      "checksums": {
+        "framework_patched.jar": "sha256:de4b940ff8369bd3d53167c95085c92527da5d8b47dba905d88c4d3671614499",
+        "services_patched.jar": "sha256:40b9eeaa74b0ff534e1e7577d12115a6e354fa8e2e3f1dedb7bea88a13bb9c5d",
+        "miui-services_patched.jar": "sha256:0383595c1bcbd1453deca04f93151330acc6a83508de6ff17a185255c9f6a314",
+        "module_zip": "sha256:38bf2d39e3b93943014722903b1711a0d726d2dba2cd5afe384b55fca81cd729"
+      },
+      "workflow_run_id": "24984471239",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24984471239"
+    }
+  },
+  "last_updated": "2026-04-27T08:28:34Z"
+}
