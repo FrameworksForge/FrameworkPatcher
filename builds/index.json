@@ -92,8 +92,15 @@
         "build_time": "2026-04-27T08:27:48Z",
         "patch_version": "3.0.0"
       }
+    },
+    "nuwa": {
+      "OS3.0.305.0.WMBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-27T09:42:55Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T08:28:34Z",
+  "last_updated": "2026-04-27T09:43:37Z",
   "engine_version": "3.0.0"
 }

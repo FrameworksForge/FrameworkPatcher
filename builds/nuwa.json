@@ -1,0 +1,26 @@
+{
+  "device": "nuwa",
+  "builds": {
+    "OS3.0.305.0.WMBCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T09:42:55Z",
+      "git_commit": "8192c41",
+      "checksums": {
+        "framework_patched.jar": "sha256:6c8340b6e861091c1d3fd132cee8f3aa1337753a302c2275b22b86d33ed45b19",
+        "services_patched.jar": "sha256:9afb9b7f98b827b26d7dc0c885bc4498287a8f2a64a557978c2bff6809518002",
+        "miui-services_patched.jar": "sha256:1cdcdddf81d46c9f1e2bc45c4edcf5051013237f7e381ddd85bc44d0b654f15f",
+        "module_zip": "sha256:d4c308d0ded63702326e78fbdedbc6344dd7d28d30dd2d0a93b87733095d9ad1"
+      },
+      "workflow_run_id": "24987744698",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24987744698"
+    }
+  },
+  "last_updated": "2026-04-27T09:43:37Z"
+}
