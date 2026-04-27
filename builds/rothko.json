@@ -1,0 +1,26 @@
+{
+  "device": "rothko",
+  "builds": {
+    "OS2.0.207.0.VNNTWXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T18:03:32Z",
+      "git_commit": "8192c41",
+      "checksums": {
+        "framework_patched.jar": "sha256:313f5a568749ded18fb97c3c2227dee71fac3f0c44630759db55f7ffb5d86262",
+        "services_patched.jar": "sha256:21ed0d819c30eb830dcbdcefa0735397a37385d2dd6200a89ff36d5e479d725d",
+        "miui-services_patched.jar": "sha256:6fd06541c47c40ea99f029d10fbbcc0c1b7853952792686c8d871b588cd81253",
+        "module_zip": "sha256:f59a66dc1505e7e2a01ebef8edfa142cdd4c9b915d081560779a4e2402275a0f"
+      },
+      "workflow_run_id": "25011201758",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25011201758"
+    }
+  },
+  "last_updated": "2026-04-27T18:04:15Z"
+}

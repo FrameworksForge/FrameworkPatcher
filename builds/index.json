@@ -139,8 +139,15 @@
         "build_time": "2026-04-27T17:41:34Z",
         "patch_version": "3.0.0"
       }
+    },
+    "rothko": {
+      "OS2.0.207.0.VNNTWXM": {
+        "android_version": "15",
+        "build_time": "2026-04-27T18:03:32Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T17:42:16Z",
+  "last_updated": "2026-04-27T18:04:15Z",
   "engine_version": "3.0.0"
 }
