@@ -58,6 +58,11 @@
         "android_version": "15",
         "build_time": "2026-04-27T00:44:08Z",
         "patch_version": "3.0.0"
+      },
+      "2.0.216.0VNQCNXM": {
+        "android_version": "15",
+        "build_time": "2026-04-27T07:33:37Z",
+        "patch_version": "3.0.0"
       }
     },
     "topaz": {
@@ -82,6 +87,6 @@
       }
     }
   },
-  "last_updated": "2026-04-27T06:39:54Z",
+  "last_updated": "2026-04-27T07:34:17Z",
   "engine_version": "3.0.0"
 }
