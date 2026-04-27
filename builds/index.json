@@ -39,6 +39,11 @@
         "android_version": "15",
         "build_time": "2026-04-26T21:28:23Z",
         "patch_version": "3.0.0"
+      },
+      "1.0.8": {
+        "android_version": "15",
+        "build_time": "2026-04-27T05:10:06Z",
+        "patch_version": "3.0.0"
       }
     },
     "mondrian": {
@@ -70,6 +75,6 @@
       }
     }
   },
-  "last_updated": "2026-04-27T03:40:03Z",
+  "last_updated": "2026-04-27T05:10:30Z",
   "engine_version": "3.0.0"
 }
