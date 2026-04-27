@@ -96,11 +96,11 @@
     "nuwa": {
       "OS3.0.305.0.WMBCNXM": {
         "android_version": "16",
-        "build_time": "2026-04-27T09:42:55Z",
+        "build_time": "2026-04-27T10:27:24Z",
         "patch_version": "3.0.0"
       }
     }
   },
-  "last_updated": "2026-04-27T09:43:37Z",
+  "last_updated": "2026-04-27T10:28:06Z",
   "engine_version": "3.0.0"
 }
