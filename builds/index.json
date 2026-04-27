@@ -106,8 +106,15 @@
         "build_time": "2026-04-27T10:34:59Z",
         "patch_version": "3.0.0"
       }
+    },
+    "vermeer": {
+      "OS3.0.301.0.WNKMIXM": {
+        "android_version": "16",
+        "build_time": "2026-04-27T13:17:45Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T10:35:37Z",
+  "last_updated": "2026-04-27T13:18:23Z",
   "engine_version": "3.0.0"
 }

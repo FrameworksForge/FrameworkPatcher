@@ -1,0 +1,21 @@
+{
+  "device": "vermeer",
+  "builds": {
+    "OS3.0.301.0.WNKMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T13:17:45Z",
+      "git_commit": "8192c41",
+      "checksums": {
+        "framework_patched.jar": "sha256:728c50265292d81a4a217eb0838421c563cb8d1f3a020c310e08d755d75bd449",
+        "module_zip": "sha256:33d6b679e26e92fb282ccd10fea00b3e502b81e1c45e20f69afc1a22fdb413d9"
+      },
+      "workflow_run_id": "24997286274",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24997286274"
+    }
+  },
+  "last_updated": "2026-04-27T13:18:23Z"
+}
