@@ -1,0 +1,26 @@
+{
+  "device": "amethyst",
+  "builds": {
+    "OS3.0.303.0.WOPCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T17:41:34Z",
+      "git_commit": "8192c41",
+      "checksums": {
+        "framework_patched.jar": "sha256:00c9d647fdc75848d5032bacbccc9c1db33503fdffb61341d77fda4bef8c8c7f",
+        "services_patched.jar": "sha256:24a50baf71f5763b6519a28dbd99a47954a46e9875e1e96530d9f7d5f766d410",
+        "miui-services_patched.jar": "sha256:b93882e76d584363cb2b9cddf0635d79b5d814d038d69d61bfb68e09fc691898",
+        "module_zip": "sha256:20cce220ba311f55c678011f5339b87d6d8c559b5fafea54f43162d26ae5ad4a"
+      },
+      "workflow_run_id": "25010257609",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25010257609"
+    }
+  },
+  "last_updated": "2026-04-27T17:42:16Z"
+}

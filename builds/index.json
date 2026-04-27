@@ -132,8 +132,15 @@
         "build_time": "2026-04-27T14:19:57Z",
         "patch_version": "3.0.0"
       }
+    },
+    "amethyst": {
+      "OS3.0.303.0.WOPCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-27T17:41:34Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T16:36:51Z",
+  "last_updated": "2026-04-27T17:42:16Z",
   "engine_version": "3.0.0"
 }
