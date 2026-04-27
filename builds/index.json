@@ -56,6 +56,11 @@
         "android_version": "16",
         "build_time": "2026-04-27T00:34:56Z",
         "patch_version": "3.0.0"
+      },
+      "OS3.0.306.0.WPCCNXM.06": {
+        "android_version": "16",
+        "build_time": "2026-04-27T21:23:23Z",
+        "patch_version": "3.0.0"
       }
     },
     "gold": {
@@ -169,6 +174,6 @@
       }
     }
   },
-  "last_updated": "2026-04-27T20:45:49Z",
+  "last_updated": "2026-04-27T21:24:02Z",
   "engine_version": "3.0.0"
 }
