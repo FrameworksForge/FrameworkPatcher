@@ -120,8 +120,15 @@
         "build_time": "2026-04-27T14:03:20Z",
         "patch_version": "3.0.0"
       }
+    },
+    "Xaga": {
+      "1.1.11.1.1": {
+        "android_version": "15",
+        "build_time": "2026-04-27T14:19:57Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T14:04:04Z",
+  "last_updated": "2026-04-27T14:20:41Z",
   "engine_version": "3.0.0"
 }
