@@ -1,0 +1,21 @@
+{
+  "device": "marble",
+  "builds": {
+    "OS3.0.1.0.VMRCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-04-27T06:39:20Z",
+      "git_commit": "8192c41",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:d8c625da7672c658c3e31ad9d7b4e26df728a3b5aad0df16ffa8023b66eaf563",
+        "module_zip": "sha256:2f8777bb2a2c5b9041cf103190f0cacfa4631fa094839b25bdf4e5a03cada6e8"
+      },
+      "workflow_run_id": "24980303801",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24980303801"
+    }
+  },
+  "last_updated": "2026-04-27T06:39:54Z"
+}

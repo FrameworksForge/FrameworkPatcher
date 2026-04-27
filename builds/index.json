@@ -73,8 +73,15 @@
         "build_time": "2026-04-27T03:39:23Z",
         "patch_version": "3.0.0"
       }
+    },
+    "marble": {
+      "OS3.0.1.0.VMRCNXM": {
+        "android_version": "15",
+        "build_time": "2026-04-27T06:39:20Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T05:10:30Z",
+  "last_updated": "2026-04-27T06:39:54Z",
   "engine_version": "3.0.0"
 }
