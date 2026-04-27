@@ -113,8 +113,15 @@
         "build_time": "2026-04-27T13:17:45Z",
         "patch_version": "3.0.0"
       }
+    },
+    "garnet": {
+      "OS3.0.7.0.WNRCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-27T14:03:20Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T13:18:23Z",
+  "last_updated": "2026-04-27T14:04:04Z",
   "engine_version": "3.0.0"
 }
