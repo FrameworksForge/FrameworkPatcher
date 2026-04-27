@@ -160,8 +160,15 @@
         "build_time": "2026-04-27T18:21:12Z",
         "patch_version": "3.0.0"
       }
+    },
+    "duchamp": {
+      "OS3.0.303.0.WNLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-27T20:45:07Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T18:21:52Z",
+  "last_updated": "2026-04-27T20:45:49Z",
   "engine_version": "3.0.0"
 }
