@@ -89,7 +89,14 @@ jobs:
 
             if echo "$url" | grep -q "drive.google.com"; then
               echo "Detected Google Drive link, using gdown..."
-              gdown --fuzzy -O "$output" "$url"
+              file_id=$(echo "$url" | sed -n 's|.*\/d\/\([^\/?]*\).*|\1|p')
+              if [ -n "$file_id" ]; then
+                echo "Using file ID fallback for Google Drive link..."
+                gdown -O "$output" "$file_id"
+              else
+                echo "Could not extract file ID, trying URL directly..."
+                gdown -O "$output" "$url"
+              fi
             else
               echo "Using wget for download..."
               wget -O "$output" "$url"
