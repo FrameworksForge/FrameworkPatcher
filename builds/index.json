@@ -54,8 +54,15 @@
         "build_time": "2026-04-27T00:44:08Z",
         "patch_version": "3.0.0"
       }
+    },
+    "topaz": {
+      "OS2.0.209.0.VMGEUXM": {
+        "android_version": "15",
+        "build_time": "2026-04-27T02:25:47Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T00:44:45Z",
+  "last_updated": "2026-04-27T02:26:24Z",
   "engine_version": "3.0.0"
 }

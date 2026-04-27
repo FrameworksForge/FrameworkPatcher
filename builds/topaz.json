@@ -1,0 +1,25 @@
+{
+  "device": "topaz",
+  "builds": {
+    "OS2.0.209.0.VMGEUXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T02:25:47Z",
+      "git_commit": "9e73028",
+      "checksums": {
+        "framework_patched.jar": "sha256:607c14d5ee3c20a607aefe0170213e311827d48e94573029a2c88b167e2d0751",
+        "services_patched.jar": "sha256:3a5bf13f97fb19d4ddb371eccb582e29e818151f6826f42d0a914bb897f9497d",
+        "miui-services_patched.jar": "sha256:59a2904c431835154f4fcc2ea936d13223ad3615e08b7155fd3482bccf11f79b",
+        "module_zip": "sha256:a193dc4ea7346e74863c4ca30ceff4ecad231ef820049a36634e0516665a32d1"
+      },
+      "workflow_run_id": "24973603774",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24973603774"
+    }
+  },
+  "last_updated": "2026-04-27T02:26:24Z"
+}
