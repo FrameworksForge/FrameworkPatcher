@@ -146,8 +146,15 @@
         "build_time": "2026-04-27T18:03:32Z",
         "patch_version": "3.0.0"
       }
+    },
+    "onyx": {
+      "OS3.0.302.0.WOLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-27T18:17:46Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T18:04:15Z",
+  "last_updated": "2026-04-27T18:18:31Z",
   "engine_version": "3.0.0"
 }
