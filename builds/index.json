@@ -61,8 +61,15 @@
         "build_time": "2026-04-27T02:36:43Z",
         "patch_version": "3.0.0"
       }
+    },
+    "cupid": {
+      "OS2.0.212.0.VANGSAT": {
+        "android_version": "15",
+        "build_time": "2026-04-27T03:39:23Z",
+        "patch_version": "3.0.0"
+      }
     }
   },
-  "last_updated": "2026-04-27T02:37:20Z",
+  "last_updated": "2026-04-27T03:40:03Z",
   "engine_version": "3.0.0"
 }

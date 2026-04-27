@@ -1,0 +1,21 @@
+{
+  "device": "cupid",
+  "builds": {
+    "OS2.0.212.0.VANGSAT": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-27T03:39:23Z",
+      "git_commit": "9e73028",
+      "checksums": {
+        "framework_patched.jar": "sha256:dae2d80cd384e09659691a604f3f23958eb0f666b8502a9dac49a3fa788b6248",
+        "module_zip": "sha256:71b83598ad48ca372ce276c2052f31a961af4fcb1a36ff3cc5430c851c4e0a53"
+      },
+      "workflow_run_id": "24975350569",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24975350569"
+    }
+  },
+  "last_updated": "2026-04-27T03:40:03Z"
+}
