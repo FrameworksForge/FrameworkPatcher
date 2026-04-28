@@ -368,10 +368,10 @@
     "kunzite": {
       "OS3.0.302.0.WPQCNXM": {
         "android_version": "16",
-        "build_time": "2026-04-28T20:35:34Z",
+        "build_time": "2026-04-28T20:48:05Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25076189350",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25076189350",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25076753643",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25076753643",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -381,6 +381,6 @@
       }
     }
   },
-  "last_updated": "2026-04-28T20:36:18Z",
+  "last_updated": "2026-04-28T20:48:45Z",
   "engine_version": "3.0.0"
 }
