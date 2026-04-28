@@ -4,10 +4,10 @@
     "xaga": {
       "V14.0.5.0.TEST": {
         "android_version": "16",
-        "build_time": "2026-04-28T08:19:14Z",
+        "build_time": "2026-04-28T09:49:12Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25041835957",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25041835957",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25045845517",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25045845517",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -193,6 +193,6 @@
       }
     }
   },
-  "last_updated": "2026-04-28T08:19:54Z",
+  "last_updated": "2026-04-28T09:49:56Z",
   "engine_version": "3.0.0"
 }

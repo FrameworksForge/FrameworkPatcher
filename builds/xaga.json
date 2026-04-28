@@ -9,17 +9,17 @@
         "cn_notification_fix",
         "kaorios_toolbox"
       ],
-      "build_time": "2026-04-28T08:19:14Z",
+      "build_time": "2026-04-28T09:49:12Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:861e416f329036ecc50d52407f3ceb6a30d3c5074be1e7187165fc1f281dd2d3",
-        "services_patched.jar": "sha256:97eaf85c573e575e0c627529ede67cd60feca20308d2a5b4a8bea10f5e3a9f40",
-        "miui-services_patched.jar": "sha256:762118e0f1831f622a400a52566656262575b87839c524b651cdb24dbe3cf2f4",
-        "module_zip": "sha256:75d8f78d6b92d74fe8fb4373e0fdf048c26d86161840f74d96dfbc1c0dc61d85"
+        "framework_patched.jar": "sha256:9be82733f2030b9bee5e9961247f7613d80a96382a3f6e2081ebe1474eb219f9",
+        "services_patched.jar": "sha256:9dd22c6b4a263d289d773f590d57a2efb385d417d8013733c2b13eef4023fe12",
+        "miui-services_patched.jar": "sha256:d4ff7336363c3562d87479c7c82b93e716a808a40f196961111af61c5b01ce1a",
+        "module_zip": "sha256:7ba58d360b0ccf25a752b2252f0a8c36f81767c6fbd290155dc1ab9a719d6682"
       },
-      "workflow_run_id": "25041835957",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25041835957",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25041835957"
+      "workflow_run_id": "25045845517",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25045845517",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25045845517"
     },
     "XagaOS3.0.1.0.VLHCNXM": {
       "android_version": "15",
@@ -42,5 +42,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25007233701"
     }
   },
-  "last_updated": "2026-04-28T08:19:54Z"
+  "last_updated": "2026-04-28T09:49:56Z"
 }
