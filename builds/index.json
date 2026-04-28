@@ -283,6 +283,19 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.3.260420.2.XPCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-28T16:09:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25064017343",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25064017343",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "klee": {
@@ -301,6 +314,6 @@
       }
     }
   },
-  "last_updated": "2026-04-28T15:28:21Z",
+  "last_updated": "2026-04-28T16:10:37Z",
   "engine_version": "3.0.0"
 }
