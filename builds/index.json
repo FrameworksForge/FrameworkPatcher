@@ -54,8 +54,15 @@
       },
       "1.0.8": {
         "android_version": "15",
-        "build_time": "2026-04-27T05:10:06Z",
-        "patch_version": "3.0.0"
+        "build_time": "2026-04-28T19:56:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25074359367",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25074359367",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "kaorios_toolbox"
+        ]
       }
     },
     "mondrian": {
@@ -359,6 +366,6 @@
       }
     }
   },
-  "last_updated": "2026-04-28T18:59:02Z",
+  "last_updated": "2026-04-28T19:56:51Z",
   "engine_version": "3.0.0"
 }
