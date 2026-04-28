@@ -1,0 +1,28 @@
+{
+  "device": "mayfly",
+  "builds": {
+    "OS3.0.3.0.VLTCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "add_gboard"
+      ],
+      "build_time": "2026-04-28T12:15:21Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:51f38972cf1929c9fbf9f38ffc2fc11e874bd621cce2c10f2cf2f59d467c2702",
+        "services_patched.jar": "sha256:3b051698f018757b74eade98f90ae039c0f8c8e2a4f6f36356c1e1279a10551f",
+        "miui-services_patched.jar": "sha256:2ffdcefba5d80504477f37921fa4aa520193c2465a5f3a9b78e8d9cd5a3d7953",
+        "miui-framework_patched.jar": "sha256:3c9def96b6d2ff62d43f70ebda435c848784d3f9497b696cc469b198a1e83fbc",
+        "module_zip": "sha256:e8bd4b6bcd565e6fdb7a5df51757d86b9d8202dfc682cc37e1e0d2205690d68d"
+      },
+      "workflow_run_id": "25052000851",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25052000851",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25052000851"
+    }
+  },
+  "last_updated": "2026-04-28T12:16:04Z"
+}
