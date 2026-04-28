@@ -1,0 +1,29 @@
+{
+  "device": "nezha",
+  "builds": {
+    "OS3.3.260422.2.XPACNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-04-28T17:08:52Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:5f8e5cd1b0afb9c689467b049d4764254dd0a2df2b991ccc267e7b992e8c7d6c",
+        "services_patched.jar": "sha256:14e019c1195d5ea61a3d82ffc1c75320e004e7dfa87c117d405b699e32527854",
+        "miui-services_patched.jar": "sha256:1225175fcbda70c124e067b5d9ce969a51a955ac70166a7636a766de89a43aba",
+        "miui-framework_patched.jar": "sha256:7753ab8443d7da42c1d82f9af4a66f1f486ca6fa6fe3c90fb178c14b4c7ba9fa",
+        "module_zip": "sha256:1a09c11b35c8142207893b2446fa1a567f1e1efb4eafd645d4885b97e9932362"
+      },
+      "workflow_run_id": "25066806209",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25066806209",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25066806209"
+    }
+  },
+  "last_updated": "2026-04-28T17:09:37Z"
+}
