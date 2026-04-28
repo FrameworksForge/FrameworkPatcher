@@ -132,6 +132,17 @@
         "android_version": "16",
         "build_time": "2026-04-27T10:27:24Z",
         "patch_version": "3.0.0"
+      },
+      "OS3.0.3.0.WMBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-28T14:57:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25060193979",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25060193979",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "dada": {
@@ -266,6 +277,6 @@
       }
     }
   },
-  "last_updated": "2026-04-28T14:28:49Z",
+  "last_updated": "2026-04-28T14:58:24Z",
   "engine_version": "3.0.0"
 }
