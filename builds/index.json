@@ -61,6 +61,11 @@
         "android_version": "16",
         "build_time": "2026-04-27T21:23:23Z",
         "patch_version": "3.0.0"
+      },
+      "OS3.0.5.0.VMNCNXM": {
+        "android_version": "15",
+        "build_time": "2026-04-28T04:28:08Z",
+        "patch_version": "3.0.0"
       }
     },
     "gold": {
@@ -181,6 +186,6 @@
       }
     }
   },
-  "last_updated": "2026-04-28T02:57:16Z",
+  "last_updated": "2026-04-28T04:28:41Z",
   "engine_version": "3.0.0"
 }
