@@ -4,8 +4,15 @@
     "xaga": {
       "V14.0.5.0.TEST": {
         "android_version": "16",
-        "build_time": "2026-04-26T18:23:28Z",
-        "patch_version": "3.0.0"
+        "build_time": "2026-04-28T08:19:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25041835957",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25041835957",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "kaorios_toolbox"
+        ]
       },
       "XagaOS3.0.1.0.VLHCNXM": {
         "android_version": "15",
@@ -186,6 +193,6 @@
       }
     }
   },
-  "last_updated": "2026-04-28T06:53:36Z",
+  "last_updated": "2026-04-28T08:19:54Z",
   "engine_version": "3.0.0"
 }
