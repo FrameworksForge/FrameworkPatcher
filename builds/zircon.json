@@ -1,0 +1,26 @@
+{
+  "device": "zircon",
+  "builds": {
+    "3.0.303.0.WNOCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-28T02:56:23Z",
+      "git_commit": "8192c41",
+      "checksums": {
+        "framework_patched.jar": "sha256:2fbcaff181dd37ebcd39186a8fedf587a0c6ccc32d9d901a5d50ba8e738f264d",
+        "services_patched.jar": "sha256:5202ff477812f4f896dfce69b070f6e1691fca1e91b9e3c49560db96bf6696e6",
+        "miui-services_patched.jar": "sha256:da40a3668560a4733939eb0751c526102cc99e2a252d727ff76e11644d739db5",
+        "module_zip": "sha256:c3e776af17d1e47e586bee6ef537737007980f816d317e978a57ba88fd99c214"
+      },
+      "workflow_run_id": "25031317770",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25031317770"
+    }
+  },
+  "last_updated": "2026-04-28T02:57:02Z"
+}
