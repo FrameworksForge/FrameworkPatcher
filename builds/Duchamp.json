@@ -1,0 +1,26 @@
+{
+  "device": "Duchamp",
+  "builds": {
+    "OS3.0.5.0.WNLCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-28T18:58:18Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:ec652b7e4ca1ccfeb389856480e5261206eff8bb046473680997be13b625580f",
+        "services_patched.jar": "sha256:af5bccac916b3cf9281f718bea300e815b4a42430fa8b57087177e6feb806920",
+        "miui-services_patched.jar": "sha256:0a9e969734a6e536822822f62f0049f324cc14e1e4b413a19b0ed60a87d15b8e",
+        "module_zip": "sha256:b4e4f46ba512f573a2ed9104faec0890df9560ba218d21b26134f41f182ac482"
+      },
+      "workflow_run_id": "25071805912",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25071805912",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25071805912"
+    }
+  },
+  "last_updated": "2026-04-28T18:59:02Z"
+}

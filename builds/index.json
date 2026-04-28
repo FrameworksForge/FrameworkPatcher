@@ -343,8 +343,22 @@
           "add_gboard"
         ]
       }
+    },
+    "Duchamp": {
+      "OS3.0.5.0.WNLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-28T18:58:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25071805912",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25071805912",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-28T18:35:37Z",
+  "last_updated": "2026-04-28T18:59:02Z",
   "engine_version": "3.0.0"
 }
