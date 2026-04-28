@@ -19,7 +19,27 @@
       },
       "workflow_run_id": "25001715951",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25001715951"
+    },
+    "OS2.0.210.0.VMRCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-28T14:07:56Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:d0e4e8e3b4f5d83111b31be2454ed866fafa8940fedaf4f36ad3eed28e82e6ea",
+        "services_patched.jar": "sha256:a9330185cfb3ff4bc811d00fcff9d1b21f11817c34e86a4a2517f81ef605f691",
+        "miui-services_patched.jar": "sha256:3409733b2c987c02f2f329a13b3ba9070102c30bcf76a7786bbe2cf5caf1e0db",
+        "module_zip": "sha256:8d8931f68abfd65c29e5007d80c1a0a46e758ccdc4fd0d1ec2bac792c1ac9a9a"
+      },
+      "workflow_run_id": "25057520124",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25057520124",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25057520124"
     }
   },
-  "last_updated": "2026-04-27T14:47:41Z"
+  "last_updated": "2026-04-28T14:08:42Z"
 }
