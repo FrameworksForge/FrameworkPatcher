@@ -1,0 +1,27 @@
+{
+  "device": "klee",
+  "builds": {
+    "OS3.0.301.0.WPJCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-28T13:59:41Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7854b8933c0b56fe0b863244955b62e5b23cd9231a179cfaa5df8351bf8716e7",
+        "services_patched.jar": "sha256:6aa5839bcd2ea67f0d3dbe6fe44b4044deb8a8b65aed767353d466258bed2628",
+        "miui-services_patched.jar": "sha256:f7e39ea77f23967707581345916b7ae6111bed2f57340b8100352c94c9234d16",
+        "module_zip": "sha256:e17668ca5613c77a487e3632d62704eb4fb66933742ae17441e772b7b821ffa4"
+      },
+      "workflow_run_id": "25057172221",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25057172221",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25057172221"
+    }
+  },
+  "last_updated": "2026-04-28T14:00:30Z"
+}
