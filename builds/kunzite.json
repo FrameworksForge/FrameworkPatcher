@@ -1,0 +1,28 @@
+{
+  "device": "kunzite",
+  "builds": {
+    "OS3.0.302.0.WPQCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-04-28T20:35:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:dc6182624083575d153316dbd5523d899f5887b3c0ccd5d1696ff20e0a1d7fd4",
+        "services_patched.jar": "sha256:0c4ce9c09a47b9f71f1c0b05d4df77eec89c3d8d77675ab9d765fbf0d605b4fd",
+        "miui-services_patched.jar": "sha256:735b1883d96ab806620e1fec1b707fb601a52226d5d70594a9644eed1bd0ec9b",
+        "miui-framework_patched.jar": "sha256:096932d12bd1e4f60e99c44565ad5a7973464ecf1e7942a8d8f46f4ec713fbff",
+        "module_zip": "sha256:1792a799c6afdfa062b71ece9b3d1fff177d0a83e19428b1885f8ba44c779458"
+      },
+      "workflow_run_id": "25076189350",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25076189350",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25076189350"
+    }
+  },
+  "last_updated": "2026-04-28T20:36:18Z"
+}
