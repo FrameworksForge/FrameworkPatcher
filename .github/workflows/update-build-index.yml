@@ -26,6 +26,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Render GitHub Pages index
+        run: |
+          python3 scripts/core/render_pages_index.py --output /tmp/index.html
+
       - name: Setup gh-pages branch
         run: |
           git config user.name "github-actions[bot]"
@@ -87,10 +91,12 @@ jobs:
           base_rom = os.environ.get("BASE_ROM", "unknown")
           device_file = os.environ.get("DEVICE_FILE", f"builds/{device}.json")
           run_id = "${{ github.event.workflow_run.id }}"
-          repo = "${{ github.repository }}"
 
           with open(manifest_path) as f:
             manifest = json.load(f)
+
+          manifest_release_url = manifest.get("release_url") or manifest.get("workflow_url")
+          manifest_workflow_url = manifest.get("workflow_url", "")
 
           # Load or create device index
           if os.path.exists(device_file):
@@ -100,7 +106,6 @@ jobs:
             device_data = {"device": device, "builds": {}}
 
           # Upsert build entry
-          release_url = f"https://github.com/{repo}/actions/runs/{run_id}"
           device_data["builds"][base_rom] = {
             "android_version": manifest.get("android_version", "unknown"),
             "patch_version": manifest.get("patch_engine_version", "unknown"),
@@ -109,7 +114,8 @@ jobs:
             "git_commit": manifest.get("git_commit", ""),
             "checksums": manifest.get("checksums", {}),
             "workflow_run_id": run_id,
-            "release_url": release_url,
+            "workflow_url": manifest_workflow_url,
+            "release_url": manifest_release_url,
           }
           device_data["last_updated"] = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
@@ -133,6 +139,9 @@ jobs:
             "android_version": manifest.get("android_version", "unknown"),
             "build_time": manifest.get("build_time", ""),
             "patch_version": manifest.get("patch_engine_version", "unknown"),
+            "release_url": manifest_release_url,
+            "workflow_url": manifest_workflow_url,
+            "features": manifest.get("features", []),
           }
 
           with open(index_path, "w") as f:
@@ -162,7 +171,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add builds/
+          cp /tmp/index.html index.html
+          git add index.html builds/
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

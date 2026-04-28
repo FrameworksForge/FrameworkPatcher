@@ -1449,7 +1449,7 @@ EOF
     # Create module with manifest metadata
     log "Creating Magisk/KSU module..."
     create_module "$api_level" "$device_name" "$version_name" "$FEATURE_KAORIOS_TOOLBOX" \
-        "16" "$FEATURES_CSV" "${WORKFLOW_RUN_ID:-local}" "${WORKFLOW_URL:-}"
+        "16" "$FEATURES_CSV" "${WORKFLOW_RUN_ID:-local}" "${WORKFLOW_URL:-}" "${WORKFLOW_RELEASE_URL:-}"
 
     log "✓ All operations completed successfully!"
 }

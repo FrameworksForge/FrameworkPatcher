@@ -1420,7 +1420,7 @@ EOF
 
     # Create module with manifest metadata
     create_module "$API_LEVEL" "$DEVICE_NAME" "$VERSION_NAME" "$FEATURE_KAORIOS_TOOLBOX" \
-        "15" "$FEATURES_CSV" "${WORKFLOW_RUN_ID:-local}" "${WORKFLOW_URL:-}"
+        "15" "$FEATURES_CSV" "${WORKFLOW_RUN_ID:-local}" "${WORKFLOW_URL:-}" "${WORKFLOW_RELEASE_URL:-}"
 
     echo "All patching completed successfully!"
 }

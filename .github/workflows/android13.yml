@@ -251,6 +251,7 @@ jobs:
 
           export WORKFLOW_RUN_ID="${{ github.run_id }}"
           export WORKFLOW_URL="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          export WORKFLOW_RELEASE_URL="https://github.com/${{ github.repository }}/releases/tag/build-tmp-${{ github.run_id }}"
 
           ./scripts/patcher_a13.sh \
             "${{ github.event.inputs.api_level }}" \

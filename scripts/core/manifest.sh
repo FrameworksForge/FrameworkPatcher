@@ -3,7 +3,7 @@
 # Build manifest generation for traceability and reproducibility.
 
 # Requires: PATCH_ENGINE_VERSION (from version.sh)
-# Usage:    generate_manifest <device> <base_rom> <android_version> <api_level> <features_csv> [workflow_run_id] [workflow_url]
+# Usage:    generate_manifest <device> <base_rom> <android_version> <api_level> <features_csv> [workflow_run_id] [workflow_url] [release_url]
 # Output:   writes build-manifest.json to $WORK_DIR (or cwd)
 
 generate_manifest() {
@@ -14,6 +14,7 @@ generate_manifest() {
     local features_csv="$5"
     local workflow_run_id="${6:-local}"
     local workflow_url="${7:-}"
+    local release_url="${8:-}"
 
     local manifest_file="${WORK_DIR:-.}/build-manifest.json"
     local git_commit git_branch build_time
@@ -74,7 +75,8 @@ except:
     "apktool": "${apktool_version}"
   },
   "workflow_run_id": "${workflow_run_id}",
-  "workflow_url": "${workflow_url}"
+    "workflow_url": "${workflow_url}",
+    "release_url": "${release_url}"
 }
 MANIFEST_EOF
 

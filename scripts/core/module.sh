@@ -21,6 +21,7 @@ create_module() {
     local features_csv="${6:-}"
     local workflow_run_id="${7:-local}"
     local workflow_url="${8:-}"
+    local release_url="${9:-}"
 
     log "Creating module using FrameworkPatcherModule for $device_name (v$version_name)"
 
@@ -146,7 +147,7 @@ create_module() {
     fi
 
     # Generate build manifest
-    generate_manifest "$device_name" "$version_name" "${android_version:-unknown}" "${api_level:-unknown}" "$features_csv" "$workflow_run_id" "$workflow_url"
+    generate_manifest "$device_name" "$version_name" "${android_version:-unknown}" "${api_level:-unknown}" "$features_csv" "$workflow_run_id" "$workflow_url" "$release_url"
 
     # Embed manifest in module ZIP
     local manifest_src="${WORK_DIR:-.}/build-manifest.json"
