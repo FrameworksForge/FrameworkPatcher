@@ -71,7 +71,7 @@
     "gold": {
       "OS3.0.7.0.VNQCNXM": {
         "android_version": "15",
-        "build_time": "2026-04-27T00:44:08Z",
+        "build_time": "2026-04-28T06:53:02Z",
         "patch_version": "3.0.0"
       },
       "2.0.216.0VNQCNXM": {
@@ -186,6 +186,6 @@
       }
     }
   },
-  "last_updated": "2026-04-28T05:02:22Z",
+  "last_updated": "2026-04-28T06:53:36Z",
   "engine_version": "3.0.0"
 }
