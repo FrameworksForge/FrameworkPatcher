@@ -216,8 +216,21 @@
           "add_gboard"
         ]
       }
+    },
+    "pudding": {
+      "OS3.0.301.0.WPCMIXM": {
+        "android_version": "16",
+        "build_time": "2026-04-28T12:45:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25053436822",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25053436822",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-28T12:16:04Z",
+  "last_updated": "2026-04-28T12:46:03Z",
   "engine_version": "3.0.0"
 }
