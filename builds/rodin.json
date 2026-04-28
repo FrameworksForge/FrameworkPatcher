@@ -1,0 +1,26 @@
+{
+  "device": "rodin",
+  "builds": {
+    "OS3.0.302.0.WOJCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-04-28T21:49:04Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8c3971304a8481ef5fa156e6bf657a358326a52f13d9b8361b6e2df115eca208",
+        "services_patched.jar": "sha256:5ad68e5b12759e979e1626301dc0e05cef97a9ad3e39996c8026ad4b26711cdd",
+        "miui-services_patched.jar": "sha256:a005fcfc94cd095e8d8a79d5695ef9541c4b8de3b784705b34ddf200a5a78272",
+        "module_zip": "sha256:7e96e5f4ea203fef9aed200144d22fed73ccb6e0bcb7e53ec54339ae58edf7ff"
+      },
+      "workflow_run_id": "25079376390",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25079376390",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25079376390"
+    }
+  },
+  "last_updated": "2026-04-28T21:49:50Z"
+}

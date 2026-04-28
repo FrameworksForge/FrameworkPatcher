@@ -378,8 +378,22 @@
           "add_gboard"
         ]
       }
+    },
+    "rodin": {
+      "OS3.0.302.0.WOJCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-28T21:49:04Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25079376390",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25079376390",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-28T21:17:43Z",
+  "last_updated": "2026-04-28T21:49:50Z",
   "engine_version": "3.0.0"
 }
