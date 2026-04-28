@@ -134,6 +134,16 @@
         "android_version": "16",
         "build_time": "2026-04-27T13:17:45Z",
         "patch_version": "3.0.0"
+      },
+      "vermeer_global-eta_full-OS3.0.303.0.WNKMIXM-user-16.0-2af544e4fa": {
+        "android_version": "16",
+        "build_time": "2026-04-28T11:44:58Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25050754796",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25050754796",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "garnet": {
@@ -193,6 +203,6 @@
       }
     }
   },
-  "last_updated": "2026-04-28T09:49:56Z",
+  "last_updated": "2026-04-28T11:45:40Z",
   "engine_version": "3.0.0"
 }

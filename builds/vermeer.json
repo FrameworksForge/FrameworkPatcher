@@ -15,7 +15,25 @@
       },
       "workflow_run_id": "24997286274",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24997286274"
+    },
+    "vermeer_global-eta_full-OS3.0.303.0.WNKMIXM-user-16.0-2af544e4fa": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-04-28T11:44:58Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:ade62bb4d360b55fbb029deeed438c34a55396229c20c423a328950438b1c139",
+        "services_patched.jar": "sha256:954bddaa4395f396051b1c1dc5e5d0bc23c8931988c06b2a1bdef025bd270d1b",
+        "miui-services_patched.jar": "sha256:4138f28e405cbf5d3820b88f04820edf76da6bac57ec9694b3b86a55c7f66bbf",
+        "module_zip": "sha256:6fd850f06f9d4c013269bf90ae7dc5bb12b509bfe41f55545d69e67fc2c12af7"
+      },
+      "workflow_run_id": "25050754796",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25050754796",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25050754796"
     }
   },
-  "last_updated": "2026-04-27T13:18:23Z"
+  "last_updated": "2026-04-28T11:45:40Z"
 }
