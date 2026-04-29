@@ -305,15 +305,13 @@
     "mayfly": {
       "OS3.0.3.0.VLTCNXM": {
         "android_version": "15",
-        "build_time": "2026-04-28T12:15:21Z",
+        "build_time": "2026-04-29T13:09:05Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25052000851",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25052000851",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25110576835",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25110576835",
         "features": [
           "disable_signature_verification",
-          "cn_notification_fix",
-          "disable_secure_flag",
-          "add_gboard"
+          "disable_secure_flag"
         ]
       }
     },
@@ -441,6 +439,6 @@
       }
     }
   },
-  "last_updated": "2026-04-29T12:16:10Z",
+  "last_updated": "2026-04-29T13:09:51Z",
   "engine_version": "3.0.0"
 }
