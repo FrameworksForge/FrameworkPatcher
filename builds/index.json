@@ -312,6 +312,18 @@
         "android_version": "16",
         "build_time": "2026-04-28T02:56:29Z",
         "patch_version": "3.0.0"
+      },
+      "3.0.303": {
+        "android_version": "16",
+        "build_time": "2026-04-29T13:54:23Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25112925989",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25112925989",
+        "features": [
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "mayfly": {
@@ -451,6 +463,6 @@
       }
     }
   },
-  "last_updated": "2026-04-29T13:40:12Z",
+  "last_updated": "2026-04-29T13:55:01Z",
   "engine_version": "3.0.0"
 }
