@@ -207,6 +207,18 @@
         "android_version": "16",
         "build_time": "2026-04-27T14:03:20Z",
         "patch_version": "3.0.0"
+      },
+      "OS3.0.3.0.WNRIDXM": {
+        "android_version": "16",
+        "build_time": "2026-04-29T08:23:45Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25098380474",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25098380474",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "add_gboard"
+        ]
       }
     },
     "Xaga": {
@@ -407,6 +419,6 @@
       }
     }
   },
-  "last_updated": "2026-04-29T06:52:47Z",
+  "last_updated": "2026-04-29T08:24:26Z",
   "engine_version": "3.0.0"
 }
