@@ -540,20 +540,19 @@
     "raphael": {
       "OS2.0.203.0.VOCCNXM": {
         "android_version": "15",
-        "build_time": "2026-04-29T23:10:56Z",
+        "build_time": "2026-04-29T23:29:40Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25138483475",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25138483475",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25139087452",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25139087452",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
           "disable_secure_flag",
-          "kaorios_toolbox",
           "add_gboard"
         ]
       }
     }
   },
-  "last_updated": "2026-04-29T23:11:38Z",
+  "last_updated": "2026-04-29T23:30:19Z",
   "engine_version": "3.0.0"
 }
