@@ -1,0 +1,28 @@
+{
+  "device": "pearl",
+  "builds": {
+    "OS3.0.3.0.VLHCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "add_gboard"
+      ],
+      "build_time": "2026-04-29T18:47:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:42299b5ff924e17b739eb0c0abe86a9cdfe93f2ec69cff45649e888e81ce9996",
+        "services_patched.jar": "sha256:55e109bb3c2fd0b5884c96febc5a34c45003342a0b1dde263a18d86a5b2bbf42",
+        "miui-services_patched.jar": "sha256:7a5bfd8a0fdf66ebe5f8b75945d422a86a7d29bfbc3036cb77d9dce413763b7e",
+        "miui-framework_patched.jar": "sha256:9b7afdf46d983db79bd63e676bf30d7d63d5205d16cc45b90e6775ae45fcd890",
+        "module_zip": "sha256:fd42b08d7508a1dd031a6752dac998b3bbca0c45f61547babd83a3f6d16d6149"
+      },
+      "workflow_run_id": "25127332312",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25127332312",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25127332312"
+    }
+  },
+  "last_updated": "2026-04-29T18:48:19Z"
+}

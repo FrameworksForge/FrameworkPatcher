@@ -508,8 +508,23 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "pearl": {
+      "OS3.0.3.0.VLHCNXM": {
+        "android_version": "15",
+        "build_time": "2026-04-29T18:47:34Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25127332312",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25127332312",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-29T17:38:31Z",
+  "last_updated": "2026-04-29T18:48:19Z",
   "engine_version": "3.0.0"
 }
