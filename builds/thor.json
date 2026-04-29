@@ -1,0 +1,24 @@
+{
+  "device": "thor",
+  "builds": {
+    "OS3.0.5.0.VLACNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-04-29T19:32:43Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:87fc4892f6312345f7fe6efd3f2f968f9f03ae0d94f70404d0b62ddeceba4dd1",
+        "services_patched.jar": "sha256:bfb3493df0e4ce7c4fcae3d05f72407cb01fa344c51ae9813b4ab05b0a3804f9",
+        "miui-services_patched.jar": "sha256:e4732686d1807c6ba21277dd869dac3fbdb33f751b78c0b694cb6fa234edd5d0",
+        "module_zip": "sha256:aee606d3df1b3e3df219edf5fa99d94c90c71207a503040cf0deb96021810c97"
+      },
+      "workflow_run_id": "25129442003",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25129442003",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25129442003"
+    }
+  },
+  "last_updated": "2026-04-29T19:33:24Z"
+}

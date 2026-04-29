@@ -524,8 +524,20 @@
           "add_gboard"
         ]
       }
+    },
+    "thor": {
+      "OS3.0.5.0.VLACNXM": {
+        "android_version": "15",
+        "build_time": "2026-04-29T19:32:43Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25129442003",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25129442003",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-29T19:32:36Z",
+  "last_updated": "2026-04-29T19:33:24Z",
   "engine_version": "3.0.0"
 }
