@@ -8,20 +8,21 @@
         "disable_signature_verification",
         "cn_notification_fix",
         "disable_secure_flag",
+        "kaorios_toolbox",
         "add_gboard"
       ],
-      "build_time": "2026-04-28T14:28:03Z",
+      "build_time": "2026-04-29T19:31:56Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:51f1a93bc7ab729949eea463dfd955fe115459b3b6bebcffe8158a5cc462ac9c",
-        "services_patched.jar": "sha256:896f80d51a0af2265f07ad4ef94e163d36671d9719818e051db863e6f213686f",
-        "miui-services_patched.jar": "sha256:99c8795f6310127428f64ed488228dfe406701f65bf43705b6c4a7583f1b488b",
-        "miui-framework_patched.jar": "sha256:cfcf64f1a81ab426cd2be87ca595f89233fb300abd5ca8e0fe10ca352ad28122",
-        "module_zip": "sha256:582de278b2563ceeb5ca8ca238921d2e7e576443d62def0e8eb15c06d74435a1"
+        "framework_patched.jar": "sha256:56e1a251c50a02697091aa9812298199e1dd467adca559ed3b639563f5bec87b",
+        "services_patched.jar": "sha256:1aca134885dde42d407b9ea5465f452e9a9bd37d9e5bd0574beffdfa1e088763",
+        "miui-services_patched.jar": "sha256:dbcab9cb2f864f4c4bbfd20d91b0280f765f8c00c86346fb68d04fe575abdc34",
+        "miui-framework_patched.jar": "sha256:47bd492a0eecf3c382e7f11cb89f69f194fa559a1c2eff3529c6e1af8d44c7bd",
+        "module_zip": "sha256:59015fbbbfe5b27e2f997905b7c7b0b60957ffd5a1c101df98ec712214cfc52f"
       },
-      "workflow_run_id": "25058643788",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25058643788",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25058643788"
+      "workflow_run_id": "25129450954",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25129450954",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25129450954"
     },
     "OS3.0.303.0.WOLCNXM": {
       "android_version": "16",
@@ -44,5 +45,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25112144731"
     }
   },
-  "last_updated": "2026-04-29T13:40:12Z"
+  "last_updated": "2026-04-29T19:32:36Z"
 }
