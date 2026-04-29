@@ -154,6 +154,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.4.0.VMRCNXM": {
+        "android_version": "15",
+        "build_time": "2026-04-29T15:10:41Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25116958534",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25116958534",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "peridot": {
@@ -488,6 +498,6 @@
       }
     }
   },
-  "last_updated": "2026-04-29T15:05:42Z",
+  "last_updated": "2026-04-29T15:11:26Z",
   "engine_version": "3.0.0"
 }
