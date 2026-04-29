@@ -43,10 +43,10 @@
     "malachite": {
       "OS3.0.303.0.WOOCNXM": {
         "android_version": "16",
-        "build_time": "2026-04-29T10:24:57Z",
+        "build_time": "2026-04-29T12:15:18Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25103511027",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25103511027",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25108119652",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25108119652",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -441,6 +441,6 @@
       }
     }
   },
-  "last_updated": "2026-04-29T10:25:36Z",
+  "last_updated": "2026-04-29T12:16:10Z",
   "engine_version": "3.0.0"
 }
