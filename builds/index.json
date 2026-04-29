@@ -496,8 +496,21 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "fuxi": {
+      "OS3.0.303.0.WMCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-29T17:31:00Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25123839571",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25123839571",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-29T15:11:26Z",
+  "last_updated": "2026-04-29T17:31:50Z",
   "engine_version": "3.0.0"
 }
