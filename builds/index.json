@@ -417,8 +417,22 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "diting": {
+      "OS3.0.3.0.VLFMIXM": {
+        "android_version": "15",
+        "build_time": "2026-04-29T08:33:11Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25098713281",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25098713281",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-29T08:24:26Z",
+  "last_updated": "2026-04-29T08:34:32Z",
   "engine_version": "3.0.0"
 }
