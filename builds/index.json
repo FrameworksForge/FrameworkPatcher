@@ -551,8 +551,22 @@
           "add_gboard"
         ]
       }
+    },
+    "miro": {
+      "OS3.0.303.0.WOMCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-30T00:29:46Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25140977163",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25140977163",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-29T23:30:19Z",
+  "last_updated": "2026-04-30T00:30:22Z",
   "engine_version": "3.0.0"
 }
