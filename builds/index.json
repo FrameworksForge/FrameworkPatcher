@@ -363,6 +363,18 @@
         "android_version": "15",
         "build_time": "2026-04-27T18:21:12Z",
         "patch_version": "3.0.0"
+      },
+      "OS2.0.207.0.VMTMIXM": {
+        "android_version": "15",
+        "build_time": "2026-04-30T18:36:22Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25182604771",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25182604771",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "duchamp": {
@@ -658,6 +670,6 @@
       }
     }
   },
-  "last_updated": "2026-04-30T14:27:06Z",
+  "last_updated": "2026-04-30T18:37:04Z",
   "engine_version": "3.0.0"
 }
