@@ -1,0 +1,27 @@
+{
+  "device": "redwood",
+  "builds": {
+    "OS2.0.20.0.UMSCNXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-04-30T04:25:36Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:88cf52892e7d21c87665b87dd7202a787e9af8dfc9f6f24aa9fdcd7bb93069f4",
+        "services_patched.jar": "sha256:d884f6744646e109021502df8a7c456142f41e2aca5820372b324620f424eb66",
+        "miui-services_patched.jar": "sha256:e0a2508ba5c8f3df3a8ab0bbcac79bfa3359b507a24c840f59289a285dd371f6",
+        "miui-framework_patched.jar": "sha256:551e1ae5fa1acc66a9e25e8f9b10c9f36e7c5af0e45b44ec8bc80d0e4640eb1c",
+        "module_zip": "sha256:d942ad143fd69563a7dd2b46b7259af04daa3c73450b4e083bc87eb5770aec42"
+      },
+      "workflow_run_id": "25147238623",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25147238623",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25147238623"
+    }
+  },
+  "last_updated": "2026-04-30T04:26:17Z"
+}

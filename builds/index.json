@@ -564,8 +564,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "redwood": {
+      "OS2.0.20.0.UMSCNXM": {
+        "android_version": "14",
+        "build_time": "2026-04-30T04:25:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25147238623",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25147238623",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-30T02:33:26Z",
+  "last_updated": "2026-04-30T04:26:17Z",
   "engine_version": "3.0.0"
 }
