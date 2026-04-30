@@ -591,8 +591,22 @@
           "add_gboard"
         ]
       }
+    },
+    "ishtar_global": {
+      "OS3.0.4.0.WMAMIXM": {
+        "android_version": "16",
+        "build_time": "2026-04-30T05:16:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25148647038",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25148647038",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-30T05:15:13Z",
+  "last_updated": "2026-04-30T05:16:52Z",
   "engine_version": "3.0.0"
 }

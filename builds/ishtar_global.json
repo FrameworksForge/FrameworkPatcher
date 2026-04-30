@@ -1,0 +1,26 @@
+{
+  "device": "ishtar_global",
+  "builds": {
+    "OS3.0.4.0.WMAMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-04-30T05:16:18Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:1175f2b3a5205f453fa847769df2d2fd92b61099f7ecdaef389d2e3ec8e52095",
+        "services_patched.jar": "sha256:e57130bece80ca7a2800cbf86479e08974a76211778b7ec889a106b773081b07",
+        "miui-services_patched.jar": "sha256:a0aab5e486c9e5dbe1fad3b175eaba4c5a996ebcd7dddd4aadab4a1d57e63a30",
+        "module_zip": "sha256:3ed209745825caf684c0b521f661dc8f9d06358335b1b6fd5e5c4885d1502796"
+      },
+      "workflow_run_id": "25148647038",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25148647038",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25148647038"
+    }
+  },
+  "last_updated": "2026-04-30T05:16:52Z"
+}
