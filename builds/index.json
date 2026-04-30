@@ -668,8 +668,20 @@
           "add_gboard"
         ]
       }
+    },
+    "Annibale": {
+      "3.0.303": {
+        "android_version": "16",
+        "build_time": "2026-04-30T18:40:38Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25182944975",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25182944975",
+        "features": [
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-30T18:37:04Z",
+  "last_updated": "2026-04-30T18:41:24Z",
   "engine_version": "3.0.0"
 }

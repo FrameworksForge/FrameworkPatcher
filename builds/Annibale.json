@@ -1,0 +1,22 @@
+{
+  "device": "Annibale",
+  "builds": {
+    "3.0.303": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-04-30T18:40:38Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:52c487a93502039c91bcbea4b1d914af9f5e4c1edfd6f3dbe5ca115dddfdb7dc",
+        "module_zip": "sha256:62854a6737e7d92e4eee792326635befb931a613be6e5d219672c77ab7a1b3bc"
+      },
+      "workflow_run_id": "25182944975",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25182944975",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25182944975"
+    }
+  },
+  "last_updated": "2026-04-30T18:41:24Z"
+}
