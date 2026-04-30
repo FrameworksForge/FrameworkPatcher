@@ -1,0 +1,28 @@
+{
+  "device": "annibale",
+  "builds": {
+    "OS3.0.303.0.WPKCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "add_gboard"
+      ],
+      "build_time": "2026-04-30T18:41:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:14961a4f1b070b4be14503f494a7df24752d205f1a64b70132d25be92f29cd54",
+        "services_patched.jar": "sha256:297fc1494fcedff957a0d53f6e2006ac954de69aae9f60a78880c89331efffb4",
+        "miui-services_patched.jar": "sha256:01291a0b70f7f15e30b7545619dab716926ccb16f2848ed8146f4fa5e8fb58a7",
+        "miui-framework_patched.jar": "sha256:434bf6023a32a3071c87938fd9a551036d0c05fa1b86dd65df73ad23397de36e",
+        "module_zip": "sha256:0744f282a88f383fded7789afd48f49210e6b047bdfefc44ef742779eb7700f7"
+      },
+      "workflow_run_id": "25182918435",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25182918435",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25182918435"
+    }
+  },
+  "last_updated": "2026-04-30T18:42:20Z"
+}
