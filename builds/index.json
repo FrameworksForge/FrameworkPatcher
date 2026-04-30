@@ -414,15 +414,14 @@
     "klee": {
       "OS3.0.301.0.WPJCNXM": {
         "android_version": "16",
-        "build_time": "2026-04-28T13:59:41Z",
+        "build_time": "2026-04-30T02:32:43Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25057172221",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25057172221",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25144267717",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25144267717",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
-          "disable_secure_flag",
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       }
     },
@@ -567,6 +566,6 @@
       }
     }
   },
-  "last_updated": "2026-04-30T00:30:22Z",
+  "last_updated": "2026-04-30T02:33:26Z",
   "engine_version": "3.0.0"
 }
