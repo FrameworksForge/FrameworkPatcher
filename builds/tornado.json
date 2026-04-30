@@ -1,0 +1,29 @@
+{
+  "device": "tornado",
+  "builds": {
+    "OS3.0.1.0.WPOCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-04-30T11:53:40Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:2eac987b6e440c032e23b1354e4ab7531514c16563ed07d9df1257784b0c60e9",
+        "services_patched.jar": "sha256:69c6d223ef8c8c3d1df2deb016e7e2c82ef1b2ddb61bf7489561b9138413080d",
+        "miui-services_patched.jar": "sha256:e0fa2a2acbfc45598a786975d2f1eeecccff23dd49dd333a328b00f3d60f991c",
+        "miui-framework_patched.jar": "sha256:b8163a1c1f7a8f71bd59e7d51fab1e209e67d3a4bb4965e88f68a9d0b924d82d",
+        "module_zip": "sha256:7db82fccb1ba98aae4f80546ea53423d27ca9d9380fe001c077d2143291900b9"
+      },
+      "workflow_run_id": "25163771390",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25163771390",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25163771390"
+    }
+  },
+  "last_updated": "2026-04-30T11:54:18Z"
+}

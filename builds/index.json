@@ -618,8 +618,24 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "tornado": {
+      "OS3.0.1.0.WPOCNXM": {
+        "android_version": "16",
+        "build_time": "2026-04-30T11:53:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25163771390",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25163771390",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-30T10:53:25Z",
+  "last_updated": "2026-04-30T11:54:18Z",
   "engine_version": "3.0.0"
 }
