@@ -695,8 +695,21 @@
           "add_gboard"
         ]
       }
+    },
+    "myron": {
+      "OS3.0.13.0.WPMMIXM": {
+        "android_version": "16",
+        "build_time": "2026-04-30T21:42:46Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25190679293",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25190679293",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-04-30T18:42:20Z",
+  "last_updated": "2026-04-30T21:43:27Z",
   "engine_version": "3.0.0"
 }

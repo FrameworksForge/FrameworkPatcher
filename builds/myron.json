@@ -1,0 +1,25 @@
+{
+  "device": "myron",
+  "builds": {
+    "OS3.0.13.0.WPMMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-04-30T21:42:46Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:247e3cf0e82a9d2fa790269c3bcb2e3173d9ad7d16f8a27bd6be9365d950dc73",
+        "services_patched.jar": "sha256:ae77e59f1793c586ab83f15b639cb411b2402f93cabb1c086d314b1c3d155dfc",
+        "miui-services_patched.jar": "sha256:0c8285a728e3e05f859a503a86fe7e6d687c3a271c0dee27e8a33d0a840a8efe",
+        "module_zip": "sha256:bff18fab4aab2a748cbf4ed116e3984f3ce2ddace6a9fba6df914bc5aec34527"
+      },
+      "workflow_run_id": "25190679293",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25190679293",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25190679293"
+    }
+  },
+  "last_updated": "2026-04-30T21:43:27Z"
+}
