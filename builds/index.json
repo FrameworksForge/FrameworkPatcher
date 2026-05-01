@@ -712,18 +712,19 @@
     "Peridot": {
       "3.0.9.0.WNPCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-01T05:25:28Z",
+        "build_time": "2026-05-01T05:41:56Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25203521650",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25203521650",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25203908869",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25203908869",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
-          "disable_secure_flag"
+          "disable_secure_flag",
+          "kaorios_toolbox"
         ]
       }
     }
   },
-  "last_updated": "2026-05-01T05:26:05Z",
+  "last_updated": "2026-05-01T05:42:33Z",
   "engine_version": "3.0.0"
 }
