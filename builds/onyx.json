@@ -55,7 +55,29 @@
       "workflow_run_id": "25164642779",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25164642779",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25164642779"
+    },
+    "OS2.0.216.0.VOLCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-01T09:49:11Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:874c76a8774d1e0eaa77384c5b9a53240662755749177321e28786e757a6bf45",
+        "services_patched.jar": "sha256:b8a6fba91e9c7fbf73e61674cbe6d355b0e588b0bdd4909ecd7e95491cbf4a63",
+        "miui-services_patched.jar": "sha256:adac7b2c014b6e44c632df1463d1249799dcc5e4a94e500f8fbe2a54a0f6b596",
+        "miui-framework_patched.jar": "sha256:973c183a92a7d7fe315adbe4daefc3982e8c423a84fb1791df6cfdcfb5e432d9",
+        "module_zip": "sha256:9991625e2aa2ef4606df2655973f1e2604bf6375101759bed4967bb11640b8f3"
+      },
+      "workflow_run_id": "25209897483",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25209897483",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25209897483"
     }
   },
-  "last_updated": "2026-04-30T14:27:06Z"
+  "last_updated": "2026-05-01T09:49:53Z"
 }
