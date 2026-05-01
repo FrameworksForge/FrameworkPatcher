@@ -596,6 +596,17 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.306.0.WPACNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-01T19:35:06Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25229662693",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25229662693",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Duchamp": {
@@ -876,6 +887,6 @@
       }
     }
   },
-  "last_updated": "2026-05-01T17:22:56Z",
+  "last_updated": "2026-05-01T19:35:53Z",
   "engine_version": "3.0.0"
 }
