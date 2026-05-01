@@ -18,6 +18,19 @@
         "android_version": "15",
         "build_time": "2026-04-27T16:36:10Z",
         "patch_version": "3.0.0"
+      },
+      "Os2.0.7": {
+        "android_version": "15",
+        "build_time": "2026-05-01T07:14:43Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25206128704",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25206128704",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "dash": {
@@ -725,6 +738,6 @@
       }
     }
   },
-  "last_updated": "2026-05-01T06:55:30Z",
+  "last_updated": "2026-05-01T07:15:28Z",
   "engine_version": "3.0.0"
 }
