@@ -775,8 +775,22 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "manet": {
+      "OS3.0.302.0.WNMCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-01T12:10:30Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25213723676",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25213723676",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-01T09:49:53Z",
+  "last_updated": "2026-05-01T12:11:08Z",
   "engine_version": "3.0.0"
 }

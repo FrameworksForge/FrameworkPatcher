@@ -1,0 +1,26 @@
+{
+  "device": "manet",
+  "builds": {
+    "OS3.0.302.0.WNMCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-01T12:10:30Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:599508fc330b312561e398e3b7a6916eefc1b96bbe5da62fefc370e41304741c",
+        "services_patched.jar": "sha256:bb65dcd676178b6cc432f2db8cf2266cac57ca12010024141af0d3b8f298eb2a",
+        "miui-services_patched.jar": "sha256:affe1aa15e4a3218814eba8fad60a025a52c1371ac7c6744c8c3f3e6b532627d",
+        "module_zip": "sha256:2ee987c7d0f7dd065aefc7c873884f2c5ba9b1c415e10a360e85d7359eb4f26b"
+      },
+      "workflow_run_id": "25213723676",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25213723676",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25213723676"
+    }
+  },
+  "last_updated": "2026-05-01T12:11:08Z"
+}
