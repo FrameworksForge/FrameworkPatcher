@@ -736,8 +736,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "klimt": {
+      "OS3.0.302.0.WOSEUXM": {
+        "android_version": "16",
+        "build_time": "2026-05-01T08:24:46Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25207893375",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25207893375",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-01T07:15:28Z",
+  "last_updated": "2026-05-01T08:25:28Z",
   "engine_version": "3.0.0"
 }

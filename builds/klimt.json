@@ -1,0 +1,25 @@
+{
+  "device": "klimt",
+  "builds": {
+    "OS3.0.302.0.WOSEUXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-01T08:24:46Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:a716ff0898faa08a6681832480caeea296c28a353227dc05b158eb879e0e36bd",
+        "services_patched.jar": "sha256:9c65b8c9c49114473000c21ed835486fd7c0142ec23fed550b56c6b1072a5578",
+        "miui-services_patched.jar": "sha256:5997c546081e5af02018e16d78689afd5028156e67ac40ef9553915abcb60f31",
+        "module_zip": "sha256:dd8c01aa24a699c09d60f872092da17e05db424e709178321a2a6186432a9efe"
+      },
+      "workflow_run_id": "25207893375",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25207893375",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25207893375"
+    }
+  },
+  "last_updated": "2026-05-01T08:25:28Z"
+}
