@@ -1,0 +1,24 @@
+{
+  "device": "Emerald",
+  "builds": {
+    "OS 1.0.9.0 UNFMIXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-05-01T09:10:41Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f4b38211e238f2a2dd81bc6a909722d7afa06499f207a79ce6b8cda4cc2e87ca",
+        "services_patched.jar": "sha256:845fef88343d7017044333251e195cb498c50ea31895518fec5ac52d9489a7fb",
+        "miui-services_patched.jar": "sha256:f8a13e88c669405a5a3d872a6460be240cc2d8168274e5ec9908f8dbd2714c0f",
+        "module_zip": "sha256:2d019f5c060b70fc564b3717be7108a3cbff0aedfc33320ebf522b997f387588"
+      },
+      "workflow_run_id": "25209062406",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25209062406",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25209062406"
+    }
+  },
+  "last_updated": "2026-05-01T09:11:23Z"
+}

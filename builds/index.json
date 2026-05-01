@@ -750,8 +750,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Emerald": {
+      "OS 1.0.9.0 UNFMIXM": {
+        "android_version": "15",
+        "build_time": "2026-05-01T09:10:41Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25209062406",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25209062406",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-01T08:56:54Z",
+  "last_updated": "2026-05-01T09:11:23Z",
   "engine_version": "3.0.0"
 }
