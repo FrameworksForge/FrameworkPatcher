@@ -1,0 +1,26 @@
+{
+  "device": "vermeer_global",
+  "builds": {
+    "OS3.0.301.0.WNKMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-01T15:52:45Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:1dd39849022195c919c286b0476a3e433671a3fc292491c0d0e813f50f5f6ce7",
+        "services_patched.jar": "sha256:7490f01c665410bca587ff5f21ddb25528256f065b29607406aff6c02c900241",
+        "miui-services_patched.jar": "sha256:7b0b8c9ffa39f9a52cf81a69200392a0d83b1177fe273dd9129cf7f0f3e838c6",
+        "module_zip": "sha256:c178dc8d2667e026a65deb5b3778699446bb96affa217f4fc4a08172b0739bce"
+      },
+      "workflow_run_id": "25221190821",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25221190821",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25221190821"
+    }
+  },
+  "last_updated": "2026-05-01T15:53:28Z"
+}
