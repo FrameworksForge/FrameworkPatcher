@@ -573,12 +573,14 @@
     "fuxi": {
       "OS3.0.303.0.WMCCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-01T08:29:19Z",
+        "build_time": "2026-05-01T08:51:04Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25208075168",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25208075168",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25207317457",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25207317457",
         "features": [
-          "cn_notification_fix"
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
         ]
       }
     },
@@ -751,6 +753,6 @@
       }
     }
   },
-  "last_updated": "2026-05-01T08:48:03Z",
+  "last_updated": "2026-05-01T08:51:44Z",
   "engine_version": "3.0.0"
 }
