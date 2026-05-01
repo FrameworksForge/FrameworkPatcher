@@ -640,12 +640,13 @@
     "miro": {
       "OS3.0.303.0.WOMCNXM": {
         "android_version": "16",
-        "build_time": "2026-04-30T00:29:46Z",
+        "build_time": "2026-05-01T13:27:19Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25140977163",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25140977163",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25215930937",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25215930937",
         "features": [
           "disable_signature_verification",
+          "cn_notification_fix",
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
@@ -790,6 +791,6 @@
       }
     }
   },
-  "last_updated": "2026-05-01T13:15:37Z",
+  "last_updated": "2026-05-01T13:27:57Z",
   "engine_version": "3.0.0"
 }
