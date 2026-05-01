@@ -66,6 +66,17 @@
           "disable_secure_flag",
           "add_gboard"
         ]
+      },
+      "OS1.0.10.0.UOOMIXM": {
+        "android_version": "14",
+        "build_time": "2026-05-01T15:46:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25220953539",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25220953539",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "zorn": {
@@ -813,6 +824,6 @@
       }
     }
   },
-  "last_updated": "2026-05-01T15:02:12Z",
+  "last_updated": "2026-05-01T15:46:42Z",
   "engine_version": "3.0.0"
 }
