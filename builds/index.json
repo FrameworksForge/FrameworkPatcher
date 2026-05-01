@@ -414,6 +414,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.6.0.WNLMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-01T13:38:57Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25216317255",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25216317255",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "zircon": {
@@ -791,6 +802,6 @@
       }
     }
   },
-  "last_updated": "2026-05-01T13:27:57Z",
+  "last_updated": "2026-05-01T13:39:38Z",
   "engine_version": "3.0.0"
 }
