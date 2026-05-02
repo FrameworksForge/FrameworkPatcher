@@ -81,14 +81,13 @@
       },
       "OS1.0.10.0.UOOMIXM": {
         "android_version": "15",
-        "build_time": "2026-05-01T22:26:12Z",
+        "build_time": "2026-05-02T21:21:02Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25235715456",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25235715456",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25262099468",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25262099468",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
-          "kaorios_toolbox",
           "add_gboard"
         ]
       }
@@ -993,6 +992,6 @@
       }
     }
   },
-  "last_updated": "2026-05-02T19:54:13Z",
+  "last_updated": "2026-05-02T21:21:37Z",
   "engine_version": "3.0.0"
 }
