@@ -926,8 +926,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "chenfeng": {
+      "OS3.0.304.0.WNJCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-02T03:53:15Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25243099585",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25243099585",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-01T22:26:51Z",
+  "last_updated": "2026-05-02T03:53:52Z",
   "engine_version": "3.0.0"
 }

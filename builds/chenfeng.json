@@ -1,0 +1,27 @@
+{
+  "device": "chenfeng",
+  "builds": {
+    "OS3.0.304.0.WNJCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-02T03:53:15Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:4f9ec5b4c66479d93b50795578279d0c0b865f451c17fcf537e3e3f44c4d73b2",
+        "services_patched.jar": "sha256:8ed8aa10224896a975f45d5f811df9da8745953806e9c26d5a63d2e96a936ce0",
+        "miui-services_patched.jar": "sha256:9b50b84f37d7c88d354a2bac6132ff6079982a184a300bddc36d0ed98275e0e2",
+        "miui-framework_patched.jar": "sha256:76963d6339df078b0c56cf4383b675bbdb764dee39925d49e08d982ff232d37b",
+        "module_zip": "sha256:638ab8a778a276e3ed1322a81859eb6b600a4bd1ecfefd93337c7dc3d124f704"
+      },
+      "workflow_run_id": "25243099585",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25243099585",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25243099585"
+    }
+  },
+  "last_updated": "2026-05-02T03:53:52Z"
+}
