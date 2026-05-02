@@ -531,6 +531,19 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.303.0.WNOCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-02T05:16:16Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25244526182",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25244526182",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "mayfly": {
@@ -942,6 +955,6 @@
       }
     }
   },
-  "last_updated": "2026-05-02T03:53:52Z",
+  "last_updated": "2026-05-02T05:16:55Z",
   "engine_version": "3.0.0"
 }
