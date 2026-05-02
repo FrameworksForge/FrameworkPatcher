@@ -953,8 +953,21 @@
           "add_gboard"
         ]
       }
+    },
+    "flourite": {
+      "OS3.0.304.0.WPRCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-02T07:33:10Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25246901606",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25246901606",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-02T05:16:55Z",
+  "last_updated": "2026-05-02T07:33:54Z",
   "engine_version": "3.0.0"
 }

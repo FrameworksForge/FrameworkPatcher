@@ -1,0 +1,25 @@
+{
+  "device": "flourite",
+  "builds": {
+    "OS3.0.304.0.WPRCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-02T07:33:10Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:3f7c245bf825cee2dd0b7977f052267ada90586da086e6bcc50c6a8c102fc0e4",
+        "services_patched.jar": "sha256:40497ad7ae5f9fd78ae294aa03f46a99f753b9041a20954aad5f3d8451d3ef29",
+        "miui-services_patched.jar": "sha256:ba806921d1d52d8fa00791527d1bb4282c25b1599d982ab216a610ae22b2de0b",
+        "module_zip": "sha256:9046066b14b35e515066447b2e7a9c8e350f1f3da853c7a2c45114d849ff0271"
+      },
+      "workflow_run_id": "25246901606",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25246901606",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25246901606"
+    }
+  },
+  "last_updated": "2026-05-02T07:33:54Z"
+}
