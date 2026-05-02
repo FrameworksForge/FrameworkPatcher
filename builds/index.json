@@ -139,6 +139,16 @@
         "android_version": "15",
         "build_time": "2026-04-28T04:28:08Z",
         "patch_version": "3.0.0"
+      },
+      "OS3.0.2.0.VMNEUXM": {
+        "android_version": "15",
+        "build_time": "2026-05-02T17:12:29Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25257247702",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25257247702",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "gold": {
@@ -984,6 +994,6 @@
       }
     }
   },
-  "last_updated": "2026-05-02T13:22:46Z",
+  "last_updated": "2026-05-02T17:13:03Z",
   "engine_version": "3.0.0"
 }
