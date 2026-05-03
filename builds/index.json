@@ -892,14 +892,15 @@
     "annibale": {
       "OS3.0.303.0.WPKCNXM": {
         "android_version": "16",
-        "build_time": "2026-04-30T18:41:34Z",
+        "build_time": "2026-05-03T16:07:44Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25182918435",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25182918435",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25284016185",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25284016185",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
           "disable_secure_flag",
+          "kaorios_toolbox",
           "add_gboard"
         ]
       }
@@ -1080,6 +1081,6 @@
       }
     }
   },
-  "last_updated": "2026-05-03T15:45:51Z",
+  "last_updated": "2026-05-03T16:08:20Z",
   "engine_version": "3.0.0"
 }
