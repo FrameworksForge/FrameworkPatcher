@@ -504,6 +504,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "Aosp": {
+        "android_version": "15",
+        "build_time": "2026-05-03T21:15:21Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25290958226",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25290958226",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "duchamp": {
@@ -1114,6 +1124,6 @@
       }
     }
   },
-  "last_updated": "2026-05-03T17:40:58Z",
+  "last_updated": "2026-05-03T21:15:57Z",
   "engine_version": "3.0.0"
 }
