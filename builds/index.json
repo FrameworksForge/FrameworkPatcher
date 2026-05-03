@@ -1021,8 +1021,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Aurora": {
+      "OS3.0.304.0": {
+        "android_version": "16",
+        "build_time": "2026-05-03T09:03:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25274920675",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25274920675",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-03T08:31:23Z",
+  "last_updated": "2026-05-03T09:04:15Z",
   "engine_version": "3.0.0"
 }

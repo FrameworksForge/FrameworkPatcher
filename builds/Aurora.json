@@ -1,0 +1,26 @@
+{
+  "device": "Aurora",
+  "builds": {
+    "OS3.0.304.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-03T09:03:36Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:461e27ff93894069496dc85d6c274a8ac343bc4fdd1a33d1791f45e95cbffd06",
+        "services_patched.jar": "sha256:26cfdea02972c4dea5ad6742f7c448c7f8c308252e0ace9fb010015dbb1297a7",
+        "miui-services_patched.jar": "sha256:39e7c58530a6d724317d785af129493e8e18c523d415e4881e070d0e57a6fdae",
+        "module_zip": "sha256:1082194b0beed47bab8ec3ad082dc38a60ef4b232cb0e0fa2e65da762078db3d"
+      },
+      "workflow_run_id": "25274920675",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25274920675",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25274920675"
+    }
+  },
+  "last_updated": "2026-05-03T09:04:15Z"
+}
