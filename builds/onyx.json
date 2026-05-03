@@ -7,19 +7,22 @@
       "features": [
         "disable_signature_verification",
         "cn_notification_fix",
-        "disable_secure_flag"
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
       ],
-      "build_time": "2026-04-30T06:42:36Z",
+      "build_time": "2026-05-03T02:40:25Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:98b10eb7e2933941b161cd77bb845d60302caaf8dd53c534e0124146f8a60376",
-        "services_patched.jar": "sha256:4df679e11f6b0950c11c6ac64edfe292e3cc506430b681e7df0372c7a78c80ab",
-        "miui-services_patched.jar": "sha256:b1f4abab97b01f9ed2b3042b3bb535d2c0f4c05dea57bb3b6f408389b0f775e6",
-        "module_zip": "sha256:342a7b32551229dba64728936e0d1aaaa51bb3d1f641344d3b00a18ba5dd702b"
+        "framework_patched.jar": "sha256:14ffeb9d9d79553847e2bbf7400b94bdd409b1fd556b18dca9ccaeb521c2e398",
+        "services_patched.jar": "sha256:da0fd78c340f3bded17b23ab7da3a3c44a27ed95c88f9cfce4466ae3969d58c4",
+        "miui-services_patched.jar": "sha256:b0b98613c7bc79eb5d33eaa5882a64df5f8080a8ab2dd4bc96ceaca278299960",
+        "miui-framework_patched.jar": "sha256:d1ef15b3d727e812232c2d991b51979dd40ca44cf966a021c5674ac316fafb12",
+        "module_zip": "sha256:bdc4ede25971afdf127591668a5d3c0e7ea5d625c79641a915cab7c2fda5889a"
       },
-      "workflow_run_id": "25151285025",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25151285025",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25151285025"
+      "workflow_run_id": "25267895867",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25267895867",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25267895867"
     },
     "OS3.0.303.0.WOLCNXM": {
       "android_version": "16",
@@ -105,5 +108,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25223761927"
     }
   },
-  "last_updated": "2026-05-02T10:51:36Z"
+  "last_updated": "2026-05-03T02:41:08Z"
 }
