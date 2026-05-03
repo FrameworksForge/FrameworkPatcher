@@ -1053,8 +1053,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "ingres": {
+      "OS2.0.8.0.ULJCNXM": {
+        "android_version": "14",
+        "build_time": "2026-05-03T15:06:53Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25282604669",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25282604669",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-03T14:26:28Z",
+  "last_updated": "2026-05-03T15:07:28Z",
   "engine_version": "3.0.0"
 }

@@ -1,0 +1,27 @@
+{
+  "device": "ingres",
+  "builds": {
+    "OS2.0.8.0.ULJCNXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-03T15:06:53Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:e0838f00b273ea6f7819065782b5f89b75ac9d080d011059a4d56ab017d23810",
+        "services_patched.jar": "sha256:e44139fb6c5f661f4ca79c9c2342f2b97f3c4bc7127c60048f22e0311cedb568",
+        "miui-services_patched.jar": "sha256:e0ef9dd7b4edf406da513123243bc83b460b96cbf362dc1cdf7ef9c5bd1e03f3",
+        "miui-framework_patched.jar": "sha256:4dd1ca4cff0774eb738ce9cb1ab69ddaf4f51fe5fa6f964b6cff75a18302a00b",
+        "module_zip": "sha256:22634c48ce2f755dee64c9f33203001f78781a86d4c2f08afa05acb4c3c81895"
+      },
+      "workflow_run_id": "25282604669",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25282604669",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25282604669"
+    }
+  },
+  "last_updated": "2026-05-03T15:07:28Z"
+}
