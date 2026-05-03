@@ -82,7 +82,30 @@
       "workflow_run_id": "25224575692",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25224575692",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25224575692"
+    },
+    "Xaga3.0.3.0.VLHCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-03T14:21:59Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:832a1a898c023742516b14008da57b645229d8de85eb33120c9e789252271c21",
+        "services_patched.jar": "sha256:dca5cb6deba70e6414a3987ca201fbe140aa5490cfac19a9f52250fb58f562fc",
+        "miui-services_patched.jar": "sha256:ffdfee4844dc584d6cacf2bb39795108102f74bd8d98910c1da63f41a16a17a8",
+        "miui-framework_patched.jar": "sha256:6d390ef06c7b7e65275ffa67f2354adb664d8b94ff69cc9b85075b9a3ebd8b6c",
+        "module_zip": "sha256:545af07e77e85a6baa03f4d4a0feff8461009cd33c29357a61921d58fb388862"
+      },
+      "workflow_run_id": "25281567663",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25281567663",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25281567663"
     }
   },
-  "last_updated": "2026-05-01T17:22:56Z"
+  "last_updated": "2026-05-03T14:22:34Z"
 }
