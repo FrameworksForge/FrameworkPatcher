@@ -1,0 +1,25 @@
+{
+  "device": "sapphire",
+  "builds": {
+    "V14.0.9.0.TNGMIXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-03T06:12:57Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:571ebf5e7a67fd147d289e0ffffdbdfd7af21632bfbb24615c563bf5b2fda5c7",
+        "services_patched.jar": "sha256:def129cdf255a592ead1a0505ef07f6cfc843166c1af955e0d8ea4cd5555fbcd",
+        "miui-services_patched.jar": "sha256:8c0baae93dbd50865cf391d2c9bfbe39f32338a1f271ba058f569976bb7112b2",
+        "module_zip": "sha256:8f231bcb0d6ec4161357125875c4ee579bcb89f0a28ea1f2e721776d442d5a63"
+      },
+      "workflow_run_id": "25271657805",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25271657805",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25271657805"
+    }
+  },
+  "last_updated": "2026-05-03T06:13:37Z"
+}

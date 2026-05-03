@@ -1003,8 +1003,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "sapphire": {
+      "V14.0.9.0.TNGMIXM": {
+        "android_version": "13",
+        "build_time": "2026-05-03T06:12:57Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25271657805",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25271657805",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-03T06:03:57Z",
+  "last_updated": "2026-05-03T06:13:37Z",
   "engine_version": "3.0.0"
 }
