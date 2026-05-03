@@ -288,13 +288,12 @@
     "vermeer": {
       "OS3.0.301.0.WNKMIXM": {
         "android_version": "16",
-        "build_time": "2026-05-03T07:58:52Z",
+        "build_time": "2026-05-03T08:30:43Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25273658333",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25273658333",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25274277011",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25274277011",
         "features": [
-          "disable_signature_verification",
-          "disable_secure_flag"
+          "disable_signature_verification"
         ]
       },
       "vermeer_global-eta_full-OS3.0.303.0.WNKMIXM-user-16.0-2af544e4fa": {
@@ -1024,6 +1023,6 @@
       }
     }
   },
-  "last_updated": "2026-05-03T07:59:25Z",
+  "last_updated": "2026-05-03T08:31:23Z",
   "engine_version": "3.0.0"
 }
