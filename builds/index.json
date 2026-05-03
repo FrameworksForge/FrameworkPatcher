@@ -383,15 +383,14 @@
     "onyx": {
       "OS3.0.302.0.WOLCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-03T02:40:25Z",
+        "build_time": "2026-05-03T04:26:56Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25267895867",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25267895867",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25269768433",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25269768433",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
           "disable_secure_flag",
-          "kaorios_toolbox",
           "add_gboard"
         ]
       },
@@ -1007,6 +1006,6 @@
       }
     }
   },
-  "last_updated": "2026-05-03T03:34:58Z",
+  "last_updated": "2026-05-03T04:27:37Z",
   "engine_version": "3.0.0"
 }
