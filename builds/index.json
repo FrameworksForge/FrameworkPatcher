@@ -170,6 +170,18 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.5.0.VMNMIXM": {
+        "android_version": "15",
+        "build_time": "2026-05-03T17:40:27Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25286075952",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25286075952",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "gold": {
@@ -1102,6 +1114,6 @@
       }
     }
   },
-  "last_updated": "2026-05-03T17:33:01Z",
+  "last_updated": "2026-05-03T17:40:58Z",
   "engine_version": "3.0.0"
 }
