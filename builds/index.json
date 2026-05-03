@@ -1087,8 +1087,21 @@
           "add_gboard"
         ]
       }
+    },
+    "pandora": {
+      "OS3.0.306.0.WBLMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-03T17:32:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25285903676",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25285903676",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-03T17:19:03Z",
+  "last_updated": "2026-05-03T17:33:01Z",
   "engine_version": "3.0.0"
 }
