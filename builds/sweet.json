@@ -1,0 +1,26 @@
+{
+  "device": "sweet",
+  "builds": {
+    "OS1.0.33.0.THGMIXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-03T22:53:15Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f2a1db644cb3c292a98e48ecbc0e8d4d5f57dcd8a965ec3932683cd9d47ac953",
+        "services_patched.jar": "sha256:bc99daefad6dd34d1b63503241a1166e8c9493594e8535419e308feedc502e01",
+        "miui-services_patched.jar": "sha256:e3879bc92f32c5826ac8b58df2887ea26999d0adadc431552d79577942c5878b",
+        "miui-framework_patched.jar": "sha256:b4a7623269ae0edfcb94e8b775a52758230aff68134947ec5d882ac3329da415",
+        "module_zip": "sha256:9422ea06436c9b34a6e7c1c9fc7c06c4a8f5e6e3781db8b5bf7a331621aa9e5a"
+      },
+      "workflow_run_id": "25293130887",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25293130887",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25293130887"
+    }
+  },
+  "last_updated": "2026-05-03T22:53:51Z"
+}
