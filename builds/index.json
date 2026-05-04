@@ -282,8 +282,14 @@
     "nuwa": {
       "OS3.0.305.0.WMBCNXM": {
         "android_version": "16",
-        "build_time": "2026-04-27T10:27:24Z",
-        "patch_version": "3.0.0"
+        "build_time": "2026-05-04T03:56:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25300193499",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25300193499",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       },
       "OS3.0.3.0.WMBCNXM": {
         "android_version": "16",
@@ -1154,6 +1160,6 @@
       }
     }
   },
-  "last_updated": "2026-05-04T03:45:06Z",
+  "last_updated": "2026-05-04T03:57:12Z",
   "engine_version": "3.0.0"
 }
