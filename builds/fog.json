@@ -1,0 +1,26 @@
+{
+  "device": "fog",
+  "builds": {
+    "V14.0.6.0.TGEIDXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-04T03:44:21Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:bd774ce3a5e3d1652f94600aa907118c2a10bc968e0244974ba5fe37cc673421",
+        "miui-services_patched.jar": "sha256:0b09f0396470ddc9e909bd20ea11e3cf148cba959aa8bcdb2e5da204528ab463",
+        "miui-framework_patched.jar": "sha256:ef26b7a27d1102823ad2b9b29b576c78d3abab21fe9e7fc984bf68dcebff2a0d",
+        "module_zip": "sha256:43d55b4123eb7082549015b51fa1c4a9f2168ad47d291b1a7d34d3bc383b6efc"
+      },
+      "workflow_run_id": "25299904842",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25299904842",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25299904842"
+    }
+  },
+  "last_updated": "2026-05-04T03:45:06Z"
+}
