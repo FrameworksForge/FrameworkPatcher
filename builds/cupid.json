@@ -15,7 +15,26 @@
       },
       "workflow_run_id": "24975350569",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/24975350569"
+    },
+    "OS3.0.2.0.VLCIDXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-04T13:28:24Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:923b3ebe7e748716e3aa0c4db065d1f0386fafcc898f5c8ecf1118dedf6cd37a",
+        "services_patched.jar": "sha256:c3852cf6827c3db91470e5759facf5d80af4827f8c09845a28437b35f9a95bc2",
+        "miui-services_patched.jar": "sha256:ab054fc47bbcd37bad725adeabb0bfd5147e5940ccea6f8979198975258f6d88",
+        "module_zip": "sha256:179214a79f0b62d6346a99bc04cb27c2cf830f5e1c04badee2a94154d070b1ae"
+      },
+      "workflow_run_id": "25321578218",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25321578218",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25321578218"
     }
   },
-  "last_updated": "2026-04-27T03:40:03Z"
+  "last_updated": "2026-05-04T13:29:09Z"
 }

@@ -216,6 +216,17 @@
         "android_version": "15",
         "build_time": "2026-04-27T03:39:23Z",
         "patch_version": "3.0.0"
+      },
+      "OS3.0.2.0.VLCIDXM": {
+        "android_version": "15",
+        "build_time": "2026-05-04T13:28:24Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25321578218",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25321578218",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "marble": {
@@ -1207,6 +1218,6 @@
       }
     }
   },
-  "last_updated": "2026-05-04T10:37:22Z",
+  "last_updated": "2026-05-04T13:29:09Z",
   "engine_version": "3.0.0"
 }
