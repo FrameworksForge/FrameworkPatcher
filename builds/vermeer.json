@@ -56,7 +56,25 @@
       "workflow_run_id": "25170426813",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25170426813",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25170426813"
+    },
+    "OS3.0.301.1.WANJAY": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-05-04T14:34:39Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:3cb3ff80414b95b854e1e46cb545be40d2ac0d49907419916ea396b1919f1ce1",
+        "services_patched.jar": "sha256:2d72aaa98273ba2d42cd710a7eae20425251b985850152caebe78edbb561a312",
+        "miui-services_patched.jar": "sha256:90595de6f8c64bf8f790f11fbb9e616ed35a1f028ab2e5ff264e4e61643e3d2e",
+        "module_zip": "sha256:9869400b36c137baa5eb895618e15132275acac7d23d3e016a9d83471afc61a4"
+      },
+      "workflow_run_id": "25324951240",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25324951240",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25324951240"
     }
   },
-  "last_updated": "2026-05-03T08:31:23Z"
+  "last_updated": "2026-05-04T14:35:18Z"
 }
