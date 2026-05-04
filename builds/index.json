@@ -202,6 +202,16 @@
         "android_version": "15",
         "build_time": "2026-04-27T07:33:37Z",
         "patch_version": "3.0.0"
+      },
+      "OS3.0.2.0.VNQMIXM": {
+        "android_version": "15",
+        "build_time": "2026-05-04T22:33:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25347104939",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25347104939",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "topaz": {
@@ -1266,6 +1276,6 @@
       }
     }
   },
-  "last_updated": "2026-05-04T21:40:30Z",
+  "last_updated": "2026-05-04T22:33:53Z",
   "engine_version": "3.0.0"
 }
