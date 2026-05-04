@@ -739,6 +739,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.303.0.WPACNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-04T13:39:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25322182612",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25322182612",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Duchamp": {
@@ -1218,6 +1229,6 @@
       }
     }
   },
-  "last_updated": "2026-05-04T13:29:09Z",
+  "last_updated": "2026-05-04T13:39:41Z",
   "engine_version": "3.0.0"
 }
