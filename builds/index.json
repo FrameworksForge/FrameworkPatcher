@@ -1170,8 +1170,22 @@
           "add_gboard"
         ]
       }
+    },
+    "munch": {
+      "OS1.0.15.0.ULMCNXM": {
+        "android_version": "14",
+        "build_time": "2026-05-04T08:39:02Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25309281553",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25309281553",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-04T06:08:40Z",
+  "last_updated": "2026-05-04T08:39:41Z",
   "engine_version": "3.0.0"
 }

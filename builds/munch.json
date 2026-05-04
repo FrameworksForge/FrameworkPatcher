@@ -1,0 +1,27 @@
+{
+  "device": "munch",
+  "builds": {
+    "OS1.0.15.0.ULMCNXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-04T08:39:02Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:449be09d0140b3c231bcc8cd329686db3fa2e4cc32f193b58732b960a37657b2",
+        "services_patched.jar": "sha256:ec67951e081513a441dd4f67ec0d7eb243b67b938a6525a63d9ee6a74efcb8ab",
+        "miui-services_patched.jar": "sha256:fd6e7e093f3aca66cb4b8c39e3266f26cf341e62d974ac0cb80a1cb270f0d65d",
+        "miui-framework_patched.jar": "sha256:61a32065661081536d6f543b840ba5d2af7d53f51f354c8f55a2803244c0a5f2",
+        "module_zip": "sha256:bc4820b5aeef17179f2ad94b0ba540fd8cb254e5985554708d4996c9747f4c72"
+      },
+      "workflow_run_id": "25309281553",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25309281553",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25309281553"
+    }
+  },
+  "last_updated": "2026-05-04T08:39:41Z"
+}
