@@ -1238,8 +1238,22 @@
           "add_gboard"
         ]
       }
+    },
+    "houji": {
+      "OS3.0.301.0.WNCMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-04T20:46:58Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25342556061",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25342556061",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-04T14:57:12Z",
+  "last_updated": "2026-05-04T20:47:41Z",
   "engine_version": "3.0.0"
 }
