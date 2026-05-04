@@ -554,6 +554,18 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.216.0.VOBCNXM (Port)": {
+        "android_version": "15",
+        "build_time": "2026-05-04T20:54:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25342860554",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25342860554",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "duchamp": {
@@ -1254,6 +1266,6 @@
       }
     }
   },
-  "last_updated": "2026-05-04T20:47:41Z",
+  "last_updated": "2026-05-04T20:55:20Z",
   "engine_version": "3.0.0"
 }
