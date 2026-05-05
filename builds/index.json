@@ -1231,6 +1231,16 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.306.0.WBLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-05T16:21:56Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25388489485",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25388489485",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "sweet": {
@@ -1330,6 +1340,6 @@
       }
     }
   },
-  "last_updated": "2026-05-05T14:42:26Z",
+  "last_updated": "2026-05-05T16:22:41Z",
   "engine_version": "3.0.0"
 }
