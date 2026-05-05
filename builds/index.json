@@ -1275,8 +1275,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "spes": {
+      "OS1.0.8.0.TGCMIXM": {
+        "android_version": "13",
+        "build_time": "2026-05-05T03:13:39Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25355788873",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25355788873",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-04T23:55:57Z",
+  "last_updated": "2026-05-05T03:14:12Z",
   "engine_version": "3.0.0"
 }

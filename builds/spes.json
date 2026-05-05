@@ -1,0 +1,26 @@
+{
+  "device": "spes",
+  "builds": {
+    "OS1.0.8.0.TGCMIXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-05T03:13:39Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:f6281fda73f3ea5a318a4830a41d89924cccae54677444135654e0674f91ca38",
+        "miui-services_patched.jar": "sha256:0c2dfc0a5ee1c04d8a5f3b0e50b4f75624918496b8785d0da3409068e64f72d2",
+        "miui-framework_patched.jar": "sha256:261ed0fe52d92ee90e3c64e6cbdbc7d8f444aadfc793b7e7d6ad343c092b5973",
+        "module_zip": "sha256:acf98bc86f1ac84648c09cc0f524633a9851998560526cdc418f718dcd30e33b"
+      },
+      "workflow_run_id": "25355788873",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25355788873",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25355788873"
+    }
+  },
+  "last_updated": "2026-05-05T03:14:12Z"
+}
