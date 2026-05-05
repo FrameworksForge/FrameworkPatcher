@@ -21,23 +21,20 @@
       "patch_version": "3.0.0",
       "features": [
         "disable_signature_verification",
-        "cn_notification_fix",
         "disable_secure_flag",
-        "kaorios_toolbox",
-        "add_gboard"
+        "kaorios_toolbox"
       ],
-      "build_time": "2026-05-04T13:51:35Z",
+      "build_time": "2026-05-05T05:52:58Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:c64b856b562e88a1d66e1555e91c6248428da376325e5f855c0ee3d7ae147636",
-        "services_patched.jar": "sha256:d329ead66740bc6c6684231cae3f6a86f9f40f54e8b128c61485de3b664d1030",
-        "miui-services_patched.jar": "sha256:def52bb2037d4153c0a22612b1fab67d0dbce20bf4b0b30e0035a3f398a67397",
-        "miui-framework_patched.jar": "sha256:6b29b9f74d498b33f41ba9d38e0141b400db99943b966b534f25c4427f39ae83",
-        "module_zip": "sha256:caf0cec9c10974742bd9cd9394e69de746f43c34cfcb98f9d0535f350c81088a"
+        "framework_patched.jar": "sha256:fe02968ccd082d923a0378219aa973350637b71e5af115e3e15d13a63eaaeb81",
+        "services_patched.jar": "sha256:7ce7ec6824e334fadfe210985b9d956f51300a203202b73aae750f35156cb0e6",
+        "miui-services_patched.jar": "sha256:6217a721889f02850baa0f5170d24ef0b3db3af7015165d5c73de3ce4fde6666",
+        "module_zip": "sha256:45fbe995012e79003b057508f6d231e40893118d6afd71fc2016dd394419b4d1"
       },
-      "workflow_run_id": "25322789460",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25322789460",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25322789460"
+      "workflow_run_id": "25360164942",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25360164942",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25360164942"
     },
     "OS3.0.4.0.WNPINXM": {
       "android_version": "16",
@@ -60,5 +57,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25222129949"
     }
   },
-  "last_updated": "2026-05-04T13:52:15Z"
+  "last_updated": "2026-05-05T05:53:33Z"
 }
