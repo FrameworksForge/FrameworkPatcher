@@ -1,0 +1,25 @@
+{
+  "device": "popsicle",
+  "builds": {
+    "OS3.0.301.WPBMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-05T13:05:19Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f9854ebdb838a634e9d51f3ba1038c32e6394b69d89c99866d8ec302e57ce1d5",
+        "services_patched.jar": "sha256:ae031a39eeb6462903ba67c50a7f4e8fab7f9e9689c2b7a0fcd0a0b62dbb3b66",
+        "miui-services_patched.jar": "sha256:ee7663590e018f7955a801f5ff5d650deec4804fc27dbb052c359b85e2bf30a5",
+        "module_zip": "sha256:d0af83d051b31f2fbc5e665ab39d3b714f6d726ec1c133a3d1027749c90a2e02"
+      },
+      "workflow_run_id": "25378004643",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25378004643",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25378004643"
+    }
+  },
+  "last_updated": "2026-05-05T13:06:01Z"
+}
