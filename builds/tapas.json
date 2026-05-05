@@ -75,7 +75,25 @@
       "workflow_run_id": "25342860554",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25342860554",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25342860554"
+    },
+    "V14.0.2.0.TMTINXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-05T12:00:42Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:28bbf1ae573342ab7ce50fb5587e50ac498d82d76f8dff2cc86ae5933dbeaabe",
+        "miui-services_patched.jar": "sha256:02c29b8b973d2ba8d641885e2289e763b071a60f698b016e120ad47eba374463",
+        "module_zip": "sha256:25243ab660f15d58737405b3819c8c9dc18c338cb618309c2cd1b3184573bd43"
+      },
+      "workflow_run_id": "25374988871",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25374988871",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25374988871"
     }
   },
-  "last_updated": "2026-05-04T20:55:20Z"
+  "last_updated": "2026-05-05T12:01:21Z"
 }
