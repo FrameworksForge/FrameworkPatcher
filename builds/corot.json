@@ -1,0 +1,29 @@
+{
+  "device": "corot",
+  "builds": {
+    "OS2.0.210.0.VMLCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-05T13:23:13Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:a4a6dc85f0893174edab67f323691ab772a6c2103388f284f4f580b22a867d3d",
+        "services_patched.jar": "sha256:c3828f7eaee38652590ccffafe2ddb1744fca741ff40554b49859a67a13c9a88",
+        "miui-services_patched.jar": "sha256:074191908bee7b7be2460cf77d4de48508c7248f8105d92e38edf98dbd98903c",
+        "miui-framework_patched.jar": "sha256:b03b45b241cbf6627b468076fb4643febb30921fbfffecdfa31c8e824b4a0d19",
+        "module_zip": "sha256:72f013cc521bf8b42ffacbd05a9f1fb4c0a5593892cb8d65e0d05305d6c118c0"
+      },
+      "workflow_run_id": "25378817978",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25378817978",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25378817978"
+    }
+  },
+  "last_updated": "2026-05-05T13:24:01Z"
+}
