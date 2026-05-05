@@ -34,10 +34,10 @@
       },
       "OS2.0.2.0.ULOTWXM": {
         "android_version": "14",
-        "build_time": "2026-05-01T17:22:15Z",
+        "build_time": "2026-05-05T11:44:33Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25224575692",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25224575692",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25374259320",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25374259320",
         "features": [
           "disable_signature_verification",
           "kaorios_toolbox",
@@ -1291,6 +1291,6 @@
       }
     }
   },
-  "last_updated": "2026-05-05T10:05:39Z",
+  "last_updated": "2026-05-05T11:45:22Z",
   "engine_version": "3.0.0"
 }
