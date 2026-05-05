@@ -206,12 +206,14 @@
       },
       "OS3.0.2.0.VNQMIXM": {
         "android_version": "15",
-        "build_time": "2026-05-04T22:33:14Z",
+        "build_time": "2026-05-05T05:47:15Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25347104939",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25347104939",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25359970673",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25359970673",
         "features": [
-          "kaorios_toolbox"
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
         ]
       }
     },
@@ -1292,6 +1294,6 @@
       }
     }
   },
-  "last_updated": "2026-05-05T03:56:10Z",
+  "last_updated": "2026-05-05T05:47:51Z",
   "engine_version": "3.0.0"
 }
