@@ -1338,8 +1338,23 @@
           "add_gboard"
         ]
       }
+    },
+    "dali": {
+      "OS3.0.9.0WONCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-05T17:37:11Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25392088198",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25392088198",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-05T16:22:41Z",
+  "last_updated": "2026-05-05T17:37:52Z",
   "engine_version": "3.0.0"
 }

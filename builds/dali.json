@@ -1,0 +1,28 @@
+{
+  "device": "dali",
+  "builds": {
+    "OS3.0.9.0WONCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-05T17:37:11Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:2b185ef47f64b16ffb84af3dbee94185600adf66d7a9b21cb6ff81c90205397a",
+        "services_patched.jar": "sha256:e3beffb446be727234ecf7761a168a102c5094ea01003b7d1725d61e450ff85b",
+        "miui-services_patched.jar": "sha256:0b145d9d50454216b2524ba9b8a16d35b6ad4a389ac70c02cf4c35d38b166741",
+        "miui-framework_patched.jar": "sha256:28bac622a72e39abbde0fff06d30fd45c4228108e5c263e5ab38b75151762db5",
+        "module_zip": "sha256:570e00d3046a443c43275cc7410206badf47c560583e0cce8b838a88e41929dc"
+      },
+      "workflow_run_id": "25392088198",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25392088198",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25392088198"
+    }
+  },
+  "last_updated": "2026-05-05T17:37:52Z"
+}
