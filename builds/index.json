@@ -912,6 +912,17 @@
         "features": [
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.2.0.WMCTWXM": {
+        "android_version": "16",
+        "build_time": "2026-05-06T13:06:10Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25436961384",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25436961384",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "pearl": {
@@ -1428,6 +1439,6 @@
       }
     }
   },
-  "last_updated": "2026-05-06T13:03:28Z",
+  "last_updated": "2026-05-06T13:06:50Z",
   "engine_version": "3.0.0"
 }
