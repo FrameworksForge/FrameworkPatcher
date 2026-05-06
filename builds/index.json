@@ -587,6 +587,18 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.204.0.VMTINXM": {
+        "android_version": "15",
+        "build_time": "2026-05-06T07:09:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25421344498",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25421344498",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "duchamp": {
@@ -1378,6 +1390,6 @@
       }
     }
   },
-  "last_updated": "2026-05-06T05:48:26Z",
+  "last_updated": "2026-05-06T07:10:08Z",
   "engine_version": "3.0.0"
 }
