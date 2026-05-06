@@ -905,6 +905,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS2.0.203.VOJINXM": {
+        "android_version": "15",
+        "build_time": "2026-05-06T16:06:25Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25446521489",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25446521489",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "diting": {
@@ -1472,6 +1484,6 @@
       }
     }
   },
-  "last_updated": "2026-05-06T15:59:30Z",
+  "last_updated": "2026-05-06T16:07:20Z",
   "engine_version": "3.0.0"
 }
