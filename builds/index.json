@@ -1190,6 +1190,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "V14.0.10.0.TNGMIXM": {
+        "android_version": "13",
+        "build_time": "2026-05-06T00:26:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25409750272",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25409750272",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Aurora": {
@@ -1355,6 +1365,6 @@
       }
     }
   },
-  "last_updated": "2026-05-05T17:37:52Z",
+  "last_updated": "2026-05-06T00:27:34Z",
   "engine_version": "3.0.0"
 }
