@@ -1,0 +1,26 @@
+{
+  "device": "courbet",
+  "builds": {
+    "V14.0.4.0.TKQMIXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-06T05:47:41Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:d1a508e1a24a30d4274681dca2859fd90555d3ed266b4a62d10cdc8e540a9bee",
+        "services_patched.jar": "sha256:4f9e5df4150dd4f6e8df104abd87c76dd3b84aefaf67732612e4fa2779ed3239",
+        "miui-services_patched.jar": "sha256:b068aeaf6a1c3675e54b86a012fd342dc9926992215a25b9ac580c8ba1a0b2b5",
+        "miui-framework_patched.jar": "sha256:5f87b1d83cfcecfbc9023c8f268875fe1522eb615d5cdf0575e11ccc0e1651b5",
+        "module_zip": "sha256:67ee68849c930f041085e4dcc2dc5dab20c8315d29ac02b326a66aa7ea776fcc"
+      },
+      "workflow_run_id": "25418673395",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25418673395",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25418673395"
+    }
+  },
+  "last_updated": "2026-05-06T05:48:26Z"
+}
