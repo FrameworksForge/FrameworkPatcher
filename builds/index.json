@@ -574,6 +574,19 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.4.0.WOLIDXM": {
+        "android_version": "16",
+        "build_time": "2026-05-07T02:59:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25473470629",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25473470629",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "tapas": {
@@ -1496,6 +1509,6 @@
       }
     }
   },
-  "last_updated": "2026-05-06T18:25:10Z",
+  "last_updated": "2026-05-07T02:59:54Z",
   "engine_version": "3.0.0"
 }
