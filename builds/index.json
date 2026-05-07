@@ -1516,8 +1516,24 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "goku": {
+      "OS3.0.304.0.WNVCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-07T07:50:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25483025256",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25483025256",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-07T07:46:51Z",
+  "last_updated": "2026-05-07T07:51:03Z",
   "engine_version": "3.0.0"
 }

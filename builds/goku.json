@@ -1,0 +1,29 @@
+{
+  "device": "goku",
+  "builds": {
+    "OS3.0.304.0.WNVCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-07T07:50:14Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:91b6fc4bb0cbb0683cded81ce0f0500d2349b5c98895978ffad79c069dc6a3da",
+        "services_patched.jar": "sha256:9001282d0d834b94be663d681948adf162dbe54e3b3864d45e8f0cc713c5de5e",
+        "miui-services_patched.jar": "sha256:03f0f2a866f0f9f8db232665af9d3d8b9b519e54ff5aac189e125b8012387128",
+        "miui-framework_patched.jar": "sha256:840c83dade6c0bef3359292b452205bff2996affc17f12acb95f5e9a45d4ca71",
+        "module_zip": "sha256:4e2e2e0e0c964aaf37e21abd0695da0c94e54d882aba323835a3b4ded49b5c27"
+      },
+      "workflow_run_id": "25483025256",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25483025256",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25483025256"
+    }
+  },
+  "last_updated": "2026-05-07T07:51:03Z"
+}
