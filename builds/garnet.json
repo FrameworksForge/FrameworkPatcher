@@ -44,17 +44,17 @@
       "android_version": "16",
       "patch_version": "3.0.0",
       "features": [
-        "kaorios_toolbox"
+        "cn_notification_fix"
       ],
-      "build_time": "2026-05-04T14:41:29Z",
+      "build_time": "2026-05-08T08:38:35Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:fd605efd64ddaa879901f3fd679c774a2231b6e0405e61ada1207597d826bf30",
-        "module_zip": "sha256:e8f5b96cc8ddecaacf15b0a5b7231c00bcb8ca47d0745b1ebba9130552fe62c8"
+        "miui-services_patched.jar": "sha256:921063fdfbd8166f45c5310898e33b0c6ad05977049a5bedccf2c09d9fb65f71",
+        "module_zip": "sha256:54d1a91352541adb8fd03dd7c8bbcd929e10ce7b55c6030cc699179cdeb05d4f"
       },
-      "workflow_run_id": "25325356914",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25325356914",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25325356914"
+      "workflow_run_id": "25545919770",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25545919770",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25545919770"
     },
     "OS3.0.5.0.WNRMIXM": {
       "android_version": "16",
@@ -76,5 +76,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25489965311"
     }
   },
-  "last_updated": "2026-05-07T10:23:08Z"
+  "last_updated": "2026-05-08T08:39:04Z"
 }
