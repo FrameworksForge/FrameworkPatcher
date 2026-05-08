@@ -365,10 +365,10 @@
       },
       "OS3.0.4.0.WNPINXM": {
         "android_version": "16",
-        "build_time": "2026-05-01T16:17:47Z",
+        "build_time": "2026-05-08T16:00:54Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25222129949",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25222129949",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25565569075",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25565569075",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -1782,6 +1782,6 @@
       }
     }
   },
-  "last_updated": "2026-05-08T14:38:17Z",
+  "last_updated": "2026-05-08T16:01:43Z",
   "engine_version": "3.0.0"
 }
