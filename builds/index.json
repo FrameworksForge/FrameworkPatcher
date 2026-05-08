@@ -618,6 +618,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "1.8": {
+        "android_version": "15",
+        "build_time": "2026-05-08T08:30:47Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25545452201",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25545452201",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "amethyst": {
@@ -1724,6 +1736,6 @@
       }
     }
   },
-  "last_updated": "2026-05-08T07:51:12Z",
+  "last_updated": "2026-05-08T08:31:26Z",
   "engine_version": "3.0.0"
 }
