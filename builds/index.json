@@ -1437,13 +1437,12 @@
     "flourite": {
       "OS3.0.304.0.WPRCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-08T07:16:14Z",
+        "build_time": "2026-05-08T14:10:15Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25542447058",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25542447058",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25560138589",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25560138589",
         "features": [
-          "disable_signature_verification",
-          "disable_secure_flag"
+          "disable_signature_verification"
         ]
       },
       "OS3.0.307.0.WPRCNXM": {
@@ -1770,6 +1769,6 @@
       }
     }
   },
-  "last_updated": "2026-05-08T14:06:17Z",
+  "last_updated": "2026-05-08T14:11:06Z",
   "engine_version": "3.0.0"
 }
