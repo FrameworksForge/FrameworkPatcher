@@ -384,6 +384,18 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.309.0.WMBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-08T02:16:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25532810654",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25532810654",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "dada": {
@@ -1672,6 +1684,6 @@
       }
     }
   },
-  "last_updated": "2026-05-08T01:54:50Z",
+  "last_updated": "2026-05-08T02:17:40Z",
   "engine_version": "3.0.0"
 }
