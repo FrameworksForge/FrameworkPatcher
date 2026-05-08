@@ -1682,8 +1682,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "sky": {
+      "1.0.10.0.UMWCNXM": {
+        "android_version": "14",
+        "build_time": "2026-05-08T04:10:41Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25536150342",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25536150342",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-08T02:17:40Z",
+  "last_updated": "2026-05-08T04:11:17Z",
   "engine_version": "3.0.0"
 }

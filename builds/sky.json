@@ -1,0 +1,27 @@
+{
+  "device": "sky",
+  "builds": {
+    "1.0.10.0.UMWCNXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-08T04:10:41Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:070e260226466cff4d8f74f87131d679e96d2b6e4a00ad576361254334b6b139",
+        "services_patched.jar": "sha256:a85d33c1d48ce963d65af0d60f63d2716328ad6d9c73bbca649feea71e1b6957",
+        "miui-services_patched.jar": "sha256:b774517028ce35afda363dddda79ae265057f2dc6e91c5a90b98a2e57355a020",
+        "miui-framework_patched.jar": "sha256:7d4677a98dc86578ecd7e93a9ec20a48abc26bdf592321b7ef975f5de469d433",
+        "module_zip": "sha256:bbc6296d2c3f10d2faab5d7b5d5e5048dbd84807e295cf8f2ba00b1c57b2eb87"
+      },
+      "workflow_run_id": "25536150342",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25536150342",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25536150342"
+    }
+  },
+  "last_updated": "2026-05-08T04:11:17Z"
+}
