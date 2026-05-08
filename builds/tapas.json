@@ -113,7 +113,23 @@
       "workflow_run_id": "25421344498",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25421344498",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25421344498"
+    },
+    "Coloros-15-CN": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-08T09:35:39Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:66e76abe358999fa9902e2788b848973f9e56e896b030d7b8a5d4fdfde265482",
+        "module_zip": "sha256:7f8f0591ff4e5202396b07c964dda03dbe0f58dbe3b764da600ec50bfbc522de"
+      },
+      "workflow_run_id": "25548298481",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25548298481",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25548298481"
     }
   },
-  "last_updated": "2026-05-06T07:10:08Z"
+  "last_updated": "2026-05-08T09:36:23Z"
 }

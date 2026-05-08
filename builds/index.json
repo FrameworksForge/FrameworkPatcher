@@ -793,6 +793,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "Coloros-15-CN": {
+        "android_version": "15",
+        "build_time": "2026-05-08T09:35:39Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25548298481",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25548298481",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "duchamp": {
@@ -1749,6 +1759,6 @@
       }
     }
   },
-  "last_updated": "2026-05-08T08:39:04Z",
+  "last_updated": "2026-05-08T09:36:23Z",
   "engine_version": "3.0.0"
 }
