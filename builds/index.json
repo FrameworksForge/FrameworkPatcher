@@ -1099,6 +1099,20 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.3.0.VLHCNXM (Android 15.0)": {
+        "android_version": "15",
+        "build_time": "2026-05-08T00:28:28Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25529503689",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25529503689",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "thor": {
@@ -1629,6 +1643,6 @@
       }
     }
   },
-  "last_updated": "2026-05-08T00:05:36Z",
+  "last_updated": "2026-05-08T00:29:13Z",
   "engine_version": "3.0.0"
 }
