@@ -1656,8 +1656,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "kunzite_global": {
+      "OS3.0.301.0.WPQMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-08T01:54:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25532131406",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25532131406",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-08T01:42:08Z",
+  "last_updated": "2026-05-08T01:54:50Z",
   "engine_version": "3.0.0"
 }
