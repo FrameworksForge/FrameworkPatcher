@@ -1,0 +1,25 @@
+{
+  "device": "Onyx",
+  "builds": {
+    "OS3.0.11.0WOLCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-08T14:37:42Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:c79b30a9e328739ebc379c284611f75d60ff4d2dcbf6ec07c008fb7aa8baded1",
+        "services_patched.jar": "sha256:f61ea854cf2882ea0b226f1baabc8289136a877d539de39d1bce5cdd2043cd00",
+        "miui-services_patched.jar": "sha256:e4e4dff9cba8903db080d43ecc211a275815c6e50a9e4d62c3e52fe59d7caa9d",
+        "module_zip": "sha256:21075d9fe9e29d8402b53f454329362c689fc0d03cf6e62bfb0f45c410d0e2df"
+      },
+      "workflow_run_id": "25561495773",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25561495773",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25561495773"
+    }
+  },
+  "last_updated": "2026-05-08T14:38:17Z"
+}

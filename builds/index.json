@@ -1767,8 +1767,21 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Onyx": {
+      "OS3.0.11.0WOLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-08T14:37:42Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25561495773",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25561495773",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-08T14:11:06Z",
+  "last_updated": "2026-05-08T14:38:17Z",
   "engine_version": "3.0.0"
 }
