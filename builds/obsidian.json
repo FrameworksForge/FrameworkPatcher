@@ -1,0 +1,25 @@
+{
+  "device": "obsidian",
+  "builds": {
+    "OS3.0.5.0.WOFMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-08T08:35:02Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:268809dc1bf57233da66089c961623ef7800cd336e82a4d38841776332eaa248",
+        "services_patched.jar": "sha256:cbb6ea452cae04058f07906381061633c227c9b23f56844930c34f63aa191f4e",
+        "miui-services_patched.jar": "sha256:082cadba2434757e253135e431366401164924267e7e2d5e78f489701f1c4a1e",
+        "module_zip": "sha256:4a7192c8cdac48fc29616f684db1d45766a76c571375201ae750334f57e08f28"
+      },
+      "workflow_run_id": "25545702871",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25545702871",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25545702871"
+    }
+  },
+  "last_updated": "2026-05-08T08:35:39Z"
+}

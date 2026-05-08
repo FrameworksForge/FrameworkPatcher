@@ -1734,8 +1734,21 @@
           "add_gboard"
         ]
       }
+    },
+    "obsidian": {
+      "OS3.0.5.0.WOFMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-08T08:35:02Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25545702871",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25545702871",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-08T08:31:26Z",
+  "last_updated": "2026-05-08T08:35:39Z",
   "engine_version": "3.0.0"
 }
