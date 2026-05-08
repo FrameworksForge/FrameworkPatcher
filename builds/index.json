@@ -335,10 +335,10 @@
       },
       "OS3.0.1.0.VMRTWXM": {
         "android_version": "15",
-        "build_time": "2026-05-08T14:02:32Z",
+        "build_time": "2026-05-08T14:05:33Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25559729817",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25559729817",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25559849159",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25559849159",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag"
@@ -1770,6 +1770,6 @@
       }
     }
   },
-  "last_updated": "2026-05-08T14:03:23Z",
+  "last_updated": "2026-05-08T14:06:17Z",
   "engine_version": "3.0.0"
 }
