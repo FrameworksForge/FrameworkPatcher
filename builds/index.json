@@ -1641,8 +1641,23 @@
           "add_gboard"
         ]
       }
+    },
+    "nuwa_cn": {
+      "OS3.0.309.0.WMBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-08T01:41:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25531754650",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25531754650",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-08T00:29:13Z",
+  "last_updated": "2026-05-08T01:42:08Z",
   "engine_version": "3.0.0"
 }
