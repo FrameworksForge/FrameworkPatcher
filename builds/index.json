@@ -356,6 +356,17 @@
           "disable_secure_flag",
           "add_gboard"
         ]
+      },
+      "OS3.0.1.0.VMRINXM": {
+        "android_version": "15",
+        "build_time": "2026-05-08T18:32:16Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25572471184",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25572471184",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "peridot": {
@@ -1795,6 +1806,6 @@
       }
     }
   },
-  "last_updated": "2026-05-08T18:31:13Z",
+  "last_updated": "2026-05-08T18:32:57Z",
   "engine_version": "3.0.0"
 }
