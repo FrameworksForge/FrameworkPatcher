@@ -554,6 +554,17 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.303.0.WNKCNXM44": {
+        "android_version": "16",
+        "build_time": "2026-05-09T10:50:56Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25599262574",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25599262574",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix"
+        ]
       }
     },
     "garnet": {
@@ -1873,6 +1884,6 @@
       }
     }
   },
-  "last_updated": "2026-05-09T09:54:52Z",
+  "last_updated": "2026-05-09T10:51:33Z",
   "engine_version": "3.0.0"
 }
