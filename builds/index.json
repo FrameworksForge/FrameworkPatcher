@@ -1952,10 +1952,10 @@
     "haotian": {
       "2.0.16.11VOBCNXM": {
         "android_version": "15",
-        "build_time": "2026-05-09T19:09:33Z",
+        "build_time": "2026-05-09T19:15:21Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25609427279",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25609427279",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25609538342",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25609538342",
         "features": [
           "cn_notification_fix",
           "add_gboard"
@@ -1963,6 +1963,6 @@
       }
     }
   },
-  "last_updated": "2026-05-09T19:10:07Z",
+  "last_updated": "2026-05-09T19:15:59Z",
   "engine_version": "3.0.0"
 }
