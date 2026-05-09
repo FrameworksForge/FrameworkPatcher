@@ -1920,8 +1920,23 @@
           "add_gboard"
         ]
       }
+    },
+    "lisa": {
+      "OS2.0.16.0.UKOCNXM": {
+        "android_version": "15",
+        "build_time": "2026-05-09T17:28:01Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25607184630",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25607184630",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-09T16:09:01Z",
+  "last_updated": "2026-05-09T17:28:39Z",
   "engine_version": "3.0.0"
 }

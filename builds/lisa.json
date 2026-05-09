@@ -1,0 +1,28 @@
+{
+  "device": "lisa",
+  "builds": {
+    "OS2.0.16.0.UKOCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-09T17:28:01Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7ea97f120e9d8e3309a727bba7034d9260f54befe54f6138836c427873838729",
+        "services_patched.jar": "sha256:f90a7fb0b5e5b31eaf101ad223ca7144fa16d426cde3274c5dda5188bb2b3c0a",
+        "miui-services_patched.jar": "sha256:79c60858b4d78c8bbec8042e84d2c6371664dce0962981bf2d1f85bbcdc9780a",
+        "miui-framework_patched.jar": "sha256:ea3eaf9fab7ed7d6adfad16770790f10cf29f5728c9d57079dc466518f48541c",
+        "module_zip": "sha256:9760a1d7eb4ce0e3f2247cf547b4fb01f0ad1d7b0178077308accc1b9621e180"
+      },
+      "workflow_run_id": "25607184630",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25607184630",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25607184630"
+    }
+  },
+  "last_updated": "2026-05-09T17:28:39Z"
+}
