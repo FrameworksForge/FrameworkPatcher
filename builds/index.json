@@ -1596,6 +1596,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "MOONSTONE_OS1.0.26.0.UMPMIXM_14": {
+        "android_version": "15",
+        "build_time": "2026-05-09T19:47:19Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25610136714",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25610136714",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "sapphire": {
@@ -1975,6 +1987,6 @@
       }
     }
   },
-  "last_updated": "2026-05-09T19:46:06Z",
+  "last_updated": "2026-05-09T19:47:51Z",
   "engine_version": "3.0.0"
 }

@@ -20,7 +20,27 @@
       "workflow_run_id": "25250068935",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25250068935",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25250068935"
+    },
+    "MOONSTONE_OS1.0.26.0.UMPMIXM_14": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-09T19:47:19Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:1d621e7db1648b2dd8bbda9beac8c149aa10acec2f57cd5e8c4b1231f243dd63",
+        "services_patched.jar": "sha256:9d4b46a7f26aa75a16af95beb5a1231a7015c0e113ce940e7b51feaf60acf4b9",
+        "miui-services_patched.jar": "sha256:39a1ca6ff1c4f5e23e6a49e11172072f3d923437de380edd4cbaa16deaed48ff",
+        "module_zip": "sha256:1467b40fa294193090f060b92815aada5317ddf458be6d4be8d84b1138c531d3"
+      },
+      "workflow_run_id": "25610136714",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25610136714",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25610136714"
     }
   },
-  "last_updated": "2026-05-02T10:42:12Z"
+  "last_updated": "2026-05-09T19:47:51Z"
 }
