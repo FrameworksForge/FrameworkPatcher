@@ -249,13 +249,14 @@
     "gold": {
       "OS3.0.7.0.VNQCNXM": {
         "android_version": "15",
-        "build_time": "2026-05-09T04:54:03Z",
+        "build_time": "2026-05-09T18:07:33Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25592127581",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25592127581",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25608075850",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25608075850",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
+          "disable_secure_flag",
           "add_gboard"
         ]
       },
@@ -1937,6 +1938,6 @@
       }
     }
   },
-  "last_updated": "2026-05-09T17:28:39Z",
+  "last_updated": "2026-05-09T18:08:11Z",
   "engine_version": "3.0.0"
 }
