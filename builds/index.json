@@ -417,6 +417,19 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.305.4.WMRCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-09T18:25:21Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25608477891",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25608477891",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "add_gboard"
+        ]
       }
     },
     "peridot": {
@@ -1937,6 +1950,6 @@
       }
     }
   },
-  "last_updated": "2026-05-09T18:10:45Z",
+  "last_updated": "2026-05-09T18:26:01Z",
   "engine_version": "3.0.0"
 }
