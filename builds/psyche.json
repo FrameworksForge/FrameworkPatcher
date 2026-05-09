@@ -1,0 +1,26 @@
+{
+  "device": "psyche",
+  "builds": {
+    "V816.0.13.0.TLDCNXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-09T12:11:53Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:8b840c9258b2f6f811c1e37024f1345fe5727f8dd1acd61b2f38bffb6de83d71",
+        "miui-services_patched.jar": "sha256:621c1704d1f2af1a409f33faddae825f02716251e0be571a7b8119ed110828e2",
+        "miui-framework_patched.jar": "sha256:249002d47d4cb32018dfea402b588b431c961f9ebeffaa773e37ec7dab2dcaa0",
+        "module_zip": "sha256:6acace8cbf4e9154b0432335db64add9b65d2c2715ba226f188d1cbe5fbc9bbd"
+      },
+      "workflow_run_id": "25600773631",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25600773631",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25600773631"
+    }
+  },
+  "last_updated": "2026-05-09T12:12:29Z"
+}

@@ -1894,8 +1894,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "psyche": {
+      "V816.0.13.0.TLDCNXM": {
+        "android_version": "13",
+        "build_time": "2026-05-09T12:11:53Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25600773631",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25600773631",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-09T11:05:55Z",
+  "last_updated": "2026-05-09T12:12:29Z",
   "engine_version": "3.0.0"
 }
