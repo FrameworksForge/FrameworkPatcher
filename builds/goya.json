@@ -1,0 +1,25 @@
+{
+  "device": "goya",
+  "builds": {
+    "OS3.0.300.0.WOEIDXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-09T09:50:37Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:618704b3c4d388d35d91ed0838cc67b1f987c950ea79c0fb2eb7d5c125f8b95c",
+        "services_patched.jar": "sha256:d52ca49455bbce47f7a9a1499e36dc1bfefae9976457c7193f2874dcca8ab14d",
+        "miui-services_patched.jar": "sha256:6133b04bc15540caf97d7bfa6ed07693b4ffb9af8ae0165b95df41d37aacb145",
+        "module_zip": "sha256:68b2921b20b1d05fd621778cdba14f149b9aeae806dcb7170e80494f04c89191"
+      },
+      "workflow_run_id": "25598080519",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25598080519",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25598080519"
+    }
+  },
+  "last_updated": "2026-05-09T09:51:19Z"
+}
