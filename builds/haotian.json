@@ -1,0 +1,24 @@
+{
+  "device": "haotian",
+  "builds": {
+    "2.0.16.11VOBCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-09T19:09:33Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:dba9001573c6ca5664d1234de2fbf2c67622dd958b277d050803891c4345569a",
+        "miui-framework_patched.jar": "sha256:7fe721ebe02606322bc2c87ec5281f57e66fc84789b63f0cf908c83bd67aecbd",
+        "module_zip": "sha256:6baa372fde6aefe4fb298b9efbc71a1ffa8dc1a0c5cc7f5612b232815c430bf4"
+      },
+      "workflow_run_id": "25609427279",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25609427279",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25609427279"
+    }
+  },
+  "last_updated": "2026-05-09T19:10:07Z"
+}
