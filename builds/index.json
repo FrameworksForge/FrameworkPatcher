@@ -141,6 +141,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.4.0.WOOTWXM": {
+        "android_version": "16",
+        "build_time": "2026-05-10T07:16:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25622653008",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25622653008",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "zorn": {
@@ -2009,6 +2021,6 @@
       }
     }
   },
-  "last_updated": "2026-05-10T06:43:53Z",
+  "last_updated": "2026-05-10T07:16:55Z",
   "engine_version": "3.0.0"
 }
