@@ -1995,9 +1995,19 @@
           "cn_notification_fix",
           "add_gboard"
         ]
+      },
+      "3.0.300.9VOBCNXM.C06": {
+        "android_version": "16",
+        "build_time": "2026-05-10T06:24:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25621751970",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25621751970",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     }
   },
-  "last_updated": "2026-05-10T03:15:05Z",
+  "last_updated": "2026-05-10T06:25:10Z",
   "engine_version": "3.0.0"
 }
