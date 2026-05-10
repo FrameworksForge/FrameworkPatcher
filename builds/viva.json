@@ -1,0 +1,25 @@
+{
+  "device": "viva",
+  "builds": {
+    "OS3.0.1.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-10T11:10:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:5eafcff54aa31e1525d00a5ea9eb4814191215a70ea2d2df5e2f432ede9eefb4",
+        "services_patched.jar": "sha256:39a39c187bf8ccbaebeb1ee8d50343b36c507af3ac9a3366a4fa86aee96f50b2",
+        "miui-services_patched.jar": "sha256:79373926174c1a019efa4ab748e90d979ec13391bc46fb34437a01648c754e5b",
+        "module_zip": "sha256:1d46f4595f69b98dbe1e92d4d00d482c9795d436b57d350e75972f101371e9e9"
+      },
+      "workflow_run_id": "25627110845",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25627110845",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25627110845"
+    }
+  },
+  "last_updated": "2026-05-10T11:11:13Z"
+}
