@@ -1608,6 +1608,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.19.0.UMPIDXM": {
+        "android_version": "14",
+        "build_time": "2026-05-10T03:14:25Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25618443724",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25618443724",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "sapphire": {
@@ -1987,6 +1998,6 @@
       }
     }
   },
-  "last_updated": "2026-05-09T19:47:51Z",
+  "last_updated": "2026-05-10T03:15:05Z",
   "engine_version": "3.0.0"
 }
