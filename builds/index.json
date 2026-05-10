@@ -2094,8 +2094,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "degas": {
+      "OS3.0.301.0.WNEMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-10T16:26:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25633760521",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25633760521",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-10T15:45:42Z",
+  "last_updated": "2026-05-10T16:27:15Z",
   "engine_version": "3.0.0"
 }
