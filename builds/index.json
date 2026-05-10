@@ -1866,6 +1866,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.306.1.WPBMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-10T20:28:01Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25638913454",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25638913454",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "corot": {
@@ -2103,6 +2114,6 @@
       }
     }
   },
-  "last_updated": "2026-05-10T19:33:55Z",
+  "last_updated": "2026-05-10T20:28:42Z",
   "engine_version": "3.0.0"
 }
