@@ -192,6 +192,18 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.303.0.WOKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-10T09:35:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25625303484",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25625303484",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "Tapas": {
@@ -2034,6 +2046,6 @@
       }
     }
   },
-  "last_updated": "2026-05-10T08:53:37Z",
+  "last_updated": "2026-05-10T09:36:28Z",
   "engine_version": "3.0.0"
 }
