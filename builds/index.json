@@ -389,6 +389,17 @@
           "disable_signature_verification",
           "cn_notification_fix"
         ]
+      },
+      "1.0.17.0.UNQINXM": {
+        "android_version": "14",
+        "build_time": "2026-05-10T22:31:26Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25641520330",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25641520330",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "topaz": {
@@ -2111,6 +2122,6 @@
       }
     }
   },
-  "last_updated": "2026-05-10T20:32:15Z",
+  "last_updated": "2026-05-10T22:32:05Z",
   "engine_version": "3.0.0"
 }
