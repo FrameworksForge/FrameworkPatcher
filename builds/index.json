@@ -503,6 +503,18 @@
           "disable_secure_flag",
           "add_gboard"
         ]
+      },
+      "OS3.0.9.0WBLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-11T07:25:53Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25656199872",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25656199872",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "peridot": {
@@ -2144,6 +2156,6 @@
       }
     }
   },
-  "last_updated": "2026-05-11T04:02:57Z",
+  "last_updated": "2026-05-11T07:26:38Z",
   "engine_version": "3.0.0"
 }
