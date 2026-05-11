@@ -411,6 +411,20 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "2.0.206.0.VNQCNXM": {
+        "android_version": "15",
+        "build_time": "2026-05-11T13:38:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25673513347",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25673513347",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "topaz": {
@@ -2175,6 +2189,6 @@
       }
     }
   },
-  "last_updated": "2026-05-11T13:02:08Z",
+  "last_updated": "2026-05-11T13:39:39Z",
   "engine_version": "3.0.0"
 }
