@@ -1,0 +1,26 @@
+{
+  "device": "sweet_k6a",
+  "builds": {
+    "OS2.0.6.0.VNUCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-11T14:11:26Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:a7f5ee0eaa88d790467540fba716fd5a03f596a88a7a0c2f6a5e5dfb65e347b8",
+        "services_patched.jar": "sha256:12d1348c7c1c0269737c3520f7c98bda34bb2ebd32211ac531cd3fbda60087db",
+        "miui-services_patched.jar": "sha256:3735d11629356b409f820aabd7105fb6e8ce7ba9dac2d5e96495709b70839821",
+        "module_zip": "sha256:f3a625a19fa204649cdb9c1e69755513b1e467b8ae08898d067df2ecff2de69f"
+      },
+      "workflow_run_id": "25675135753",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25675135753",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25675135753"
+    }
+  },
+  "last_updated": "2026-05-11T14:12:14Z"
+}

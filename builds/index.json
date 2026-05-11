@@ -2187,8 +2187,22 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "sweet_k6a": {
+      "OS2.0.6.0.VNUCNXM": {
+        "android_version": "15",
+        "build_time": "2026-05-11T14:11:26Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25675135753",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25675135753",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-11T13:39:39Z",
+  "last_updated": "2026-05-11T14:12:14Z",
   "engine_version": "3.0.0"
 }
