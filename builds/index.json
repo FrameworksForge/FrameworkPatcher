@@ -2139,15 +2139,14 @@
     "lisa": {
       "OS2.0.16.0.UKOCNXM": {
         "android_version": "15",
-        "build_time": "2026-05-09T17:28:01Z",
+        "build_time": "2026-05-11T16:59:08Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25607184630",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25607184630",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25684507293",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25684507293",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
-          "kaorios_toolbox",
-          "add_gboard"
+          "kaorios_toolbox"
         ]
       }
     },
@@ -2215,6 +2214,6 @@
       }
     }
   },
-  "last_updated": "2026-05-11T15:35:09Z",
+  "last_updated": "2026-05-11T16:59:59Z",
   "engine_version": "3.0.0"
 }
