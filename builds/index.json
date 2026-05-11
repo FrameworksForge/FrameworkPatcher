@@ -247,6 +247,17 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.205.0": {
+        "android_version": "16",
+        "build_time": "2026-05-11T13:01:27Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25671582419",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25671582419",
+        "features": [
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "mondrian": {
@@ -2164,6 +2175,6 @@
       }
     }
   },
-  "last_updated": "2026-05-11T13:00:10Z",
+  "last_updated": "2026-05-11T13:02:08Z",
   "engine_version": "3.0.0"
 }
