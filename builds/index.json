@@ -2108,12 +2108,12 @@
       },
       "3.0.300.9VOBCNXM.C06": {
         "android_version": "16",
-        "build_time": "2026-05-10T06:24:40Z",
+        "build_time": "2026-05-11T04:02:20Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25621751970",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25621751970",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25649585186",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25649585186",
         "features": [
-          "cn_notification_fix"
+          "kaorios_toolbox"
         ]
       }
     },
@@ -2144,6 +2144,6 @@
       }
     }
   },
-  "last_updated": "2026-05-11T03:52:35Z",
+  "last_updated": "2026-05-11T04:02:57Z",
   "engine_version": "3.0.0"
 }
