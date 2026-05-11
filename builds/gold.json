@@ -110,23 +110,20 @@
       "patch_version": "3.0.0",
       "features": [
         "disable_signature_verification",
-        "cn_notification_fix",
         "disable_secure_flag",
-        "kaorios_toolbox",
-        "add_gboard"
+        "kaorios_toolbox"
       ],
-      "build_time": "2026-05-10T10:40:29Z",
+      "build_time": "2026-05-11T19:23:07Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:c4721ef6ca5903c2c7273d76ec70a2f8906bd69db9092d8497967455edd934f0",
-        "services_patched.jar": "sha256:8aabafc4a42e7798acd959a3bdec590d2aa8e06972f4db972d66326693a46660",
-        "miui-services_patched.jar": "sha256:86c667f748a3f0c895d9d8988976cdfdccb6f3547ce2109924214b265396a0d4",
-        "miui-framework_patched.jar": "sha256:27064665cb30df2f94852421d8b955a2aaa08b3d5cf7c9d5733b44d31293fc41",
-        "module_zip": "sha256:83c902cf8c3168d61f0be02db4e0a7b642d85fd377f23f0617aebe515ceb37f3"
+        "framework_patched.jar": "sha256:4db9351da234126595ca6ee4842c941f1e64c8b3666d646489f46c6384f7df0b",
+        "services_patched.jar": "sha256:b8eba821d657295971c67f5fd89d16b18388dbb3d8860cc576fabad613fd5eb8",
+        "miui-services_patched.jar": "sha256:52090e74944b00af7b3830d4f70412f25a90d4144fd35974b2516d910b2bf767",
+        "module_zip": "sha256:f032821e68879dfa3913f84d00b6fba424a1cdcb3bc8a5f76025382ccb2a0190"
       },
-      "workflow_run_id": "25626510851",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25626510851",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25626510851"
+      "workflow_run_id": "25691923105",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25691923105",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25691923105"
     },
     "OS3.0.2.0VNQEUXM": {
       "android_version": "15",
@@ -210,5 +207,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25673513347"
     }
   },
-  "last_updated": "2026-05-11T13:39:39Z"
+  "last_updated": "2026-05-11T19:23:49Z"
 }
