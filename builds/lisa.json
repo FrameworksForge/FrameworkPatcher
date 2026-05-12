@@ -20,7 +20,23 @@
       "workflow_run_id": "25684507293",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25684507293",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25684507293"
+    },
+    "Realme UI 7.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-12T11:25:52Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8985fc482a02ddcffc3ee06954e34554f3f178d169627e1afc4e73f353b7fbf3",
+        "module_zip": "sha256:48931fe239b06e09a39136b756af3309af64cb1992c6db7dcd0dc005468a5e5f"
+      },
+      "workflow_run_id": "25731314170",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25731314170",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25731314170"
     }
   },
-  "last_updated": "2026-05-11T16:59:59Z"
+  "last_updated": "2026-05-12T11:26:33Z"
 }

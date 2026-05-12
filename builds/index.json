@@ -2179,6 +2179,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "Realme UI 7.0": {
+        "android_version": "16",
+        "build_time": "2026-05-12T11:25:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25731314170",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25731314170",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "haotian": {
@@ -2259,6 +2269,6 @@
       }
     }
   },
-  "last_updated": "2026-05-12T09:15:13Z",
+  "last_updated": "2026-05-12T11:26:33Z",
   "engine_version": "3.0.0"
 }
