@@ -1213,6 +1213,16 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "3.0.306.4.WPBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-12T01:47:42Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25708231423",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25708231423",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "klee": {
@@ -2223,6 +2233,6 @@
       }
     }
   },
-  "last_updated": "2026-05-12T01:29:42Z",
+  "last_updated": "2026-05-12T01:48:17Z",
   "engine_version": "3.0.0"
 }
