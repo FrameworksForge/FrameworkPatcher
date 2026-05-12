@@ -1,0 +1,26 @@
+{
+  "device": "xuanyuan",
+  "builds": {
+    "OS3.0.303.0.WOACNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-12T07:05:49Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7d93aed0169028e036e6f842fca2e7c495ab27988eeead6646b0ce6d1e778030",
+        "services_patched.jar": "sha256:fea8524dbe5fce90e50b553b75cd78fc9292a2580a803dafd0ef247adfde9c9f",
+        "miui-services_patched.jar": "sha256:0581c216e50b571c801f52d6a376fe42226d6fb72330e2d41cd373092e8de6d5",
+        "module_zip": "sha256:9a204f9adfe6b27d70a41af5f1a29dfe35d445a09a4063122e09d64277538edb"
+      },
+      "workflow_run_id": "25718967331",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25718967331",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25718967331"
+    }
+  },
+  "last_updated": "2026-05-12T07:06:33Z"
+}
