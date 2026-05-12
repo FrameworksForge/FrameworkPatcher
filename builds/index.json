@@ -1626,6 +1626,16 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "3.0.305.4.WPMCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-12T04:46:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25713929191",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25713929191",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "Peridot": {
@@ -2233,6 +2243,6 @@
       }
     }
   },
-  "last_updated": "2026-05-12T01:48:17Z",
+  "last_updated": "2026-05-12T04:46:37Z",
   "engine_version": "3.0.0"
 }
