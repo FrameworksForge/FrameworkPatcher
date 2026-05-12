@@ -1910,6 +1910,16 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "3.0.3.0 WLMEUXM": {
+        "android_version": "16",
+        "build_time": "2026-05-12T11:37:16Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25731851310",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25731851310",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "houji": {
@@ -2269,6 +2279,6 @@
       }
     }
   },
-  "last_updated": "2026-05-12T11:26:33Z",
+  "last_updated": "2026-05-12T11:37:56Z",
   "engine_version": "3.0.0"
 }
