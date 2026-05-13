@@ -2337,16 +2337,17 @@
     "light": {
       "OS1.0.4.0.ULSINXM": {
         "android_version": "14",
-        "build_time": "2026-05-13T05:36:18Z",
+        "build_time": "2026-05-13T06:14:35Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25780470623",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25780470623",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25781836729",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25781836729",
         "features": [
-          "disable_signature_verification"
+          "disable_signature_verification",
+          "kaorios_toolbox"
         ]
       }
     }
   },
-  "last_updated": "2026-05-13T05:36:55Z",
+  "last_updated": "2026-05-13T06:15:13Z",
   "engine_version": "3.0.0"
 }
