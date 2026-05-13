@@ -1415,10 +1415,10 @@
       },
       "OS3.0.300.0.WOJEUXM": {
         "android_version": "16",
-        "build_time": "2026-05-13T21:07:22Z",
+        "build_time": "2026-05-13T21:13:18Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25826378727",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25826378727",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25826664977",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25826664977",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -2411,6 +2411,6 @@
       }
     }
   },
-  "last_updated": "2026-05-13T21:08:10Z",
+  "last_updated": "2026-05-13T21:13:56Z",
   "engine_version": "3.0.0"
 }
