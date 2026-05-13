@@ -2297,8 +2297,21 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Rodin": {
+      "rodin_tw_global_images_OS2.0.204.0.VOJTWXM_15.0": {
+        "android_version": "15",
+        "build_time": "2026-05-13T01:34:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25772589752",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25772589752",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-12T15:08:32Z",
+  "last_updated": "2026-05-13T01:35:36Z",
   "engine_version": "3.0.0"
 }

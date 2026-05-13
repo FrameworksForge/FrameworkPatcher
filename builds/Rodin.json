@@ -1,0 +1,25 @@
+{
+  "device": "Rodin",
+  "builds": {
+    "rodin_tw_global_images_OS2.0.204.0.VOJTWXM_15.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-13T01:34:52Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f1981613386c86eaf8ec10d92e6f48cfcb6e1a3acec45f6821bbf2feb333a1c9",
+        "services_patched.jar": "sha256:06e78c74ed3951d3cdee2ab203442acc7ef0ee48e5c2088f8466cc36ef81cbf5",
+        "miui-services_patched.jar": "sha256:4e6466b4d81b1c0edaf151c980e736482aa13133b49f35b5e4e7356b7b876b17",
+        "module_zip": "sha256:6176ddffd4f38a3107978e11fd3fed4b78ab752c5ac82ab5494ed532e5290aa9"
+      },
+      "workflow_run_id": "25772589752",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25772589752",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25772589752"
+    }
+  },
+  "last_updated": "2026-05-13T01:35:36Z"
+}
