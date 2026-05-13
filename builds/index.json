@@ -644,13 +644,14 @@
     "dada": {
       "OS3.0.302.0.WOCCNXM": {
         "android_version": "16",
-        "build_time": "2026-04-28T15:07:13Z",
+        "build_time": "2026-05-13T11:26:05Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25060794614",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25060794614",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25796004332",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25796004332",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag"
+          "disable_secure_flag",
+          "kaorios_toolbox"
         ]
       },
       "OS3.0.301.0.WOCCNXM": {
@@ -2347,6 +2348,6 @@
       }
     }
   },
-  "last_updated": "2026-05-13T09:49:14Z",
+  "last_updated": "2026-05-13T11:26:50Z",
   "engine_version": "3.0.0"
 }
