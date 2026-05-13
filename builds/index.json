@@ -2333,8 +2333,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "light": {
+      "OS1.0.4.0.ULSINXM": {
+        "android_version": "14",
+        "build_time": "2026-05-13T05:36:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25780470623",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25780470623",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-13T05:07:19Z",
+  "last_updated": "2026-05-13T05:36:55Z",
   "engine_version": "3.0.0"
 }

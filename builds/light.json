@@ -1,0 +1,24 @@
+{
+  "device": "light",
+  "builds": {
+    "OS1.0.4.0.ULSINXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-05-13T05:36:18Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:fb0ff771ba2d21fae82b29a48b9d1ce848649f8fe426087f0b3449f6fac354eb",
+        "services_patched.jar": "sha256:daa8dc5014e400773daace80e29daa40f60e17128381c891047f5682e61b99ee",
+        "miui-services_patched.jar": "sha256:49a1958d8d6dfd2c79ef3d879cc2ee243c25b344e26c41acad903c214ff01ebe",
+        "module_zip": "sha256:94a1c7056d7c20c3d8832011be986de76683015b72f967b6e41879a3c6bcc1fe"
+      },
+      "workflow_run_id": "25780470623",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25780470623",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25780470623"
+    }
+  },
+  "last_updated": "2026-05-13T05:36:55Z"
+}
