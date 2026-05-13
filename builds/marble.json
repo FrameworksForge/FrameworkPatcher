@@ -47,18 +47,18 @@
         "disable_secure_flag",
         "add_gboard"
       ],
-      "build_time": "2026-05-03T11:25:46Z",
+      "build_time": "2026-05-13T15:18:41Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:47cbde6bafbed86d67ca44ee6fa294b403036d88fd73e27d831991ff529dbf9a",
-        "services_patched.jar": "sha256:43f2945fc3e8478927b4b9ef4ac59dfc50ab98f00adbeded722489f8f09d0ef2",
-        "miui-services_patched.jar": "sha256:74fad06f48825a37b0ffb07e1b7a9b58f320fb2dd5b738b3597e54141be70f11",
-        "miui-framework_patched.jar": "sha256:b5d2ac99a2356da900319759142da216dff5bd6b55257b4728da5485502cf057",
-        "module_zip": "sha256:5299d04434b2ae0753bb1238d3a7463e4a9cb0d9a709667d3ef2772c7e6eacb0"
+        "framework_patched.jar": "sha256:7c114f90a3e69d0f258d2934a58363a2d1bf33e425c101c738875f901244049d",
+        "services_patched.jar": "sha256:f557839b63553290be6572d996c6556954f62be317b8b6460fa4f89244a34292",
+        "miui-services_patched.jar": "sha256:be928f2fd98238205dac23354aa6d7931d27cac4d6a494cf00d5bfd1aedf3314",
+        "miui-framework_patched.jar": "sha256:3029199b9960f6866e89633a12f0894622a8da7b8cb0eae73cf1f79bd25362f1",
+        "module_zip": "sha256:57ba69fe3d5b7c4fb5b46f3be1654e2f285961143a0b87702cdaeca2b1549d35"
       },
-      "workflow_run_id": "25277776929",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25277776929",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25277776929"
+      "workflow_run_id": "25808205016",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25808205016",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25808205016"
     },
     "OS3.0.1.0.VMRTWXM": {
       "android_version": "15",
@@ -163,5 +163,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25656199872"
     }
   },
-  "last_updated": "2026-05-11T07:26:38Z"
+  "last_updated": "2026-05-13T15:19:36Z"
 }
