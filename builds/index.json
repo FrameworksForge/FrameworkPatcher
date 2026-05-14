@@ -2445,18 +2445,17 @@
     "ishtar": {
       "OS3.0.305.0.WMACNXM": {
         "android_version": "16",
-        "build_time": "2026-05-13T18:18:49Z",
+        "build_time": "2026-05-14T19:02:01Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25817884906",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25817884906",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25879481705",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25879481705",
         "features": [
           "disable_signature_verification",
-          "cn_notification_fix",
           "disable_secure_flag"
         ]
       }
     }
   },
-  "last_updated": "2026-05-14T18:17:55Z",
+  "last_updated": "2026-05-14T19:02:39Z",
   "engine_version": "3.0.0"
 }
