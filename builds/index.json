@@ -1876,12 +1876,13 @@
       },
       "OS2.0.201.0.VMWJPXM": {
         "android_version": "15",
-        "build_time": "2026-05-14T02:51:16Z",
+        "build_time": "2026-05-14T08:42:55Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25838669024",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25838669024",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25850542608",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25850542608",
         "features": [
-          "disable_signature_verification"
+          "disable_secure_flag",
+          "kaorios_toolbox"
         ]
       }
     },
@@ -2435,6 +2436,6 @@
       }
     }
   },
-  "last_updated": "2026-05-14T06:43:10Z",
+  "last_updated": "2026-05-14T08:43:35Z",
   "engine_version": "3.0.0"
 }
