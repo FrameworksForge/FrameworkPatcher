@@ -1004,6 +1004,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.6.0.WOLEUXM": {
+        "android_version": "16",
+        "build_time": "2026-05-14T06:42:31Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25845964184",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25845964184",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "tapas": {
@@ -2422,6 +2435,6 @@
       }
     }
   },
-  "last_updated": "2026-05-14T04:38:59Z",
+  "last_updated": "2026-05-14T06:43:10Z",
   "engine_version": "3.0.0"
 }
