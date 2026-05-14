@@ -221,14 +221,12 @@
       },
       "OS3.0.303.0.WOKCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-10T09:35:49Z",
+        "build_time": "2026-05-14T15:33:03Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25625303484",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25625303484",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25869015485",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25869015485",
         "features": [
-          "disable_signature_verification",
-          "cn_notification_fix",
-          "disable_secure_flag"
+          "disable_signature_verification"
         ]
       },
       "OS3.0.9.0.WOKCNXM": {
@@ -2457,6 +2455,6 @@
       }
     }
   },
-  "last_updated": "2026-05-14T13:49:49Z",
+  "last_updated": "2026-05-14T15:33:42Z",
   "engine_version": "3.0.0"
 }
