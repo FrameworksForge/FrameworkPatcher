@@ -1859,6 +1859,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.201.0.VMWJPXM": {
+        "android_version": "15",
+        "build_time": "2026-05-14T02:51:16Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25838669024",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25838669024",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "sapphire": {
@@ -2411,6 +2421,6 @@
       }
     }
   },
-  "last_updated": "2026-05-13T22:01:25Z",
+  "last_updated": "2026-05-14T02:52:13Z",
   "engine_version": "3.0.0"
 }
