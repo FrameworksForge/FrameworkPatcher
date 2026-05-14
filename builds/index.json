@@ -1308,6 +1308,16 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.301.0.WPJCNXM.CO6": {
+        "android_version": "16",
+        "build_time": "2026-05-14T09:29:50Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25852638698",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25852638698",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "nezha": {
@@ -2446,6 +2456,6 @@
       }
     }
   },
-  "last_updated": "2026-05-14T08:43:54Z",
+  "last_updated": "2026-05-14T09:30:21Z",
   "engine_version": "3.0.0"
 }
