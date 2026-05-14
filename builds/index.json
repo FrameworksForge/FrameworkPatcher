@@ -503,14 +503,15 @@
       },
       "OS3.0.4.0.VMRCNXM": {
         "android_version": "15",
-        "build_time": "2026-05-13T15:18:41Z",
+        "build_time": "2026-05-14T04:38:17Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25808205016",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25808205016",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25841864488",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25841864488",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
           "disable_secure_flag",
+          "kaorios_toolbox",
           "add_gboard"
         ]
       },
@@ -2421,6 +2422,6 @@
       }
     }
   },
-  "last_updated": "2026-05-14T02:52:13Z",
+  "last_updated": "2026-05-14T04:38:59Z",
   "engine_version": "3.0.0"
 }
