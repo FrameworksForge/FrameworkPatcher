@@ -886,6 +886,17 @@
         "android_version": "16",
         "build_time": "2026-04-28T01:04:52Z",
         "patch_version": "3.0.0"
+      },
+      "ZKOS3.0.303.0.WOPCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-15T15:11:39Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25925286389",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25925286389",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "rothko": {
@@ -2500,6 +2511,6 @@
       }
     }
   },
-  "last_updated": "2026-05-15T15:01:57Z",
+  "last_updated": "2026-05-15T15:12:18Z",
   "engine_version": "3.0.0"
 }

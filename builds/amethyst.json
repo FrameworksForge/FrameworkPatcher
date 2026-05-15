@@ -20,7 +20,26 @@
       },
       "workflow_run_id": "25028071658",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25028071658"
+    },
+    "ZKOS3.0.303.0.WOPCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-15T15:11:39Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:baf4ab500151637c79b20ff58b184d05c22c87a78dffd29149b7e22c39394774",
+        "services_patched.jar": "sha256:a0394eca55d240fb866bb653df86059973ede740d132d2d720b63fdb8bd2604e",
+        "miui-services_patched.jar": "sha256:5d78f625b50645203dcea127e243ebdf518c33695df04f4eacb719adf84d4a7c",
+        "module_zip": "sha256:0261fed2c928daadf74bc2245d2012bc1b5eea2b1bb8f393848b5c8bf4c38fb9"
+      },
+      "workflow_run_id": "25925286389",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25925286389",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25925286389"
     }
   },
-  "last_updated": "2026-04-28T01:05:31Z"
+  "last_updated": "2026-05-15T15:12:18Z"
 }
