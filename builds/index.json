@@ -2509,8 +2509,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "creek": {
+      "creek_global-ota_full-OS3.0.303.1.WBOMIXM-user-16.0-cb47cf2278": {
+        "android_version": "16",
+        "build_time": "2026-05-15T15:30:28Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25926197400",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25926197400",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-15T15:15:20Z",
+  "last_updated": "2026-05-15T15:31:09Z",
   "engine_version": "3.0.0"
 }

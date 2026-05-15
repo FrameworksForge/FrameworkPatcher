@@ -1,0 +1,24 @@
+{
+  "device": "creek",
+  "builds": {
+    "creek_global-ota_full-OS3.0.303.1.WBOMIXM-user-16.0-cb47cf2278": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-05-15T15:30:28Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b2ed4f8719fa7bf21c671f951220adc267dab4f11f203463072c38b7312237b8",
+        "services_patched.jar": "sha256:eb5586e54cad01cee3c50c0c02960815f26e4fddb0f9c56625a6d1c35859dd77",
+        "miui-services_patched.jar": "sha256:a9ce4f7f60eb18a5cc7624b84515fb41a06ed8e3e89e679c0d48325d94bb8f01",
+        "module_zip": "sha256:2a8655e7812696b0000fb9d4a1ebef9333b8b2e534c58a99d25d96c9c73d7c69"
+      },
+      "workflow_run_id": "25926197400",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25926197400",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25926197400"
+    }
+  },
+  "last_updated": "2026-05-15T15:31:09Z"
+}
