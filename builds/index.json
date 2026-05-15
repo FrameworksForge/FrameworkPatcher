@@ -2459,6 +2459,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.4.0.ULSIDXM": {
+        "android_version": "14",
+        "build_time": "2026-05-15T03:23:15Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25898397124",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25898397124",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "shennong": {
@@ -2488,6 +2499,6 @@
       }
     }
   },
-  "last_updated": "2026-05-15T02:41:23Z",
+  "last_updated": "2026-05-15T03:23:54Z",
   "engine_version": "3.0.0"
 }
