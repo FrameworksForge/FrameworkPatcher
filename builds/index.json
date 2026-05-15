@@ -2197,6 +2197,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.11.0.WNUINXM": {
+        "android_version": "16",
+        "build_time": "2026-05-15T02:40:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25897276612",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25897276612",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "goku": {
@@ -2478,6 +2488,6 @@
       }
     }
   },
-  "last_updated": "2026-05-15T02:24:28Z",
+  "last_updated": "2026-05-15T02:41:23Z",
   "engine_version": "3.0.0"
 }
