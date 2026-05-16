@@ -2519,6 +2519,16 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.302.0.WNEEUXM": {
+        "android_version": "16",
+        "build_time": "2026-05-16T17:03:19Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25967778105",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25967778105",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "sweet_k6a": {
@@ -2661,6 +2671,6 @@
       }
     }
   },
-  "last_updated": "2026-05-16T16:38:43Z",
+  "last_updated": "2026-05-16T17:03:58Z",
   "engine_version": "3.0.0"
 }
