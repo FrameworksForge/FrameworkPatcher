@@ -2608,9 +2608,20 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.302.0.WBOMIXM_EU": {
+        "android_version": "16",
+        "build_time": "2026-05-16T11:30:42Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25960765967",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25960765967",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     }
   },
-  "last_updated": "2026-05-16T09:05:53Z",
+  "last_updated": "2026-05-16T11:31:18Z",
   "engine_version": "3.0.0"
 }
