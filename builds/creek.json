@@ -18,7 +18,26 @@
       "workflow_run_id": "25926197400",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25926197400",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25926197400"
+    },
+    "OS3.0.10.0.WBOMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-16T09:05:20Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:1c4feada6a3e44864d13572fea51cc1e6528bcdd4a272f9efdd27eaa834a052a",
+        "services_patched.jar": "sha256:1ad88436405e590c35cc4f2d8ad6a1044c2e970dd566f3e303e520d92ee0696b",
+        "miui-services_patched.jar": "sha256:9a3fa7c527fb04e2fc6a81e3a50dd97446249f255f9c710debf97ef3e8d90b4e",
+        "module_zip": "sha256:fc9a7f74c4aa6b85afc3ffe653d7f0ece17285fac7800b0f8281022c8c55c804"
+      },
+      "workflow_run_id": "25957994282",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25957994282",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25957994282"
     }
   },
-  "last_updated": "2026-05-15T15:31:09Z"
+  "last_updated": "2026-05-16T09:05:53Z"
 }

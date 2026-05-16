@@ -2597,9 +2597,20 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.10.0.WBOMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-16T09:05:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25957994282",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25957994282",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     }
   },
-  "last_updated": "2026-05-16T06:59:26Z",
+  "last_updated": "2026-05-16T09:05:53Z",
   "engine_version": "3.0.0"
 }
