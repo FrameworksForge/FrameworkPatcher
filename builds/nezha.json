@@ -82,7 +82,23 @@
       "workflow_run_id": "25322182612",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25322182612",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25322182612"
+    },
+    "3.0.306.2.WPACNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-05-16T21:03:49Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:781f464ac2b8cef952fb036b90d1633162e67b12e68d60be5046de072c9e18cb",
+        "module_zip": "sha256:81e332bfbe95a538c03f03fec821b4fbfde808b96a6e3af8c8bd95f3d616f452"
+      },
+      "workflow_run_id": "25972873346",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25972873346",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25972873346"
     }
   },
-  "last_updated": "2026-05-05T10:03:17Z"
+  "last_updated": "2026-05-16T21:04:15Z"
 }
