@@ -196,10 +196,10 @@
       },
       "OS2.0.206.0.VOOMIXM": {
         "android_version": "15",
-        "build_time": "2026-05-16T01:52:24Z",
+        "build_time": "2026-05-16T03:02:15Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25949646885",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25949646885",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25951025275",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25951025275",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -2558,6 +2558,6 @@
       }
     }
   },
-  "last_updated": "2026-05-16T02:07:32Z",
+  "last_updated": "2026-05-16T03:02:58Z",
   "engine_version": "3.0.0"
 }
