@@ -1893,6 +1893,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.4.0.WNJINXM": {
+        "android_version": "16",
+        "build_time": "2026-05-16T03:04:42Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25951106183",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25951106183",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "flourite": {
@@ -2558,6 +2570,6 @@
       }
     }
   },
-  "last_updated": "2026-05-16T03:02:58Z",
+  "last_updated": "2026-05-16T03:05:16Z",
   "engine_version": "3.0.0"
 }
