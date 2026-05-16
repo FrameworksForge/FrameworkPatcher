@@ -1773,6 +1773,18 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.304.0.WPKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-16T16:37:10Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25967179605",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25967179605",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "myron": {
@@ -2649,6 +2661,6 @@
       }
     }
   },
-  "last_updated": "2026-05-16T16:24:00Z",
+  "last_updated": "2026-05-16T16:37:48Z",
   "engine_version": "3.0.0"
 }
