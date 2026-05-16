@@ -193,6 +193,19 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS2.0.206.0.VOOMIXM": {
+        "android_version": "15",
+        "build_time": "2026-05-16T01:47:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25949559316",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25949559316",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "zorn": {
@@ -2534,6 +2547,6 @@
       }
     }
   },
-  "last_updated": "2026-05-15T20:11:45Z",
+  "last_updated": "2026-05-16T01:48:32Z",
   "engine_version": "3.0.0"
 }
