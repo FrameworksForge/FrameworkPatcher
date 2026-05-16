@@ -1170,6 +1170,17 @@
           "disable_secure_flag",
           "add_gboard"
         ]
+      },
+      "14.0.8": {
+        "android_version": "15",
+        "build_time": "2026-05-16T18:59:57Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25970192285",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25970192285",
+        "features": [
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "duchamp": {
@@ -2684,6 +2695,6 @@
       }
     }
   },
-  "last_updated": "2026-05-16T18:48:17Z",
+  "last_updated": "2026-05-16T19:00:28Z",
   "engine_version": "3.0.0"
 }
