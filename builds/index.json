@@ -2633,8 +2633,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "sheng": {
+      "OS2.0.211.0.VNXCNXM": {
+        "android_version": "15",
+        "build_time": "2026-05-16T16:23:19Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25966841771",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25966841771",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-16T14:44:55Z",
+  "last_updated": "2026-05-16T16:24:00Z",
   "engine_version": "3.0.0"
 }

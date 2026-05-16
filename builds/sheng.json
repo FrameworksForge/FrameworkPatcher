@@ -1,0 +1,26 @@
+{
+  "device": "sheng",
+  "builds": {
+    "OS2.0.211.0.VNXCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-16T16:23:19Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:cd04bbb3364000ac92ed73defd61251083d0b60054595091b6aaa1bf77421d2a",
+        "services_patched.jar": "sha256:094860be11ba906381e87c62cdccf6669ed2024f59530f73b08abd3374f80fe8",
+        "miui-services_patched.jar": "sha256:4cf719bd97743ced8d375e524bdd9ee927a8c92bc7d454d38a2d1a971f693b72",
+        "module_zip": "sha256:819f5d3d40784f34ce55e29d73a96902120f6ca991e9e82802b1a2dff1042554"
+      },
+      "workflow_run_id": "25966841771",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25966841771",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25966841771"
+    }
+  },
+  "last_updated": "2026-05-16T16:24:00Z"
+}
