@@ -1157,6 +1157,19 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "14.0.5.0": {
+        "android_version": "15",
+        "build_time": "2026-05-16T18:47:45Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25969895657",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25969895657",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "add_gboard"
+        ]
       }
     },
     "duchamp": {
@@ -2671,6 +2684,6 @@
       }
     }
   },
-  "last_updated": "2026-05-16T17:03:58Z",
+  "last_updated": "2026-05-16T18:48:17Z",
   "engine_version": "3.0.0"
 }
