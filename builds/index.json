@@ -422,10 +422,10 @@
       },
       "OS3.0.2.0.VNQTWXM": {
         "android_version": "15",
-        "build_time": "2026-05-11T19:23:07Z",
+        "build_time": "2026-05-16T16:38:05Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25691923105",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25691923105",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25967170637",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25967170637",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -2661,6 +2661,6 @@
       }
     }
   },
-  "last_updated": "2026-05-16T16:37:48Z",
+  "last_updated": "2026-05-16T16:38:43Z",
   "engine_version": "3.0.0"
 }
