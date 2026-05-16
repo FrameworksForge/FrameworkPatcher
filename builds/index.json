@@ -2053,6 +2053,17 @@
           "disable_signature_verification",
           "add_gboard"
         ]
+      },
+      "OS3.0.12.0.VLFTWXM": {
+        "android_version": "15",
+        "build_time": "2026-05-16T02:06:56Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25949966003",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25949966003",
+        "features": [
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "fog": {
@@ -2547,6 +2558,6 @@
       }
     }
   },
-  "last_updated": "2026-05-16T01:53:04Z",
+  "last_updated": "2026-05-16T02:07:32Z",
   "engine_version": "3.0.0"
 }
