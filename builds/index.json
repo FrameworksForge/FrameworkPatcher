@@ -1757,6 +1757,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.301.0.WOMMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-17T15:41:56Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25995210891",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25995210891",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "redwood": {
@@ -2776,6 +2787,6 @@
       }
     }
   },
-  "last_updated": "2026-05-17T13:14:03Z",
+  "last_updated": "2026-05-17T15:42:38Z",
   "engine_version": "3.0.0"
 }
