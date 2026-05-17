@@ -2706,16 +2706,16 @@
     "piano": {
       "3.0.305.0.WPYCNXM.C08": {
         "android_version": "16",
-        "build_time": "2026-05-17T01:35:12Z",
+        "build_time": "2026-05-17T01:37:15Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25978111244",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25978111244",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25978148461",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25978148461",
         "features": [
           "kaorios_toolbox"
         ]
       }
     }
   },
-  "last_updated": "2026-05-17T01:35:43Z",
+  "last_updated": "2026-05-17T01:37:48Z",
   "engine_version": "3.0.0"
 }

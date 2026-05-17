@@ -7,16 +7,16 @@
       "features": [
         "kaorios_toolbox"
       ],
-      "build_time": "2026-05-17T01:35:12Z",
+      "build_time": "2026-05-17T01:37:15Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:e7b9196b726dcf5c48466e8d9be23d3199d52e58a7663f0e988beb8d2b678afc",
-        "module_zip": "sha256:1ccc576c387b083dc2e74b5a2c59c7a1ddef3746b4a676b69ee9b851a92c4818"
+        "framework_patched.jar": "sha256:5d3e8cb69e76107384f3ceac5325bc6fb13c2c20fc5bb596406a64406b9834b6",
+        "module_zip": "sha256:5ae8353866c81029879e92f1ad9c050d9778f2d8f9aeba7494a7387f4603cafa"
       },
-      "workflow_run_id": "25978111244",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25978111244",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25978111244"
+      "workflow_run_id": "25978148461",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25978148461",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25978148461"
     }
   },
-  "last_updated": "2026-05-17T01:35:43Z"
+  "last_updated": "2026-05-17T01:37:48Z"
 }
