@@ -683,6 +683,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.3010.1.Wanjayyyyy": {
+        "android_version": "16",
+        "build_time": "2026-05-17T08:03:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25985309259",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25985309259",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix"
+        ]
       }
     },
     "dada": {
@@ -2730,6 +2741,6 @@
       }
     }
   },
-  "last_updated": "2026-05-17T06:49:58Z",
+  "last_updated": "2026-05-17T08:03:48Z",
   "engine_version": "3.0.0"
 }
