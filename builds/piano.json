@@ -1,0 +1,22 @@
+{
+  "device": "piano",
+  "builds": {
+    "3.0.305.0.WPYCNXM.C08": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-17T01:35:12Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:e7b9196b726dcf5c48466e8d9be23d3199d52e58a7663f0e988beb8d2b678afc",
+        "module_zip": "sha256:1ccc576c387b083dc2e74b5a2c59c7a1ddef3746b4a676b69ee9b851a92c4818"
+      },
+      "workflow_run_id": "25978111244",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25978111244",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25978111244"
+    }
+  },
+  "last_updated": "2026-05-17T01:35:43Z"
+}
