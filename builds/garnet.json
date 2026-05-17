@@ -75,7 +75,23 @@
       "workflow_run_id": "25489965311",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25489965311",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25489965311"
+    },
+    "OS2.0.208.0.VNREUXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-17T11:59:31Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:2b9620fe19d9e9f01fd8f62a80322b1f24fed0a1b191087e63ad000b50473597",
+        "module_zip": "sha256:bb82644080bd7adc8c82eb3b9cff377d2ddbbb498878cca1efd6972f4a525e66"
+      },
+      "workflow_run_id": "25990175734",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25990175734",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25990175734"
     }
   },
-  "last_updated": "2026-05-11T03:29:06Z"
+  "last_updated": "2026-05-17T12:00:01Z"
 }

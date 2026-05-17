@@ -820,6 +820,16 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS2.0.208.0.VNREUXM": {
+        "android_version": "15",
+        "build_time": "2026-05-17T11:59:31Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25990175734",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25990175734",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "Xaga": {
@@ -2752,6 +2762,6 @@
       }
     }
   },
-  "last_updated": "2026-05-17T11:54:52Z",
+  "last_updated": "2026-05-17T12:00:01Z",
   "engine_version": "3.0.0"
 }
