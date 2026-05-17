@@ -22,15 +22,15 @@
       "features": [
         "cn_notification_fix"
       ],
-      "build_time": "2026-05-14T13:49:11Z",
+      "build_time": "2026-05-17T11:13:31Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "miui-services_patched.jar": "sha256:daae3f487cc2f931e76412776806ddc7f7af75757ed1c76ad87896d62ffdb806",
-        "module_zip": "sha256:bd7f78a7adf10a5d0dc5012c69ff4ac24dc2c9c9d6d0aa5fd56ab81347256e15"
+        "miui-services_patched.jar": "sha256:a1c2ba37cc36e42c5a98788b9a796233a23af2ede706bf9ace376ac5a1a72917",
+        "module_zip": "sha256:bb884c7088fc209d7f5e916cb2ed425e4e1de8f597eb8ac92653d405793c31a4"
       },
-      "workflow_run_id": "25863693337",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25863693337",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25863693337"
+      "workflow_run_id": "25989236159",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25989236159",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25989236159"
     },
     "OS3.0.4.0.WNPINXM": {
       "android_version": "16",
@@ -53,5 +53,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25565569075"
     }
   },
-  "last_updated": "2026-05-14T13:49:49Z"
+  "last_updated": "2026-05-17T11:13:59Z"
 }
