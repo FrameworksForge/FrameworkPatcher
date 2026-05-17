@@ -1,0 +1,26 @@
+{
+  "device": "sapphiren",
+  "builds": {
+    "OS3.0.302.0.WBOMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-17T12:03:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7ee6a0b9e64ffec0cdf870880bb10f0017969e057338528449deb0414b8c8bf9",
+        "services_patched.jar": "sha256:2a0a5afcc6ee39f4cac2fbdfe1530b9e3bce8b46707c88e84c052a94bdd4aa50",
+        "miui-services_patched.jar": "sha256:8fed7ea21cff11678a9c16ee74e7d40e39c279d1e4c3a9505a0908a60cbad0d3",
+        "module_zip": "sha256:6363ad0def92d508a62ef860ac6879f42ac03810c4d2ab25f0d58dde6ea84f2b"
+      },
+      "workflow_run_id": "25990255125",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25990255125",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25990255125"
+    }
+  },
+  "last_updated": "2026-05-17T12:04:12Z"
+}

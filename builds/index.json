@@ -2760,8 +2760,22 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "sapphiren": {
+      "OS3.0.302.0.WBOMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-17T12:03:34Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25990255125",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25990255125",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-17T12:00:01Z",
+  "last_updated": "2026-05-17T12:04:12Z",
   "engine_version": "3.0.0"
 }
