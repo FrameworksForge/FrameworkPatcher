@@ -1283,10 +1283,10 @@
       },
       "OS3.0.2.0.WNOIDXM": {
         "android_version": "16",
-        "build_time": "2026-05-03T03:34:17Z",
+        "build_time": "2026-05-18T14:18:38Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25268858265",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25268858265",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26039197951",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26039197951",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag"
@@ -2839,6 +2839,6 @@
       }
     }
   },
-  "last_updated": "2026-05-18T14:11:17Z",
+  "last_updated": "2026-05-18T14:19:18Z",
   "engine_version": "3.0.0"
 }
