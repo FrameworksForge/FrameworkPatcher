@@ -2799,8 +2799,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "evergo": {
+      "V14.0.4.0.TGBCNXM": {
+        "android_version": "13",
+        "build_time": "2026-05-18T06:18:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26016865620",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26016865620",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-18T02:57:02Z",
+  "last_updated": "2026-05-18T06:18:41Z",
   "engine_version": "3.0.0"
 }

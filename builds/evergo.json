@@ -1,0 +1,26 @@
+{
+  "device": "evergo",
+  "builds": {
+    "V14.0.4.0.TGBCNXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-18T06:18:09Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:55dfe769c371ef401235706a9b0bb8e2db69a0ca4a416042a233f725bd3146a1",
+        "miui-services_patched.jar": "sha256:fc312e6dbbc19017672a65a2d05cfc9d159f74eb54bff6c3e3b9ada385a56c18",
+        "miui-framework_patched.jar": "sha256:53c2fbe9cebc66e638f624afb32d27fe00d9a653595c1cdafbe671455750fa07",
+        "module_zip": "sha256:bd4184aa530c04e53dd5be44301604dc48a8d7c2e0b41d6226bae1d87a8c0f25"
+      },
+      "workflow_run_id": "26016865620",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26016865620",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26016865620"
+    }
+  },
+  "last_updated": "2026-05-18T06:18:41Z"
+}
