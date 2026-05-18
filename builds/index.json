@@ -2217,6 +2217,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.36.0.THGEUXM": {
+        "android_version": "13",
+        "build_time": "2026-05-18T14:25:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26039594876",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26039594876",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "fog": {
@@ -2839,6 +2849,6 @@
       }
     }
   },
-  "last_updated": "2026-05-18T14:19:18Z",
+  "last_updated": "2026-05-18T14:26:14Z",
   "engine_version": "3.0.0"
 }
