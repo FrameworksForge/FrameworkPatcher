@@ -20,7 +20,22 @@
       "workflow_run_id": "26038690439",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26038690439",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26038690439"
+    },
+    "V14.0.8.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-18T14:33:55Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "module_zip": "sha256:d323b87c2f2cebf758c252784789291981440658611105d67daee18b7889eddf"
+      },
+      "workflow_run_id": "26040069591",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26040069591",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26040069591"
     }
   },
-  "last_updated": "2026-05-18T14:11:17Z"
+  "last_updated": "2026-05-18T14:34:35Z"
 }

@@ -2846,9 +2846,19 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "V14.0.8.0": {
+        "android_version": "15",
+        "build_time": "2026-05-18T14:33:55Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26040069591",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26040069591",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     }
   },
-  "last_updated": "2026-05-18T14:26:14Z",
+  "last_updated": "2026-05-18T14:34:35Z",
   "engine_version": "3.0.0"
 }
