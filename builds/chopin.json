@@ -1,0 +1,26 @@
+{
+  "device": "chopin",
+  "builds": {
+    "V14.0.8.0.TKPCNXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-18T14:10:18Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:691061e078353a828a4db35809e350da7c0d2848932a8d77789ac489ce4ccb92",
+        "miui-services_patched.jar": "sha256:8ac2a9105917608ae07a270619eda94d3caf5a4b20be9a495b48a582a86bd4ff",
+        "miui-framework_patched.jar": "sha256:1ead2afc3e64bcf417fa0c7cbee75558b93f998ef09ada599d16b3770f25f63e",
+        "module_zip": "sha256:5faea41ea49b7d52eff1b11d69cc8009d7ae721a966161f5a6658136ad2a1db2"
+      },
+      "workflow_run_id": "26038690439",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26038690439",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26038690439"
+    }
+  },
+  "last_updated": "2026-05-18T14:11:17Z"
+}

@@ -2823,8 +2823,22 @@
           "add_gboard"
         ]
       }
+    },
+    "chopin": {
+      "V14.0.8.0.TKPCNXM": {
+        "android_version": "13",
+        "build_time": "2026-05-18T14:10:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26038690439",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26038690439",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-18T10:01:58Z",
+  "last_updated": "2026-05-18T14:11:17Z",
   "engine_version": "3.0.0"
 }
