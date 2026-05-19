@@ -630,6 +630,19 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.302.0 WMNCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-19T18:32:37Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26117138677",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26117138677",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "add_gboard"
+        ]
       }
     },
     "peridot": {
@@ -2910,6 +2923,6 @@
       }
     }
   },
-  "last_updated": "2026-05-19T16:54:46Z",
+  "last_updated": "2026-05-19T18:33:16Z",
   "engine_version": "3.0.0"
 }
