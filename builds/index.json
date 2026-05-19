@@ -2378,6 +2378,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.306.0.WPBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-19T21:53:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26127476406",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26127476406",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "corot": {
@@ -2936,6 +2947,6 @@
       }
     }
   },
-  "last_updated": "2026-05-19T20:58:58Z",
+  "last_updated": "2026-05-19T21:54:05Z",
   "engine_version": "3.0.0"
 }
