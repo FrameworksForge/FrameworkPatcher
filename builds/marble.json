@@ -159,7 +159,23 @@
       "workflow_run_id": "25656199872",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25656199872",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25656199872"
+    },
+    "OS1.0.18.0.UMRMIXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-19T07:28:20Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:851a33a5d5c1d9e0030872a719e56f6deb807d925c5fd1b67a6f5cf977f3dc82",
+        "module_zip": "sha256:796c0bc6a33b72306f5956f36d97e1baac5faed7bb8dfb737830c2296907a967"
+      },
+      "workflow_run_id": "26082753975",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26082753975",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26082753975"
     }
   },
-  "last_updated": "2026-05-18T22:18:55Z"
+  "last_updated": "2026-05-19T07:29:03Z"
 }

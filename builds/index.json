@@ -616,6 +616,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.18.0.UMRMIXM": {
+        "android_version": "15",
+        "build_time": "2026-05-19T07:28:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26082753975",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26082753975",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "peridot": {
@@ -2882,6 +2892,6 @@
       }
     }
   },
-  "last_updated": "2026-05-19T05:15:40Z",
+  "last_updated": "2026-05-19T07:29:03Z",
   "engine_version": "3.0.0"
 }
