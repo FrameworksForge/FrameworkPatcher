@@ -1,0 +1,26 @@
+{
+  "device": "dizi",
+  "builds": {
+    "OS3.0.4.0.WNSMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-19T07:34:14Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:585dee7fab80b0005ff6d58e9d9e7424876c01260fdb5bbf7f6f0744b2a6a80e",
+        "services_patched.jar": "sha256:1fa5cf55a72dd8404a38112a832860a108f9a519a47bd04b88ef5a347aebe7f6",
+        "miui-services_patched.jar": "sha256:daebda341278ef32d7c6021121cb5ccee0ef92a6f53a709538068e0479ae246a",
+        "module_zip": "sha256:8bd45f1c81539b3b648bb5da14373cacd05b09baed9535c5def32000726579fb"
+      },
+      "workflow_run_id": "26082989545",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26082989545",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26082989545"
+    }
+  },
+  "last_updated": "2026-05-19T07:34:56Z"
+}
