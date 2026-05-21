@@ -1294,6 +1294,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "3.0.310.0": {
+        "android_version": "16",
+        "build_time": "2026-05-21T01:59:03Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26200856106",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26200856106",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "zircon": {
@@ -3001,6 +3012,6 @@
       }
     }
   },
-  "last_updated": "2026-05-21T01:57:26Z",
+  "last_updated": "2026-05-21T01:59:38Z",
   "engine_version": "3.0.0"
 }
