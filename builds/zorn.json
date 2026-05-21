@@ -27,19 +27,22 @@
       "features": [
         "disable_signature_verification",
         "cn_notification_fix",
-        "kaorios_toolbox"
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
       ],
-      "build_time": "2026-05-19T20:17:31Z",
+      "build_time": "2026-05-21T12:45:32Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:313104322cc060546bf4db74ac5540473a48b51ee0af57b9f8bc61db947b7f18",
-        "services_patched.jar": "sha256:9245057d94be038b2e694ab885955bd5f543e4456a8f74262326b760e2aa980f",
-        "miui-services_patched.jar": "sha256:6454bfef80e9caf957ccadf121e8667c836bdc1abfe271228b614dc9678dab1e",
-        "module_zip": "sha256:a67181d09ab6b96e5689ab3618e627233c9337af16b761365339397e9f6a984b"
+        "framework_patched.jar": "sha256:e87a295a2f73c738fad18eac0b4845b06555f180ebd3d48739c316ae6c5c3b20",
+        "services_patched.jar": "sha256:8b83fc90e8db6bc5b4c3b0382967b890be7a253da3283d8a0ca7e48484476d0a",
+        "miui-services_patched.jar": "sha256:1876fddb15f50389ad9673ad4eb992bf4b8c23b157d134d22200969f4b9a7bf9",
+        "miui-framework_patched.jar": "sha256:74f84d4344beb62855e7eb1cdb7819690cee038d196b7f7557adaf2ef61fd729",
+        "module_zip": "sha256:6c6e275d056a02d38609a60ff201fb3ca31e9576f26e67ae04e6cc0824eaa9e5"
       },
-      "workflow_run_id": "26122639072",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26122639072",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26122639072"
+      "workflow_run_id": "26226613334",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26226613334",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26226613334"
     },
     "OS3.0.301.0.WOKIDXM": {
       "android_version": "16",
@@ -122,5 +125,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26005744354"
     }
   },
-  "last_updated": "2026-05-19T20:18:08Z"
+  "last_updated": "2026-05-21T12:46:18Z"
 }
