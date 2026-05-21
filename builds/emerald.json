@@ -1,0 +1,29 @@
+{
+  "device": "emerald",
+  "builds": {
+    "OS3.0.5.0.WNFMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-21T16:37:09Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:675d3c6deffef38be490aa1c95ae4e624e192fa0fe9b727c5e72af9727a8e888",
+        "services_patched.jar": "sha256:4c9a87e21e47e0fad3063975facaeb778e20c1f0b9421df63ea8ae82ccb65c00",
+        "miui-services_patched.jar": "sha256:68b5d850a650986d7f4cff36b3dcc8db9d950d54f6dc2ea034a5839190813b75",
+        "miui-framework_patched.jar": "sha256:ab4b4604a3217b618a2101d72c5fcaf98c0589dab17151bdd8c9aaeef5e5220e",
+        "module_zip": "sha256:845cc5ad09955001cb42de165fdb35d55ec3d9006fe637355ea4dc17b600e7d7"
+      },
+      "workflow_run_id": "26239373386",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26239373386",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26239373386"
+    }
+  },
+  "last_updated": "2026-05-21T16:37:50Z"
+}
