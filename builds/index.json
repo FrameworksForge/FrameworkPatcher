@@ -107,6 +107,18 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "TN 3.3OS2.0.12.0China": {
+        "android_version": "14",
+        "build_time": "2026-05-22T17:37:59Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26302635555",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26302635555",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "dash": {
@@ -3165,6 +3177,6 @@
       }
     }
   },
-  "last_updated": "2026-05-22T17:07:06Z",
+  "last_updated": "2026-05-22T17:38:38Z",
   "engine_version": "3.0.0"
 }
