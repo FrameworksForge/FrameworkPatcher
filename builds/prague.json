@@ -1,0 +1,26 @@
+{
+  "device": "prague",
+  "builds": {
+    "OS3.0.304.0.WAACNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-22T16:50:55Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:522167f5a544ee48612b5b1e45372cbd918798a733c61fe0704cf2c713f968e8",
+        "services_patched.jar": "sha256:29ecf5e18058c2d2ec47b5dac7e104c831528c4f76fd4a39e5bbac77f86063ca",
+        "miui-services_patched.jar": "sha256:5bf0a44b53a48dde29366846a370b769be63436c4fcadc648b51b20add3efa6a",
+        "module_zip": "sha256:e9da865782e29a5d934d3053b7ed281f968e1124b08d63e28d6698a4043d4dcf"
+      },
+      "workflow_run_id": "26300440558",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26300440558",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26300440558"
+    }
+  },
+  "last_updated": "2026-05-22T16:51:37Z"
+}
