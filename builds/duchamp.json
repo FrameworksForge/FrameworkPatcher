@@ -75,7 +75,27 @@
       "workflow_run_id": "26200856106",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26200856106",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26200856106"
+    },
+    "greeshan.ru_OS2.0.209.0.VNLIDXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-22T17:06:12Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:1aa1711e62c0b1e4de763b5240ced2c3be91f4cc4cc9eb4d413d93825ffd4ad2",
+        "services_patched.jar": "sha256:f100141d8d39a2f3623c6eee9516dbd45a2922e1b32a453fbabe1aefb27e41f8",
+        "miui-services_patched.jar": "sha256:1889ae949078525d1c4e43e29a5b2aebc7b36f7ea50373b7302815679072f777",
+        "module_zip": "sha256:34ab6b05ef03a7cd618a3f48bb32c528e74623f74c72e74ebf91e6a3ff62ce0e"
+      },
+      "workflow_run_id": "26301095480",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26301095480",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26301095480"
     }
   },
-  "last_updated": "2026-05-21T01:59:38Z"
+  "last_updated": "2026-05-22T17:07:06Z"
 }

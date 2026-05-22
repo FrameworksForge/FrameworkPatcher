@@ -1365,6 +1365,18 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "greeshan.ru_OS2.0.209.0.VNLIDXM": {
+        "android_version": "15",
+        "build_time": "2026-05-22T17:06:12Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26301095480",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26301095480",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "zircon": {
@@ -3153,6 +3165,6 @@
       }
     }
   },
-  "last_updated": "2026-05-22T16:51:37Z",
+  "last_updated": "2026-05-22T17:07:06Z",
   "engine_version": "3.0.0"
 }
