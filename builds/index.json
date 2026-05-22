@@ -2629,13 +2629,14 @@
     "obsidian": {
       "OS3.0.5.0.WOFMIXM": {
         "android_version": "16",
-        "build_time": "2026-05-08T08:35:02Z",
+        "build_time": "2026-05-22T16:08:23Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25545702871",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25545702871",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26298478175",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26298478175",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag"
+          "disable_secure_flag",
+          "kaorios_toolbox"
         ]
       },
       "OS3.0.3.0.WOFEUXM": {
@@ -3125,6 +3126,6 @@
       }
     }
   },
-  "last_updated": "2026-05-22T14:47:33Z",
+  "last_updated": "2026-05-22T16:09:11Z",
   "engine_version": "3.0.0"
 }
