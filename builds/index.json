@@ -34,13 +34,12 @@
       },
       "OS2.0.2.0.ULOTWXM": {
         "android_version": "14",
-        "build_time": "2026-05-22T10:15:53Z",
+        "build_time": "2026-05-22T12:21:06Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26281885482",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26281885482",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26287338115",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26287338115",
         "features": [
-          "disable_signature_verification",
-          "kaorios_toolbox"
+          "disable_signature_verification"
         ]
       },
       "Xaga3.0.3.0.VLHCNXM": {
@@ -3106,6 +3105,6 @@
       }
     }
   },
-  "last_updated": "2026-05-22T10:16:40Z",
+  "last_updated": "2026-05-22T12:21:46Z",
   "engine_version": "3.0.0"
 }
