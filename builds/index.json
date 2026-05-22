@@ -677,6 +677,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "3.0.5.0.VMRCNXM": {
+        "android_version": "15",
+        "build_time": "2026-05-22T05:00:43Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26269275730",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26269275730",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "peridot": {
@@ -3072,6 +3084,6 @@
       }
     }
   },
-  "last_updated": "2026-05-22T01:37:34Z",
+  "last_updated": "2026-05-22T05:01:21Z",
   "engine_version": "3.0.0"
 }
