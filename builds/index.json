@@ -119,6 +119,18 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS2.0.12.0.XAGA": {
+        "android_version": "14",
+        "build_time": "2026-05-22T17:41:11Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26302781849",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26302781849",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "dash": {
@@ -3177,6 +3189,6 @@
       }
     }
   },
-  "last_updated": "2026-05-22T17:38:38Z",
+  "last_updated": "2026-05-22T17:41:57Z",
   "engine_version": "3.0.0"
 }

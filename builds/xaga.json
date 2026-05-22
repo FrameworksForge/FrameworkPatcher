@@ -209,7 +209,28 @@
       "workflow_run_id": "26302635555",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26302635555",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26302635555"
+    },
+    "OS2.0.12.0.XAGA": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-22T17:41:11Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7762cbf9f2a85db9ae43ace7b1aac1e1e81827efbb5415a6e0a0f97e809e6074",
+        "services_patched.jar": "sha256:a1e51881dc279203ffaa0a369578ee5fdb4c4871d951e47e7cb83cabe6760425",
+        "miui-services_patched.jar": "sha256:6ac3ebbbaca0f29464a4f5d51c61bb5eda2c5cb508d3af4de1c6f1a509013727",
+        "miui-framework_patched.jar": "sha256:5a75dfbf2c9efcba2277c7023dc48167b40fc921ad2160e9b0431930b94d9974",
+        "module_zip": "sha256:8e7e152151726a4a6ceef4451f5fd1bef0e0dd37b16b1ecad8a0f69ab6da2c47"
+      },
+      "workflow_run_id": "26302781849",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26302781849",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26302781849"
     }
   },
-  "last_updated": "2026-05-22T17:38:38Z"
+  "last_updated": "2026-05-22T17:41:57Z"
 }
