@@ -67,21 +67,19 @@
       "patch_version": "3.0.0",
       "features": [
         "disable_signature_verification",
-        "kaorios_toolbox",
-        "add_gboard"
+        "kaorios_toolbox"
       ],
-      "build_time": "2026-05-05T11:44:33Z",
+      "build_time": "2026-05-22T10:15:53Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:3b04db2282a5d4074ba59497453e369c124c355bfea950373b46e6a35cc595a2",
-        "services_patched.jar": "sha256:fa08047cedfa9c0bf8ad515e5b741e69c4c5ff0de1bb4fbeac6277ea91587217",
-        "miui-services_patched.jar": "sha256:7dce97428ff892993e0ed8d737885a5f2ef4d78f2b1b9ba31d3b171d8c41f9af",
-        "miui-framework_patched.jar": "sha256:e9f8ce1b1de7bcf8a5bed0dff81db70b49d4064d6c8cbe163dea440b6f88d914",
-        "module_zip": "sha256:264308c92fc83d1430721ebca628c39064d603433e288d885634205d3c45b70f"
+        "framework_patched.jar": "sha256:707ae5e039ab02d2cb1373008affecf7258e476d3fbdfb918841b3e20304bc4c",
+        "services_patched.jar": "sha256:869820739229d765885f7e5957e779397e9490f0e98c1d7d1a6f6e6a62add307",
+        "miui-services_patched.jar": "sha256:654ebe7c4977f73bad5a08c09ea1393e38ae44bee3ce745e3ca90cade4d7fe70",
+        "module_zip": "sha256:282db2667e9eaf8c297b356e481386673ee6e49e4ea2275c54ad76195647629c"
       },
-      "workflow_run_id": "25374259320",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25374259320",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25374259320"
+      "workflow_run_id": "26281885482",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26281885482",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26281885482"
     },
     "Xaga3.0.3.0.VLHCNXM": {
       "android_version": "15",
@@ -193,5 +191,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25626898554"
     }
   },
-  "last_updated": "2026-05-10T11:00:49Z"
+  "last_updated": "2026-05-22T10:16:40Z"
 }
