@@ -2649,6 +2649,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.3.0.WOFMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-22T14:46:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26294520820",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26294520820",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "Onyx": {
@@ -3115,6 +3125,6 @@
       }
     }
   },
-  "last_updated": "2026-05-22T14:14:32Z",
+  "last_updated": "2026-05-22T14:47:33Z",
   "engine_version": "3.0.0"
 }
