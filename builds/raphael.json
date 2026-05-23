@@ -29,22 +29,19 @@
       "features": [
         "disable_signature_verification",
         "cn_notification_fix",
-        "disable_secure_flag",
-        "kaorios_toolbox",
-        "add_gboard"
+        "disable_secure_flag"
       ],
-      "build_time": "2026-05-01T21:46:24Z",
+      "build_time": "2026-05-23T06:42:40Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:a7b9b6609f43da1bddf4af4990bcd102bcbd085d13bcc46f23eb0536ff1d13a8",
-        "services_patched.jar": "sha256:fc3120f0b4f9bc606c5ce9bffecdb3ac1a3e5fdb9b4a605d9e71246506676c40",
-        "miui-services_patched.jar": "sha256:ef22d087d90576fc2c2cc7519a1f161c15537aa39256568b40b8b704091b946b",
-        "miui-framework_patched.jar": "sha256:0f95ce51e5324696b070cc5d70e8b4534eb99eadacfaf69995d0ccecf26a10ae",
-        "module_zip": "sha256:67c2e680f66833eb439de89c27c5793f333329e58b236d187e631462e0ddfd26"
+        "framework_patched.jar": "sha256:70ad735d4ab764b482c0e57f4ad2e4a6acfcccb3a8fdb3d3f4df1c36d29736d9",
+        "services_patched.jar": "sha256:66d49e1e0504bfe65bf9731ffe9e92c3e912330878b4a5b0699ce0998927acdd",
+        "miui-services_patched.jar": "sha256:fcb38c71d87aacdef51d30c0d1844095d2311cc2944350b19212df453bdd8acb",
+        "module_zip": "sha256:3ddd888d036801d5ad91d55c2324e64d727748a06225005a656830ae1d4a06f5"
       },
-      "workflow_run_id": "25234421072",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25234421072",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25234421072"
+      "workflow_run_id": "26325980732",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26325980732",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26325980732"
     },
     "OS3.0.0.11.WNKCNXM": {
       "android_version": "16",
@@ -67,5 +64,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25301290893"
     }
   },
-  "last_updated": "2026-05-04T04:40:36Z"
+  "last_updated": "2026-05-23T06:43:22Z"
 }
