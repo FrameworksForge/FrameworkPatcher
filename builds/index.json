@@ -1243,6 +1243,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "xiaomi.eu_ONYX_OS2.0.216.0.VOLCNXM_15": {
+        "android_version": "15",
+        "build_time": "2026-05-23T16:45:10Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26338099871",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26338099871",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "tapas": {
@@ -3209,6 +3219,6 @@
       }
     }
   },
-  "last_updated": "2026-05-23T15:41:16Z",
+  "last_updated": "2026-05-23T16:45:40Z",
   "engine_version": "3.0.0"
 }

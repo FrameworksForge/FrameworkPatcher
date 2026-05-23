@@ -207,7 +207,23 @@
       "workflow_run_id": "25893154683",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25893154683",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25893154683"
+    },
+    "xiaomi.eu_ONYX_OS2.0.216.0.VOLCNXM_15": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-23T16:45:10Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b9e094a420226b1abda4f85480beefb64248467541ceaf68a0a6d643e492df35",
+        "module_zip": "sha256:59de2802f8eee3935423361081bd53f10791ae1246c357a723bc8504145d28eb"
+      },
+      "workflow_run_id": "26338099871",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26338099871",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26338099871"
     }
   },
-  "last_updated": "2026-05-23T15:41:16Z"
+  "last_updated": "2026-05-23T16:45:40Z"
 }
