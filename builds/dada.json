@@ -5,21 +5,19 @@
       "android_version": "16",
       "patch_version": "3.0.0",
       "features": [
-        "disable_signature_verification",
-        "disable_secure_flag",
-        "kaorios_toolbox"
+        "disable_signature_verification"
       ],
-      "build_time": "2026-05-13T11:26:05Z",
+      "build_time": "2026-05-23T13:12:36Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:3f29c188ec4c189799e318e366d167bbb84283416f69bc8a4a0349f410a2ffcd",
-        "services_patched.jar": "sha256:e09baa7d9f9a176f3e987eb07183e9270846870487242ddc159bc326e7376cf0",
-        "miui-services_patched.jar": "sha256:d02b4a3cc63195bd3c8e7f037a28827030d830585042623c456c62d95277cbd8",
-        "module_zip": "sha256:b9c48039b90cd1c0be2b9ff1d81baec5214942884473f28f84dd4f6ae3667195"
+        "framework_patched.jar": "sha256:4bd62a769a9f44b68123f190aad403b319416e4f0a49001377569e75b4dbb734",
+        "services_patched.jar": "sha256:e3f79b03d4b6b032545fb97f0bcff616c2a176ae1079dc1460a6c52e8d4444af",
+        "miui-services_patched.jar": "sha256:d36d4864febef5da7e2dd9111c6469350383503c158bba9a359dc95b65f67606",
+        "module_zip": "sha256:236bacc04f0d9f944bbbfd27aff0f2e33cc25cc1fbcb6d3e47cf8a586fddc68c"
       },
-      "workflow_run_id": "25796004332",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25796004332",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25796004332"
+      "workflow_run_id": "26333568226",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26333568226",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26333568226"
     },
     "OS3.0.301.0.WOCCNXM": {
       "android_version": "16",
@@ -38,5 +36,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25662059609"
     }
   },
-  "last_updated": "2026-05-13T11:26:50Z"
+  "last_updated": "2026-05-23T13:13:15Z"
 }
