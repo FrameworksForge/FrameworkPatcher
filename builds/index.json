@@ -1592,6 +1592,17 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.309.9.WANJAY": {
+        "android_version": "16",
+        "build_time": "2026-05-24T05:16:56Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26352689915",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26352689915",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix"
+        ]
       }
     },
     "klee": {
@@ -3267,6 +3278,6 @@
       }
     }
   },
-  "last_updated": "2026-05-24T04:01:29Z",
+  "last_updated": "2026-05-24T05:17:33Z",
   "engine_version": "3.0.0"
 }
