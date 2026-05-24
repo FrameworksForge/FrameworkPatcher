@@ -391,10 +391,10 @@
       },
       "OS3.0.5.0.VMNCNXM": {
         "android_version": "15",
-        "build_time": "2026-05-20T08:19:15Z",
+        "build_time": "2026-05-24T07:38:34Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26150267142",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26150267142",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26355272946",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26355272946",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -3292,6 +3292,6 @@
       }
     }
   },
-  "last_updated": "2026-05-24T05:22:26Z",
+  "last_updated": "2026-05-24T07:39:08Z",
   "engine_version": "3.0.0"
 }
