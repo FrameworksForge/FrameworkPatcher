@@ -1445,6 +1445,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.17.0 UNLCNXM": {
+        "android_version": "14",
+        "build_time": "2026-05-24T14:56:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26364458116",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26364458116",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "zircon": {
@@ -3326,6 +3337,6 @@
       }
     }
   },
-  "last_updated": "2026-05-24T14:07:57Z",
+  "last_updated": "2026-05-24T14:57:19Z",
   "engine_version": "3.0.0"
 }
