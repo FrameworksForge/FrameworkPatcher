@@ -2324,6 +2324,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.301.0.WMATWXM": {
+        "android_version": "16",
+        "build_time": "2026-05-24T04:00:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26351316558",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26351316558",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "sapphire": {
@@ -3256,6 +3267,6 @@
       }
     }
   },
-  "last_updated": "2026-05-24T00:42:34Z",
+  "last_updated": "2026-05-24T04:01:29Z",
   "engine_version": "3.0.0"
 }
