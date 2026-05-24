@@ -2199,6 +2199,17 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS2.0.210.0": {
+        "android_version": "15",
+        "build_time": "2026-05-24T13:05:23Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26361978105",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26361978105",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "manet": {
@@ -3305,6 +3316,6 @@
       }
     }
   },
-  "last_updated": "2026-05-24T11:10:09Z",
+  "last_updated": "2026-05-24T13:06:06Z",
   "engine_version": "3.0.0"
 }
