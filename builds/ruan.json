@@ -1,0 +1,26 @@
+{
+  "device": "ruan",
+  "builds": {
+    "OS3.0.1.0.WFSINXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-24T07:39:29Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:4f237df8b51af9b0062fa65be1d53be21c303518609a9b28df2d64112f7ebe42",
+        "services_patched.jar": "sha256:16522ba8b11b73d75b12e386baff5265e7b8a73224a5f1794a285f74293356ed",
+        "miui-services_patched.jar": "sha256:7071455c0f8af66bfdaf8dff1271f11bb250d92effdb59b7e3d0624d6bbe6f24",
+        "module_zip": "sha256:ebdc3247af4baac8affa995a477776724ec6ec664ee9cd5e616a9e2edb2604f4"
+      },
+      "workflow_run_id": "26355326018",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26355326018",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26355326018"
+    }
+  },
+  "last_updated": "2026-05-24T07:40:05Z"
+}

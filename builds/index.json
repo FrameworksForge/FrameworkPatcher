@@ -3290,8 +3290,22 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "ruan": {
+      "OS3.0.1.0.WFSINXM": {
+        "android_version": "16",
+        "build_time": "2026-05-24T07:39:29Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26355326018",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26355326018",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-24T07:39:08Z",
+  "last_updated": "2026-05-24T07:40:05Z",
   "engine_version": "3.0.0"
 }
