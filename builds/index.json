@@ -3260,6 +3260,17 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "V14.0.2.0.TKPCNXM": {
+        "android_version": "13",
+        "build_time": "2026-05-25T11:00:31Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26396985426",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26396985426",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Marble": {
@@ -3424,6 +3435,6 @@
       }
     }
   },
-  "last_updated": "2026-05-25T10:38:20Z",
+  "last_updated": "2026-05-25T11:01:15Z",
   "engine_version": "3.0.0"
 }
