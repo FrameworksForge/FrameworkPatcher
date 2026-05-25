@@ -2735,6 +2735,18 @@
           "disable_secure_flag",
           "add_gboard"
         ]
+      },
+      "OS3.0.302.0.WMLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-25T11:39:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26398478840",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26398478840",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "dali": {
@@ -3458,6 +3470,6 @@
       }
     }
   },
-  "last_updated": "2026-05-25T11:29:49Z",
+  "last_updated": "2026-05-25T11:39:45Z",
   "engine_version": "3.0.0"
 }
