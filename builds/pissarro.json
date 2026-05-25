@@ -1,0 +1,26 @@
+{
+  "device": "pissarro",
+  "builds": {
+    "3.0.7.0CNGOLD": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-25T19:03:54Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7e958b1f4a9b14c3164fd017e12b801e9c72127a755ed3961fb69eafa635b400",
+        "services_patched.jar": "sha256:c9a8ba206f5bb8b96cb81406dd3bea2330858e1aa4f2dc2150e60a175841c4a8",
+        "miui-services_patched.jar": "sha256:e3dcaba1da9d6a6a8ec14cc89c24a317ef5c82515a1c0733c6e42ca47966cfb9",
+        "module_zip": "sha256:f84e12d2b704f9c1ffaf1558d9149f58e71cb58d7988241cbfbe8d2a639f3c4a"
+      },
+      "workflow_run_id": "26415542963",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26415542963",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26415542963"
+    }
+  },
+  "last_updated": "2026-05-25T19:04:32Z"
+}
