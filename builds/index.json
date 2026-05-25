@@ -1426,6 +1426,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.10.0.WBOMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-25T10:37:43Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26396133669",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26396133669",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "duchamp": {
@@ -3413,6 +3424,6 @@
       }
     }
   },
-  "last_updated": "2026-05-25T10:17:24Z",
+  "last_updated": "2026-05-25T10:38:20Z",
   "engine_version": "3.0.0"
 }
