@@ -1806,6 +1806,16 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.307.0.WPACNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-25T11:29:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26398077955",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26398077955",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Duchamp": {
@@ -3448,6 +3458,6 @@
       }
     }
   },
-  "last_updated": "2026-05-25T11:10:08Z",
+  "last_updated": "2026-05-25T11:29:49Z",
   "engine_version": "3.0.0"
 }
