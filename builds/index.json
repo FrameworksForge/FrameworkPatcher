@@ -1329,13 +1329,13 @@
       },
       "OS2.0.207.0.VMTMIXM": {
         "android_version": "15",
-        "build_time": "2026-05-23T22:44:06Z",
+        "build_time": "2026-05-25T11:07:12Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26345454610",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26345454610",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26397211170",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26397211170",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag"
+          "kaorios_toolbox"
         ]
       },
       "Aosp": {
@@ -3435,6 +3435,6 @@
       }
     }
   },
-  "last_updated": "2026-05-25T11:01:15Z",
+  "last_updated": "2026-05-25T11:07:53Z",
   "engine_version": "3.0.0"
 }
