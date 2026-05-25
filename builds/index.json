@@ -1789,15 +1789,13 @@
       },
       "OS3.0.306.0.WPACNXM": {
         "android_version": "16",
-        "build_time": "2026-05-18T01:44:52Z",
+        "build_time": "2026-05-25T19:49:40Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26009067808",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26009067808",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26417170872",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26417170872",
         "features": [
           "disable_signature_verification",
-          "cn_notification_fix",
-          "disable_secure_flag",
-          "add_gboard"
+          "disable_secure_flag"
         ]
       },
       "OS3.0.305.0.WPACNXM": {
@@ -3523,6 +3521,6 @@
       }
     }
   },
-  "last_updated": "2026-05-25T19:04:32Z",
+  "last_updated": "2026-05-25T19:50:18Z",
   "engine_version": "3.0.0"
 }

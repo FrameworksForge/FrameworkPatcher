@@ -29,22 +29,19 @@
       "patch_version": "3.0.0",
       "features": [
         "disable_signature_verification",
-        "cn_notification_fix",
-        "disable_secure_flag",
-        "add_gboard"
+        "disable_secure_flag"
       ],
-      "build_time": "2026-05-18T01:44:52Z",
+      "build_time": "2026-05-25T19:49:40Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:814a9abe2f7f957cb3f5bb82a5d6cc2690d285c994e44f35da14361ad62b010f",
-        "services_patched.jar": "sha256:a37829f72e7d52414a3110c1fbdf51999525ddaad72450c70d6611ce50bff530",
-        "miui-services_patched.jar": "sha256:061d1948590a0b923f29eeba2b9d24c634f0fab3b9d5d003da958ad22513a7c1",
-        "miui-framework_patched.jar": "sha256:7703aade4753aa7812c32c0068592f0bad950cad7aa0b471509f68bffe808856",
-        "module_zip": "sha256:59d1552dceb4baf2fb258bdcdb71fbcdcea613fcf536ed7abe4b4034d25ca37c"
+        "framework_patched.jar": "sha256:a3006e63ba4a3b01495ec0c0e583af5f42b2875dccbabdb8b08217c8bd3a80d1",
+        "services_patched.jar": "sha256:878382ef246ba11291567eed769683ed3a14c9c6bd320296080eaab6da6482da",
+        "miui-services_patched.jar": "sha256:8fa9e81c99ba60670aadd8e693cf57d7220262ef3b33d5f021e026e91c703a67",
+        "module_zip": "sha256:82897dad029c4517f247169d12d3cf6cd7ad63fe7adc0e687480eeb747d0e49a"
       },
-      "workflow_run_id": "26009067808",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26009067808",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26009067808"
+      "workflow_run_id": "26417170872",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26417170872",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26417170872"
     },
     "OS3.0.305.0.WPACNXM": {
       "android_version": "16",
@@ -121,5 +118,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26398077955"
     }
   },
-  "last_updated": "2026-05-25T11:29:49Z"
+  "last_updated": "2026-05-25T19:50:18Z"
 }
