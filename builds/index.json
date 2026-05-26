@@ -1772,6 +1772,16 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.303.0": {
+        "android_version": "16",
+        "build_time": "2026-05-26T18:33:16Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26467466543",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26467466543",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "nezha": {
@@ -3560,6 +3570,6 @@
       }
     }
   },
-  "last_updated": "2026-05-26T17:23:03Z",
+  "last_updated": "2026-05-26T18:33:52Z",
   "engine_version": "3.0.0"
 }
