@@ -2909,6 +2909,16 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS2.0.202.0.VMWINXM": {
+        "android_version": "15",
+        "build_time": "2026-05-26T17:07:59Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26463098279",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26463098279",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "obsidian": {
@@ -3551,6 +3561,6 @@
       }
     }
   },
-  "last_updated": "2026-05-26T13:05:07Z",
+  "last_updated": "2026-05-26T17:08:36Z",
   "engine_version": "3.0.0"
 }
