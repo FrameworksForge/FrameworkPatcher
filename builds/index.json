@@ -1047,6 +1047,17 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.301.0.WNRMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-26T18:40:30Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26467751127",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26467751127",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Xaga": {
@@ -3570,6 +3581,6 @@
       }
     }
   },
-  "last_updated": "2026-05-26T18:33:52Z",
+  "last_updated": "2026-05-26T18:41:19Z",
   "engine_version": "3.0.0"
 }
