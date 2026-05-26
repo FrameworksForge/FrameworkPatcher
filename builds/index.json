@@ -3534,8 +3534,23 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "vayu": {
+      "OS3.0.5.0.VMNCNXM": {
+        "android_version": "15",
+        "build_time": "2026-05-26T09:59:46Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26445408864",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26445408864",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-26T06:33:58Z",
+  "last_updated": "2026-05-26T10:00:27Z",
   "engine_version": "3.0.0"
 }

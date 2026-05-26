@@ -1,0 +1,27 @@
+{
+  "device": "vayu",
+  "builds": {
+    "OS3.0.5.0.VMNCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-26T09:59:46Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f0700e6fd0f8ade9052a158585043dcc2094044aaf19ba8064e33a73d64e34b1",
+        "services_patched.jar": "sha256:e3441c4d680570441cd3ac56646a29a478f08239b53a13edea221c7c4f4779d5",
+        "miui-services_patched.jar": "sha256:e0b87b2e669f05149cb64f36cbea282f350a8505892f060dee8462f5b88ffa58",
+        "module_zip": "sha256:2aef5b1fcd417395a1c2804f3f521c9c6a5ac1255a6a4b173a396a1830cd740b"
+      },
+      "workflow_run_id": "26445408864",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26445408864",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26445408864"
+    }
+  },
+  "last_updated": "2026-05-26T10:00:27Z"
+}
