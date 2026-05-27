@@ -1,0 +1,25 @@
+{
+  "device": "vili",
+  "builds": {
+    "OS1.0.22.0.UKDMIXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-27T16:12:00Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7df378489e75b9b7718264cd70c8f3b8a2119d7e35f3a055eccbd0c0212165d1",
+        "services_patched.jar": "sha256:67f5e7176304a2b7ad65f1f36fab2dff93f2315066d5ee64aa55fc061f82c6e4",
+        "miui-services_patched.jar": "sha256:ed6b62e898786926a2680697231d52b447290f987440b50146c644e821099746",
+        "module_zip": "sha256:d0ac4736155311dd2975b0408cd59fb1215006276e0680771ac14b1f8efb0a7b"
+      },
+      "workflow_run_id": "26523283900",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26523283900",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26523283900"
+    }
+  },
+  "last_updated": "2026-05-27T16:12:43Z"
+}
