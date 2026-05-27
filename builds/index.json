@@ -199,6 +199,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3": {
+        "android_version": "16",
+        "build_time": "2026-05-27T02:45:29Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26487589872",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26487589872",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "malachite": {
@@ -3595,6 +3605,6 @@
       }
     }
   },
-  "last_updated": "2026-05-27T00:15:29Z",
+  "last_updated": "2026-05-27T02:46:00Z",
   "engine_version": "3.0.0"
 }
