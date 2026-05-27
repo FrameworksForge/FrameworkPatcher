@@ -3176,6 +3176,19 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.300.WOJTWXM.C07": {
+        "android_version": "16",
+        "build_time": "2026-05-27T05:37:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26492928986",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26492928986",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "light": {
@@ -3617,6 +3630,6 @@
       }
     }
   },
-  "last_updated": "2026-05-27T05:07:34Z",
+  "last_updated": "2026-05-27T05:38:16Z",
   "engine_version": "3.0.0"
 }
