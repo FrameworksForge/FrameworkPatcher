@@ -1,0 +1,25 @@
+{
+  "device": "Corot",
+  "builds": {
+    "OS.3.0.4.WMLEUXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-05-27T06:04:01Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:569ca9d6918eac7801e6c4d93980af1256d2b1cd5adeb67909cb82b8c68f4c6d",
+        "services_patched.jar": "sha256:0ed5ef01ee771e1e70464060622d69f3888a72789bb6ce0d3bed22c680e88dcc",
+        "miui-services_patched.jar": "sha256:ab5e155ee1481f2fbc60a0333b88e3d8dab64118a30c4e73d544640c7668f456",
+        "module_zip": "sha256:4e54d7015a7848807fce7096a06f3422c51f9dcc7295ae9fd728d5f8418048b3"
+      },
+      "workflow_run_id": "26493815053",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26493815053",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26493815053"
+    }
+  },
+  "last_updated": "2026-05-27T06:04:40Z"
+}
