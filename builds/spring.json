@@ -1,0 +1,26 @@
+{
+  "device": "spring",
+  "builds": {
+    "OS3.0.302.0.WOUCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-27T08:03:17Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:ddbdf02c98a1118939c655c674c4d7c4e3c74c8349fd5efebed9b74d9484e26c",
+        "services_patched.jar": "sha256:71637baa454398fd6febfbb7dfaf19d135aaa3d70900e45c46d327f2a9896cfd",
+        "miui-services_patched.jar": "sha256:b69ce99c82ab781ee181b86b48c72812e39de625bb8f909eed9262b33b292a34",
+        "module_zip": "sha256:fb3282a01ec4166b79bb4dbd3ad777bcf136d56153578c5f94956318f9421c3d"
+      },
+      "workflow_run_id": "26498756467",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26498756467",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26498756467"
+    }
+  },
+  "last_updated": "2026-05-27T08:04:00Z"
+}
