@@ -1,0 +1,26 @@
+{
+  "device": "Pipa",
+  "builds": {
+    "OS2.0.15.0.UMZIDXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-27T18:38:23Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:c0a0cadc2a72f7d2b6dc228ae7a6388b8fe707c1666f38e1b8a9ccd7f8875f40",
+        "services_patched.jar": "sha256:77b4e2266e69975d7bc2f9377e2c8e416cdafac4aa6c105bdc551f7d01776aab",
+        "miui-services_patched.jar": "sha256:f3d3394423e8cd64c0af6003c4e958653c4774ead231fa5b64a59eb884e99a31",
+        "module_zip": "sha256:ad7a44f2c6543d7d87a2396e5eb4c6f827491f1244bf36f9362f13501d02d00d"
+      },
+      "workflow_run_id": "26530942052",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26530942052",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26530942052"
+    }
+  },
+  "last_updated": "2026-05-27T18:39:07Z"
+}

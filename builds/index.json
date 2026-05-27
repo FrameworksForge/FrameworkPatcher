@@ -3665,8 +3665,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Pipa": {
+      "OS2.0.15.0.UMZIDXM": {
+        "android_version": "15",
+        "build_time": "2026-05-27T18:38:23Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26530942052",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26530942052",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-27T17:09:35Z",
+  "last_updated": "2026-05-27T18:39:07Z",
   "engine_version": "3.0.0"
 }
