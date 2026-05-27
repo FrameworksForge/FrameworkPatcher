@@ -645,12 +645,13 @@
       },
       "OS2.0.211.0.VMGEUXM": {
         "android_version": "15",
-        "build_time": "2026-05-22T14:12:51Z",
+        "build_time": "2026-05-27T04:31:12Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26292748476",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26292748476",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26490754958",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26490754958",
         "features": [
-          "kaorios_toolbox"
+          "disable_signature_verification",
+          "disable_secure_flag"
         ]
       }
     },
@@ -3604,6 +3605,6 @@
       }
     }
   },
-  "last_updated": "2026-05-27T03:59:48Z",
+  "last_updated": "2026-05-27T04:31:50Z",
   "engine_version": "3.0.0"
 }
