@@ -288,14 +288,13 @@
       },
       "OS3.0.302.0.WOOMIXM": {
         "android_version": "16",
-        "build_time": "2026-05-23T21:43:43Z",
+        "build_time": "2026-05-27T03:59:07Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26344278267",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26344278267",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26489813187",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26489813187",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag",
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       }
     },
@@ -3605,6 +3604,6 @@
       }
     }
   },
-  "last_updated": "2026-05-27T02:46:00Z",
+  "last_updated": "2026-05-27T03:59:48Z",
   "engine_version": "3.0.0"
 }
