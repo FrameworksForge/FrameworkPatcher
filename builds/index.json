@@ -2335,14 +2335,13 @@
     "klimt": {
       "OS3.0.302.0.WOSEUXM": {
         "android_version": "16",
-        "build_time": "2026-05-03T14:00:41Z",
+        "build_time": "2026-05-27T00:14:52Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25281104331",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25281104331",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26482640827",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26482640827",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag",
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       }
     },
@@ -3596,6 +3595,6 @@
       }
     }
   },
-  "last_updated": "2026-05-26T19:24:05Z",
+  "last_updated": "2026-05-27T00:15:29Z",
   "engine_version": "3.0.0"
 }
