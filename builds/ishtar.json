@@ -6,19 +6,21 @@
       "patch_version": "3.0.0",
       "features": [
         "disable_signature_verification",
-        "disable_secure_flag"
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
       ],
-      "build_time": "2026-05-14T19:02:01Z",
+      "build_time": "2026-05-28T02:18:11Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:539e89d32a8fba0e20d6a2b8cd3e18cd5c5f0cf46ae36b9930fabc6d8886c226",
-        "services_patched.jar": "sha256:256b13e2fae1b637ddee890ef9f83af1ece03a81fb01954fa5c2ade846de2333",
-        "miui-services_patched.jar": "sha256:28a9a5a9d2bee4ead6a3ad6a7346104d27de01a876b546ad638b037c62d05db1",
-        "module_zip": "sha256:8688b65281c8c2bbae4976d94ea04ea7428f11931c33c654e982bcbb4dc4814d"
+        "framework_patched.jar": "sha256:bdafc32a6b985b42428774805ec54ccb4a74776e37dc760fc3b9dd0d3020f65b",
+        "services_patched.jar": "sha256:8e8a6e5a56fb1298edc2c7de7febd8410cafeeefa409429ecc745b579e01f4e1",
+        "miui-services_patched.jar": "sha256:a37b06ab268bf46f5d1c280f05e82cc495c95dd370d2129501ec29eef7220d7b",
+        "module_zip": "sha256:3ce131c8397c188a2082fbc832f03fcf5d017cf301edacc3c51ae2623a331938"
       },
-      "workflow_run_id": "25879481705",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25879481705",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25879481705"
+      "workflow_run_id": "26550515391",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26550515391",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26550515391"
     },
     "OS3.0.301.0.WMAMIXM": {
       "android_version": "16",
@@ -40,5 +42,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26124785497"
     }
   },
-  "last_updated": "2026-05-19T20:58:58Z"
+  "last_updated": "2026-05-28T02:18:49Z"
 }
