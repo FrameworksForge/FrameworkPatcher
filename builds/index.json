@@ -1784,6 +1784,16 @@
           "disable_signature_verification",
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.311.5.WPCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-05-28T10:18:29Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26568738684",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26568738684",
+        "features": [
+          "disable_secure_flag"
+        ]
       }
     },
     "klee": {
@@ -3721,6 +3731,6 @@
       }
     }
   },
-  "last_updated": "2026-05-28T07:56:11Z",
+  "last_updated": "2026-05-28T10:19:05Z",
   "engine_version": "3.0.0"
 }
