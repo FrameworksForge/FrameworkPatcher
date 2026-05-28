@@ -652,6 +652,16 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS2.0.204.0.VMGMIXM": {
+        "android_version": "15",
+        "build_time": "2026-05-28T16:39:00Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26588201851",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26588201851",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "cupid": {
@@ -3733,6 +3743,6 @@
       }
     }
   },
-  "last_updated": "2026-05-28T16:11:37Z",
+  "last_updated": "2026-05-28T16:39:42Z",
   "engine_version": "3.0.0"
 }
