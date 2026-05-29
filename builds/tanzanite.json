@@ -1,0 +1,27 @@
+{
+  "device": "tanzanite",
+  "builds": {
+    "OS2.0.209.0.VOGTWXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-29T08:38:29Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:d5530d3dc8a4d1bac997c623665f04c9bd22f35d3baefe8d8ae84f7b5b216167",
+        "services_patched.jar": "sha256:e586090ff085b2efd7de5ab0ff4f987f42a10ab4484ce595faf422f4cd3fd500",
+        "miui-services_patched.jar": "sha256:9c76fb34a9bb8ba0491809164038c508176a15408249174153bc7bca2827271f",
+        "miui-framework_patched.jar": "sha256:813613fe026dc275a68ec313154427bbb3ed84f56d071e295520d9965b2b721a",
+        "module_zip": "sha256:1c8aca01d65120dc3a69aae6165520c27398c7390f76265d1c752eb54fcd5ddd"
+      },
+      "workflow_run_id": "26627106723",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26627106723",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26627106723"
+    }
+  },
+  "last_updated": "2026-05-29T08:39:05Z"
+}
