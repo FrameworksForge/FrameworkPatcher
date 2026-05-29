@@ -1527,14 +1527,13 @@
     "duchamp": {
       "OS3.0.303.0.WNLCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-28T14:27:12Z",
+        "build_time": "2026-05-29T09:41:22Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26580715236",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26580715236",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26629988653",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26629988653",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag",
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       },
       "OS3.0.6.0.WNLMIXM": {
@@ -3780,6 +3779,6 @@
       }
     }
   },
-  "last_updated": "2026-05-29T08:39:05Z",
+  "last_updated": "2026-05-29T09:42:00Z",
   "engine_version": "3.0.0"
 }
