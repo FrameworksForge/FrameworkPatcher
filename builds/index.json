@@ -659,6 +659,18 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS2.0.204.0.VMGIDXM": {
+        "android_version": "15",
+        "build_time": "2026-05-29T01:15:45Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26611929092",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26611929092",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "cupid": {
@@ -3756,6 +3768,6 @@
       }
     }
   },
-  "last_updated": "2026-05-28T23:38:07Z",
+  "last_updated": "2026-05-29T01:16:22Z",
   "engine_version": "3.0.0"
 }
