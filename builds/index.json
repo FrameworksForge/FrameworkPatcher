@@ -2039,10 +2039,10 @@
       },
       "OS2.0.203.VOJINXM": {
         "android_version": "15",
-        "build_time": "2026-05-06T16:06:25Z",
+        "build_time": "2026-05-29T06:01:48Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25446521489",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25446521489",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26620859246",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26620859246",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -3768,6 +3768,6 @@
       }
     }
   },
-  "last_updated": "2026-05-29T01:16:22Z",
+  "last_updated": "2026-05-29T06:02:30Z",
   "engine_version": "3.0.0"
 }
