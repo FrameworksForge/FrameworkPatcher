@@ -1113,6 +1113,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.301.0.WNRMIXMOS3.0.301.0.WNRMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-30T03:07:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26672768795",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26672768795",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Xaga": {
@@ -3788,6 +3799,6 @@
       }
     }
   },
-  "last_updated": "2026-05-30T02:38:37Z",
+  "last_updated": "2026-05-30T03:08:32Z",
   "engine_version": "3.0.0"
 }
