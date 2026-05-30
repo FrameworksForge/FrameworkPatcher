@@ -3881,14 +3881,14 @@
     "tanzanite": {
       "OS2.0.209.0.VOGTWXM": {
         "android_version": "15",
-        "build_time": "2026-05-29T08:38:29Z",
+        "build_time": "2026-05-30T15:55:51Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26627106723",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26627106723",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26688113536",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26688113536",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
-          "add_gboard"
+          "kaorios_toolbox"
         ]
       }
     },
@@ -3918,6 +3918,6 @@
       }
     }
   },
-  "last_updated": "2026-05-30T15:42:25Z",
+  "last_updated": "2026-05-30T15:56:28Z",
   "engine_version": "3.0.0"
 }
