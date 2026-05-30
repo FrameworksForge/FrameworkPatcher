@@ -2648,6 +2648,16 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.307.0.WMCCNXM-fix": {
+        "android_version": "16",
+        "build_time": "2026-05-30T03:54:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26673798910",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26673798910",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "sapphire": {
@@ -3799,6 +3809,6 @@
       }
     }
   },
-  "last_updated": "2026-05-30T03:15:34Z",
+  "last_updated": "2026-05-30T03:55:24Z",
   "engine_version": "3.0.0"
 }
