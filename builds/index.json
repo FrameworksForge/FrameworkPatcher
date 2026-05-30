@@ -3890,9 +3890,22 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS.WMCCNXM.3.0.307.0": {
+        "android_version": "16",
+        "build_time": "2026-05-30T12:36:59Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26683932246",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26683932246",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     }
   },
-  "last_updated": "2026-05-30T12:13:16Z",
+  "last_updated": "2026-05-30T12:37:41Z",
   "engine_version": "3.0.0"
 }
