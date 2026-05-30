@@ -1,0 +1,28 @@
+{
+  "device": "lapis",
+  "builds": {
+    "OS3.0.306.0.WPPCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "add_gboard"
+      ],
+      "build_time": "2026-05-30T18:10:00Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:3b4b0b0cb3c793026302bbf0f733ffd92f7db4aa3a94430880858c00ee661f1e",
+        "services_patched.jar": "sha256:ee2dca5de9196958e92909fe8d9578710ec58ecad62e7955daf8efbb2f69f79b",
+        "miui-services_patched.jar": "sha256:1513845991479202a3483df64fddd9f3bde90934fe4294d2de4bbcec72e109b1",
+        "miui-framework_patched.jar": "sha256:cd0a35e6c5e05527ed59e804385488f2e7d276329854153c8282be8b983ec2a1",
+        "module_zip": "sha256:f038c54339d5a86d68e9e6a5cd5a33251512cfebc7cea8db825ddc28b8ab012f"
+      },
+      "workflow_run_id": "26691060947",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26691060947",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26691060947"
+    }
+  },
+  "last_updated": "2026-05-30T18:10:40Z"
+}
