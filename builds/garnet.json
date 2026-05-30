@@ -130,7 +130,23 @@
       "workflow_run_id": "26672768795",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26672768795",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26672768795"
+    },
+    "3.0.301.0.WNRIDXM.C07": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-05-30T12:12:37Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:6eb0f61dbd9bd922db967e275cbaf351a33e9525d1917367278396d3f9c536c9",
+        "module_zip": "sha256:709be0500f6187dd9daf7fc3640e20e9c7c4cec071f707d50572a3b7e51f9cfd"
+      },
+      "workflow_run_id": "26683476962",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26683476962",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26683476962"
     }
   },
-  "last_updated": "2026-05-30T03:08:32Z"
+  "last_updated": "2026-05-30T12:13:16Z"
 }
