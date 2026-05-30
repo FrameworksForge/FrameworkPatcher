@@ -1,0 +1,22 @@
+{
+  "device": "Moonstone",
+  "builds": {
+    "OS.WMCCNXM.3.0.307.0-FIX": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-05-30T04:16:18Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:e2477f7d6569e6f80f03f31e26c4efc9e9b0783f98bdcefef306cdca373ef9aa",
+        "module_zip": "sha256:d20027d9c714f7d85b43f0fbcdaa344e6378ebed722813880c9724c699eca17c"
+      },
+      "workflow_run_id": "26674227068",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26674227068",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26674227068"
+    }
+  },
+  "last_updated": "2026-05-30T04:16:49Z"
+}

@@ -3807,8 +3807,20 @@
           "add_gboard"
         ]
       }
+    },
+    "Moonstone": {
+      "OS.WMCCNXM.3.0.307.0-FIX": {
+        "android_version": "16",
+        "build_time": "2026-05-30T04:16:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26674227068",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26674227068",
+        "features": [
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-05-30T03:55:24Z",
+  "last_updated": "2026-05-30T04:16:49Z",
   "engine_version": "3.0.0"
 }
