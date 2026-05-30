@@ -1,0 +1,24 @@
+{
+  "device": "plato",
+  "builds": {
+    "V14.0.7.0.ULQMIXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-05-30T21:17:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:9e5fac6385a835022b0b0857ad91a5377a89c20aefb344425144b3ec42089f39",
+        "services_patched.jar": "sha256:a43a81ce6025f58d5c5f7a7c20f35e4de056b04076b1cfb1b10aeed9396d3353",
+        "miui-services_patched.jar": "sha256:c7657c7426e1eb9e71fbab3ce4e0a13ccfb001c1e44c581703bb92012c30b700",
+        "module_zip": "sha256:64c0d09c5ab06eb7ada230a0f627eeb593a1b568ed6765488ede40dd7f224215"
+      },
+      "workflow_run_id": "26695114622",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26695114622",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26695114622"
+    }
+  },
+  "last_updated": "2026-05-30T21:18:18Z"
+}
