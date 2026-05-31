@@ -3094,6 +3094,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.313.0.WPBCNXM_EU": {
+        "android_version": "16",
+        "build_time": "2026-05-31T12:13:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26712237895",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26712237895",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "corot": {
@@ -4053,6 +4064,6 @@
       }
     }
   },
-  "last_updated": "2026-05-31T11:58:21Z",
+  "last_updated": "2026-05-31T12:13:47Z",
   "engine_version": "3.0.0"
 }
