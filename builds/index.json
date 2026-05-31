@@ -3948,6 +3948,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "Os3.pmm": {
+        "android_version": "15",
+        "build_time": "2026-05-31T19:30:23Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26722240387",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26722240387",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "vayu": {
@@ -4101,6 +4111,6 @@
       }
     }
   },
-  "last_updated": "2026-05-31T17:44:49Z",
+  "last_updated": "2026-05-31T19:30:57Z",
   "engine_version": "3.0.0"
 }
