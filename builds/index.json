@@ -658,10 +658,10 @@
       },
       "OS3.0.9.0.VNQCNXM": {
         "android_version": "15",
-        "build_time": "2026-05-30T11:38:42Z",
+        "build_time": "2026-05-31T03:27:43Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26682769516",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26682769516",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26702065000",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26702065000",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -3991,6 +3991,6 @@
       }
     }
   },
-  "last_updated": "2026-05-31T03:12:43Z",
+  "last_updated": "2026-05-31T03:28:19Z",
   "engine_version": "3.0.0"
 }
