@@ -2042,6 +2042,17 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.301.WPJMIXM": {
+        "android_version": "16",
+        "build_time": "2026-05-31T14:54:04Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26715578148",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26715578148",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "nezha": {
@@ -4092,6 +4103,6 @@
       }
     }
   },
-  "last_updated": "2026-05-31T13:45:33Z",
+  "last_updated": "2026-05-31T14:54:46Z",
   "engine_version": "3.0.0"
 }
