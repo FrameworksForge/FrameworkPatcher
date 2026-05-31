@@ -1497,10 +1497,10 @@
       },
       "OS2.0.207.0.VMTMIXM": {
         "android_version": "15",
-        "build_time": "2026-05-30T17:29:17Z",
+        "build_time": "2026-05-31T11:29:20Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26690179635",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26690179635",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26711287543",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26711287543",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -4039,6 +4039,6 @@
       }
     }
   },
-  "last_updated": "2026-05-31T11:00:58Z",
+  "last_updated": "2026-05-31T11:29:56Z",
   "engine_version": "3.0.0"
 }
