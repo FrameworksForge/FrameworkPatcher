@@ -930,6 +930,19 @@
           "disable_secure_flag",
           "add_gboard"
         ]
+      },
+      "OS3.0.3.0.VMRMIXM": {
+        "android_version": "15",
+        "build_time": "2026-05-31T13:44:53Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26714168659",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26714168659",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "peridot": {
@@ -4079,6 +4092,6 @@
       }
     }
   },
-  "last_updated": "2026-05-31T12:54:14Z",
+  "last_updated": "2026-05-31T13:45:33Z",
   "engine_version": "3.0.0"
 }
