@@ -384,10 +384,10 @@
       },
       "1.0.8": {
         "android_version": "15",
-        "build_time": "2026-04-28T19:56:14Z",
+        "build_time": "2026-05-31T05:35:34Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25074359367",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25074359367",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26704314333",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26704314333",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -4016,6 +4016,6 @@
       }
     }
   },
-  "last_updated": "2026-05-31T05:17:03Z",
+  "last_updated": "2026-05-31T05:36:12Z",
   "engine_version": "3.0.0"
 }
