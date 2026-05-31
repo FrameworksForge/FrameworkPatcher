@@ -7,22 +7,22 @@
       "features": [
         "disable_signature_verification",
         "cn_notification_fix",
-        "disable_secure_flag",
+        "kaorios_toolbox",
         "add_gboard"
       ],
-      "build_time": "2026-05-31T07:33:11Z",
+      "build_time": "2026-05-31T17:44:08Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:f2e19fae2d1e0f1c030d035f9ef01c913457c0f8726cc831d0f776a4071e8a12",
-        "services_patched.jar": "sha256:b41e954cfd5011472745a592def67a3504d02e1589347a657739011ad9406b74",
-        "miui-services_patched.jar": "sha256:cd91ae8f6702c197d22600bcbed6035b5fc42ce9bf6682227e33d0c6f6ddb80b",
-        "miui-framework_patched.jar": "sha256:87303611c33d982a041e982ed676c11dbd9fc6084020963fca655f23ac81816d",
-        "module_zip": "sha256:6bb083b4f602742a0edef3038c65124ead51ba5fb431687b12a4411f7aba0943"
+        "framework_patched.jar": "sha256:26932de985710c6742b4496ea981aea473e12a2a2a6e09e2059e4a5fb996218b",
+        "services_patched.jar": "sha256:e077b36b687eadda7ffff6723cd8fff15948855c53ca5429e8720e23b78d7582",
+        "miui-services_patched.jar": "sha256:e1c4a2fc6580cdbd986994aa73a900494e4880494606f560c8a5bf84de1a9cca",
+        "miui-framework_patched.jar": "sha256:17f2c43b8656c5f5cf689410d43c8243d0bf2c2fe5de90e4cb7fb6f884495c18",
+        "module_zip": "sha256:c6eac1f770052aab363a296e2fdfe4427ce2681924ac9449de846ad77b946b0b"
       },
-      "workflow_run_id": "26706534451",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26706534451",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26706534451"
+      "workflow_run_id": "26719688421",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26719688421",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26719688421"
     }
   },
-  "last_updated": "2026-05-31T07:33:45Z"
+  "last_updated": "2026-05-31T17:44:49Z"
 }
