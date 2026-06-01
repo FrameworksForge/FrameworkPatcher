@@ -768,15 +768,14 @@
       },
       "OS3.0.3.0.VLCCNXM": {
         "android_version": "15",
-        "build_time": "2026-05-25T15:34:56Z",
+        "build_time": "2026-06-01T12:31:05Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26408029897",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26408029897",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26754835072",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26754835072",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
-          "disable_secure_flag",
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       }
     },
@@ -4143,6 +4142,6 @@
       }
     }
   },
-  "last_updated": "2026-06-01T11:44:30Z",
+  "last_updated": "2026-06-01T12:31:51Z",
   "engine_version": "3.0.0"
 }
