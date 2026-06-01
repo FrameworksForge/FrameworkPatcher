@@ -1864,15 +1864,12 @@
       },
       "OS3.0.306.0.WPCCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-14T10:53:36Z",
+        "build_time": "2026-06-01T20:09:36Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25856023171",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25856023171",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26779066398",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26779066398",
         "features": [
-          "disable_signature_verification",
-          "cn_notification_fix",
-          "disable_secure_flag",
-          "add_gboard"
+          "cn_notification_fix"
         ]
       },
       "OS3.3.260420.2.XPCCNXM": {
@@ -4164,6 +4161,6 @@
       }
     }
   },
-  "last_updated": "2026-06-01T16:33:37Z",
+  "last_updated": "2026-06-01T20:10:14Z",
   "engine_version": "3.0.0"
 }
