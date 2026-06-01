@@ -1,0 +1,26 @@
+{
+  "device": "fuxi_global",
+  "builds": {
+    "OS3.0.303.0.WMCMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-01T03:35:32Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8b3721e1ad54a28d77fe68f6cea03ec635f95273b6712072ed97d22f8d34d4a1",
+        "services_patched.jar": "sha256:7a276b2d245020182c28d13834652d43071f2a831519d6886a12951cea9b6c8d",
+        "miui-services_patched.jar": "sha256:20510ebd70c41d280cb404a74ac0ff00a0bb565deb8b40951acd308ddff6b427",
+        "module_zip": "sha256:21fe2cbb9f4912e5aa23ae36bfbd1c44e282a318bd4f457be61529773b4e3a6c"
+      },
+      "workflow_run_id": "26733659897",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26733659897",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26733659897"
+    }
+  },
+  "last_updated": "2026-06-01T03:36:17Z"
+}
