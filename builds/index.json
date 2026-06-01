@@ -2905,6 +2905,16 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "V14.0.11.0.TLJCNXM": {
+        "android_version": "13",
+        "build_time": "2026-06-01T14:19:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26760624016",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26760624016",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "pandora": {
@@ -4142,6 +4152,6 @@
       }
     }
   },
-  "last_updated": "2026-06-01T12:31:51Z",
+  "last_updated": "2026-06-01T14:20:27Z",
   "engine_version": "3.0.0"
 }
