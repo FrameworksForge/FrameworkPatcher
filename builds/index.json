@@ -3888,14 +3888,12 @@
     "beryl": {
       "OS3.0.305.0.WOQCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-31T17:44:08Z",
+        "build_time": "2026-06-01T05:17:04Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26719688421",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26719688421",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26736571814",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26736571814",
         "features": [
-          "disable_signature_verification",
           "cn_notification_fix",
-          "kaorios_toolbox",
           "add_gboard"
         ]
       }
@@ -4146,6 +4144,6 @@
       }
     }
   },
-  "last_updated": "2026-06-01T05:04:00Z",
+  "last_updated": "2026-06-01T05:17:35Z",
   "engine_version": "3.0.0"
 }
