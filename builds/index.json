@@ -736,6 +736,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "V14.0.8.0.TMGMIXM": {
+        "android_version": "13",
+        "build_time": "2026-06-01T03:04:53Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26732872655",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26732872655",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "cupid": {
@@ -4120,6 +4131,6 @@
       }
     }
   },
-  "last_updated": "2026-06-01T02:24:33Z",
+  "last_updated": "2026-06-01T03:05:36Z",
   "engine_version": "3.0.0"
 }
