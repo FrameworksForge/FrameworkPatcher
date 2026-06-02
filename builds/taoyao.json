@@ -1,0 +1,26 @@
+{
+  "device": "taoyao",
+  "builds": {
+    "OS1.0.33.0.ULIEUXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-02T15:15:26Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:593d2eee5675bd6f6e090d67aea4f2590c16a3f47cccd8f2a1191a11c9074388",
+        "services_patched.jar": "sha256:69bd9706c97ff09fee207fbbec3a7d09e221608d7b6d3b3dcdb76264437dffa7",
+        "miui-services_patched.jar": "sha256:286df63d7642eb6ba9dfcd3fe052e6f313399c773ab8a4861740c8f617bc9796",
+        "module_zip": "sha256:db3e0af6aa9765d6079d67db1ba59b7c81b3a493263ad87fbd7ae85f0bf330f7"
+      },
+      "workflow_run_id": "26829061761",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26829061761",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26829061761"
+    }
+  },
+  "last_updated": "2026-06-02T15:16:17Z"
+}

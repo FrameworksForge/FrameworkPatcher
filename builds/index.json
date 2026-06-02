@@ -4187,8 +4187,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "taoyao": {
+      "OS1.0.33.0.ULIEUXM": {
+        "android_version": "15",
+        "build_time": "2026-06-02T15:15:26Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26829061761",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26829061761",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-02T13:01:49Z",
+  "last_updated": "2026-06-02T15:16:17Z",
   "engine_version": "3.0.0"
 }
