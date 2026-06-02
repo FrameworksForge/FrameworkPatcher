@@ -3541,14 +3541,13 @@
       },
       "OS1.0.33.0.THGMIXM": {
         "android_version": "13",
-        "build_time": "2026-06-02T17:25:24Z",
+        "build_time": "2026-06-02T17:47:52Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26836405575",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26836405575",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26837612483",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26837612483",
         "features": [
           "disable_signature_verification",
-          "kaorios_toolbox",
-          "add_gboard"
+          "kaorios_toolbox"
         ]
       }
     },
@@ -4215,6 +4214,6 @@
       }
     }
   },
-  "last_updated": "2026-06-02T17:26:02Z",
+  "last_updated": "2026-06-02T17:48:35Z",
   "engine_version": "3.0.0"
 }
