@@ -200,7 +200,27 @@
       "workflow_run_id": "26396133669",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26396133669",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26396133669"
+    },
+    "Os3.1GlobalTapasRedmi15Port": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-02T18:47:23Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:43db32d7a23a794bcf3fed8e29a74bc25814e7dbf7b27d93df8c95717700ca29",
+        "services_patched.jar": "sha256:96230317ca5794e547f29d98a1dd0698d713a2e0d48925af2e98e09b8e4da5c1",
+        "miui-services_patched.jar": "sha256:d040aa455a5604ccffc2d7717ef2ab3176f7d7bcf44f460bf0a1c121d80ec5a9",
+        "module_zip": "sha256:c9447f8e0ce9684fa8af47f61f8ab98d3abb207ea9e2882db23cd2ef8c260e70"
+      },
+      "workflow_run_id": "26840721598",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26840721598",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26840721598"
     }
   },
-  "last_updated": "2026-06-02T10:11:06Z"
+  "last_updated": "2026-06-02T18:48:17Z"
 }

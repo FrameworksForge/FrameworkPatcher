@@ -1651,6 +1651,18 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "Os3.1GlobalTapasRedmi15Port": {
+        "android_version": "16",
+        "build_time": "2026-06-02T18:47:23Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26840721598",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26840721598",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "duchamp": {
@@ -4214,6 +4226,6 @@
       }
     }
   },
-  "last_updated": "2026-06-02T17:48:35Z",
+  "last_updated": "2026-06-02T18:48:17Z",
   "engine_version": "3.0.0"
 }
