@@ -1757,6 +1757,19 @@
           "disable_secure_flag",
           "add_gboard"
         ]
+      },
+      "OS2.0.209.0.VNLIDXM": {
+        "android_version": "15",
+        "build_time": "2026-06-02T20:23:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26845641373",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26845641373",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "zircon": {
@@ -4226,6 +4239,6 @@
       }
     }
   },
-  "last_updated": "2026-06-02T18:48:17Z",
+  "last_updated": "2026-06-02T20:23:58Z",
   "engine_version": "3.0.0"
 }
