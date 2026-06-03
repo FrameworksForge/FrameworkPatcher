@@ -723,6 +723,19 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.2.0.VNQINXM": {
+        "android_version": "15",
+        "build_time": "2026-06-03T08:41:00Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26873425534",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26873425534",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "add_gboard"
+        ]
       }
     },
     "topaz": {
@@ -4262,6 +4275,6 @@
       }
     }
   },
-  "last_updated": "2026-06-03T04:49:43Z",
+  "last_updated": "2026-06-03T08:41:40Z",
   "engine_version": "3.0.0"
 }
