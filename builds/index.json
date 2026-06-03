@@ -1391,11 +1391,14 @@
     "amethyst": {
       "OS3.0.303.0.WOPCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-28T21:06:02Z",
+        "build_time": "2026-06-03T15:47:41Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26602206206",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26602206206",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26896006994",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26896006994",
         "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
           "kaorios_toolbox"
         ]
       },
@@ -4308,6 +4311,6 @@
       }
     }
   },
-  "last_updated": "2026-06-03T15:16:37Z",
+  "last_updated": "2026-06-03T15:48:28Z",
   "engine_version": "3.0.0"
 }
