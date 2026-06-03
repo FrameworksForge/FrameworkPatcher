@@ -1794,6 +1794,17 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "greeshan.ru_OS3.0.3.0.WNi_iDX\u039c": {
+        "android_version": "16",
+        "build_time": "2026-06-03T12:20:15Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26884198646",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26884198646",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "zircon": {
@@ -4285,6 +4296,6 @@
       }
     }
   },
-  "last_updated": "2026-06-03T09:22:56Z",
+  "last_updated": "2026-06-03T12:20:59Z",
   "engine_version": "3.0.0"
 }

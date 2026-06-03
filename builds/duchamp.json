@@ -176,7 +176,26 @@
       "workflow_run_id": "26845641373",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26845641373",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26845641373"
+    },
+    "greeshan.ru_OS3.0.3.0.WNi_iDX\u039c": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-03T12:20:15Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:aaee2143e278cd08d2db3524d8a167f576ebb3824f19b9be03b01c08f05ef8e9",
+        "services_patched.jar": "sha256:0505cd0352cd09b8d59508eb3d7695178a0ce2314c234ceb583245a735aca836",
+        "miui-services_patched.jar": "sha256:8e06a0fb9ae3b1e249d483cc9a3e0648d662d2d0cfbdc4f1902fe5f747ff701b",
+        "module_zip": "sha256:f91f088ecae170d9c185f3d2bec891c45b766ab181ffb8877f9a49a6b2b94a15"
+      },
+      "workflow_run_id": "26884198646",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26884198646",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26884198646"
     }
   },
-  "last_updated": "2026-06-02T22:43:16Z"
+  "last_updated": "2026-06-03T12:20:59Z"
 }
