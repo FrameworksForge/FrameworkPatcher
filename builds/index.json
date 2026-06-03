@@ -4186,6 +4186,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.16.0.UMZMIXM": {
+        "android_version": "15",
+        "build_time": "2026-06-03T17:44:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26902288225",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26902288225",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "tanzanite": {
@@ -4336,6 +4348,6 @@
       }
     }
   },
-  "last_updated": "2026-06-03T17:32:16Z",
+  "last_updated": "2026-06-03T17:44:55Z",
   "engine_version": "3.0.0"
 }
