@@ -1,0 +1,27 @@
+{
+  "device": "veux",
+  "builds": {
+    "OS3.0.0.2.WNCCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-03T17:31:29Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:23ea74001a22fabaddf66ea367401156aebaecc83d6e909f59b3a522ad378dc5",
+        "services_patched.jar": "sha256:7185e7bd97359fd5dabdd4d7f21e6ed5bf70d94a114e2bc234e75912f346625a",
+        "miui-services_patched.jar": "sha256:b5fbfb81d75a3ebbb95d06715a97f5e932f37c5627a824d7a82be5b0acc72e94",
+        "module_zip": "sha256:1777aa944ec90962a608fa9f284c621e0e57276577d6584e8fd8346b9133fb1a"
+      },
+      "workflow_run_id": "26901652423",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26901652423",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26901652423"
+    }
+  },
+  "last_updated": "2026-06-03T17:32:16Z"
+}
