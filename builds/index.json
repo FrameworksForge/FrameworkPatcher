@@ -4427,8 +4427,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Pudding": {
+      "OS.3.0.313.0.WPCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-04T19:53:15Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26975688370",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26975688370",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-04T18:36:46Z",
+  "last_updated": "2026-06-04T19:53:54Z",
   "engine_version": "3.0.0"
 }
