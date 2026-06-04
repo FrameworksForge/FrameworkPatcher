@@ -3980,13 +3980,14 @@
     "Marble": {
       "OS3.0.5.0.VMRCNXM": {
         "android_version": "15",
-        "build_time": "2026-05-18T20:27:50Z",
+        "build_time": "2026-06-04T20:59:36Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26058352128",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26058352128",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26979044562",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26979044562",
         "features": [
           "disable_signature_verification",
-          "kaorios_toolbox"
+          "cn_notification_fix",
+          "disable_secure_flag"
         ]
       },
       "OS.3.0.4.0.VMRCNXM": {
@@ -4443,6 +4444,6 @@
       }
     }
   },
-  "last_updated": "2026-06-04T19:53:54Z",
+  "last_updated": "2026-06-04T21:00:20Z",
   "engine_version": "3.0.0"
 }
