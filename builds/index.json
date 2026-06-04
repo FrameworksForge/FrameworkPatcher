@@ -3846,6 +3846,16 @@
           "disable_secure_flag",
           "add_gboard"
         ]
+      },
+      "OS2.0.8.0.UMOTWXM": {
+        "android_version": "14",
+        "build_time": "2026-06-04T07:20:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26936988837",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26936988837",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "rembrandt": {
@@ -4372,6 +4382,6 @@
       }
     }
   },
-  "last_updated": "2026-06-04T07:13:32Z",
+  "last_updated": "2026-06-04T07:20:48Z",
   "engine_version": "3.0.0"
 }

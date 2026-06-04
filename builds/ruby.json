@@ -22,7 +22,25 @@
       "workflow_run_id": "26651339403",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26651339403",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26651339403"
+    },
+    "OS2.0.8.0.UMOTWXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-06-04T07:20:13Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:c09fa14ab9488d87f6b0471fee6780488cc1508be3cdfb064e8d6bdedadc4416",
+        "services_patched.jar": "sha256:1e1dd705cd23dd37611b993c0819e9809afb5ee42fcb499ae4aa946aa92ec83a",
+        "miui-services_patched.jar": "sha256:73238f347eb63f2fb97e39c04b4f07d64358339e4fca3f075440dc0739920e95",
+        "module_zip": "sha256:7f57030fb31eb4581239abb953dc8c419bab1e5083d03ff20e7babd89e24940c"
+      },
+      "workflow_run_id": "26936988837",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26936988837",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26936988837"
     }
   },
-  "last_updated": "2026-05-29T17:22:07Z"
+  "last_updated": "2026-06-04T07:20:48Z"
 }
