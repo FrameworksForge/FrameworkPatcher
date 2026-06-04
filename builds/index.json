@@ -4387,8 +4387,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "socrates": {
+      "OS3.0.303.0.WMKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-04T13:06:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26953473095",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26953473095",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-04T12:01:38Z",
+  "last_updated": "2026-06-04T13:07:25Z",
   "engine_version": "3.0.0"
 }

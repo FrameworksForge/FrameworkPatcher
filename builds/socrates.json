@@ -1,0 +1,24 @@
+{
+  "device": "socrates",
+  "builds": {
+    "OS3.0.303.0.WMKCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-06-04T13:06:36Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:824e023d6facfcca1fda6f3fa10f8ae27f0bef0e5f7ef248f9af07b5bf82c590",
+        "services_patched.jar": "sha256:7228542b0b509c95d0b821a74ed7daef464ffb585314b1272c930a00497e3258",
+        "miui-services_patched.jar": "sha256:3b112fa998e3186737fd51b7c805c43aa52f16ba13732520f6378a96b41fadf8",
+        "module_zip": "sha256:d847097b7c3f627983d11b3138ac04596e0d8b1b455c7f784b10bc884bf9fb74"
+      },
+      "workflow_run_id": "26953473095",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26953473095",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26953473095"
+    }
+  },
+  "last_updated": "2026-06-04T13:07:25Z"
+}
