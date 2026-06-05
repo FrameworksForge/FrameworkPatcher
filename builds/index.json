@@ -3390,6 +3390,16 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.302.0WNUCNXM.C08": {
+        "android_version": "16",
+        "build_time": "2026-06-05T10:22:53Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27009365465",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27009365465",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "goku": {
@@ -4491,6 +4501,6 @@
       }
     }
   },
-  "last_updated": "2026-06-05T09:14:47Z",
+  "last_updated": "2026-06-05T10:23:40Z",
   "engine_version": "3.0.0"
 }
