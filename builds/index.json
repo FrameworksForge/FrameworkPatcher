@@ -4186,6 +4186,17 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.18.0.TKTMIXM": {
+        "android_version": "13",
+        "build_time": "2026-06-05T09:12:04Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27006173539",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27006173539",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "vayu": {
@@ -4458,6 +4469,6 @@
       }
     }
   },
-  "last_updated": "2026-06-05T09:03:32Z",
+  "last_updated": "2026-06-05T09:12:41Z",
   "engine_version": "3.0.0"
 }
