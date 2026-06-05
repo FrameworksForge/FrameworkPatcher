@@ -3090,12 +3090,13 @@
     "sweet": {
       "OS1.0.33.0.THGMIXM": {
         "android_version": "13",
-        "build_time": "2026-05-03T22:53:15Z",
+        "build_time": "2026-06-05T13:27:19Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25293130887",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25293130887",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27017523933",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27017523933",
         "features": [
           "disable_signature_verification",
+          "kaorios_toolbox",
           "add_gboard"
         ]
       },
@@ -4501,6 +4502,6 @@
       }
     }
   },
-  "last_updated": "2026-06-05T10:23:40Z",
+  "last_updated": "2026-06-05T13:27:58Z",
   "engine_version": "3.0.0"
 }
