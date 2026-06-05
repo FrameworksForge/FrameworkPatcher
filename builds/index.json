@@ -4151,6 +4151,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.305.0.WFSCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-05T04:28:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26995302283",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26995302283",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "pissarro": {
@@ -4447,6 +4458,6 @@
       }
     }
   },
-  "last_updated": "2026-06-05T03:52:02Z",
+  "last_updated": "2026-06-05T04:28:48Z",
   "engine_version": "3.0.0"
 }
