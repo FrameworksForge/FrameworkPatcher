@@ -4421,6 +4421,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.12.0.ULCIDXM": {
+        "android_version": "14",
+        "build_time": "2026-06-05T09:14:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27006264447",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27006264447",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "veux": {
@@ -4480,6 +4491,6 @@
       }
     }
   },
-  "last_updated": "2026-06-05T09:13:07Z",
+  "last_updated": "2026-06-05T09:14:47Z",
   "engine_version": "3.0.0"
 }
