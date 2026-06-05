@@ -4537,8 +4537,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Nuwa": {
+      "OS3.0.309.0.WMBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-05T19:57:30Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27036873758",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27036873758",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-05T18:45:13Z",
+  "last_updated": "2026-06-05T19:58:12Z",
   "engine_version": "3.0.0"
 }
