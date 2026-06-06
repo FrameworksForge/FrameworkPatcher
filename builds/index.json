@@ -1016,6 +1016,18 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.2.0.VMRINXM": {
+        "android_version": "15",
+        "build_time": "2026-06-06T14:11:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27064438921",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27064438921",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "peridot": {
@@ -4638,6 +4650,6 @@
       }
     }
   },
-  "last_updated": "2026-06-06T14:11:24Z",
+  "last_updated": "2026-06-06T14:11:53Z",
   "engine_version": "3.0.0"
 }
