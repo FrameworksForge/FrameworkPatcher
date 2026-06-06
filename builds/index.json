@@ -1035,6 +1035,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.3.0.WNPTWXM": {
+        "android_version": "16",
+        "build_time": "2026-06-06T00:27:29Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27047143808",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27047143808",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "nuwa": {
@@ -4552,6 +4565,6 @@
       }
     }
   },
-  "last_updated": "2026-06-05T20:02:49Z",
+  "last_updated": "2026-06-06T00:28:06Z",
   "engine_version": "3.0.0"
 }
