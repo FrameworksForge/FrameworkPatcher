@@ -27,15 +27,15 @@
       "features": [
         "kaorios_toolbox"
       ],
-      "build_time": "2026-05-26T10:32:28Z",
+      "build_time": "2026-06-06T10:51:22Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:de6ab4f404e8f557788db33da449607f74818bea01ff5b3dcf075a249e5c5ef3",
-        "module_zip": "sha256:da5cbac3e8bb0f06019e1b347a50cd2c6c439f56bc740bc64a0a977547b3b743"
+        "framework_patched.jar": "sha256:634bc0df47ca366702dec5656b69ec1099002a564573e68bd7ea13ed7c189370",
+        "module_zip": "sha256:2be229769d20e9fe0393f746c7ea1508691a803b1d60d0ee6306d49b88f2c45d"
       },
-      "workflow_run_id": "26447009061",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26447009061",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26447009061"
+      "workflow_run_id": "27060266633",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27060266633",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27060266633"
     },
     "OS3.0.304.0.WNRCNXM": {
       "android_version": "16",
@@ -164,5 +164,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26704624756"
     }
   },
-  "last_updated": "2026-06-05T16:23:36Z"
+  "last_updated": "2026-06-06T10:52:01Z"
 }
