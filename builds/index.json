@@ -2427,6 +2427,16 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS1.0.16.0.ULFCNXM": {
+        "android_version": "15",
+        "build_time": "2026-06-06T18:31:22Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27070399156",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27070399156",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "fuxi": {
@@ -4650,6 +4660,6 @@
       }
     }
   },
-  "last_updated": "2026-06-06T18:17:04Z",
+  "last_updated": "2026-06-06T18:32:03Z",
   "engine_version": "3.0.0"
 }
