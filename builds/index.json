@@ -2608,6 +2608,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.303.0.WPKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-06T22:35:24Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27075725163",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27075725163",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "miro": {
@@ -4656,6 +4668,6 @@
       }
     }
   },
-  "last_updated": "2026-06-06T22:17:35Z",
+  "last_updated": "2026-06-06T22:36:07Z",
   "engine_version": "3.0.0"
 }
