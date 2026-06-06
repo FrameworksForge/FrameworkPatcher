@@ -1,0 +1,26 @@
+{
+  "device": "Zorn",
+  "builds": {
+    "3.0.303.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-06T22:40:33Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f4c84cc53eedb987c5270be748cbcd0ff1d172d544ff95afd3b1ba1e205176ea",
+        "services_patched.jar": "sha256:2ad6163a431bc13b636558e7f0e1fe548c139f624e2640fa968fec0d19f2289f",
+        "miui-services_patched.jar": "sha256:c945af3f7acb2f21527fbdf03a9fd2913dc4f88e1ab756f9e994479cb1f5610d",
+        "module_zip": "sha256:374b0778e9b354e7d94e6e2dfd55a75faacf233c9e91b621641b4b6be4c29637"
+      },
+      "workflow_run_id": "27075833171",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27075833171",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27075833171"
+    }
+  },
+  "last_updated": "2026-06-06T22:41:06Z"
+}

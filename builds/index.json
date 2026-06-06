@@ -4666,8 +4666,22 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "Zorn": {
+      "3.0.303.0": {
+        "android_version": "16",
+        "build_time": "2026-06-06T22:40:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27075833171",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27075833171",
+        "features": [
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-06T22:36:07Z",
+  "last_updated": "2026-06-06T22:41:06Z",
   "engine_version": "3.0.0"
 }
