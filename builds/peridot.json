@@ -26,18 +26,18 @@
         "kaorios_toolbox",
         "add_gboard"
       ],
-      "build_time": "2026-05-20T13:22:57Z",
+      "build_time": "2026-06-06T17:44:50Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:28d648c9fe75519633313e5d1c7e8ad6092150286eae39f646485b36b9702bbe",
-        "services_patched.jar": "sha256:1a83b534f5f2b2b369767132f2e3ad3eb525f5385a745ebdc424f5f02361be1f",
-        "miui-services_patched.jar": "sha256:22f6d8998ae139f1d19c2efe8fbffd63bfa635dfb5d7ac5d8d48f01dadce0037",
-        "miui-framework_patched.jar": "sha256:1db7c277be124d7224cb1ccf816e335a5bb7058152d7841943897116981661b2",
-        "module_zip": "sha256:326c3e5056947d0de30434fe229a1f3862f3218ec46023305bed1590f551a91b"
+        "framework_patched.jar": "sha256:66d72ff926adae24fb6338cf9cf6d96166c48521be7b1afeb3132364be1c9d4d",
+        "services_patched.jar": "sha256:b353eaf4581519c2bfa55faa24d1598772eeb9609ef3e88b2229353126b98387",
+        "miui-services_patched.jar": "sha256:163928e45d897e9b35381a33a3103fb4a40e138e5147a3181e5681598b599132",
+        "miui-framework_patched.jar": "sha256:a46d80b2667c45ae60e0eea91e8f7df6c224a41071fc6cd4633eb288b04aefa2",
+        "module_zip": "sha256:eab6c45ce9bc15a7215f732ef44d0d605a96835ec9338deb13821859f9442245"
       },
-      "workflow_run_id": "26165214387",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26165214387",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26165214387"
+      "workflow_run_id": "27069351240",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27069351240",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27069351240"
     },
     "OS3.0.4.0.WNPINXM": {
       "android_version": "16",
@@ -82,5 +82,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27047143808"
     }
   },
-  "last_updated": "2026-06-06T00:28:06Z"
+  "last_updated": "2026-06-06T17:45:33Z"
 }
