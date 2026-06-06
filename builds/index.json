@@ -4624,8 +4624,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "spinel": {
+      "OS3.0.301.0.WPGMIXM": {
+        "android_version": "16",
+        "build_time": "2026-06-06T14:10:48Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27064458631",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27064458631",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-06T11:43:50Z",
+  "last_updated": "2026-06-06T14:11:24Z",
   "engine_version": "3.0.0"
 }

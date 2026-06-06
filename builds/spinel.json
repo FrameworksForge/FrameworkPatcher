@@ -1,0 +1,24 @@
+{
+  "device": "spinel",
+  "builds": {
+    "OS3.0.301.0.WPGMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-06-06T14:10:48Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:72d1a3198f961929a133340057cd5c4632cf0dc71d944b5dc6b427e716930669",
+        "services_patched.jar": "sha256:99bae6cc42922ff3c89cea60f8e9137efa74dd49cec7784540f41649b398b7f6",
+        "miui-services_patched.jar": "sha256:eb4fe55dcbbd98a3ac4a9290753cc9f384313c5a7fab936269a0c6411ec5efea",
+        "module_zip": "sha256:fa70e3b5462c216bd4393ea674e5dbcb0855efaf0b4b214119722cdd17833300"
+      },
+      "workflow_run_id": "27064458631",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27064458631",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27064458631"
+    }
+  },
+  "last_updated": "2026-06-06T14:11:24Z"
+}
