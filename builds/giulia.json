@@ -1,0 +1,26 @@
+{
+  "device": "giulia",
+  "builds": {
+    "CPH2691_15.0.0.871(EX01)": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-06T11:43:08Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:d632acbeab2a5ba33444f7e8aedcbc86cfa26f78a3e00d524ab5da7900aed26c",
+        "services_patched.jar": "sha256:120fd97882145d2a2230ce034940db48e7d5280625e39558c6d5132d408eb959",
+        "miui-services_patched.jar": "sha256:b9b01da1213d58104bf1314c57e9f5d99aa3c9264a0cbe30532806da434d04ed",
+        "module_zip": "sha256:b3b5f3060b84c07195615c429d6f7783e272b1e3696f242bc330c9521f6c40a0"
+      },
+      "workflow_run_id": "27061265546",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27061265546",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27061265546"
+    }
+  },
+  "last_updated": "2026-06-06T11:43:50Z"
+}

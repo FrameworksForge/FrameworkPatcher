@@ -4610,8 +4610,22 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "giulia": {
+      "CPH2691_15.0.0.871(EX01)": {
+        "android_version": "15",
+        "build_time": "2026-06-06T11:43:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27061265546",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27061265546",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-06T10:59:10Z",
+  "last_updated": "2026-06-06T11:43:50Z",
   "engine_version": "3.0.0"
 }
