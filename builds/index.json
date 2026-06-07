@@ -1992,6 +1992,20 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "EUOS2.0.2": {
+        "android_version": "15",
+        "build_time": "2026-06-07T10:33:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27089948293",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27089948293",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "mayfly": {
@@ -4743,6 +4757,6 @@
       }
     }
   },
-  "last_updated": "2026-06-07T09:59:33Z",
+  "last_updated": "2026-06-07T10:34:28Z",
   "engine_version": "3.0.0"
 }

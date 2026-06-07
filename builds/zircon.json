@@ -219,7 +219,30 @@
       "workflow_run_id": "27088385089",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27088385089",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27088385089"
+    },
+    "EUOS2.0.2": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-06-07T10:33:52Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8fbff829198edde560db58c5a99601c8fc07af349ccdfb462545f6305174b3d9",
+        "services_patched.jar": "sha256:c1a3de62cf61c7208133987e205ac4321b9ee7924ebb7637f169f879ee03b1ed",
+        "miui-services_patched.jar": "sha256:c8a0f1b2fe2c847bc52e6b4aac9c2375cec4c2af7a46c54660e72982f7cbcda6",
+        "miui-framework_patched.jar": "sha256:e1555dd26f7c6a27b311ce2675f89c83f6efd59f643b7c9bb33ae84e3d0c1132",
+        "module_zip": "sha256:6fbc3fbec2885b8a71f2f9a3cc8d98a1e3e994d33ee933ed01179abc4f2fc216"
+      },
+      "workflow_run_id": "27089948293",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27089948293",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27089948293"
     }
   },
-  "last_updated": "2026-06-07T09:19:01Z"
+  "last_updated": "2026-06-07T10:34:28Z"
 }
