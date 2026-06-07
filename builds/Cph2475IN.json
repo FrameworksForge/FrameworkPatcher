@@ -1,0 +1,22 @@
+{
+  "device": "Cph2475IN",
+  "builds": {
+    "OXYGENOS16": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-07T03:21:19Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:128c3971c7e0afd561937317cc8ba4e0ba9d96cd7b6b0352d1c3c43d4d57bec8",
+        "module_zip": "sha256:299ad01899b0c72df9c17174a88bd0e23b29c890514bfda14e7f1ce55b4eab5d"
+      },
+      "workflow_run_id": "27081360186",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27081360186",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27081360186"
+    }
+  },
+  "last_updated": "2026-06-07T03:22:01Z"
+}

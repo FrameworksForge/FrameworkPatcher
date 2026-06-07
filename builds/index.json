@@ -4680,8 +4680,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Cph2475IN": {
+      "OXYGENOS16": {
+        "android_version": "16",
+        "build_time": "2026-06-07T03:21:19Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27081360186",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27081360186",
+        "features": [
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-06T22:41:06Z",
+  "last_updated": "2026-06-07T03:22:01Z",
   "engine_version": "3.0.0"
 }
