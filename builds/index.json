@@ -4693,8 +4693,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "yuechu": {
+      "OS2.0.213.0.VMICNXM": {
+        "android_version": "15",
+        "build_time": "2026-06-07T05:12:07Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27083461159",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27083461159",
+        "features": [
+          "cn_notification_fix",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-07T04:42:53Z",
+  "last_updated": "2026-06-07T05:12:40Z",
   "engine_version": "3.0.0"
 }

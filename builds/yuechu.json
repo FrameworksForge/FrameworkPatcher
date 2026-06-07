@@ -1,0 +1,24 @@
+{
+  "device": "yuechu",
+  "builds": {
+    "OS2.0.213.0.VMICNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix",
+        "add_gboard"
+      ],
+      "build_time": "2026-06-07T05:12:07Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:31498d1abbbdc924669f2f02058f8f5c19e82a529421edc426c91be627d42797",
+        "miui-framework_patched.jar": "sha256:3a21599639008614db8e2faaeb38b436369c930b5970937ef8afdb3f05a00aaf",
+        "module_zip": "sha256:ba1c4f50629756ae5f6cbc32c385b4c449ffa98bb006563df7b14de3c573962b"
+      },
+      "workflow_run_id": "27083461159",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27083461159",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27083461159"
+    }
+  },
+  "last_updated": "2026-06-07T05:12:40Z"
+}
