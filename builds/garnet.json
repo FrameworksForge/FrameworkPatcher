@@ -42,20 +42,20 @@
       "patch_version": "3.0.0",
       "features": [
         "disable_signature_verification",
-        "disable_secure_flag",
-        "kaorios_toolbox"
+        "cn_notification_fix",
+        "disable_secure_flag"
       ],
-      "build_time": "2026-06-07T04:42:19Z",
+      "build_time": "2026-06-07T08:20:05Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:f5dfd54933f752079a9b58e3ecb3713eb5de4bdf1c75ac73b828caffabbd3cdf",
-        "services_patched.jar": "sha256:262ac1e61236d264a52f152a5b6dc4bad32daa3213389203a6d001c1cdb8773c",
-        "miui-services_patched.jar": "sha256:e940b58c4e8694b09dbacc22fa26c9c7b5d5d46a06f16fd10fd25a426f6da6a9",
-        "module_zip": "sha256:36252905480348d3223716b1fe1b57d1586292e87d28ea2dd9a4c74022052810"
+        "framework_patched.jar": "sha256:d81361fd9a0ccac1e3c4157c0f002f61c38c1530e3f23aacd3bdcd4ef626c351",
+        "services_patched.jar": "sha256:01a8fde6422c9dfc0f44f6eeb1d906aea5c22cd5a5d35d2d635399a68c2c40b0",
+        "miui-services_patched.jar": "sha256:862d4e698f4b31b21f1a67884ce9fafa6fee135c4b0a2116dd516bc21bcfc872",
+        "module_zip": "sha256:aa458e538502c62aa19f463035ae2a886ca702593f6b965b6a7b2faf7e832a58"
       },
-      "workflow_run_id": "27082873776",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27082873776",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27082873776"
+      "workflow_run_id": "27087149399",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27087149399",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27087149399"
     },
     "OS3.0.5.0.WNRMIXM": {
       "android_version": "16",
@@ -165,5 +165,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26704624756"
     }
   },
-  "last_updated": "2026-06-07T06:02:29Z"
+  "last_updated": "2026-06-07T08:20:39Z"
 }
