@@ -1740,6 +1740,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "2.204.204": {
+        "android_version": "15",
+        "build_time": "2026-06-07T08:42:53Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27087602622",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27087602622",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "duchamp": {
@@ -4707,6 +4720,6 @@
       }
     }
   },
-  "last_updated": "2026-06-07T08:20:39Z",
+  "last_updated": "2026-06-07T08:43:30Z",
   "engine_version": "3.0.0"
 }
