@@ -1236,10 +1236,10 @@
       },
       "OS3.0.3.0.WNRIDXM": {
         "android_version": "16",
-        "build_time": "2026-06-07T06:01:49Z",
+        "build_time": "2026-06-07T11:22:58Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27084394554",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27084394554",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27091080442",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27091080442",
         "features": [
           "kaorios_toolbox"
         ]
@@ -4757,6 +4757,6 @@
       }
     }
   },
-  "last_updated": "2026-06-07T10:34:28Z",
+  "last_updated": "2026-06-07T11:23:34Z",
   "engine_version": "3.0.0"
 }
