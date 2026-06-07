@@ -41,20 +41,19 @@
       "android_version": "16",
       "patch_version": "3.0.0",
       "features": [
-        "disable_signature_verification",
-        "disable_secure_flag"
+        "disable_signature_verification"
       ],
-      "build_time": "2026-06-05T16:23:00Z",
+      "build_time": "2026-06-07T04:36:32Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:e3705ffd7201dfe09033673e34ac06a1e7e7f7daf06f9baa828d18021b57826b",
-        "services_patched.jar": "sha256:79b32fa0bcbf7a4a5645035b7b50e66982b58eaa3b33776c1f57da9ce607d6ef",
-        "miui-services_patched.jar": "sha256:376bee125fe471390b62664cbcb357297e2d3ed724de5570511a79b0f2acc33f",
-        "module_zip": "sha256:96bdbf087087b687eeaae9de3d3fbc8d459a285493f4347c03f948a4028e148e"
+        "framework_patched.jar": "sha256:f4039b519a4e312a45d4f6d5af029b11f84e45cbc73fd9e34f80d6a49633d1de",
+        "services_patched.jar": "sha256:44a0ab376147c4559e80b638c799f8147d26e98170fe5a8f2b10f496809e09c0",
+        "miui-services_patched.jar": "sha256:94b6edbc3220a73b87d501821339f3a03c493c4974de4d67cee9da9aaa9dec8a",
+        "module_zip": "sha256:e1503ab5fc0b24c4a4fd7095902c0fc67d7d05c16bff9c58b562b10cd162cd61"
       },
-      "workflow_run_id": "27026582554",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27026582554",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27026582554"
+      "workflow_run_id": "27082770810",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27082770810",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27082770810"
     },
     "OS3.0.5.0.WNRMIXM": {
       "android_version": "16",
@@ -164,5 +163,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26704624756"
     }
   },
-  "last_updated": "2026-06-06T17:12:37Z"
+  "last_updated": "2026-06-07T04:37:09Z"
 }
