@@ -1980,6 +1980,18 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "Os1.0.12.0 EEA": {
+        "android_version": "14",
+        "build_time": "2026-06-07T09:18:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27088385089",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27088385089",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "mayfly": {
@@ -4720,6 +4732,6 @@
       }
     }
   },
-  "last_updated": "2026-06-07T08:43:30Z",
+  "last_updated": "2026-06-07T09:19:01Z",
   "engine_version": "3.0.0"
 }
