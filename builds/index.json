@@ -1004,15 +1004,14 @@
       },
       "OS3.0.3.0.VMRMIXM": {
         "android_version": "15",
-        "build_time": "2026-05-31T13:44:53Z",
+        "build_time": "2026-06-07T07:37:41Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26714168659",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26714168659",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27086250830",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27086250830",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
-          "kaorios_toolbox",
-          "add_gboard"
+          "kaorios_toolbox"
         ]
       },
       "OS3.0.2.0.VMRINXM": {
@@ -4708,6 +4707,6 @@
       }
     }
   },
-  "last_updated": "2026-06-07T06:02:29Z",
+  "last_updated": "2026-06-07T07:38:23Z",
   "engine_version": "3.0.0"
 }
