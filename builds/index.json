@@ -3476,6 +3476,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS2.0.211.0.VMLCNXM": {
+        "android_version": "15",
+        "build_time": "2026-06-08T13:52:23Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27142198729",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27142198729",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "dali": {
@@ -4808,6 +4820,6 @@
       }
     }
   },
-  "last_updated": "2026-06-08T10:03:16Z",
+  "last_updated": "2026-06-08T13:53:04Z",
   "engine_version": "3.0.0"
 }
