@@ -1096,6 +1096,18 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "PS3.0.303.0.WNPCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-08T18:55:15Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27159796064",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27159796064",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "nuwa": {
@@ -4834,6 +4846,6 @@
       }
     }
   },
-  "last_updated": "2026-06-08T18:05:04Z",
+  "last_updated": "2026-06-08T18:56:04Z",
   "engine_version": "3.0.0"
 }
