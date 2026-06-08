@@ -2699,6 +2699,17 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS1.0.47.0.UNCCNXM": {
+        "android_version": "14",
+        "build_time": "2026-06-08T15:12:41Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27147253654",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27147253654",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "miro": {
@@ -4820,6 +4831,6 @@
       }
     }
   },
-  "last_updated": "2026-06-08T13:53:04Z",
+  "last_updated": "2026-06-08T15:13:27Z",
   "engine_version": "3.0.0"
 }
