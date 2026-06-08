@@ -359,7 +359,30 @@
       "workflow_run_id": "27060363637",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27060363637",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27060363637"
+    },
+    "Os3.0.9.0VNQCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-06-08T02:21:09Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8c1184541d7582c33ab519d43cbd7eb9be692f8a8f1a7e03148f0a15f490ded5",
+        "services_patched.jar": "sha256:9f2fa8664c6d5da790305995ae9142992cc6accc0367a1d31a635a6ca3019510",
+        "miui-services_patched.jar": "sha256:8eb7b67cc594a7b7f1686e22bfdee34586e1ba81c24edb1f93ad03684557a34f",
+        "miui-framework_patched.jar": "sha256:5c7750345ec9c818e33edd00834c1f3c8a5768b311783757555b7369295df24e",
+        "module_zip": "sha256:67e8f9536e9c4c5501059fee3fec82d6503958f864eadd4c3b350f37d1e3c29a"
+      },
+      "workflow_run_id": "27112337505",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27112337505",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27112337505"
     }
   },
-  "last_updated": "2026-06-06T10:59:10Z"
+  "last_updated": "2026-06-08T02:21:44Z"
 }
