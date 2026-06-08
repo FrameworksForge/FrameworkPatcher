@@ -57,7 +57,26 @@
       "workflow_run_id": "27089251671",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27089251671",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27089251671"
+    },
+    "OS1.0.9.0.UNHMIXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-08T10:02:32Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:ab6402820a05118421a35d7139e4f3e8e985cc9221f70a5c35256186229e854e",
+        "services_patched.jar": "sha256:7826985953566e110fd520ba5b6bf2aecc372d1f5c067bb4aedffc4e06d2d784",
+        "miui-services_patched.jar": "sha256:ce8f5d950a6ba5e55c02016e7e33d694b38d080e16c039717afc2b5b4f6d40f5",
+        "module_zip": "sha256:539a94e75502a49759c2b126965143520e6514387e3d448cf558169da22e16ac"
+      },
+      "workflow_run_id": "27130127285",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27130127285",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27130127285"
     }
   },
-  "last_updated": "2026-06-07T09:59:33Z"
+  "last_updated": "2026-06-08T10:03:16Z"
 }

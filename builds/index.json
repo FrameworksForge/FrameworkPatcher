@@ -4647,6 +4647,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.9.0.UNHMIXM": {
+        "android_version": "14",
+        "build_time": "2026-06-08T10:02:32Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27130127285",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27130127285",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "veux": {
@@ -4797,6 +4808,6 @@
       }
     }
   },
-  "last_updated": "2026-06-08T08:23:35Z",
+  "last_updated": "2026-06-08T10:03:16Z",
   "engine_version": "3.0.0"
 }
