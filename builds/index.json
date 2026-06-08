@@ -1556,10 +1556,10 @@
       },
       "OS3.0.4.0.WOLIDXM": {
         "android_version": "16",
-        "build_time": "2026-05-07T02:59:09Z",
+        "build_time": "2026-06-08T03:46:22Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25473470629",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25473470629",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27114726247",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27114726247",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -4771,6 +4771,6 @@
       }
     }
   },
-  "last_updated": "2026-06-08T02:21:44Z",
+  "last_updated": "2026-06-08T03:47:01Z",
   "engine_version": "3.0.0"
 }
