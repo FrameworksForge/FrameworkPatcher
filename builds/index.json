@@ -4755,10 +4755,10 @@
     "ares": {
       "V14.0.23.4.17.DEV": {
         "android_version": "13",
-        "build_time": "2026-06-09T01:04:50Z",
+        "build_time": "2026-06-09T02:40:24Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27177091461",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27177091461",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27180342380",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27180342380",
         "features": [
           "disable_signature_verification",
           "kaorios_toolbox"
@@ -4844,6 +4844,6 @@
       }
     }
   },
-  "last_updated": "2026-06-09T01:05:18Z",
+  "last_updated": "2026-06-09T02:41:02Z",
   "engine_version": "3.0.0"
 }
