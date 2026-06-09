@@ -4129,6 +4129,18 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.2.0.VNQMIXM": {
+        "android_version": "15",
+        "build_time": "2026-06-09T05:20:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27185497084",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27185497084",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "rembrandt": {
@@ -4844,6 +4856,6 @@
       }
     }
   },
-  "last_updated": "2026-06-09T02:41:02Z",
+  "last_updated": "2026-06-09T05:21:30Z",
   "engine_version": "3.0.0"
 }
