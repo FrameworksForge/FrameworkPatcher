@@ -3132,10 +3132,10 @@
       },
       "OS3.0.301.0.WMATWXM": {
         "android_version": "16",
-        "build_time": "2026-06-06T05:29:44Z",
+        "build_time": "2026-06-09T10:29:31Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27053764042",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27053764042",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27199970772",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27199970772",
         "features": [
           "disable_signature_verification"
         ]
@@ -4867,6 +4867,6 @@
       }
     }
   },
-  "last_updated": "2026-06-09T07:13:27Z",
+  "last_updated": "2026-06-09T10:30:14Z",
   "engine_version": "3.0.0"
 }
