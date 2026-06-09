@@ -2042,6 +2042,16 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.3.0.WNOMIXM": {
+        "android_version": "16",
+        "build_time": "2026-06-09T14:50:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27214488481",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27214488481",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "mayfly": {
@@ -4877,6 +4887,6 @@
       }
     }
   },
-  "last_updated": "2026-06-09T14:49:18Z",
+  "last_updated": "2026-06-09T14:51:26Z",
   "engine_version": "3.0.0"
 }
