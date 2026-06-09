@@ -2342,14 +2342,13 @@
       },
       "OS3.0.303.0.WPAIDXM": {
         "android_version": "16",
-        "build_time": "2026-06-09T06:56:46Z",
+        "build_time": "2026-06-09T07:12:47Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27189253799",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27189253799",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27189984579",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27189984579",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag",
-          "add_gboard"
+          "disable_secure_flag"
         ]
       }
     },
@@ -4868,6 +4867,6 @@
       }
     }
   },
-  "last_updated": "2026-06-09T07:08:58Z",
+  "last_updated": "2026-06-09T07:13:27Z",
   "engine_version": "3.0.0"
 }
