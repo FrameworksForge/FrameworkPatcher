@@ -4890,8 +4890,22 @@
           "add_gboard"
         ]
       }
+    },
+    "Sheng": {
+      "OS3.0.301.0.WNXMIXM": {
+        "android_version": "16",
+        "build_time": "2026-06-09T16:28:06Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27220396738",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27220396738",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-09T15:46:11Z",
+  "last_updated": "2026-06-09T16:28:50Z",
   "engine_version": "3.0.0"
 }

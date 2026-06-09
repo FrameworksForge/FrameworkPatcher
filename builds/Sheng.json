@@ -1,0 +1,26 @@
+{
+  "device": "Sheng",
+  "builds": {
+    "OS3.0.301.0.WNXMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-09T16:28:06Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:c07906378c539e13d68bbf4cf9a6a75312a741b495a0d20b5154a533cf1ac47f",
+        "services_patched.jar": "sha256:78d510db34a6b67b1c05efb6c27c13368cf00692751a1ac9d6da2a705ddaeac1",
+        "miui-services_patched.jar": "sha256:a45c1bca912bc6fd83e0a2ae735eebc13dd5f5ea858dab5029ebac7ebf330ad0",
+        "module_zip": "sha256:2fe2d35b6c9b8f2b47d8683b4d8041ad5865896a5f0416273491970aca77ad8f"
+      },
+      "workflow_run_id": "27220396738",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27220396738",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27220396738"
+    }
+  },
+  "last_updated": "2026-06-09T16:28:50Z"
+}
