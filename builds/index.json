@@ -4751,6 +4751,19 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.3.0.VLCCNXM": {
+        "android_version": "15",
+        "build_time": "2026-06-10T09:28:30Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27266629536",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27266629536",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "veux": {
@@ -4915,6 +4928,6 @@
       }
     }
   },
-  "last_updated": "2026-06-10T06:12:27Z",
+  "last_updated": "2026-06-10T09:29:08Z",
   "engine_version": "3.0.0"
 }
