@@ -29,21 +29,20 @@
       "features": [
         "disable_signature_verification",
         "cn_notification_fix",
-        "add_gboard"
+        "disable_secure_flag"
       ],
-      "build_time": "2026-06-04T07:12:47Z",
+      "build_time": "2026-06-10T17:38:45Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:23e5411e001f883860a3120fe76fea36c898ce090a2793d0577d8ae9f801deec",
-        "services_patched.jar": "sha256:dc0d446de8f0f47861d897f4564eef9c4d9871161640f5e2f481891565252ca4",
-        "miui-services_patched.jar": "sha256:d99ee0d4dbba4a06898a1e0da09d157ec1bf6c1e0c8cfe8623865383a2bc7842",
-        "miui-framework_patched.jar": "sha256:a3f4c94968bff0fccdc514eb64600de6f481d1fc7ae6572da71db7e9c372d571",
-        "module_zip": "sha256:ff55a8a2f0b6d3177925c957c8f034c4b4a2fc9f3b8d2621f3993af85b3fec05"
+        "framework_patched.jar": "sha256:24c79adaaf5857b309a7187ef7a001c2ee835146e0e3623e217941ca2d48d935",
+        "services_patched.jar": "sha256:9fec5a5df2c1caba301d0a7cce79b4b3ef7b8e367d2afbe1dbcf54dbad6d977b",
+        "miui-services_patched.jar": "sha256:91cbd1279c062d48c70225142555ae9f4c389f5169d1307460b06adf3287179f",
+        "module_zip": "sha256:9073aed211906f90b94b5660523115a4fd3871f67d64578971cffc56141f7f75"
       },
-      "workflow_run_id": "26936661519",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26936661519",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26936661519"
+      "workflow_run_id": "27294287965",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27294287965",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27294287965"
     }
   },
-  "last_updated": "2026-06-04T07:13:32Z"
+  "last_updated": "2026-06-10T17:39:30Z"
 }
