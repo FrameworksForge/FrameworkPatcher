@@ -1,0 +1,26 @@
+{
+  "device": "CPH2475IN",
+  "builds": {
+    "Oxygenos16": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-10T10:27:07Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:c68514fab5944b04c1f39c03aa8a0b393112ec63d7da11ad2b7d38d835abcb77",
+        "services_patched.jar": "sha256:9d2dd99bc26b8629afb20a9b5e875e59d89a5eac1878f8f6b49ae7d7e8a5e3bf",
+        "miui-services_patched.jar": "sha256:0405e9e43b7974bf887960f2fe6a26354cedff3c9c78e95eed4b607a7eedc22a",
+        "module_zip": "sha256:50da4df48d58ac87e28ab9b5a1b4d95306b8ce491a5235db3282a189670c7f9c"
+      },
+      "workflow_run_id": "27269771694",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27269771694",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27269771694"
+    }
+  },
+  "last_updated": "2026-06-10T10:27:53Z"
+}

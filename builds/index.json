@@ -4925,8 +4925,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "CPH2475IN": {
+      "Oxygenos16": {
+        "android_version": "16",
+        "build_time": "2026-06-10T10:27:07Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27269771694",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27269771694",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-10T09:42:40Z",
+  "last_updated": "2026-06-10T10:27:53Z",
   "engine_version": "3.0.0"
 }
