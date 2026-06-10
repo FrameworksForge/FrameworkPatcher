@@ -3887,10 +3887,10 @@
     "degas": {
       "OS3.0.301.0.WNEMIXM": {
         "android_version": "16",
-        "build_time": "2026-05-10T16:26:40Z",
+        "build_time": "2026-06-10T02:52:37Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25633760521",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25633760521",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27249805384",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27249805384",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag"
@@ -4903,6 +4903,6 @@
       }
     }
   },
-  "last_updated": "2026-06-10T02:03:31Z",
+  "last_updated": "2026-06-10T02:53:18Z",
   "engine_version": "3.0.0"
 }
