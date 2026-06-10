@@ -2457,13 +2457,14 @@
     "rodin": {
       "OS3.0.302.0.WOJCNXM": {
         "android_version": "16",
-        "build_time": "2026-06-02T09:54:52Z",
+        "build_time": "2026-06-10T22:44:54Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26812180799",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26812180799",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27311054522",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27311054522",
         "features": [
           "disable_signature_verification",
-          "cn_notification_fix"
+          "cn_notification_fix",
+          "add_gboard"
         ]
       },
       "OS2.0.203.VOJINXM": {
@@ -4983,6 +4984,6 @@
       }
     }
   },
-  "last_updated": "2026-06-10T22:13:18Z",
+  "last_updated": "2026-06-10T22:45:36Z",
   "engine_version": "3.0.0"
 }
