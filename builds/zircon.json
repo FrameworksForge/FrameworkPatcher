@@ -260,7 +260,25 @@
       "workflow_run_id": "27214488481",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27214488481",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27214488481"
+    },
+    "V14.0.3.0.TNOEUXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-06-10T14:06:57Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b7b407e410a15fba4ed251a07ffcd729259114e8b48c2f29edce349ddb1d06e7",
+        "services_patched.jar": "sha256:bdea1bc660c2670d54a7495fd9ca8e599a4e1bb5256d547a216207ddef3c5a79",
+        "miui-services_patched.jar": "sha256:2cae1e23a0608aa2cca813dace950b43cfe4e92c1621880e34c6fab01c9875b2",
+        "module_zip": "sha256:ef340771f60ad34eb0392e9a0bb1669c17c1a86848631c4928f4e8f2c7ff25aa"
+      },
+      "workflow_run_id": "27281932477",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27281932477",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27281932477"
     }
   },
-  "last_updated": "2026-06-09T14:51:26Z"
+  "last_updated": "2026-06-10T14:07:44Z"
 }
