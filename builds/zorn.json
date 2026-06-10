@@ -122,7 +122,28 @@
       "workflow_run_id": "27229809669",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27229809669",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27229809669"
+    },
+    "OS2.0.2.0.VOKEUXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-10T22:12:36Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:4783cfe85b7d7ce598bdc79e88806025a6e7ea6fcaca740a60937b14754e2f20",
+        "services_patched.jar": "sha256:de748ecf546d749e5ecf6b7e5d85dc89702a440aaa7f4fe221355d900d47ef78",
+        "miui-services_patched.jar": "sha256:e0b8a3214db1de3989d49da8845e5059f149fc0fc0d8aac0bddec77c2dd82043",
+        "module_zip": "sha256:42da8374b17f613800d6ea6fa30522f14950708ccfa7b42eb576de54b9cb0fee"
+      },
+      "workflow_run_id": "27309547342",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27309547342",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27309547342"
     }
   },
-  "last_updated": "2026-06-10T12:28:58Z"
+  "last_updated": "2026-06-10T22:13:18Z"
 }

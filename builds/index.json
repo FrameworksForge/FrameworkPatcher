@@ -415,6 +415,19 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS2.0.2.0.VOKEUXM": {
+        "android_version": "15",
+        "build_time": "2026-06-10T22:12:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27309547342",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27309547342",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Tapas": {
@@ -4970,6 +4983,6 @@
       }
     }
   },
-  "last_updated": "2026-06-10T21:42:34Z",
+  "last_updated": "2026-06-10T22:13:18Z",
   "engine_version": "3.0.0"
 }
