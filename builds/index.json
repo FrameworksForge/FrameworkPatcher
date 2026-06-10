@@ -1353,10 +1353,10 @@
       },
       "OS3.0.301.0.WNRIDXM": {
         "android_version": "16",
-        "build_time": "2026-05-31T05:49:57Z",
+        "build_time": "2026-06-10T13:33:47Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26704624756",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26704624756",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27279868401",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27279868401",
         "features": [
           "disable_signature_verification"
         ]
@@ -4944,6 +4944,6 @@
       }
     }
   },
-  "last_updated": "2026-06-10T12:28:58Z",
+  "last_updated": "2026-06-10T13:34:36Z",
   "engine_version": "3.0.0"
 }
