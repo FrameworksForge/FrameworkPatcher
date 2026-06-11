@@ -1,0 +1,27 @@
+{
+  "device": "Pandora",
+  "builds": {
+    "3.0.311.0.WBLCNXM.C09": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-11T21:20:45Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:9559e3b586fbfe81c40ec16386e5bbe50bd3fc5e4c4e7bfd2cbbbe48f661e65c",
+        "services_patched.jar": "sha256:5e80073fe50e88411b400238cad5ac30bae77d1809db2d865bdc8e58a61759c0",
+        "miui-services_patched.jar": "sha256:06c1a2b895fab9132a52727f4f91bf16004e3708f9335532f9283bd9babeed69",
+        "module_zip": "sha256:68492713dbeec070fe1ec62bfbdb149d2de3f8d3ee12d9909312399d5edd37aa"
+      },
+      "workflow_run_id": "27378069311",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27378069311",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27378069311"
+    }
+  },
+  "last_updated": "2026-06-11T21:21:23Z"
+}
