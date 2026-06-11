@@ -4705,6 +4705,17 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS2.0.209.0.VLQTWXM": {
+        "android_version": "15",
+        "build_time": "2026-06-11T05:49:07Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27326584212",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27326584212",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "fuxi_cn": {
@@ -4996,6 +5007,6 @@
       }
     }
   },
-  "last_updated": "2026-06-11T04:50:15Z",
+  "last_updated": "2026-06-11T05:49:47Z",
   "engine_version": "3.0.0"
 }
