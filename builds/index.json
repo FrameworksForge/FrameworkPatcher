@@ -4430,6 +4430,18 @@
           "cn_notification_fix",
           "add_gboard"
         ]
+      },
+      "OS3.0.1.0.WOQMIXM": {
+        "android_version": "16",
+        "build_time": "2026-06-11T10:23:58Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27340102230",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27340102230",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "emerald": {
@@ -5027,6 +5039,6 @@
       }
     }
   },
-  "last_updated": "2026-06-11T09:55:46Z",
+  "last_updated": "2026-06-11T10:24:39Z",
   "engine_version": "3.0.0"
 }
