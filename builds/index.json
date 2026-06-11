@@ -3674,6 +3674,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.204.0.VNUCNXM": {
+        "android_version": "15",
+        "build_time": "2026-06-11T06:00:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27327074869",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27327074869",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "goku": {
@@ -5007,6 +5017,6 @@
       }
     }
   },
-  "last_updated": "2026-06-11T05:49:47Z",
+  "last_updated": "2026-06-11T06:00:49Z",
   "engine_version": "3.0.0"
 }
