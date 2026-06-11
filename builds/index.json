@@ -5099,10 +5099,10 @@
     "Pandora": {
       "3.0.311.0.WBLCNXM.C09": {
         "android_version": "16",
-        "build_time": "2026-06-11T21:20:45Z",
+        "build_time": "2026-06-11T21:20:52Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27378069311",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27378069311",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27378053122",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27378053122",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -5112,6 +5112,6 @@
       }
     }
   },
-  "last_updated": "2026-06-11T21:21:23Z",
+  "last_updated": "2026-06-11T21:21:39Z",
   "engine_version": "3.0.0"
 }
