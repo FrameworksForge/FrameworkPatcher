@@ -3695,6 +3695,16 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.4.0.VNUINXM": {
+        "android_version": "15",
+        "build_time": "2026-06-11T15:14:47Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27357032494",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27357032494",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "goku": {
@@ -5052,6 +5062,6 @@
       }
     }
   },
-  "last_updated": "2026-06-11T13:12:28Z",
+  "last_updated": "2026-06-11T15:16:13Z",
   "engine_version": "3.0.0"
 }
