@@ -214,6 +214,18 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "V14.0.6.0.TLOTWXM": {
+        "android_version": "13",
+        "build_time": "2026-06-11T19:28:35Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27371964270",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27371964270",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "dash": {
@@ -5075,6 +5087,6 @@
       }
     }
   },
-  "last_updated": "2026-06-11T18:45:41Z",
+  "last_updated": "2026-06-11T19:29:11Z",
   "engine_version": "3.0.0"
 }
