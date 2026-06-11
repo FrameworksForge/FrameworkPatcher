@@ -2564,12 +2564,13 @@
         ]
       },
       "OS1.0.16.0.ULFCNXM": {
-        "android_version": "15",
-        "build_time": "2026-06-06T18:31:22Z",
+        "android_version": "14",
+        "build_time": "2026-06-11T12:37:08Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27070399156",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27070399156",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27347111943",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27347111943",
         "features": [
+          "disable_signature_verification",
           "kaorios_toolbox"
         ]
       }
@@ -5039,6 +5040,6 @@
       }
     }
   },
-  "last_updated": "2026-06-11T10:24:39Z",
+  "last_updated": "2026-06-11T12:37:59Z",
   "engine_version": "3.0.0"
 }
