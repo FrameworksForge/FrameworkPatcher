@@ -2556,10 +2556,10 @@
       },
       "3.0.302.0.WLFCNXM": {
         "android_version": "16",
-        "build_time": "2026-06-02T11:21:32Z",
+        "build_time": "2026-06-11T04:00:49Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26816364158",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26816364158",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27322839027",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27322839027",
         "features": [
           "cn_notification_fix"
         ]
@@ -4985,6 +4985,6 @@
       }
     }
   },
-  "last_updated": "2026-06-11T02:55:27Z",
+  "last_updated": "2026-06-11T04:01:21Z",
   "engine_version": "3.0.0"
 }
