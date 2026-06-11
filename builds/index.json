@@ -3295,6 +3295,18 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS2.0.210.0.VNHMIXM": {
+        "android_version": "15",
+        "build_time": "2026-06-11T21:53:25Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27379656692",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27379656692",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Aurora": {
@@ -5138,6 +5150,6 @@
       }
     }
   },
-  "last_updated": "2026-06-11T21:39:11Z",
+  "last_updated": "2026-06-11T21:54:08Z",
   "engine_version": "3.0.0"
 }
