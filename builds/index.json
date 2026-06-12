@@ -1856,6 +1856,18 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "Port": {
+        "android_version": "16",
+        "build_time": "2026-06-12T14:30:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27422078420",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27422078420",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "duchamp": {
@@ -5198,6 +5210,6 @@
       }
     }
   },
-  "last_updated": "2026-06-12T13:47:10Z",
+  "last_updated": "2026-06-12T14:31:42Z",
   "engine_version": "3.0.0"
 }
