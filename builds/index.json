@@ -1692,6 +1692,18 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.301.0.WOLINXM": {
+        "android_version": "16",
+        "build_time": "2026-06-12T12:32:19Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27415734390",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27415734390",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "tapas": {
@@ -5176,6 +5188,6 @@
       }
     }
   },
-  "last_updated": "2026-06-12T10:06:58Z",
+  "last_updated": "2026-06-12T12:33:02Z",
   "engine_version": "3.0.0"
 }
