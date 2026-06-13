@@ -3929,10 +3929,10 @@
       },
       "OS2.0.204.0.VNUINXM": {
         "android_version": "15",
-        "build_time": "2026-06-13T16:17:50Z",
+        "build_time": "2026-06-13T16:31:49Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27472109946",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27472109946",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27472449770",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27472449770",
         "features": [
           "kaorios_toolbox"
         ]
@@ -5438,6 +5438,6 @@
       }
     }
   },
-  "last_updated": "2026-06-13T16:24:07Z",
+  "last_updated": "2026-06-13T16:32:30Z",
   "engine_version": "3.0.0"
 }
