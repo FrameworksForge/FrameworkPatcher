@@ -5390,17 +5390,18 @@
       },
       "V14.0.5.0.TKUCNXM": {
         "android_version": "13",
-        "build_time": "2026-06-13T15:06:04Z",
+        "build_time": "2026-06-13T15:17:33Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27470342805",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27470342805",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27470625162",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27470625162",
         "features": [
           "disable_signature_verification",
+          "kaorios_toolbox",
           "add_gboard"
         ]
       }
     }
   },
-  "last_updated": "2026-06-13T15:06:37Z",
+  "last_updated": "2026-06-13T15:18:10Z",
   "engine_version": "3.0.0"
 }
