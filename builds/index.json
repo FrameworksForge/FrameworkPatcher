@@ -5148,6 +5148,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.5.0.VMKCNXM": {
+        "android_version": "15",
+        "build_time": "2026-06-13T06:28:35Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27458990354",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27458990354",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "pudding_cn": {
@@ -5326,6 +5336,6 @@
       }
     }
   },
-  "last_updated": "2026-06-13T05:37:02Z",
+  "last_updated": "2026-06-13T06:29:19Z",
   "engine_version": "3.0.0"
 }
