@@ -3381,6 +3381,17 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.303.0.WMCMIXM": {
+        "android_version": "16",
+        "build_time": "2026-06-13T07:06:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27459845180",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27459845180",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "sapphire": {
@@ -5336,6 +5347,6 @@
       }
     }
   },
-  "last_updated": "2026-06-13T06:29:19Z",
+  "last_updated": "2026-06-13T07:07:36Z",
   "engine_version": "3.0.0"
 }
