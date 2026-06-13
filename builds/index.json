@@ -3145,10 +3145,10 @@
       },
       "OS3.3.260420.2.XPAMIXM.STABLE-DPP.C08": {
         "android_version": "16",
-        "build_time": "2026-06-13T05:35:54Z",
+        "build_time": "2026-06-13T05:36:13Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27457934278",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27457934278",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27457929443",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27457929443",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -5326,6 +5326,6 @@
       }
     }
   },
-  "last_updated": "2026-06-13T05:36:38Z",
+  "last_updated": "2026-06-13T05:37:02Z",
   "engine_version": "3.0.0"
 }
