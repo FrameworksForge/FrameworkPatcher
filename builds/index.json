@@ -5377,9 +5377,19 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS1.0.5.0.UMOCNXM": {
+        "android_version": "14",
+        "build_time": "2026-06-13T14:05:16Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27468909036",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27468909036",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     }
   },
-  "last_updated": "2026-06-13T13:58:25Z",
+  "last_updated": "2026-06-13T14:05:57Z",
   "engine_version": "3.0.0"
 }
