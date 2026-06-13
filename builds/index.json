@@ -4365,6 +4365,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.301.0.WBORUXM": {
+        "android_version": "16",
+        "build_time": "2026-06-13T03:55:48Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27455781194",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27455781194",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "sheng": {
@@ -5303,6 +5314,6 @@
       }
     }
   },
-  "last_updated": "2026-06-13T03:49:49Z",
+  "last_updated": "2026-06-13T03:56:27Z",
   "engine_version": "3.0.0"
 }
