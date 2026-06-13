@@ -1,0 +1,27 @@
+{
+  "device": "Curtana",
+  "builds": {
+    "OS3.0.4.0.VJZIDXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-13T15:48:01Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:fad7481a490b65d232a657206dbc3aa2baa25a426bdad63b36bf0741e1e7d43c",
+        "services_patched.jar": "sha256:4204789f5d3c75a9a66b39505c242b7368ca6bb8952e0f8f332a14646c138d90",
+        "miui-services_patched.jar": "sha256:8d3a333e2e2371bcda0efa1541c8aba9c6d201d97985226418438a7c1a4caea5",
+        "module_zip": "sha256:0c40d322c37f94b4b3ff5056fba21c95a75da80beca7adab082efe3c2ad5edf4"
+      },
+      "workflow_run_id": "27471331270",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27471331270",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27471331270"
+    }
+  },
+  "last_updated": "2026-06-13T15:48:42Z"
+}

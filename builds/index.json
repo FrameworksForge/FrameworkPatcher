@@ -5400,8 +5400,23 @@
           "add_gboard"
         ]
       }
+    },
+    "Curtana": {
+      "OS3.0.4.0.VJZIDXM": {
+        "android_version": "15",
+        "build_time": "2026-06-13T15:48:01Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27471331270",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27471331270",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-13T15:18:10Z",
+  "last_updated": "2026-06-13T15:48:42Z",
   "engine_version": "3.0.0"
 }
