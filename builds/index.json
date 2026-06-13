@@ -2984,6 +2984,18 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.301.0.WOMTWXM": {
+        "android_version": "16",
+        "build_time": "2026-06-13T17:51:19Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27474353941",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27474353941",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "redwood": {
@@ -5447,6 +5459,6 @@
       }
     }
   },
-  "last_updated": "2026-06-13T17:29:32Z",
+  "last_updated": "2026-06-13T17:52:00Z",
   "engine_version": "3.0.0"
 }
