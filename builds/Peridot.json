@@ -41,7 +41,27 @@
       "workflow_run_id": "25498550263",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25498550263",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25498550263"
+    },
+    "OS3.3.260420.2.XPAMIXM.STABLE-DPP.C08": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-13T05:35:54Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:1686502faf0572db5cc849e5f6f9a4e6225d14e4d69b43b347d0ee733e3264de",
+        "services_patched.jar": "sha256:0b6b46266d019b51e10309a0186f08869529f5942ec48db2b6f99148c162b9ba",
+        "miui-services_patched.jar": "sha256:010733fc32940f3abcb4a1e55b2aa4c08582a8e7aa7ed6c9e7bd738ba7cb983d",
+        "module_zip": "sha256:db65e2731b0b073cbf987fdc50d7ac25699c1ca8fe94c9e51b49e506852d1f53"
+      },
+      "workflow_run_id": "27457934278",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27457934278",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27457934278"
     }
   },
-  "last_updated": "2026-05-07T13:27:03Z"
+  "last_updated": "2026-06-13T05:36:38Z"
 }
