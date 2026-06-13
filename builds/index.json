@@ -2258,6 +2258,17 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS1.0.12.0.UNOEUXM": {
+        "android_version": "14",
+        "build_time": "2026-06-13T16:23:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27472243794",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27472243794",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "mayfly": {
@@ -5427,6 +5438,6 @@
       }
     }
   },
-  "last_updated": "2026-06-13T16:18:34Z",
+  "last_updated": "2026-06-13T16:24:07Z",
   "engine_version": "3.0.0"
 }
