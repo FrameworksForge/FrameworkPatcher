@@ -4906,14 +4906,13 @@
     "lapis": {
       "OS3.0.306.0.WPPCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-30T18:10:00Z",
+        "build_time": "2026-06-13T03:49:05Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26691060947",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26691060947",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27455608321",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27455608321",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
-          "disable_secure_flag",
           "add_gboard"
         ]
       }
@@ -5304,6 +5303,6 @@
       }
     }
   },
-  "last_updated": "2026-06-13T03:26:59Z",
+  "last_updated": "2026-06-13T03:49:49Z",
   "engine_version": "3.0.0"
 }
