@@ -5353,8 +5353,22 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "selene": {
+      "V14.0.8.0.TKUINXM": {
+        "android_version": "13",
+        "build_time": "2026-06-13T13:00:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27467432074",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27467432074",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-13T12:33:38Z",
+  "last_updated": "2026-06-13T13:01:34Z",
   "engine_version": "3.0.0"
 }

@@ -1,0 +1,26 @@
+{
+  "device": "selene",
+  "builds": {
+    "V14.0.8.0.TKUINXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox",
+        "add_gboard"
+      ],
+      "build_time": "2026-06-13T13:00:54Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:bccb1ee741ad47644b698d7872600e9e5c4b7c8aba87dab17af91d74c95f58f1",
+        "miui-services_patched.jar": "sha256:e64cf6863dc08bbabe051c3808286e7359315db7ab3ddb90aaf2bdd28d7ce253",
+        "miui-framework_patched.jar": "sha256:e907f2dae00d45cd1613e83fcb771dd63c9f55b94564b0ffdfe637630d230755",
+        "module_zip": "sha256:2ed8b9cfc2bb37d27c66f5b746dd42ce08a46d6ae82bb44f82e17ddda3b428bb"
+      },
+      "workflow_run_id": "27467432074",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27467432074",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27467432074"
+    }
+  },
+  "last_updated": "2026-06-13T13:01:34Z"
+}
