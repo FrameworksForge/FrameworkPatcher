@@ -1578,6 +1578,20 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.6.0.WNNCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-13T03:26:16Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27455103399",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27455103399",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox",
+          "add_gboard"
+        ]
       }
     },
     "onyx": {
@@ -5290,6 +5304,6 @@
       }
     }
   },
-  "last_updated": "2026-06-13T00:36:21Z",
+  "last_updated": "2026-06-13T03:26:59Z",
   "engine_version": "3.0.0"
 }
