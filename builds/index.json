@@ -360,6 +360,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.301.0.WOOEUXM": {
+        "android_version": "16",
+        "build_time": "2026-06-14T06:58:37Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27491231950",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27491231950",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "zorn": {
@@ -5510,6 +5520,6 @@
       }
     }
   },
-  "last_updated": "2026-06-14T06:03:57Z",
+  "last_updated": "2026-06-14T06:59:15Z",
   "engine_version": "3.0.0"
 }
