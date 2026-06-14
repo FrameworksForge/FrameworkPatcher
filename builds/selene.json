@@ -5,21 +5,19 @@
       "android_version": "13",
       "patch_version": "3.0.0",
       "features": [
-        "disable_signature_verification",
-        "kaorios_toolbox",
-        "add_gboard"
+        "disable_signature_verification"
       ],
-      "build_time": "2026-06-13T13:00:54Z",
+      "build_time": "2026-06-14T02:17:10Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "services_patched.jar": "sha256:bccb1ee741ad47644b698d7872600e9e5c4b7c8aba87dab17af91d74c95f58f1",
-        "miui-services_patched.jar": "sha256:e64cf6863dc08bbabe051c3808286e7359315db7ab3ddb90aaf2bdd28d7ce253",
-        "miui-framework_patched.jar": "sha256:e907f2dae00d45cd1613e83fcb771dd63c9f55b94564b0ffdfe637630d230755",
-        "module_zip": "sha256:2ed8b9cfc2bb37d27c66f5b746dd42ce08a46d6ae82bb44f82e17ddda3b428bb"
+        "framework_patched.jar": "sha256:dadc73bbb08b77c7d54cd1ce8072109c46b798419f837715cff01e66f2e21c96",
+        "services_patched.jar": "sha256:dabcac56850fd73aeb2b2fa120ed41c6b87c518129b28b822d6f10050d9a1736",
+        "miui-services_patched.jar": "sha256:1e69a03c7f7223c723f6c3c4a3d6f854d375a78f31e9dcfe56c726a93958c071",
+        "module_zip": "sha256:01e6f56e975439c0fa7be6cefc96df0674e6fb8c737a161e017c3610de75e05d"
       },
-      "workflow_run_id": "27467432074",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27467432074",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27467432074"
+      "workflow_run_id": "27485676957",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27485676957",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27485676957"
     },
     "OS1.0.5.0.UMOCNXM": {
       "android_version": "14",
@@ -60,5 +58,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27470625162"
     }
   },
-  "last_updated": "2026-06-13T15:18:10Z"
+  "last_updated": "2026-06-14T02:17:43Z"
 }

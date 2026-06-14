@@ -5432,14 +5432,12 @@
     "selene": {
       "V14.0.8.0.TKUINXM": {
         "android_version": "13",
-        "build_time": "2026-06-13T13:00:54Z",
+        "build_time": "2026-06-14T02:17:10Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27467432074",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27467432074",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27485676957",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27485676957",
         "features": [
-          "disable_signature_verification",
-          "kaorios_toolbox",
-          "add_gboard"
+          "disable_signature_verification"
         ]
       },
       "OS1.0.5.0.UMOCNXM": {
@@ -5481,6 +5479,6 @@
       }
     }
   },
-  "last_updated": "2026-06-14T01:16:05Z",
+  "last_updated": "2026-06-14T02:17:43Z",
   "engine_version": "3.0.0"
 }
