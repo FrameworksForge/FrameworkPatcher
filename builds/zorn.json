@@ -69,21 +69,19 @@
       "patch_version": "3.0.0",
       "features": [
         "disable_signature_verification",
-        "cn_notification_fix",
-        "disable_secure_flag",
-        "kaorios_toolbox"
+        "disable_secure_flag"
       ],
-      "build_time": "2026-06-14T13:39:32Z",
+      "build_time": "2026-06-14T14:28:59Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:3c25f288434399610d7634827c81a61b82471867af4fe27b11990b00046b5723",
-        "services_patched.jar": "sha256:a44ddafee0159c0d9c4eb7e37347d74913e9b5b00d67b94e4edf76f79a132f18",
-        "miui-services_patched.jar": "sha256:6733a298bdcf3089c160d2c7a884b24b97330a08eb10f324316c72a2042e44ef",
-        "module_zip": "sha256:b7cecfd3f352cf20c440d64295bd044b7f789e986c3f804955a00f07edc4d1ef"
+        "framework_patched.jar": "sha256:d397b4da0851d40fe3448c8294496ed1e2650abcdc381a852b5cab80acf1a9e3",
+        "services_patched.jar": "sha256:0dd0b44e2d7137c323dd04fd1967ba92d33eff58fe1c5e9a25c0c3ff7052cbe6",
+        "miui-services_patched.jar": "sha256:6baa18a7d00fa12b135f7804a62b7c3c2db8824e604545290c7aeea78a2166fd",
+        "module_zip": "sha256:fef0bd3f275c0c2cbaa261b9bb84d410a1493d090504195857a495fdaf30d2c9"
       },
-      "workflow_run_id": "27500576988",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27500576988",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27500576988"
+      "workflow_run_id": "27501830828",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27501830828",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27501830828"
     },
     "OS3.0.9.0.WOKCNXM": {
       "android_version": "16",
@@ -181,5 +179,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27488821638"
     }
   },
-  "last_updated": "2026-06-14T13:40:13Z"
+  "last_updated": "2026-06-14T14:29:35Z"
 }
