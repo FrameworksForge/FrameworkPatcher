@@ -1,0 +1,24 @@
+{
+  "device": "bluejay",
+  "builds": {
+    "CP1A.260405.005": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-06-14T04:34:19Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:2dffa46ac3a5bfcb97d30eb49f53ac4024c94ca62bed6ab7409d85caded49cca",
+        "services_patched.jar": "sha256:63c7bffa43a394c5dc3d76140d93832d3954c2393bcd0dbe11e7d4171c2dc92b",
+        "miui-services_patched.jar": "sha256:3c2de2585bc82ea3949c76992d07223e9c3c9ea9d3dbb2d5ee21869d38d271c4",
+        "module_zip": "sha256:5a8d35724927587b31b71286a102aa597a65d24bcdead66e4c6592bf5ad02839"
+      },
+      "workflow_run_id": "27488352957",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27488352957",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27488352957"
+    }
+  },
+  "last_updated": "2026-06-14T04:34:57Z"
+}
