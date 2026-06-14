@@ -5259,6 +5259,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "V14.0.5.0.TKCIDXM": {
+        "android_version": "13",
+        "build_time": "2026-06-14T07:20:11Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27491704995",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27491704995",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "socrates": {
@@ -5520,6 +5531,6 @@
       }
     }
   },
-  "last_updated": "2026-06-14T06:59:15Z",
+  "last_updated": "2026-06-14T07:20:50Z",
   "engine_version": "3.0.0"
 }
