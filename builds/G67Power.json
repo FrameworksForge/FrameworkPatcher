@@ -1,0 +1,22 @@
+{
+  "device": "G67Power",
+  "builds": {
+    "HelloUI15": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-15T10:19:47Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:61a3620d012c0f7064dcc3acbe99566702a34387b18c9ade640d4869a956ba41",
+        "module_zip": "sha256:16988c1682f4fa0378b120a10317083cb3c0fa69d2874d895ffb80e636f11900"
+      },
+      "workflow_run_id": "27539555503",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27539555503",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27539555503"
+    }
+  },
+  "last_updated": "2026-06-15T10:20:29Z"
+}

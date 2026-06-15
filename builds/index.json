@@ -5604,8 +5604,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "G67Power": {
+      "HelloUI15": {
+        "android_version": "15",
+        "build_time": "2026-06-15T10:19:47Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27539555503",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27539555503",
+        "features": [
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-15T10:19:43Z",
+  "last_updated": "2026-06-15T10:20:29Z",
   "engine_version": "3.0.0"
 }
