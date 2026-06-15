@@ -2154,6 +2154,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.3.0.WNLTWXM": {
+        "android_version": "16",
+        "build_time": "2026-06-15T09:00:39Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27535364541",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27535364541",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "zircon": {
@@ -5584,6 +5594,6 @@
       }
     }
   },
-  "last_updated": "2026-06-15T07:51:07Z",
+  "last_updated": "2026-06-15T09:01:24Z",
   "engine_version": "3.0.0"
 }
