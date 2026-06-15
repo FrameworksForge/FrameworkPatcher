@@ -1473,6 +1473,17 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "V14.0.2.0.TNRINXM": {
+        "android_version": "13",
+        "build_time": "2026-06-15T06:48:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27528984577",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27528984577",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Xaga": {
@@ -5549,6 +5560,6 @@
       }
     }
   },
-  "last_updated": "2026-06-15T05:19:44Z",
+  "last_updated": "2026-06-15T06:49:06Z",
   "engine_version": "3.0.0"
 }
