@@ -1484,6 +1484,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "V14.0.2.0.IN": {
+        "android_version": "13",
+        "build_time": "2026-06-15T06:53:51Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27529200024",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27529200024",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Xaga": {
@@ -5560,6 +5570,6 @@
       }
     }
   },
-  "last_updated": "2026-06-15T06:49:06Z",
+  "last_updated": "2026-06-15T06:54:32Z",
   "engine_version": "3.0.0"
 }
