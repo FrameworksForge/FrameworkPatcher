@@ -2502,6 +2502,18 @@
           "cn_notification_fix",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.315.0.WPCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-15T23:49:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27583937290",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27583937290",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "kaorios_toolbox"
+        ]
       }
     },
     "klee": {
@@ -5641,6 +5653,6 @@
       }
     }
   },
-  "last_updated": "2026-06-15T20:09:35Z",
+  "last_updated": "2026-06-15T23:49:57Z",
   "engine_version": "3.0.0"
 }
