@@ -1,0 +1,26 @@
+{
+  "device": "raphaelin",
+  "builds": {
+    "OS3.0.303.0.WPKCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-15T09:25:42Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8b6e792ced78f7642cbb4c6f3c31877c8c446c07740fe4ef2c354acb3b5941f9",
+        "services_patched.jar": "sha256:a5b77ac31bc555cda02670c64f64d509150225011c112f0119c036bb1b6e63e3",
+        "miui-services_patched.jar": "sha256:a2bb64f85f728987bbd4b48b8693c9e035127e1b6c060223460975dee00742b9",
+        "module_zip": "sha256:70aabc1ce77a239a17e20d643aa3a1fb851af4c68b1df51c0de4e8fb2d4f0613"
+      },
+      "workflow_run_id": "27536601346",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27536601346",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27536601346"
+    }
+  },
+  "last_updated": "2026-06-15T09:26:33Z"
+}
