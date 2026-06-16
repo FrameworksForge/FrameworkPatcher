@@ -4965,6 +4965,18 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.303.0.WFSRUXM": {
+        "android_version": "16",
+        "build_time": "2026-06-16T10:20:26Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27610654205",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27610654205",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "pissarro": {
@@ -5698,6 +5710,6 @@
       }
     }
   },
-  "last_updated": "2026-06-16T09:29:13Z",
+  "last_updated": "2026-06-16T10:21:12Z",
   "engine_version": "3.0.0"
 }
