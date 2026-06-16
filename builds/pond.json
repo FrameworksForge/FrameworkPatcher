@@ -1,0 +1,26 @@
+{
+  "device": "pond",
+  "builds": {
+    "OS3.0.304.0.WGTMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-16T19:09:45Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8710d59c33526f40b92a983bb4de9026a71de999afdf4471d4f6fe22d0886d47",
+        "services_patched.jar": "sha256:d171a13e118c6c2a8f5c12cc63d02fd47cc61c658e31074cc7cf1363bb671f0f",
+        "miui-services_patched.jar": "sha256:516b7472ed38342bb2465c8cc7a36f34002fca5be576cdcbf7f31896aba57f05",
+        "module_zip": "sha256:926f417ec2ebea36cee46ffd85600018930a05582670e63620f267dbf00440f4"
+      },
+      "workflow_run_id": "27641405810",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27641405810",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27641405810"
+    }
+  },
+  "last_updated": "2026-06-16T19:10:55Z"
+}
