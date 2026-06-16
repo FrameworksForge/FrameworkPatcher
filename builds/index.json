@@ -2894,6 +2894,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "3.0.300.2.WLFCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-16T12:42:34Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27618207821",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27618207821",
+        "features": [
+          "cn_notification_fix",
+          "kaorios_toolbox"
+        ]
       }
     },
     "fuxi": {
@@ -5722,6 +5733,6 @@
       }
     }
   },
-  "last_updated": "2026-06-16T11:33:48Z",
+  "last_updated": "2026-06-16T12:43:23Z",
   "engine_version": "3.0.0"
 }
