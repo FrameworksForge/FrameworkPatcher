@@ -485,6 +485,17 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.305.0 xiaomi.eu": {
+        "android_version": "16",
+        "build_time": "2026-06-16T00:39:19Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27585950055",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27585950055",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Tapas": {
@@ -5653,6 +5664,6 @@
       }
     }
   },
-  "last_updated": "2026-06-15T23:49:57Z",
+  "last_updated": "2026-06-16T00:40:03Z",
   "engine_version": "3.0.0"
 }
