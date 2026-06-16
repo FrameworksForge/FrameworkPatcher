@@ -2855,10 +2855,10 @@
     "diting": {
       "OS3.0.3.0.VLFMIXM": {
         "android_version": "15",
-        "build_time": "2026-06-02T11:11:16Z",
+        "build_time": "2026-06-16T13:07:42Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26815878207",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26815878207",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27619709893",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27619709893",
         "features": [
           "cn_notification_fix"
         ]
@@ -5733,6 +5733,6 @@
       }
     }
   },
-  "last_updated": "2026-06-16T12:45:06Z",
+  "last_updated": "2026-06-16T13:08:26Z",
   "engine_version": "3.0.0"
 }
