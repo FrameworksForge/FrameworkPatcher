@@ -2395,6 +2395,19 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "Os2.0.2 eu": {
+        "android_version": "15",
+        "build_time": "2026-06-16T19:00:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27640753685",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27640753685",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "add_gboard"
+        ]
       }
     },
     "mayfly": {
@@ -5738,6 +5751,6 @@
       }
     }
   },
-  "last_updated": "2026-06-16T18:41:49Z",
+  "last_updated": "2026-06-16T19:01:02Z",
   "engine_version": "3.0.0"
 }
