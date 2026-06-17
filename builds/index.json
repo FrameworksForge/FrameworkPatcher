@@ -5524,6 +5524,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS1.0.34.0.ULIMIXM": {
+        "android_version": "14",
+        "build_time": "2026-06-17T12:54:00Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27690281198",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27690281198",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "veux": {
@@ -5865,6 +5876,6 @@
       }
     }
   },
-  "last_updated": "2026-06-17T12:27:18Z",
+  "last_updated": "2026-06-17T12:54:44Z",
   "engine_version": "3.0.0"
 }
