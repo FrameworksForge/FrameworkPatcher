@@ -2945,6 +2945,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS2.0.203WOJINXM": {
+        "android_version": "15",
+        "build_time": "2026-06-17T12:26:32Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27688601504",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27688601504",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "diting": {
@@ -5853,6 +5865,6 @@
       }
     }
   },
-  "last_updated": "2026-06-17T08:54:46Z",
+  "last_updated": "2026-06-17T12:27:18Z",
   "engine_version": "3.0.0"
 }
