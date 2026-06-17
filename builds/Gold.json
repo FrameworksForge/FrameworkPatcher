@@ -1,0 +1,24 @@
+{
+  "device": "Gold",
+  "builds": {
+    "OS3.0.1.0.VNQIDXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-06-17T14:57:54Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:ba0495c9815292c6471210eb4616b06d4fbc99b7aa47aca8eb7a99fb860ab2ae",
+        "services_patched.jar": "sha256:faf87bcb197ffc3b35164952e48b954751e24d158d8221662f80f9ceb79be6a1",
+        "miui-services_patched.jar": "sha256:973ab55f4e27e4f571b338983518f27f7df80d7b7eb6b3987b8f3eb804319259",
+        "module_zip": "sha256:cfc85c51eafd76ac1a71f7ce97953b2738fbe6c8d8581a12f78e46f465b83052"
+      },
+      "workflow_run_id": "27698072527",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27698072527",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27698072527"
+    }
+  },
+  "last_updated": "2026-06-17T14:58:43Z"
+}
