@@ -4584,6 +4584,19 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS2.0.2.0.VOATRXM": {
+        "android_version": "15",
+        "build_time": "2026-06-17T19:08:06Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27712928969",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27712928969",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Rodin": {
@@ -5917,6 +5930,6 @@
       }
     }
   },
-  "last_updated": "2026-06-17T17:53:56Z",
+  "last_updated": "2026-06-17T19:09:01Z",
   "engine_version": "3.0.0"
 }

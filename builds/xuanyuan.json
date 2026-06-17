@@ -20,7 +20,28 @@
       "workflow_run_id": "25718967331",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25718967331",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25718967331"
+    },
+    "OS2.0.2.0.VOATRXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-17T19:08:06Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:1f71cbd315efda76fd0f9ce6e8450a9da8f229c8c3706966e3d0343d1f138f16",
+        "services_patched.jar": "sha256:1c530dbbd921d14aa74beef22552ca294833bc18de7e4d071d30312cde8b928f",
+        "miui-services_patched.jar": "sha256:82fbe84d280df52d8f4cc6efa204ed888b8fee697bb7256828d6083638aec8e1",
+        "module_zip": "sha256:ac3bad0bddd07fb8fd5be2b8628cf0fb8b000389bbad86cfe79c3fbd656c704d"
+      },
+      "workflow_run_id": "27712928969",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27712928969",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27712928969"
     }
   },
-  "last_updated": "2026-05-12T07:06:33Z"
+  "last_updated": "2026-06-17T19:09:01Z"
 }
