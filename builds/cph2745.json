@@ -1,0 +1,26 @@
+{
+  "device": "cph2745",
+  "builds": {
+    "CPH2745_16.0.7.201": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-17T17:38:13Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:10fe400d30e7dfdb1702135a12427ef20e4b1e4cc97c05ed51485c7cecb59db6",
+        "services_patched.jar": "sha256:653d1e400277816e0af5984bc233d4f5e38fdc89d63b616c5dd189c14f63aa82",
+        "miui-services_patched.jar": "sha256:3577db75b833df65871f2f40c5833e73e64a1b1ce4e3b192ecce48cddb25ef20",
+        "module_zip": "sha256:3027f3886ab6c2fa3c6f2082807138cc7905b3f4a1ebb4b9ebd4a497d4adab54"
+      },
+      "workflow_run_id": "27707852252",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27707852252",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27707852252"
+    }
+  },
+  "last_updated": "2026-06-17T17:39:12Z"
+}

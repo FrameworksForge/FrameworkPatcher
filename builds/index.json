@@ -5888,8 +5888,22 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "cph2745": {
+      "CPH2745_16.0.7.201": {
+        "android_version": "16",
+        "build_time": "2026-06-17T17:38:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27707852252",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27707852252",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-17T15:13:34Z",
+  "last_updated": "2026-06-17T17:39:12Z",
   "engine_version": "3.0.0"
 }
