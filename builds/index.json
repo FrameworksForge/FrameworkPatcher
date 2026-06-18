@@ -498,13 +498,14 @@
       },
       "OS3.0.305.0 xiaomi.eu": {
         "android_version": "16",
-        "build_time": "2026-06-16T00:39:19Z",
+        "build_time": "2026-06-18T19:56:06Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27585950055",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27585950055",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27785455372",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27785455372",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag"
+          "disable_secure_flag",
+          "kaorios_toolbox"
         ]
       },
       "OS3.0.305.0.WOKCNXM": {
@@ -5995,6 +5996,6 @@
       }
     }
   },
-  "last_updated": "2026-06-18T18:36:24Z",
+  "last_updated": "2026-06-18T19:56:46Z",
   "engine_version": "3.0.0"
 }
