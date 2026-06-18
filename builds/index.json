@@ -226,6 +226,17 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "V816.0.11.0.ULOCNXM": {
+        "android_version": "14",
+        "build_time": "2026-06-18T00:10:02Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27727864696",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27727864696",
+        "features": [
+          "disable_signature_verification",
+          "add_gboard"
+        ]
       }
     },
     "dash": {
@@ -5931,6 +5942,6 @@
       }
     }
   },
-  "last_updated": "2026-06-17T19:50:18Z",
+  "last_updated": "2026-06-18T00:10:39Z",
   "engine_version": "3.0.0"
 }
