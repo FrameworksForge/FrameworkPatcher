@@ -82,20 +82,19 @@
       "android_version": "16",
       "patch_version": "3.0.0",
       "features": [
-        "disable_signature_verification",
-        "disable_secure_flag"
+        "disable_signature_verification"
       ],
-      "build_time": "2026-05-24T09:06:30Z",
+      "build_time": "2026-06-18T06:00:14Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:8c61b05719bc6b6b20f87a51d3bfdab42173199692c228600a0c03b1ffaffef5",
-        "services_patched.jar": "sha256:a20fccc300656bdec282e8b83419f46f89bee8994f11f3e705a251552b8da7c5",
-        "miui-services_patched.jar": "sha256:d0f8790056922470c43661cdf6546565f20a68d8419df2b664c869f48eaa430d",
-        "module_zip": "sha256:0550a7216b33bc62a78f0cf1ffd16f47ca4ac1b7a20f917a49db5650baa81cd0"
+        "framework_patched.jar": "sha256:d6e7b1bc7cfb30b717246a31b8c06a194b2e6a920f2faf705fecf56d3212eb84",
+        "services_patched.jar": "sha256:ef2b6466b9920c5b2c66999eda1c411a334c82d442effd11553e6a8ca4c7283d",
+        "miui-services_patched.jar": "sha256:e45a64b6275b183de3169193a10341b3e2c32468aa981a6212c2a0e83cc5494b",
+        "module_zip": "sha256:1c46cf3f3bc9214016fe159cec9534e79ffe4ed888e90a5e510c9324dec6a150"
       },
-      "workflow_run_id": "26357069966",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26357069966",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26357069966"
+      "workflow_run_id": "27739912539",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27739912539",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27739912539"
     },
     "OS3.0.300.0.C07.WOJMIXM": {
       "android_version": "16",
@@ -212,5 +211,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27688601504"
     }
   },
-  "last_updated": "2026-06-17T12:27:18Z"
+  "last_updated": "2026-06-18T06:00:56Z"
 }
