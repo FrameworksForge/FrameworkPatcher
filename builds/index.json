@@ -4876,6 +4876,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.213.0.VNHEUXM": {
+        "android_version": "15",
+        "build_time": "2026-06-18T08:03:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27745315544",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27745315544",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "evergo": {
@@ -5941,6 +5953,6 @@
       }
     }
   },
-  "last_updated": "2026-06-18T06:00:56Z",
+  "last_updated": "2026-06-18T08:03:54Z",
   "engine_version": "3.0.0"
 }
