@@ -3020,6 +3020,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.300.0.WOJTRXM": {
+        "android_version": "16",
+        "build_time": "2026-06-19T02:38:25Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27801910503",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27801910503",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "diting": {
@@ -6028,6 +6038,6 @@
       }
     }
   },
-  "last_updated": "2026-06-19T02:03:40Z",
+  "last_updated": "2026-06-19T02:39:02Z",
   "engine_version": "3.0.0"
 }
