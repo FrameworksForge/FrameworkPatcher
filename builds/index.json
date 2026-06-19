@@ -6003,8 +6003,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "chagall": {
+      "OS3.0.304.0.WPTCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-19T01:27:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27799693022",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27799693022",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-19T00:47:22Z",
+  "last_updated": "2026-06-19T01:28:25Z",
   "engine_version": "3.0.0"
 }

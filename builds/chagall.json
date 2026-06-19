@@ -1,0 +1,25 @@
+{
+  "device": "chagall",
+  "builds": {
+    "OS3.0.304.0.WPTCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-06-19T01:27:49Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:5a1b01c33967d3fecb2b54714fb2b8ef3dcecc199fd4c4764196b855092dfb29",
+        "services_patched.jar": "sha256:0810f89b2ef9951da9b305f883ae6698504eac91d565384b065871124db53ad3",
+        "miui-services_patched.jar": "sha256:690ad795f6f6ce5ad80b613af81c9b3b1bd127ccb62861583344188374747b41",
+        "module_zip": "sha256:e1534e8551a9913ba30a38183a3994070c52877a1f122f8a06d3e960ab705ee3"
+      },
+      "workflow_run_id": "27799693022",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27799693022",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27799693022"
+    }
+  },
+  "last_updated": "2026-06-19T01:28:25Z"
+}
