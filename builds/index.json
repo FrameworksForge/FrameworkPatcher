@@ -5705,6 +5705,19 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.5.0": {
+        "android_version": "15",
+        "build_time": "2026-06-19T05:16:10Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27806825789",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27806825789",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "pudding_cn": {
@@ -6038,6 +6051,6 @@
       }
     }
   },
-  "last_updated": "2026-06-19T02:39:02Z",
+  "last_updated": "2026-06-19T05:16:45Z",
   "engine_version": "3.0.0"
 }
