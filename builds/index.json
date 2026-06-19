@@ -3796,6 +3796,18 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "3.303.0.WMCMIXM": {
+        "android_version": "16",
+        "build_time": "2026-06-19T19:05:43Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27843686203",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27843686203",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "sapphire": {
@@ -6051,6 +6063,6 @@
       }
     }
   },
-  "last_updated": "2026-06-19T05:16:45Z",
+  "last_updated": "2026-06-19T19:06:31Z",
   "engine_version": "3.0.0"
 }
