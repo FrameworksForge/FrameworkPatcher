@@ -2957,12 +2957,12 @@
       },
       "OS3.0.300.0.WOJIDXM": {
         "android_version": "16",
-        "build_time": "2026-06-03T03:13:11Z",
+        "build_time": "2026-06-19T01:49:34Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26861386313",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26861386313",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27800374581",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27800374581",
         "features": [
-          "kaorios_toolbox"
+          "disable_signature_verification"
         ]
       },
       "3.0.300.0.WOJMIXM.C07": {
@@ -6018,6 +6018,6 @@
       }
     }
   },
-  "last_updated": "2026-06-19T01:28:25Z",
+  "last_updated": "2026-06-19T01:50:20Z",
   "engine_version": "3.0.0"
 }
