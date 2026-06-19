@@ -3687,6 +3687,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.206.0.VPRMIXM": {
+        "android_version": "15",
+        "build_time": "2026-06-19T01:51:22Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27800402264",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27800402264",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "moonstone": {
@@ -6018,6 +6030,6 @@
       }
     }
   },
-  "last_updated": "2026-06-19T01:50:20Z",
+  "last_updated": "2026-06-19T01:52:02Z",
   "engine_version": "3.0.0"
 }
