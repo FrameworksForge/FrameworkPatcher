@@ -5033,6 +5033,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.1.36": {
+        "android_version": "15",
+        "build_time": "2026-06-19T23:14:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27852545318",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27852545318",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "Marble": {
@@ -6063,6 +6075,6 @@
       }
     }
   },
-  "last_updated": "2026-06-19T19:06:31Z",
+  "last_updated": "2026-06-19T23:15:22Z",
   "engine_version": "3.0.0"
 }
