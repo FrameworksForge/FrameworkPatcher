@@ -4760,11 +4760,12 @@
       },
       "OS3.0.306.0.WNBCNXM": {
         "android_version": "16",
-        "build_time": "2026-06-04T10:20:23Z",
+        "build_time": "2026-06-20T15:31:28Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26945728923",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26945728923",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27875577235",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27875577235",
         "features": [
+          "cn_notification_fix",
           "kaorios_toolbox"
         ]
       },
@@ -6109,6 +6110,6 @@
       }
     }
   },
-  "last_updated": "2026-06-20T14:37:53Z",
+  "last_updated": "2026-06-20T15:32:07Z",
   "engine_version": "3.0.0"
 }
