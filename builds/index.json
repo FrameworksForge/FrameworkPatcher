@@ -4770,10 +4770,10 @@
       },
       "OS1.0.50.0.UNBCNXM": {
         "android_version": "16",
-        "build_time": "2026-06-20T13:47:22Z",
+        "build_time": "2026-06-20T14:37:21Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27873007969",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27873007969",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27874226827",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27874226827",
         "features": [
           "cn_notification_fix",
           "kaorios_toolbox"
@@ -6109,6 +6109,6 @@
       }
     }
   },
-  "last_updated": "2026-06-20T13:53:44Z",
+  "last_updated": "2026-06-20T14:37:53Z",
   "engine_version": "3.0.0"
 }
