@@ -966,6 +966,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.205.0.VMGMIXM": {
+        "android_version": "15",
+        "build_time": "2026-06-20T23:46:15Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27887460523",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27887460523",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "cupid": {
@@ -6122,6 +6132,6 @@
       }
     }
   },
-  "last_updated": "2026-06-20T17:20:41Z",
+  "last_updated": "2026-06-20T23:46:59Z",
   "engine_version": "3.0.0"
 }
