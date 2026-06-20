@@ -6072,8 +6072,21 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "caghall": {
+      "OS3.0.306.0.WPPCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-20T08:57:34Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27866240909",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27866240909",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-20T07:24:07Z",
+  "last_updated": "2026-06-20T08:58:13Z",
   "engine_version": "3.0.0"
 }

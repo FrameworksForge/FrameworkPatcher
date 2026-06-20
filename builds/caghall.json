@@ -1,0 +1,25 @@
+{
+  "device": "caghall",
+  "builds": {
+    "OS3.0.306.0.WPPCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-06-20T08:57:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:e75a0585f04725f873f75e4080fba9033732a5b98e8ba4ee6780aa6a205eac08",
+        "services_patched.jar": "sha256:de7bfd135965890ca8525892704f782bd86b2670739173e21120cb8f6a0fe589",
+        "miui-services_patched.jar": "sha256:1b8b91b46560b843d735b748f61e7a05aad5efd45b39fbe5e9f2e641f27fd7ec",
+        "module_zip": "sha256:8a11aacaa311a48e7fd7787979e3b1afca270cc1acc90b2c07205ac2810e854e"
+      },
+      "workflow_run_id": "27866240909",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27866240909",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27866240909"
+    }
+  },
+  "last_updated": "2026-06-20T08:58:13Z"
+}
