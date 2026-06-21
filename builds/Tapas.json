@@ -77,15 +77,15 @@
       "features": [
         "kaorios_toolbox"
       ],
-      "build_time": "2026-06-21T02:45:57Z",
+      "build_time": "2026-06-21T02:56:52Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "module_zip": "sha256:cb3434041ab24fca39d6b95d315efbb6f28272cdf5497b79a21dfb5dee44f6f4"
+        "module_zip": "sha256:aefdee36256f48f7a931a4410946aa9a251ca975a27794e5f2fe51194c319f66"
       },
-      "workflow_run_id": "27891296484",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27891296484",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27891296484"
+      "workflow_run_id": "27891515952",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27891515952",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27891515952"
     }
   },
-  "last_updated": "2026-06-21T02:46:33Z"
+  "last_updated": "2026-06-21T02:57:25Z"
 }
