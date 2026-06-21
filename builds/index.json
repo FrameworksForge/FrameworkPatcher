@@ -6141,8 +6141,21 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "Zircon": {
+      "OS3.0.3.0.WNOINXM": {
+        "android_version": "16",
+        "build_time": "2026-06-21T09:57:35Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27900695500",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27900695500",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-21T08:02:38Z",
+  "last_updated": "2026-06-21T09:58:18Z",
   "engine_version": "3.0.0"
 }
