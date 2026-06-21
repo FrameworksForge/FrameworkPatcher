@@ -5882,6 +5882,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "CN": {
+        "android_version": "16",
+        "build_time": "2026-06-21T08:02:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27898039149",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27898039149",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "Cph2475IN": {
@@ -6133,6 +6143,6 @@
       }
     }
   },
-  "last_updated": "2026-06-21T04:34:13Z",
+  "last_updated": "2026-06-21T08:02:38Z",
   "engine_version": "3.0.0"
 }
