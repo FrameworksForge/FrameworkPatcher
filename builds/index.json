@@ -383,6 +383,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS2.0.206.0.VOOTWXM": {
+        "android_version": "15",
+        "build_time": "2026-06-22T07:36:17Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27936849141",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27936849141",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "zorn": {
@@ -6204,6 +6214,6 @@
       }
     }
   },
-  "last_updated": "2026-06-22T06:10:45Z",
+  "last_updated": "2026-06-22T07:37:02Z",
   "engine_version": "3.0.0"
 }
