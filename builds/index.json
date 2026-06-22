@@ -5382,6 +5382,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.215.0.VMCCNXM": {
+        "android_version": "15",
+        "build_time": "2026-06-22T06:09:43Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27932992422",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27932992422",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Corot": {
@@ -6192,6 +6204,6 @@
       }
     }
   },
-  "last_updated": "2026-06-22T04:39:55Z",
+  "last_updated": "2026-06-22T06:10:25Z",
   "engine_version": "3.0.0"
 }
