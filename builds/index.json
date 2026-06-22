@@ -5924,6 +5924,19 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS 2020 greeshan": {
+        "android_version": "15",
+        "build_time": "2026-06-22T08:21:23Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27939095793",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27939095793",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Cph2475IN": {
@@ -6214,6 +6227,6 @@
       }
     }
   },
-  "last_updated": "2026-06-22T07:37:02Z",
+  "last_updated": "2026-06-22T08:22:04Z",
   "engine_version": "3.0.0"
 }

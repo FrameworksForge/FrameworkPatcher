@@ -36,7 +36,28 @@
       "workflow_run_id": "27898039149",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27898039149",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27898039149"
+    },
+    "OS 2020 greeshan": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-22T08:21:23Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:3a5f054eb59cba238b7ab6449febbdf761ee6f0ae4a1d1799b9da3d9a2c4a4d0",
+        "services_patched.jar": "sha256:706db733f6875c1f3cf4ce9c28e5759a1622faa6ffa3054a93295c67cf4ba938",
+        "miui-services_patched.jar": "sha256:d3fd28f8c6748b8f5affec3f44fcd84cfaed083a0905dda8c336e32318e89d47",
+        "module_zip": "sha256:d60c00332a2d496d8441998faaa08225eba79d1cf9b1b8db93b96f49404c18ce"
+      },
+      "workflow_run_id": "27939095793",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27939095793",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27939095793"
     }
   },
-  "last_updated": "2026-06-21T08:02:38Z"
+  "last_updated": "2026-06-22T08:22:04Z"
 }
