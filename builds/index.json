@@ -6164,8 +6164,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "dew": {
+      "OS3.0.302.0.WBNMIXM": {
+        "android_version": "16",
+        "build_time": "2026-06-22T03:48:29Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27928189981",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27928189981",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-21T21:27:47Z",
+  "last_updated": "2026-06-22T03:49:08Z",
   "engine_version": "3.0.0"
 }

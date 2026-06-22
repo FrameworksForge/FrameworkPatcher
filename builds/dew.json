@@ -1,0 +1,26 @@
+{
+  "device": "dew",
+  "builds": {
+    "OS3.0.302.0.WBNMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-22T03:48:29Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7bfc9862fa4cda360ed86b61cdf127c8fb8c62fe02a021f0f8437ca0b636e10f",
+        "services_patched.jar": "sha256:928dcd84e84aacc5e97b8601e291c1538758902572f4a8db6cfe3ecf972f3156",
+        "miui-services_patched.jar": "sha256:456df24fcddf379232f5c473720c21acdb39c3528ebe6c4dd0a4db26645f1e07",
+        "module_zip": "sha256:48b7df0d5ba00e272155e82028a168e72c8fba51a51f3fc81a11b9a239bc5e41"
+      },
+      "workflow_run_id": "27928189981",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27928189981",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27928189981"
+    }
+  },
+  "last_updated": "2026-06-22T03:49:08Z"
+}
