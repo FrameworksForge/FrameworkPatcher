@@ -6225,8 +6225,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Ruby_": {
+      "OS3": {
+        "android_version": "16",
+        "build_time": "2026-06-22T09:53:03Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27944192468",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27944192468",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-22T08:22:04Z",
+  "last_updated": "2026-06-22T09:53:48Z",
   "engine_version": "3.0.0"
 }

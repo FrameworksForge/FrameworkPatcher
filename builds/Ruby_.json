@@ -1,0 +1,25 @@
+{
+  "device": "Ruby_",
+  "builds": {
+    "OS3": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-22T09:53:03Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:abc1d7a1486b7262949a825dcc9da126475d8d50fc24980f070a0820359e3abf",
+        "services_patched.jar": "sha256:d28a6cd3808417e56a55337d8f642952c47ed91bdcc7ad3e573f8a079b76950e",
+        "miui-services_patched.jar": "sha256:a6df927c809d8816a1a9f645423502cd3da13995abe1b9e347a8646343e43b46",
+        "module_zip": "sha256:83909c75f66a317dda41b307c572005e4b2d97eea1d426fe09c6c5e87a63f874"
+      },
+      "workflow_run_id": "27944192468",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27944192468",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27944192468"
+    }
+  },
+  "last_updated": "2026-06-22T09:53:48Z"
+}
