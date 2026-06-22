@@ -6229,10 +6229,10 @@
     "Ruby_": {
       "OS3": {
         "android_version": "16",
-        "build_time": "2026-06-22T09:53:03Z",
+        "build_time": "2026-06-22T10:23:30Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27944192468",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27944192468",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27945829480",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27945829480",
         "features": [
           "disable_signature_verification",
           "kaorios_toolbox"
@@ -6240,6 +6240,6 @@
       }
     }
   },
-  "last_updated": "2026-06-22T09:53:48Z",
+  "last_updated": "2026-06-22T10:24:09Z",
   "engine_version": "3.0.0"
 }
