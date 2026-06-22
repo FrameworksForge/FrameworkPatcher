@@ -5948,6 +5948,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.305.0.WOKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-22T15:22:38Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27963641152",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27963641152",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "Cph2475IN": {
@@ -6251,6 +6261,6 @@
       }
     }
   },
-  "last_updated": "2026-06-22T14:02:59Z",
+  "last_updated": "2026-06-22T15:23:19Z",
   "engine_version": "3.0.0"
 }
