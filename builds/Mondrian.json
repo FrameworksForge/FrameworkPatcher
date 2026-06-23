@@ -1,0 +1,27 @@
+{
+  "device": "Mondrian",
+  "builds": {
+    "Personal": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-23T09:35:22Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b599f67756c012b2ed73164a3c39c0ce3a1e814436aeacf329f54a615f8941f9",
+        "services_patched.jar": "sha256:750ded4d53aaf2c43295e6c104db503666db19e9289094cf63bfb427dd7cb014",
+        "miui-services_patched.jar": "sha256:6cf528ae3f0e3fc2f46cc06bed3f184f80f8814a0616ebd7ef891302b5f9da6f",
+        "module_zip": "sha256:22ff4f007ed3ebfcee2ec5c50ce75f38d76d9cdc6069c9a8de6d77e8e17cd13e"
+      },
+      "workflow_run_id": "28016587213",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28016587213",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28016587213"
+    }
+  },
+  "last_updated": "2026-06-23T09:35:58Z"
+}
