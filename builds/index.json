@@ -5981,6 +5981,16 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.303.0.WOKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-23T05:04:55Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28003503259",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28003503259",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "Cph2475IN": {
@@ -6284,6 +6294,6 @@
       }
     }
   },
-  "last_updated": "2026-06-23T04:05:57Z",
+  "last_updated": "2026-06-23T05:05:32Z",
   "engine_version": "3.0.0"
 }
