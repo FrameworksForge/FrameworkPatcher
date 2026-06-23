@@ -1705,6 +1705,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "2.0.12.0.ULOCNXM": {
+        "android_version": "14",
+        "build_time": "2026-06-23T03:08:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27999337128",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27999337128",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "amethyst": {
@@ -6261,6 +6272,6 @@
       }
     }
   },
-  "last_updated": "2026-06-22T15:23:19Z",
+  "last_updated": "2026-06-23T03:09:25Z",
   "engine_version": "3.0.0"
 }
