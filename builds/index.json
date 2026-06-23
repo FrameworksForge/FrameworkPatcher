@@ -4553,6 +4553,18 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.301.0.WOLIDXM": {
+        "android_version": "16",
+        "build_time": "2026-06-23T18:14:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28047012482",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28047012482",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "goya": {
@@ -6334,6 +6346,6 @@
       }
     }
   },
-  "last_updated": "2026-06-23T17:33:39Z",
+  "last_updated": "2026-06-23T18:15:40Z",
   "engine_version": "3.0.0"
 }
