@@ -5466,10 +5466,10 @@
       },
       "OS2.0.215.0.VMCCNXM": {
         "android_version": "15",
-        "build_time": "2026-06-22T06:09:42Z",
+        "build_time": "2026-06-24T04:47:08Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27932991999",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27932991999",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28075688530",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28075688530",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -6359,6 +6359,6 @@
       }
     }
   },
-  "last_updated": "2026-06-24T04:37:58Z",
+  "last_updated": "2026-06-24T04:47:45Z",
   "engine_version": "3.0.0"
 }
