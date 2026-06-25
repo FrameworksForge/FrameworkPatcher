@@ -6445,8 +6445,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Beryl": {
+      "OS3.0.305.CN": {
+        "android_version": "16",
+        "build_time": "2026-06-25T17:38:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28188860746",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28188860746",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-25T15:51:51Z",
+  "last_updated": "2026-06-25T17:49:46Z",
   "engine_version": "3.0.0"
 }

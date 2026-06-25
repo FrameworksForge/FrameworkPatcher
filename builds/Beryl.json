@@ -1,0 +1,26 @@
+{
+  "device": "Beryl",
+  "builds": {
+    "OS3.0.305.CN": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-06-25T17:38:05Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:a98429f3fe4f2da8dd47544e9bf6d6226cb993d4f47c8159aaf42c4634aac0d0",
+        "services_patched.jar": "sha256:ac90f4730e69cedfc05c0797bf9fba79467f3023a2f23af11dd282346f52cf1f",
+        "miui-services_patched.jar": "sha256:17c106238dc90aede71dfa005d244e980ed838da4af60e3845013191d4dbe377",
+        "module_zip": "sha256:66529b3c072e544d4f11525af08e1b67f45440bf0a8c7d3c4496611bb1dc65f2"
+      },
+      "workflow_run_id": "28188860746",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28188860746",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28188860746"
+    }
+  },
+  "last_updated": "2026-06-25T17:49:46Z"
+}
