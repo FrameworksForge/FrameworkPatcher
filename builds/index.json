@@ -3641,6 +3641,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "3.0.302.0.WOSMIXM": {
+        "android_version": "16",
+        "build_time": "2026-06-25T18:36:00Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28192103840",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28192103840",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Emerald": {
@@ -6461,6 +6472,6 @@
       }
     }
   },
-  "last_updated": "2026-06-25T17:49:46Z",
+  "last_updated": "2026-06-25T18:36:47Z",
   "engine_version": "3.0.0"
 }
