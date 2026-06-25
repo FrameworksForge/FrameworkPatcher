@@ -6315,6 +6315,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.15.0.UNOINXM": {
+        "android_version": "15",
+        "build_time": "2026-06-25T04:30:50Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28146876167",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28146876167",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "dew": {
@@ -6399,6 +6410,6 @@
       }
     }
   },
-  "last_updated": "2026-06-25T02:43:30Z",
+  "last_updated": "2026-06-25T04:31:29Z",
   "engine_version": "3.0.0"
 }
