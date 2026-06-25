@@ -6352,6 +6352,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.6.0.WNOEUXM": {
+        "android_version": "16",
+        "build_time": "2026-06-25T15:29:51Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28181234864",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28181234864",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "dew": {
@@ -6436,6 +6448,6 @@
       }
     }
   },
-  "last_updated": "2026-06-25T14:45:13Z",
+  "last_updated": "2026-06-25T15:30:34Z",
   "engine_version": "3.0.0"
 }
