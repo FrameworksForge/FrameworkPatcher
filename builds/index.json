@@ -2167,10 +2167,10 @@
       },
       "OS3FUXIPORT": {
         "android_version": "16",
-        "build_time": "2026-06-25T19:47:22Z",
+        "build_time": "2026-06-25T19:48:29Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28196108078",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28196108078",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28196156042",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28196156042",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -6484,6 +6484,6 @@
       }
     }
   },
-  "last_updated": "2026-06-25T19:48:01Z",
+  "last_updated": "2026-06-25T19:49:11Z",
   "engine_version": "3.0.0"
 }
