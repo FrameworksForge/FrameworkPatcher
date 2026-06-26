@@ -2597,6 +2597,17 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS1.0.15.0.UNOINXM": {
+        "android_version": "15",
+        "build_time": "2026-06-26T14:30:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28244442728",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28244442728",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "mayfly": {
@@ -6522,6 +6533,6 @@
       }
     }
   },
-  "last_updated": "2026-06-26T13:44:45Z",
+  "last_updated": "2026-06-26T14:31:22Z",
   "engine_version": "3.0.0"
 }
