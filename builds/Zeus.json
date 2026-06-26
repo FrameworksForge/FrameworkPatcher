@@ -1,0 +1,27 @@
+{
+  "device": "Zeus",
+  "builds": {
+    "OS. 2.0.214.0.VLBCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-26T08:10:36Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:a9d2ae424b679709fb1fe4208edd3d267f9264761ad1d246c96abea16c4530c0",
+        "services_patched.jar": "sha256:92efed33d3eb0d60dec1c16f0aa13bbe7f92519a6698751f9bfbfee41e07abbe",
+        "miui-services_patched.jar": "sha256:7b4501027869baa2f6d546347dd98553735c5f4524cd8e80346634fbdab078d2",
+        "module_zip": "sha256:1e83a1bea0e7632eebf342993311f93607e26eaab48c20fa443f7915435ee78c"
+      },
+      "workflow_run_id": "28225611491",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28225611491",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28225611491"
+    }
+  },
+  "last_updated": "2026-06-26T08:11:11Z"
+}
