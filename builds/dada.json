@@ -67,7 +67,25 @@
       "workflow_run_id": "27464171075",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27464171075",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27464171075"
+    },
+    "OS2.0.216.0.VOCCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-26T13:44:05Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:e17caad95e3f4e17b4eaf35be32419bc1efff263db63f8aa8585e9fa1232b3dc",
+        "miui-services_patched.jar": "sha256:ee3f655dd1ac435c1007a7d6618e72fe275a5d41d1f49aac4dc5970216100e6a",
+        "module_zip": "sha256:5db4f428a42def716cbafb78a47ae3445fe42d10f4bc771086cff4fde829338b"
+      },
+      "workflow_run_id": "28241861207",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28241861207",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28241861207"
     }
   },
-  "last_updated": "2026-06-13T10:31:57Z"
+  "last_updated": "2026-06-26T13:44:45Z"
 }
