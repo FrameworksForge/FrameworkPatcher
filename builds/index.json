@@ -578,6 +578,18 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "PortEliterom": {
+        "android_version": "15",
+        "build_time": "2026-06-27T07:23:48Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28282358578",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28282358578",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "mondrian": {
@@ -6566,6 +6578,6 @@
       }
     }
   },
-  "last_updated": "2026-06-27T04:34:50Z",
+  "last_updated": "2026-06-27T07:24:27Z",
   "engine_version": "3.0.0"
 }

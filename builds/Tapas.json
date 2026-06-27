@@ -85,7 +85,27 @@
       "workflow_run_id": "27891515952",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27891515952",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27891515952"
+    },
+    "PortEliterom": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-27T07:23:48Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8f0c20518288e8c97211b51b70c5200be6852415ce480d6a2a44aa6066d87a3a",
+        "services_patched.jar": "sha256:5f542fd854ebbf833a289d43a0b0d49e3594939d543b1437b6db0031c669bada",
+        "miui-services_patched.jar": "sha256:f539c9325c40f62289f7ab5fe56b5f378cec2eb2478b545cdd9d8aab830c7421",
+        "module_zip": "sha256:22a42ed268275075e10a9ab5e3d1fe51fd5f92182f1ba8599a22e270d5342ade"
+      },
+      "workflow_run_id": "28282358578",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28282358578",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28282358578"
     }
   },
-  "last_updated": "2026-06-21T02:57:25Z"
+  "last_updated": "2026-06-27T07:24:27Z"
 }
