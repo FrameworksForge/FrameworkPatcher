@@ -1,0 +1,26 @@
+{
+  "device": "Sapphiren",
+  "builds": {
+    "2.0.210.EU.VNH": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-27T04:34:17Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b865e35da424bf3643e373f5b9afc66e6d0d7267fc07458c6b3149cda8674442",
+        "services_patched.jar": "sha256:5a1c275ec3e5fb0e2457e3da15c480b336a19264b261650b5404fe91c29f1be2",
+        "miui-services_patched.jar": "sha256:5f947d8527c48744da235d95b5f4f7940b9b02fad1956a1c159699b1f2dce32e",
+        "module_zip": "sha256:8a2f1bd463b0412e6f347dbf3516e24b61dc397cd9cb1c945896392143e05f18"
+      },
+      "workflow_run_id": "28278640043",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28278640043",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28278640043"
+    }
+  },
+  "last_updated": "2026-06-27T04:34:50Z"
+}

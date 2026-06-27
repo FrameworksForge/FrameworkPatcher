@@ -6550,8 +6550,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Sapphiren": {
+      "2.0.210.EU.VNH": {
+        "android_version": "15",
+        "build_time": "2026-06-27T04:34:17Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28278640043",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28278640043",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-27T01:43:42Z",
+  "last_updated": "2026-06-27T04:34:50Z",
   "engine_version": "3.0.0"
 }
