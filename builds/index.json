@@ -4148,6 +4148,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS1.0.14.0.THGIDXM": {
+        "android_version": "15",
+        "build_time": "2026-06-27T01:17:55Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28274128160",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28274128160",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "fog": {
@@ -6531,6 +6541,6 @@
       }
     }
   },
-  "last_updated": "2026-06-26T15:16:59Z",
+  "last_updated": "2026-06-27T01:18:31Z",
   "engine_version": "3.0.0"
 }
