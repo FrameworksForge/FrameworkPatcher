@@ -265,7 +265,26 @@
       "workflow_run_id": "28001291315",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28001291315",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28001291315"
+    },
+    "16OS3.1.260608.235301173.MTPEGL.S": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-06-27T11:32:47Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:642b1252c43aec048965a28a7b848af6eb61a2b9ec716d1021eb3cd394e177c9",
+        "services_patched.jar": "sha256:4d981ccfa6dd988534b3730f77534467e99d1b9ae8e47c43e5e6376ea0f69cda",
+        "miui-services_patched.jar": "sha256:be86cef97d27763b3c8a6373bb65a590c53efeda72c15823794c25bddef76833",
+        "module_zip": "sha256:22370d59cae03faa90c18eb0538e1093f920f3950f52d403d057a663945e79e0"
+      },
+      "workflow_run_id": "28287898932",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28287898932",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28287898932"
     }
   },
-  "last_updated": "2026-06-23T04:05:57Z"
+  "last_updated": "2026-06-27T11:33:25Z"
 }

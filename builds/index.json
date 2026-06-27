@@ -3200,6 +3200,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "16OS3.1.260608.235301173.MTPEGL.S": {
+        "android_version": "16",
+        "build_time": "2026-06-27T11:32:47Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28287898932",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28287898932",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "diting": {
@@ -6610,6 +6621,6 @@
       }
     }
   },
-  "last_updated": "2026-06-27T11:09:25Z",
+  "last_updated": "2026-06-27T11:33:25Z",
   "engine_version": "3.0.0"
 }
