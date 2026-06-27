@@ -94,7 +94,23 @@
       "workflow_run_id": "28274128160",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28274128160",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28274128160"
+    },
+    "OS1.0.19.0.THGMIXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-27T08:40:35Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:9c0f397e7d9f187e23388ec6f9eb4d71f0fb1d9b1e2580d1a44e1c70d53668a8",
+        "module_zip": "sha256:7fa33a447107b19063055dde5b24b74ed460d2c65e601c1fcbf945f4f3f1b7f0"
+      },
+      "workflow_run_id": "28284109571",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28284109571",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28284109571"
     }
   },
-  "last_updated": "2026-06-27T01:18:31Z"
+  "last_updated": "2026-06-27T08:41:08Z"
 }
