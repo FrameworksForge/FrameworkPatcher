@@ -6576,6 +6576,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "Os1 Dev ": {
+        "android_version": "15",
+        "build_time": "2026-06-28T01:18:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28307335228",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28307335228",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Beryl": {
@@ -6622,6 +6635,6 @@
       }
     }
   },
-  "last_updated": "2026-06-28T01:08:34Z",
+  "last_updated": "2026-06-28T01:18:52Z",
   "engine_version": "3.0.0"
 }
