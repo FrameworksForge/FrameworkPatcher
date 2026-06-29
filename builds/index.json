@@ -6696,8 +6696,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "raphael_": {
+      "OS3.0.300.0.WPKCNXM.C06": {
+        "android_version": "16",
+        "build_time": "2026-06-29T13:42:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28376419714",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28376419714",
+        "features": [
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-29T13:21:54Z",
+  "last_updated": "2026-06-29T13:43:07Z",
   "engine_version": "3.0.0"
 }
