@@ -6682,8 +6682,22 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "warhol": {
+      "OS3.0.308.0.WPSCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-29T13:21:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28374992148",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28374992148",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-29T13:12:53Z",
+  "last_updated": "2026-06-29T13:21:54Z",
   "engine_version": "3.0.0"
 }
