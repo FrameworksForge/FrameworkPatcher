@@ -1,0 +1,26 @@
+{
+  "device": "Warhol",
+  "builds": {
+    "OS3.0.308.0.WPSCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-06-29T13:12:13Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:eff1d18a935bbab371d6dd1d3a0f533cbabc2bbedc67f88f091a941e8943c116",
+        "services_patched.jar": "sha256:ec95918d08b1608b023ba9f18d150e917583108d0c6b572118056b623d4bddbc",
+        "miui-services_patched.jar": "sha256:7be6781203747f125b6bc84c54fa2e21d98136804498b43a6c77776953464114",
+        "module_zip": "sha256:e2cf4c144857d350ed7d83eddf9caaa45685cd2793434f9c020c7b909bad2fa8"
+      },
+      "workflow_run_id": "28374432156",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28374432156",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28374432156"
+    }
+  },
+  "last_updated": "2026-06-29T13:12:53Z"
+}
