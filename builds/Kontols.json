@@ -1,0 +1,24 @@
+{
+  "device": "Kontols",
+  "builds": {
+    "OS 303": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-06-29T16:37:38Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:452cfccfa96873869d0f88193625bbc8b8b37ddac157ee29a12faa8b55540c52",
+        "services_patched.jar": "sha256:12c964efb18a6dc59c05646b597af999c392f3832dbe9cf90116128b3faab6d0",
+        "miui-services_patched.jar": "sha256:bbaa38581b8bc39cc16cf4198808314bab8f81cff6fa552c2782c492fa27020e",
+        "module_zip": "sha256:8c31ecfd33f1a8bd27f7bacaca0647909bf57eae84228c81b1e1bb33209392e4"
+      },
+      "workflow_run_id": "28387567561",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28387567561",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28387567561"
+    }
+  },
+  "last_updated": "2026-06-29T16:38:21Z"
+}
