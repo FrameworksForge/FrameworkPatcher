@@ -109,22 +109,19 @@
       "features": [
         "disable_signature_verification",
         "cn_notification_fix",
-        "disable_secure_flag",
-        "kaorios_toolbox",
-        "add_gboard"
+        "disable_secure_flag"
       ],
-      "build_time": "2026-06-09T12:48:02Z",
+      "build_time": "2026-06-29T15:34:17Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:04ef56e0678c7144612fb5ad294bba1c9d28ec86073003a1ed85ff5129a85001",
-        "services_patched.jar": "sha256:a1ea421c81607d290f00bb32e29b8cdd9c1258eaefb6e52b4df450404dd2e3b6",
-        "miui-services_patched.jar": "sha256:b7fffd4dc14a510a074174865e0e69485d151dd2d9141f45790de97705c0b607",
-        "miui-framework_patched.jar": "sha256:1029c8550148f95b931413f3ab1c884e837263ff9f1777e4f270673c6cd6f439",
-        "module_zip": "sha256:c524634d386db89cf09589c2b9c393ca6e1bfae835c96f769ae8fb5dbe82f89e"
+        "framework_patched.jar": "sha256:6bbaf23aa49884f0f337cb678aad64c5c716d9169ea6cae847e038f8667b96d3",
+        "services_patched.jar": "sha256:ebd79b08e0e5765215f58c8aab1077c499425ea6f541d493e721b209a7fcc79a",
+        "miui-services_patched.jar": "sha256:d99384cc33adc971766cee4a9b73820b6bb04995261ea493262ae61f96096060",
+        "module_zip": "sha256:e92467880bbc968079ce03f09f4b6a4ea4c42f965721ddb47e4accec2786988f"
       },
-      "workflow_run_id": "27207015221",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27207015221",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27207015221"
+      "workflow_run_id": "28383598367",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28383598367",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28383598367"
     },
     "OS1.0.47.0.UNCCNXM": {
       "android_version": "14",
@@ -146,5 +143,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27147253654"
     }
   },
-  "last_updated": "2026-06-09T12:48:42Z"
+  "last_updated": "2026-06-29T15:35:02Z"
 }
