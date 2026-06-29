@@ -6718,8 +6718,20 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "gayhamp": {
+      "OS1.0.17.0 UNLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-29T15:26:21Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28383188706",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28383188706",
+        "features": [
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-06-29T15:16:14Z",
+  "last_updated": "2026-06-29T15:26:58Z",
   "engine_version": "3.0.0"
 }

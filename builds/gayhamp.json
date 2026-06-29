@@ -1,0 +1,22 @@
+{
+  "device": "gayhamp",
+  "builds": {
+    "OS1.0.17.0 UNLCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-29T15:26:21Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b3dd68a6a2366046426a1b2743af8f63f9742b84388ea98904885b56ecd1ee51",
+        "module_zip": "sha256:30f0fec2fd6881f4a5d66d13f8e5145e982d40680b98d436fcb6e02c964b472b"
+      },
+      "workflow_run_id": "28383188706",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28383188706",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28383188706"
+    }
+  },
+  "last_updated": "2026-06-29T15:26:58Z"
+}
