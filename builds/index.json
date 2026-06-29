@@ -4079,6 +4079,16 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OOS16_Port": {
+        "android_version": "16",
+        "build_time": "2026-06-29T11:45:47Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28369533151",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28369533151",
+        "features": [
+          "disable_secure_flag"
+        ]
       }
     },
     "Aurora": {
@@ -6645,6 +6655,6 @@
       }
     }
   },
-  "last_updated": "2026-06-29T10:05:36Z",
+  "last_updated": "2026-06-29T11:46:27Z",
   "engine_version": "3.0.0"
 }
