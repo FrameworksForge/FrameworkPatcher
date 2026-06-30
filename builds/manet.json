@@ -20,7 +20,25 @@
       "workflow_run_id": "25213723676",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25213723676",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25213723676"
+    },
+    "OS1.0.22.0.UNMCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-30T06:32:35Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:fb13c735f1f02d45a18e6ca732d3cf3762ff3ab67e7a0d4d26234690218dc006",
+        "miui-services_patched.jar": "sha256:cf3046ae7550a50fd03a3a2d5b2c84a2705970b848ab25f7ad71afd81a5fdca7",
+        "module_zip": "sha256:7cc66282f230fc29e4d3fb8946722d6e55b1500abaad5202ac42a7861e3f411b"
+      },
+      "workflow_run_id": "28425051375",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28425051375",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28425051375"
     }
   },
-  "last_updated": "2026-05-01T12:11:08Z"
+  "last_updated": "2026-06-30T06:33:14Z"
 }

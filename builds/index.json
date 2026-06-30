@@ -3819,6 +3819,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS1.0.22.0.UNMCNXM": {
+        "android_version": "16",
+        "build_time": "2026-06-30T06:32:35Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28425051375",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28425051375",
+        "features": [
+          "cn_notification_fix",
+          "kaorios_toolbox"
+        ]
       }
     },
     "vermeer_global": {
@@ -6755,6 +6766,6 @@
       }
     }
   },
-  "last_updated": "2026-06-30T04:29:53Z",
+  "last_updated": "2026-06-30T06:33:14Z",
   "engine_version": "3.0.0"
 }
