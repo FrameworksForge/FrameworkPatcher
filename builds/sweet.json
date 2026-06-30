@@ -133,7 +133,27 @@
       "workflow_run_id": "28447147705",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28447147705",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28447147705"
+    },
+    "ClaskyOS1.0.13.0.THGMIXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-30T20:02:33Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:fa4abf982b19f7905db3c354cf8d32f20f20b621c29f6e81d25778b896fd287d",
+        "services_patched.jar": "sha256:8b924688b9731461dcbd2adea92ead30af4cb4802fe5b49ec5cd20e328568b82",
+        "miui-services_patched.jar": "sha256:2e68f1da3046b0d0ca6a4d050729ec8290fdfd272acfb4d8741e203aed52a785",
+        "module_zip": "sha256:dff96b28eaddb9bc442df2e10bdbd553d2d1cb17638d56b20e0d1df5583199c1"
+      },
+      "workflow_run_id": "28472132386",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28472132386",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28472132386"
     }
   },
-  "last_updated": "2026-06-30T13:18:46Z"
+  "last_updated": "2026-06-30T20:03:16Z"
 }

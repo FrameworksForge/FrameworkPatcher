@@ -4286,6 +4286,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "ClaskyOS1.0.13.0.THGMIXM": {
+        "android_version": "15",
+        "build_time": "2026-06-30T20:02:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28472132386",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28472132386",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "fog": {
@@ -6791,6 +6803,6 @@
       }
     }
   },
-  "last_updated": "2026-06-30T18:18:03Z",
+  "last_updated": "2026-06-30T20:03:16Z",
   "engine_version": "3.0.0"
 }
