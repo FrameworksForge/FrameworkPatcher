@@ -113,7 +113,23 @@
       "workflow_run_id": "28284177722",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28284177722",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28284177722"
+    },
+    "SpuffOs1.0.17": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-06-30T13:16:12Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:41d4f89625276f2352066628871b3318ab6da12c0f627a7f4a4013f8a10ab66f",
+        "module_zip": "sha256:dc7489e9016fb5602bd481f4034c3dbdd7aff2d8a376dbde3f62cd85b7032e4d"
+      },
+      "workflow_run_id": "28447080214",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28447080214",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28447080214"
     }
   },
-  "last_updated": "2026-06-27T08:45:19Z"
+  "last_updated": "2026-06-30T13:16:47Z"
 }
