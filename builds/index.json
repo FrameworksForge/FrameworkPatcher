@@ -4268,11 +4268,13 @@
       },
       "SpuffOs1.0.17": {
         "android_version": "15",
-        "build_time": "2026-06-30T13:16:12Z",
+        "build_time": "2026-06-30T13:18:09Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28447080214",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28447080214",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28447147705",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28447147705",
         "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
           "kaorios_toolbox"
         ]
       }
@@ -6780,6 +6782,6 @@
       }
     }
   },
-  "last_updated": "2026-06-30T13:16:47Z",
+  "last_updated": "2026-06-30T13:18:46Z",
   "engine_version": "3.0.0"
 }
