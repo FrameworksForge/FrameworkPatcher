@@ -4518,14 +4518,12 @@
       },
       "OS3.0.302.0.WMLCNXM": {
         "android_version": "16",
-        "build_time": "2026-05-25T11:39:05Z",
+        "build_time": "2026-07-01T20:23:07Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26398478840",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26398478840",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28545381489",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28545381489",
         "features": [
-          "disable_signature_verification",
-          "cn_notification_fix",
-          "disable_secure_flag"
+          "cn_notification_fix"
         ]
       },
       "OS2.0.211.0.VMLCNXM": {
@@ -6838,6 +6836,6 @@
       }
     }
   },
-  "last_updated": "2026-07-01T18:30:15Z",
+  "last_updated": "2026-07-01T20:23:36Z",
   "engine_version": "3.0.0"
 }
