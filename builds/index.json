@@ -6262,6 +6262,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.302.0.WOKMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-01T08:03:37Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28502747990",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28502747990",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Cph2475IN": {
@@ -6803,6 +6814,6 @@
       }
     }
   },
-  "last_updated": "2026-06-30T20:03:16Z",
+  "last_updated": "2026-07-01T08:04:15Z",
   "engine_version": "3.0.0"
 }
