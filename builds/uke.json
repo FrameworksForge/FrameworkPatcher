@@ -1,0 +1,26 @@
+{
+  "device": "uke",
+  "builds": {
+    "OS3.0.302.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-07-02T17:46:38Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:558f7da87c6697032887d1ec64b04995cbec8bd9592364411f0a8727844f81b5",
+        "services_patched.jar": "sha256:74b3e49d8ae2011eaa93db40f92cd7a20c7605073bc718d6ba9273c1b295fea1",
+        "miui-services_patched.jar": "sha256:d30830a28f52d6885fbf3260f4531c77c9da00048d38d93303fda9f6da179277",
+        "module_zip": "sha256:eab2d2c52f87617ff7f59887a72daa78adf54b918b33e53bd8237c76f8c0c117"
+      },
+      "workflow_run_id": "28610145790",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28610145790",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28610145790"
+    }
+  },
+  "last_updated": "2026-07-02T17:47:17Z"
+}
