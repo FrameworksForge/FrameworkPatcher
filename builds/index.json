@@ -6536,6 +6536,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.2.0.VNQINXM": {
+        "android_version": "15",
+        "build_time": "2026-07-02T06:58:25Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28571402361",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28571402361",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "cph2745": {
@@ -6885,6 +6896,6 @@
       }
     }
   },
-  "last_updated": "2026-07-02T05:30:35Z",
+  "last_updated": "2026-07-02T06:59:00Z",
   "engine_version": "3.0.0"
 }
