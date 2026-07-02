@@ -550,6 +550,18 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS2.0.202.0.VOKCNXM": {
+        "android_version": "15",
+        "build_time": "2026-07-02T13:55:25Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28595311884",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28595311884",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "Tapas": {
@@ -6944,6 +6956,6 @@
       }
     }
   },
-  "last_updated": "2026-07-02T11:40:40Z",
+  "last_updated": "2026-07-02T13:56:10Z",
   "engine_version": "3.0.0"
 }
