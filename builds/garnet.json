@@ -215,7 +215,25 @@
       "workflow_run_id": "27529200024",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27529200024",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27529200024"
+    },
+    "Matrixx 11.4": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-07-02T17:26:44Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:cc4f3e9d2f8f7ca50f62741c38210dfd896e8a4defb7ee08d01a287a1743db76",
+        "services_patched.jar": "sha256:a9574c9c1c5014c73c6c10c5c3080b830cd059ff7d293d88ca4c98447638511c",
+        "miui-services_patched.jar": "sha256:2b610829b61aed9be460fabb1afd019d70a62a0402cdd270ff2e3977ec764946",
+        "module_zip": "sha256:f02de4c9bee5ccb87d4d76924f68080473871d087f3c2823bea6b6a9fe75049b"
+      },
+      "workflow_run_id": "28608892044",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28608892044",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28608892044"
     }
   },
-  "last_updated": "2026-06-21T21:27:47Z"
+  "last_updated": "2026-07-02T17:27:44Z"
 }

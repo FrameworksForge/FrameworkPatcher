@@ -1690,6 +1690,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "Matrixx 11.4": {
+        "android_version": "15",
+        "build_time": "2026-07-02T17:26:44Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28608892044",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28608892044",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Xaga": {
@@ -6954,6 +6964,6 @@
       }
     }
   },
-  "last_updated": "2026-07-02T15:11:12Z",
+  "last_updated": "2026-07-02T17:27:44Z",
   "engine_version": "3.0.0"
 }
