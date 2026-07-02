@@ -1,0 +1,24 @@
+{
+  "device": "peridot_",
+  "builds": {
+    "OS3.0.4.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-07-02T08:07:37Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:e07afb591a10fc688368d62f01b565a2f53ea34c09ba94016cf1fa7c0fc34ac5",
+        "services_patched.jar": "sha256:b4ed4cbe624bee3b3815f4fa1d2af381697921390372d24a1cda97be8994026c",
+        "miui-services_patched.jar": "sha256:39056cd58a22636dd5836d5849eb244a6d39249237948e225592fe725fdc421c",
+        "module_zip": "sha256:76e8159375dcfb0f1461ec88def7d690225d20c1aa59aa053eb9b210c17c4c00"
+      },
+      "workflow_run_id": "28575053163",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28575053163",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28575053163"
+    }
+  },
+  "last_updated": "2026-07-02T08:08:19Z"
+}

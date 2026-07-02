@@ -6894,8 +6894,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "peridot_": {
+      "OS3.0.4.0": {
+        "android_version": "16",
+        "build_time": "2026-07-02T08:07:37Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28575053163",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28575053163",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-02T07:10:44Z",
+  "last_updated": "2026-07-02T08:08:19Z",
   "engine_version": "3.0.0"
 }
