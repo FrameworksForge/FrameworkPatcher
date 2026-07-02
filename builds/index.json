@@ -1693,10 +1693,10 @@
       },
       "Matrixx 11.4": {
         "android_version": "15",
-        "build_time": "2026-07-02T17:26:44Z",
+        "build_time": "2026-07-02T17:28:00Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28608892044",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28608892044",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28608963810",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28608963810",
         "features": [
           "disable_signature_verification"
         ]
@@ -6964,6 +6964,6 @@
       }
     }
   },
-  "last_updated": "2026-07-02T17:27:44Z",
+  "last_updated": "2026-07-02T17:28:43Z",
   "engine_version": "3.0.0"
 }
