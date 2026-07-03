@@ -260,20 +260,19 @@
       "android_version": "16",
       "patch_version": "3.0.0",
       "features": [
-        "disable_signature_verification",
-        "disable_secure_flag"
+        "disable_signature_verification"
       ],
-      "build_time": "2026-07-03T14:46:09Z",
+      "build_time": "2026-07-03T14:59:14Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:e01512cea33891f24dc5ae46aa12544e31d5bc0bf99f1572c4c1ac94b457581e",
-        "services_patched.jar": "sha256:3b853bc85ec88550c9d309fd8f7a1d982875611933f12facfad47c650820687c",
-        "miui-services_patched.jar": "sha256:68b1bc7b905c138df3917c68ecfeb4f43667b1379b81380d958c21848a4feda2",
-        "module_zip": "sha256:595608c46cd321ce5538979a8e009ae4c3f83bd28afd4c1ee1a33dd227200e9e"
+        "framework_patched.jar": "sha256:11837e05ae74671b6d47541499a9628ad0a5f366c2e696d51b92054c4611192a",
+        "services_patched.jar": "sha256:e458f6091cd1a987aa62d037ba21681add446328f6d9d0abdcd1a59a45cbcbba",
+        "miui-services_patched.jar": "sha256:71c0fdc0ce3c8b20a11d523f31e45f5b20e0db4e191eb67147e455673214cdd4",
+        "module_zip": "sha256:dcd1febf26ad93c39d521bd63e881191c359b704811cd01af1700a20ef1085a9"
       },
-      "workflow_run_id": "28667600510",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28667600510",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28667600510"
+      "workflow_run_id": "28668275203",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28668275203",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28668275203"
     },
     "OS3.0.306.0.WPSCNXM": {
       "android_version": "16",
@@ -294,5 +293,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28287367217"
     }
   },
-  "last_updated": "2026-07-03T14:46:52Z"
+  "last_updated": "2026-07-03T14:59:58Z"
 }
