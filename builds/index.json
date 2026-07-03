@@ -3121,6 +3121,19 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.302.0.WNLEUXM": {
+        "android_version": "16",
+        "build_time": "2026-07-03T06:36:38Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28643064431",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28643064431",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "kunzite": {
@@ -7001,6 +7014,6 @@
       }
     }
   },
-  "last_updated": "2026-07-03T04:37:41Z",
+  "last_updated": "2026-07-03T06:37:15Z",
   "engine_version": "3.0.0"
 }
