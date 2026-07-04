@@ -109,15 +109,15 @@
       "features": [
         "cn_notification_fix"
       ],
-      "build_time": "2026-07-01T10:02:27Z",
+      "build_time": "2026-07-04T09:41:24Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "miui-services_patched.jar": "sha256:c1cbd3e4f063b8a368b788f97d3c7695697fde6ca08872ad33427a65c5a57770",
-        "module_zip": "sha256:7f26ea5b6d3029f4d74abd232a81dc81c2628435e304195ac1e33294a0bcd7d1"
+        "miui-services_patched.jar": "sha256:b89302c0b4bb5cbeefc13ac3d4dd8a312abe8ecdbf23e082f3f376204a09fbdc",
+        "module_zip": "sha256:8ea78e0680c69e4ed667025e6552a5794baa1b963709d8f7671ebd1a088471ca"
       },
-      "workflow_run_id": "28509516776",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28509516776",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28509516776"
+      "workflow_run_id": "28702232610",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28702232610",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28702232610"
     },
     "OS1.0.47.0.UNCCNXM": {
       "android_version": "14",
@@ -139,5 +139,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27147253654"
     }
   },
-  "last_updated": "2026-07-01T10:03:09Z"
+  "last_updated": "2026-07-04T09:41:58Z"
 }
