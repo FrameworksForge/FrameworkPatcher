@@ -7032,8 +7032,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Sweet": {
+      "OS1.0.18.0.THGIDXM": {
+        "android_version": "15",
+        "build_time": "2026-07-04T01:44:59Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28691122618",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28691122618",
+        "features": [
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-03T14:59:58Z",
+  "last_updated": "2026-07-04T01:45:32Z",
   "engine_version": "3.0.0"
 }
