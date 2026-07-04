@@ -892,10 +892,10 @@
       },
       "OS3.0.2.0.VNQINXM": {
         "android_version": "15",
-        "build_time": "2026-06-03T09:22:13Z",
+        "build_time": "2026-07-04T11:08:15Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26875481577",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26875481577",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28704190041",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28704190041",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag"
@@ -7047,6 +7047,6 @@
       }
     }
   },
-  "last_updated": "2026-07-04T10:13:23Z",
+  "last_updated": "2026-07-04T11:08:53Z",
   "engine_version": "3.0.0"
 }
