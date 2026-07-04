@@ -5809,6 +5809,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "V816.0.23.0.TKTCNXM": {
+        "android_version": "13",
+        "build_time": "2026-07-04T14:11:06Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28708758809",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28708758809",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "vayu": {
@@ -7059,6 +7070,6 @@
       }
     }
   },
-  "last_updated": "2026-07-04T13:55:08Z",
+  "last_updated": "2026-07-04T14:11:38Z",
   "engine_version": "3.0.0"
 }

@@ -91,7 +91,25 @@
       "workflow_run_id": "27475105035",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27475105035",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27475105035"
+    },
+    "V816.0.23.0.TKTCNXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-04T14:11:06Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:cfd22c6ad7c67c15368253037c0ca58919de4303443249cc899fb0584beb498b",
+        "miui-services_patched.jar": "sha256:eceeb7b8098b2a739019da1f6d26c38101cea238a49cc3380bc9f1a4e223bd4f",
+        "module_zip": "sha256:e69858fb7f9f7dd7a3e715a3aec94c7573ec4e556077b459ddca82126cd86689"
+      },
+      "workflow_run_id": "28708758809",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28708758809",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28708758809"
     }
   },
-  "last_updated": "2026-06-13T18:22:14Z"
+  "last_updated": "2026-07-04T14:11:38Z"
 }
