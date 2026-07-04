@@ -2404,10 +2404,10 @@
       },
       "OS2.0.209.0.VNLIDXM": {
         "android_version": "15",
-        "build_time": "2026-06-15T20:03:34Z",
+        "build_time": "2026-07-04T10:12:47Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27572714000",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27572714000",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28702885713",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28702885713",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -7047,6 +7047,6 @@
       }
     }
   },
-  "last_updated": "2026-07-04T09:41:58Z",
+  "last_updated": "2026-07-04T10:13:23Z",
   "engine_version": "3.0.0"
 }
