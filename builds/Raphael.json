@@ -1,0 +1,24 @@
+{
+  "device": "Raphael",
+  "builds": {
+    "OS3.0.303.0.WPKCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-07-05T11:24:20Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:dd4959dbe33a8df4934a6532d8a08a62c07c0deba9cbf5fe82ac4ba741211b7a",
+        "miui-services_patched.jar": "sha256:1819ed776cc4abce5ca8cddfaa56ccba01b8559573d4c0dcf9c1754e52948cbb",
+        "module_zip": "sha256:a929d5a5322bdd23836d8ae0c4ff9d33aed5645448695e80ab395e1c9012196c"
+      },
+      "workflow_run_id": "28739099887",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28739099887",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28739099887"
+    }
+  },
+  "last_updated": "2026-07-05T11:24:57Z"
+}
