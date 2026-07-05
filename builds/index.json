@@ -6920,6 +6920,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS.2.0.210.0.VNHMIXM": {
+        "android_version": "15",
+        "build_time": "2026-07-05T05:30:58Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28730688309",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28730688309",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "pandora_cn": {
@@ -7082,6 +7094,6 @@
       }
     }
   },
-  "last_updated": "2026-07-05T01:54:00Z",
+  "last_updated": "2026-07-05T05:31:38Z",
   "engine_version": "3.0.0"
 }
