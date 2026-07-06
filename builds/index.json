@@ -3642,10 +3642,10 @@
       },
       "OS3.0.303.0.WPKCNXM.C06": {
         "android_version": "16",
-        "build_time": "2026-07-04T09:41:24Z",
+        "build_time": "2026-07-06T14:24:40Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28702232610",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28702232610",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28798737676",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28798737676",
         "features": [
           "cn_notification_fix"
         ]
@@ -7215,6 +7215,6 @@
       }
     }
   },
-  "last_updated": "2026-07-06T13:14:26Z",
+  "last_updated": "2026-07-06T14:25:16Z",
   "engine_version": "3.0.0"
 }
