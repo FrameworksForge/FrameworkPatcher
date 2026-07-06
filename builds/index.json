@@ -7186,8 +7186,20 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "Vermeer": {
+      "OS3.0.301.0.WNKMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-06T12:29:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28791420586",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28791420586",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-06T12:26:54Z",
+  "last_updated": "2026-07-06T12:29:45Z",
   "engine_version": "3.0.0"
 }
