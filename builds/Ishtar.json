@@ -1,0 +1,25 @@
+{
+  "device": "Ishtar",
+  "builds": {
+    "OS3.0.302.0.WMAMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-07-06T06:56:24Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:02821975c57575a760a3cc3d26490cfcfedfa253257caae6823b4924c054fafd",
+        "services_patched.jar": "sha256:2abb2a087c8b8d0bf28261c781c64ed4f2de6d9b88251183c82357dc534b9d4a",
+        "miui-services_patched.jar": "sha256:0f73893bf01ff34a9a5012fc6732e92246490083514f521a86ab436479752313",
+        "module_zip": "sha256:da2a573d89172b4a2bbd3f3d5626b2d47915c61aee4c6c94b03249defdd1cf70"
+      },
+      "workflow_run_id": "28773472178",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28773472178",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28773472178"
+    }
+  },
+  "last_updated": "2026-07-06T06:56:59Z"
+}

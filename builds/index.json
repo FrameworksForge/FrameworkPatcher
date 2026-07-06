@@ -7151,8 +7151,21 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Ishtar": {
+      "OS3.0.302.0.WMAMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-06T06:56:24Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28773472178",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28773472178",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-06T06:44:52Z",
+  "last_updated": "2026-07-06T06:57:00Z",
   "engine_version": "3.0.0"
 }
