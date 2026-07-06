@@ -7162,8 +7162,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "XUANYUAN": {
+      "OS3.0.306.0": {
+        "android_version": "16",
+        "build_time": "2026-07-06T09:43:31Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28782415234",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28782415234",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-06T09:29:20Z",
+  "last_updated": "2026-07-06T09:44:11Z",
   "engine_version": "3.0.0"
 }

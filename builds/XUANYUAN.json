@@ -1,0 +1,24 @@
+{
+  "device": "XUANYUAN",
+  "builds": {
+    "OS3.0.306.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-07-06T09:43:31Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:a0ec1c16ae7463c2bdac3b3c7ba2130631f06b6f60660ede13e6f4aedbcdd997",
+        "services_patched.jar": "sha256:74e990807e26cf9b051f9f12ff344a0edaebc351b1bb81ed835d8075a9bef7b4",
+        "miui-services_patched.jar": "sha256:394ccf83223e4af22250819ee61f785e623b0a04fe8f26ad3421b761f941c3d7",
+        "module_zip": "sha256:d89f3d1717d0fab2fefbd3817b2b14df20fdc0fc8bbaeecbc10ae1c8e6de5e08"
+      },
+      "workflow_run_id": "28782415234",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28782415234",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28782415234"
+    }
+  },
+  "last_updated": "2026-07-06T09:44:11Z"
+}
