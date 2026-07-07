@@ -1,0 +1,22 @@
+{
+  "device": "Uke",
+  "builds": {
+    "OS3.0.302.0.WOZCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-07-07T19:03:25Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:15e7efc8da9d7f8b996f5857e9b9e7afab87fadcf4a2e5dcf7fa55cc75fa7feb",
+        "module_zip": "sha256:8cd27fc217332528153d284b63880a78cf59375532b3c6d67fdb13b644ef1d9e"
+      },
+      "workflow_run_id": "28891351378",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28891351378",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28891351378"
+    }
+  },
+  "last_updated": "2026-07-07T19:03:59Z"
+}
