@@ -2515,6 +2515,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "16OS3.1.260617.194228688.MTPECN.S": {
+        "android_version": "16",
+        "build_time": "2026-07-08T18:01:17Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28964438551",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28964438551",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "zircon": {
@@ -7267,6 +7277,6 @@
       }
     }
   },
-  "last_updated": "2026-07-08T15:40:04Z",
+  "last_updated": "2026-07-08T18:01:58Z",
   "engine_version": "3.0.0"
 }
