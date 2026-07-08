@@ -1,0 +1,25 @@
+{
+  "device": "Dada",
+  "builds": {
+    "EU OS 3.0.303.0.WOCCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-07-08T05:09:45Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7e2f03da30ba54e9b09f7ad0a5fa016765194c63f9d126208facedb2554e3ec7",
+        "services_patched.jar": "sha256:f3d1f9dc36694242750eafdd93d7d66e4450bf12c4ea73d5b002772244043286",
+        "miui-services_patched.jar": "sha256:f6a823c0a8b103cbe0a3f67c1a3db41aed91099c51a26c6b2a5c800136df435e",
+        "module_zip": "sha256:346965677833fb754fa8e1e91854c9b7838b66145fe4d83b931b8722e8d794f4"
+      },
+      "workflow_run_id": "28918986976",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28918986976",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28918986976"
+    }
+  },
+  "last_updated": "2026-07-08T05:10:22Z"
+}

@@ -7226,8 +7226,21 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "Dada": {
+      "EU OS 3.0.303.0.WOCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-08T05:09:45Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28918986976",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28918986976",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-07T19:03:59Z",
+  "last_updated": "2026-07-08T05:10:22Z",
   "engine_version": "3.0.0"
 }
