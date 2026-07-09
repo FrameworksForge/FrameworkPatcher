@@ -6,21 +6,19 @@
       "patch_version": "3.0.0",
       "features": [
         "disable_signature_verification",
-        "cn_notification_fix",
-        "disable_secure_flag",
-        "kaorios_toolbox"
+        "cn_notification_fix"
       ],
-      "build_time": "2026-07-09T02:16:21Z",
+      "build_time": "2026-07-09T14:32:04Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:1f5805d358b6ac39022e69164b05fbece87cdc1bf1ee52f4e6b81e2e925547d5",
-        "services_patched.jar": "sha256:620d0ccf79e9e53f187914353cf841ecda4587b99e78f3c18d2477605dd49ae3",
-        "miui-services_patched.jar": "sha256:b8be8d7ba96d0fa553f562e3ac134f066cc5dd02f2ba4d364745254d70f4f0c6",
-        "module_zip": "sha256:5f7b4f61db2052fa143012eb7a35259a64efd7bf619067e1e54474239676c808"
+        "framework_patched.jar": "sha256:9b4a1d74ab141b7074dea2c52a3fde0cd22160d8ad20d6eb03b5f263365b8edb",
+        "services_patched.jar": "sha256:420e0220c1f6196a67dd332d5f008181d9e9790f3c5f89ed73b03ebb28e6b560",
+        "miui-services_patched.jar": "sha256:37b5de4f04ab17ec9e5fbe9524c92dc68a5466f533a088cef1e38794257a1cb0",
+        "module_zip": "sha256:c0f48a3f524880e7ce3e844b96e2e45af0700e061f57a6a87a95353380f53a4d"
       },
-      "workflow_run_id": "28989268806",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28989268806",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28989268806"
+      "workflow_run_id": "29025596444",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29025596444",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29025596444"
     },
     "OS3.0.5.0.VMKCNXM": {
       "android_version": "15",
@@ -62,5 +60,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27806825789"
     }
   },
-  "last_updated": "2026-07-09T02:16:57Z"
+  "last_updated": "2026-07-09T14:32:45Z"
 }
