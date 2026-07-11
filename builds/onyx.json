@@ -28,21 +28,19 @@
       "android_version": "16",
       "patch_version": "3.0.0",
       "features": [
-        "disable_signature_verification",
-        "cn_notification_fix",
-        "disable_secure_flag"
+        "disable_signature_verification"
       ],
-      "build_time": "2026-06-29T10:04:52Z",
+      "build_time": "2026-07-11T20:50:34Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:4a54a564985fee83c04eb220c736925e2380acf4a2dbb15f4373b34a456004e3",
-        "services_patched.jar": "sha256:763ac143b38eed17cf43cb06d30e2772248bd08d4ae51ccd1893be3859f253fb",
-        "miui-services_patched.jar": "sha256:71fb97b02deccbe1671d612e24ba3ea44a7c09baa3f935ecb537dd1a95174d86",
-        "module_zip": "sha256:c4ca694fc4ac74a3b31a671b252c62afd4449bd207ec57885170b8e1492118db"
+        "framework_patched.jar": "sha256:ed085f350ffe2f52622f261886f281404e8992390d71597f4ead52ac71075e32",
+        "services_patched.jar": "sha256:9f2f3ccf6d9ec490d495c74f519557002f2dc08e3b09fc87618a6ac68a2c2452",
+        "miui-services_patched.jar": "sha256:66863895db429c71fc4b8edc5dff0d066b7c411b92425e5d847e453741d0850d",
+        "module_zip": "sha256:2ccf37e6782ede1ca3b101395cec3c440e6970467c7876a65ad318bed5ac1389"
       },
-      "workflow_run_id": "28364142770",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28364142770",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28364142770"
+      "workflow_run_id": "29167670405",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29167670405",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29167670405"
     },
     "OS3.0.7.0.WOLMIXM": {
       "android_version": "16",
@@ -321,5 +319,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27958268262"
     }
   },
-  "last_updated": "2026-06-29T10:05:36Z"
+  "last_updated": "2026-07-11T20:51:11Z"
 }
