@@ -7359,8 +7359,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "CPH2731IN": {
+      "ColorOS16": {
+        "android_version": "16",
+        "build_time": "2026-07-12T04:48:42Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29180186947",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29180186947",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-11T21:41:26Z",
+  "last_updated": "2026-07-12T04:49:21Z",
   "engine_version": "3.0.0"
 }

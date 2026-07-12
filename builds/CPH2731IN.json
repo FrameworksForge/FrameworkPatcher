@@ -1,0 +1,26 @@
+{
+  "device": "CPH2731IN",
+  "builds": {
+    "ColorOS16": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-12T04:48:42Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:cda3f450f96426d1184362bd1eb87e94fccd4449753906d0693ee6060323759c",
+        "services_patched.jar": "sha256:b7b4756d8e3889b8538b7ffaad052057bcf7e2f8b84f655a1bc80acbcff36744",
+        "miui-services_patched.jar": "sha256:84ec32b2c7acb2eb83df759cfcaa73ba18aae663a8f260412d000e6d7b86ec33",
+        "module_zip": "sha256:1f1b13a01a12863212a5d2bf5dacf01d43301af25f2310970661172c27b7b9ca"
+      },
+      "workflow_run_id": "29180186947",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29180186947",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29180186947"
+    }
+  },
+  "last_updated": "2026-07-12T04:49:21Z"
+}
