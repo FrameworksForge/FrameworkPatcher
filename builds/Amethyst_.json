@@ -1,0 +1,26 @@
+{
+  "device": "Amethyst_",
+  "builds": {
+    "OS3.304.0.EU": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-13T12:08:45Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:0c0c10d4c883db12f08e5727d4636dfb27a77f04a27d542aca94031ad05b89d1",
+        "services_patched.jar": "sha256:d65024181b3e469c254959c94d3cd7756c67ed8f7aceb3279c17fa34a364b600",
+        "miui-services_patched.jar": "sha256:0af21f2d8c619f35b6d2cb32095406905ee67b666442113e49d526eed8af2e18",
+        "module_zip": "sha256:980172069112e69db240f4cd7bf5f2d9dba7dae767c8a959d33bb43f8960b898"
+      },
+      "workflow_run_id": "29248579684",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29248579684",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29248579684"
+    }
+  },
+  "last_updated": "2026-07-13T12:09:22Z"
+}
