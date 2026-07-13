@@ -7454,8 +7454,23 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "TeriMaRandi": {
+      "TeriBehenBhiRandi14": {
+        "android_version": "15",
+        "build_time": "2026-07-13T17:48:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29271665699",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29271665699",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-13T17:05:39Z",
+  "last_updated": "2026-07-13T17:48:59Z",
   "engine_version": "3.0.0"
 }

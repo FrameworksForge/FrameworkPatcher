@@ -1,0 +1,26 @@
+{
+  "device": "TeriMaRandi",
+  "builds": {
+    "TeriBehenBhiRandi14": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-13T17:48:20Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:c7a00f2cf6e84fa56e9340c4cd08e33e585b6f4ca2bb983843e524f6cf97b7bc",
+        "miui-services_patched.jar": "sha256:4ad4d7bc82aa5f8fbdc93f89894ddbd98e9e720bac9d469467a64d8e5f4eb02f",
+        "module_zip": "sha256:c865b90e893aca563a255582ef051b2b1d93a6e78409379de5322ff3a00b1215"
+      },
+      "workflow_run_id": "29271665699",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29271665699",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29271665699"
+    }
+  },
+  "last_updated": "2026-07-13T17:48:59Z"
+}
