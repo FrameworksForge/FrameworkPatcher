@@ -3860,6 +3860,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "3.0.305.0.WPKCNXM.C09": {
+        "android_version": "16",
+        "build_time": "2026-07-13T15:54:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29264019643",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29264019643",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix"
+        ]
       }
     },
     "myron": {
@@ -7424,6 +7435,6 @@
       }
     }
   },
-  "last_updated": "2026-07-13T15:15:58Z",
+  "last_updated": "2026-07-13T15:55:11Z",
   "engine_version": "3.0.0"
 }
