@@ -1,0 +1,26 @@
+{
+  "device": "Tapas-Topaz",
+  "builds": {
+    "3.0.304.0CN": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-14T14:35:28Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:c476c2b70a97781b76abfe015284943a4cd109adb89941b19c36ae32602af7e0",
+        "services_patched.jar": "sha256:c0b7e916249db1579d57ca4767d4f5ddc7391e231cfd87edfa1566a9665f3554",
+        "miui-services_patched.jar": "sha256:66813736a33deb7f5f03a5922125ced056900c1a5c218add44f9286411a8a1d1",
+        "module_zip": "sha256:9c1e8b481ac1f6e0cb5cdf6c382aeed3ecc84f5e50d6abddfe58a236facee848"
+      },
+      "workflow_run_id": "29341340394",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29341340394",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29341340394"
+    }
+  },
+  "last_updated": "2026-07-14T14:36:21Z"
+}

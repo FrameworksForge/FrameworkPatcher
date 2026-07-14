@@ -7482,8 +7482,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Tapas-Topaz": {
+      "3.0.304.0CN": {
+        "android_version": "16",
+        "build_time": "2026-07-14T14:35:28Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29341340394",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29341340394",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-14T13:36:49Z",
+  "last_updated": "2026-07-14T14:36:21Z",
   "engine_version": "3.0.0"
 }
