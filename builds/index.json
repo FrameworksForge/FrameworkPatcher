@@ -6929,10 +6929,10 @@
     "Zircon": {
       "OS3.0.3.0.WNOINXM": {
         "android_version": "16",
-        "build_time": "2026-06-21T09:57:35Z",
+        "build_time": "2026-07-14T03:21:21Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27900695500",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27900695500",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29303213445",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29303213445",
         "features": [
           "disable_signature_verification",
           "kaorios_toolbox"
@@ -7471,6 +7471,6 @@
       }
     }
   },
-  "last_updated": "2026-07-13T17:48:59Z",
+  "last_updated": "2026-07-14T03:22:06Z",
   "engine_version": "3.0.0"
 }
