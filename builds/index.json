@@ -7498,10 +7498,10 @@
       },
       "OS3.0.304.0CN": {
         "android_version": "16",
-        "build_time": "2026-07-14T14:37:35Z",
+        "build_time": "2026-07-14T14:38:04Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29341503769",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29341503769",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29341531597",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29341531597",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -7510,6 +7510,6 @@
       }
     }
   },
-  "last_updated": "2026-07-14T14:38:24Z",
+  "last_updated": "2026-07-14T14:38:50Z",
   "engine_version": "3.0.0"
 }
