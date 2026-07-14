@@ -6530,6 +6530,18 @@
           "disable_signature_verification",
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.310.0.WMBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-14T11:59:41Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29330728949",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29330728949",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "giulia": {
@@ -7471,6 +7483,6 @@
       }
     }
   },
-  "last_updated": "2026-07-14T03:22:06Z",
+  "last_updated": "2026-07-14T12:00:17Z",
   "engine_version": "3.0.0"
 }
