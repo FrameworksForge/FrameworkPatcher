@@ -5100,6 +5100,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.301.0.WOEMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-15T14:10:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29422162853",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29422162853",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "psyche": {
@@ -7543,6 +7554,6 @@
       }
     }
   },
-  "last_updated": "2026-07-15T12:58:55Z",
+  "last_updated": "2026-07-15T14:10:51Z",
   "engine_version": "3.0.0"
 }
