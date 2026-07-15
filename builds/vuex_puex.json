@@ -1,0 +1,25 @@
+{
+  "device": "vuex_puex",
+  "builds": {
+    "3.0.301.0.WNRINXM.C07": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-15T12:58:16Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b6d09d310731bfe5d1b4b22e969c3dcbf8450f6c7321702aaef184ee5ffc0432",
+        "services_patched.jar": "sha256:f1c3fb85c63d60c02649280227d0359c048868ddddc2a50dd97309b38edab740",
+        "miui-services_patched.jar": "sha256:a2c86190eea167cba24216b1c1e944f2af92658161d4486a2e79bd0be7474c5c",
+        "module_zip": "sha256:23cd3ec9510609a5c6860cf253584a735d30e829cafebad12fd3934c5dcb5a59"
+      },
+      "workflow_run_id": "29417101368",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29417101368",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29417101368"
+    }
+  },
+  "last_updated": "2026-07-15T12:58:55Z"
+}

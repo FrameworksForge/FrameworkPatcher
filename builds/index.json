@@ -7528,8 +7528,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "vuex_puex": {
+      "3.0.301.0.WNRINXM.C07": {
+        "android_version": "16",
+        "build_time": "2026-07-15T12:58:16Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29417101368",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29417101368",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-15T10:14:10Z",
+  "last_updated": "2026-07-15T12:58:55Z",
   "engine_version": "3.0.0"
 }
