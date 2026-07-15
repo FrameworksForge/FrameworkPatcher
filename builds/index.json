@@ -7094,6 +7094,16 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.305.0.CN": {
+        "android_version": "16",
+        "build_time": "2026-07-15T10:13:22Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29407207484",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29407207484",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Zeus": {
@@ -7520,6 +7530,6 @@
       }
     }
   },
-  "last_updated": "2026-07-14T17:30:54Z",
+  "last_updated": "2026-07-15T10:14:10Z",
   "engine_version": "3.0.0"
 }
