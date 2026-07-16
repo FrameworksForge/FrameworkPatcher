@@ -5359,6 +5359,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.309.0.WOACNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-16T11:27:15Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29494329560",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29494329560",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Rodin": {
@@ -7587,6 +7599,6 @@
       }
     }
   },
-  "last_updated": "2026-07-16T10:21:16Z",
+  "last_updated": "2026-07-16T11:27:53Z",
   "engine_version": "3.0.0"
 }
