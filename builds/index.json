@@ -1966,6 +1966,16 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.304.0.WOPMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-16T19:09:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29526724776",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29526724776",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "rothko": {
@@ -7632,6 +7642,6 @@
       }
     }
   },
-  "last_updated": "2026-07-16T16:51:46Z",
+  "last_updated": "2026-07-16T19:10:21Z",
   "engine_version": "3.0.0"
 }
