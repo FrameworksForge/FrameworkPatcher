@@ -2847,6 +2847,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.302.0.WNOEUXM": {
+        "android_version": "16",
+        "build_time": "2026-07-16T11:54:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29495985263",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29495985263",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "mayfly": {
@@ -7599,6 +7610,6 @@
       }
     }
   },
-  "last_updated": "2026-07-16T11:27:53Z",
+  "last_updated": "2026-07-16T11:55:23Z",
   "engine_version": "3.0.0"
 }
