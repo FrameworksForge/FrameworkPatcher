@@ -3613,10 +3613,10 @@
       },
       "OS3.0.303.0.WMCMIXM": {
         "android_version": "16",
-        "build_time": "2026-05-31T02:26:43Z",
+        "build_time": "2026-07-17T00:24:37Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26701013638",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26701013638",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29544590200",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29544590200",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag"
@@ -7653,6 +7653,6 @@
       }
     }
   },
-  "last_updated": "2026-07-17T00:14:04Z",
+  "last_updated": "2026-07-17T00:25:16Z",
   "engine_version": "3.0.0"
 }
