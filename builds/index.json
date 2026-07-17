@@ -5665,6 +5665,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "3.0.2": {
+        "android_version": "15",
+        "build_time": "2026-07-17T09:01:12Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29568224389",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29568224389",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "rembrandt": {
@@ -7664,6 +7675,6 @@
       }
     }
   },
-  "last_updated": "2026-07-17T01:23:07Z",
+  "last_updated": "2026-07-17T09:01:57Z",
   "engine_version": "3.0.0"
 }
