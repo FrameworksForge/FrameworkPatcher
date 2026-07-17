@@ -1,0 +1,21 @@
+{
+  "device": "Surya",
+  "builds": {
+    "OS14.0.2.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-17T19:07:22Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "module_zip": "sha256:e1588cc903379b0c6f49941c671e97506ff6fad4a606dba0aa13c1cc1380130a"
+      },
+      "workflow_run_id": "29606270292",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29606270292",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29606270292"
+    }
+  },
+  "last_updated": "2026-07-17T19:07:54Z"
+}
