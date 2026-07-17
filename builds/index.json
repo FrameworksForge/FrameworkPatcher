@@ -4821,6 +4821,17 @@
         "features": [
           "disable_secure_flag"
         ]
+      },
+      "OS.3.0.45": {
+        "android_version": "16",
+        "build_time": "2026-07-17T21:32:10Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29614905459",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29614905459",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "corot": {
@@ -7686,6 +7697,6 @@
       }
     }
   },
-  "last_updated": "2026-07-17T19:07:54Z",
+  "last_updated": "2026-07-17T21:32:50Z",
   "engine_version": "3.0.0"
 }
