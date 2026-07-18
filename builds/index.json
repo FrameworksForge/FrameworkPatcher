@@ -7696,8 +7696,23 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "amethyst_": {
+      "OS3.0.304.0.CM": {
+        "android_version": "16",
+        "build_time": "2026-07-18T19:39:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29658140501",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29658140501",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-18T17:05:05Z",
+  "last_updated": "2026-07-18T19:40:35Z",
   "engine_version": "3.0.0"
 }
