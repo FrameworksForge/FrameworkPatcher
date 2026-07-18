@@ -2210,6 +2210,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "17OS3.3.260704.084729078.QCPECN.S": {
+        "android_version": "16",
+        "build_time": "2026-07-18T23:26:01Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29665164135",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29665164135",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "tapas": {
@@ -7713,6 +7723,6 @@
       }
     }
   },
-  "last_updated": "2026-07-18T19:40:35Z",
+  "last_updated": "2026-07-18T23:26:41Z",
   "engine_version": "3.0.0"
 }
