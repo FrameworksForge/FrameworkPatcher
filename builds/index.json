@@ -3060,6 +3060,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.330.13.XPCCNXM.C10": {
+        "android_version": "16",
+        "build_time": "2026-07-19T13:58:27Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29689876599",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29689876599",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "klee": {
@@ -7735,6 +7745,6 @@
       }
     }
   },
-  "last_updated": "2026-07-19T13:02:32Z",
+  "last_updated": "2026-07-19T13:59:03Z",
   "engine_version": "3.0.0"
 }
