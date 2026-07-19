@@ -2220,6 +2220,17 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.302.0.WOLMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-19T13:01:57Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29688020207",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29688020207",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "tapas": {
@@ -7724,6 +7735,6 @@
       }
     }
   },
-  "last_updated": "2026-07-19T10:57:54Z",
+  "last_updated": "2026-07-19T13:02:32Z",
   "engine_version": "3.0.0"
 }
