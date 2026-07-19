@@ -313,7 +313,23 @@
       "workflow_run_id": "28196156042",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28196156042",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28196156042"
+    },
+    "bomberCNnote13pro5g": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-07-19T19:17:04Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:31ba2b9f5cf1d6d32df7c7ba13597a6525886bd89f526b9346a4811b72f35f4a",
+        "module_zip": "sha256:f5adf8fcf4cf7fb1c51f5e96481c3a7d6051eab4d5e1379bbe76687cb2cde728"
+      },
+      "workflow_run_id": "29700266114",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29700266114",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29700266114"
     }
   },
-  "last_updated": "2026-06-25T19:49:11Z"
+  "last_updated": "2026-07-19T19:17:38Z"
 }
