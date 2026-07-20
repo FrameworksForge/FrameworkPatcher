@@ -7807,17 +7807,18 @@
     "Apollo": {
       "OS-3.0.5.0.VMRCNXM": {
         "android_version": "15",
-        "build_time": "2026-07-20T22:20:59Z",
+        "build_time": "2026-07-20T22:22:38Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29783421633",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29783421633",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29783465623",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29783465623",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag"
+          "disable_secure_flag",
+          "kaorios_toolbox"
         ]
       }
     }
   },
-  "last_updated": "2026-07-20T22:21:38Z",
+  "last_updated": "2026-07-20T22:23:24Z",
   "engine_version": "3.0.0"
 }
