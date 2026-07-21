@@ -2001,6 +2001,19 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.305.0-CN": {
+        "android_version": "16",
+        "build_time": "2026-07-21T16:38:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29849289207",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29849289207",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "rothko": {
@@ -7870,6 +7883,6 @@
       }
     }
   },
-  "last_updated": "2026-07-21T15:19:49Z",
+  "last_updated": "2026-07-21T16:38:56Z",
   "engine_version": "3.0.0"
 }
