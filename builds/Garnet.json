@@ -1,0 +1,22 @@
+{
+  "device": "Garnet",
+  "builds": {
+    "OS3.0.304.0.CN": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-07-21T15:19:17Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:9c92f7d7287c18ceca4d84d3e81f65de3b7f7375c5336749ce6e1e3af1fe0765",
+        "module_zip": "sha256:bc268b87a07a277d31b9ac39e935065e717cc2154549d415ef177b6380d0eb72"
+      },
+      "workflow_run_id": "29843346492",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29843346492",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29843346492"
+    }
+  },
+  "last_updated": "2026-07-21T15:19:49Z"
+}

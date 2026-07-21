@@ -7856,8 +7856,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Garnet": {
+      "OS3.0.304.0.CN": {
+        "android_version": "16",
+        "build_time": "2026-07-21T15:19:17Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29843346492",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29843346492",
+        "features": [
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-21T07:55:40Z",
+  "last_updated": "2026-07-21T15:19:49Z",
   "engine_version": "3.0.0"
 }
