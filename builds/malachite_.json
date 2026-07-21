@@ -1,0 +1,25 @@
+{
+  "device": "malachite_",
+  "builds": {
+    "OS3.0.302.0.WOOTWXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-07-21T07:54:57Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:e51242f02c37956a5e0983a119a01e3f83a8d2556dabe54e84ed815403ca13dd",
+        "services_patched.jar": "sha256:4d9cb6377609a4de2a6d84e47599490158efe05af7e3a87f7addda818d406b93",
+        "miui-services_patched.jar": "sha256:d165084ac9ee4b1431c8f8cefd35dad2af0a0264da9d3f1170c35310e6f716ae",
+        "module_zip": "sha256:f0857ecc9a8e33e0cbb7c7a8d757367ce3436e9be9e86b77e7fc7630ade38400"
+      },
+      "workflow_run_id": "29812068653",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29812068653",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29812068653"
+    }
+  },
+  "last_updated": "2026-07-21T07:55:40Z"
+}
