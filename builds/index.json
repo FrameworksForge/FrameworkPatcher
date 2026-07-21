@@ -7829,8 +7829,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Creek": {
+      "OS3.0.302.0": {
+        "android_version": "16",
+        "build_time": "2026-07-21T04:48:29Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29802142546",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29802142546",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-21T04:06:21Z",
+  "last_updated": "2026-07-21T04:49:09Z",
   "engine_version": "3.0.0"
 }

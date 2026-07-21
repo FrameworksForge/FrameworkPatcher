@@ -1,0 +1,26 @@
+{
+  "device": "Creek",
+  "builds": {
+    "OS3.0.302.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-21T04:48:29Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f837807d9085ac71edfc8cc6ddc4213d88e93e528309efb83e0370fca4e275f6",
+        "services_patched.jar": "sha256:6209d3d638a968931d6eef667cbd6587fe1b6c1e7c4301cc9348fbd90d41e54d",
+        "miui-services_patched.jar": "sha256:8053ee6a9117525059f02196fba2264e9c333b282b07405024c06c791ab8a3bd",
+        "module_zip": "sha256:45050b72c89a00e9d1dedb43fe96baac8c5ae906faeffa2b494907215934654f"
+      },
+      "workflow_run_id": "29802142546",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29802142546",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29802142546"
+    }
+  },
+  "last_updated": "2026-07-21T04:49:09Z"
+}
