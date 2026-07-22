@@ -5948,6 +5948,19 @@
           "disable_signature_verification",
           "cn_notification_fix"
         ]
+      },
+      "OS.2.0.215.0.VMRCNXM": {
+        "android_version": "15",
+        "build_time": "2026-07-22T10:15:17Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29910958737",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29910958737",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "dizi": {
@@ -7907,6 +7920,6 @@
       }
     }
   },
-  "last_updated": "2026-07-22T07:17:56Z",
+  "last_updated": "2026-07-22T10:15:56Z",
   "engine_version": "3.0.0"
 }
