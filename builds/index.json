@@ -7941,8 +7941,21 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "Goya": {
+      "OS3.0.301.0.WOEMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-22T18:10:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29945320792",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29945320792",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-22T11:51:30Z",
+  "last_updated": "2026-07-22T18:11:20Z",
   "engine_version": "3.0.0"
 }
