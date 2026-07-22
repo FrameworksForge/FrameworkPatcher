@@ -18,7 +18,27 @@
       "workflow_run_id": "28575053163",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28575053163",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28575053163"
+    },
+    "xiaomi.eu_PERIDOT_OS3.0.304.0.WNPCNXM_16": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-22T07:17:15Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:df556d60fd58d1e506d4dac771affecb3376014f566b622334e6338123ec7cf2",
+        "services_patched.jar": "sha256:5e5d577c3cb0f0fa34db96d967b9008dbcdbe20941d83807abd82b3583708f4f",
+        "miui-services_patched.jar": "sha256:fe892470f85e51926a834f34cd1b5135ee2069504c3ca0d5970b6481fb9a4853",
+        "module_zip": "sha256:583456cbd37a2a7a198171855526c60e744949a677d2f37925af3f1630eddf66"
+      },
+      "workflow_run_id": "29899501978",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29899501978",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29899501978"
     }
   },
-  "last_updated": "2026-07-02T08:08:19Z"
+  "last_updated": "2026-07-22T07:17:56Z"
 }
