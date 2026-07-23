@@ -7966,8 +7966,21 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Dash": {
+      "OS3.0.302.0.WPLMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-23T05:31:37Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29982266261",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29982266261",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-23T04:01:04Z",
+  "last_updated": "2026-07-23T05:32:15Z",
   "engine_version": "3.0.0"
 }
