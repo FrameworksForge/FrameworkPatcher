@@ -2250,12 +2250,12 @@
       },
       "17OS3.3.260704.084729078.QCPECN.S": {
         "android_version": "16",
-        "build_time": "2026-07-18T23:33:03Z",
+        "build_time": "2026-07-23T02:52:50Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29665386999",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29665386999",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29975439974",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29975439974",
         "features": [
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       },
       "OS3.0.302.0.WOLMIXM": {
@@ -7956,6 +7956,6 @@
       }
     }
   },
-  "last_updated": "2026-07-22T18:11:20Z",
+  "last_updated": "2026-07-23T02:53:31Z",
   "engine_version": "3.0.0"
 }
