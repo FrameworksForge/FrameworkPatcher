@@ -4990,10 +4990,10 @@
       },
       "OS2.0.219.0.VONCNXM": {
         "android_version": "15",
-        "build_time": "2026-07-23T08:14:11Z",
+        "build_time": "2026-07-23T08:18:06Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29990404701",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29990404701",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29990584882",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29990584882",
         "features": [
           "disable_signature_verification"
         ]
@@ -8004,6 +8004,6 @@
       }
     }
   },
-  "last_updated": "2026-07-23T08:14:49Z",
+  "last_updated": "2026-07-23T08:18:48Z",
   "engine_version": "3.0.0"
 }
