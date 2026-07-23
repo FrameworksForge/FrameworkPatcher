@@ -7366,6 +7366,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.214.0.VLBCNXM": {
+        "android_version": "15",
+        "build_time": "2026-07-23T05:54:01Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-29983232262",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/29983232262",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Sapphiren": {
@@ -7981,6 +7994,6 @@
       }
     }
   },
-  "last_updated": "2026-07-23T05:32:15Z",
+  "last_updated": "2026-07-23T05:54:36Z",
   "engine_version": "3.0.0"
 }
