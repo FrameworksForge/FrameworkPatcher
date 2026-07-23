@@ -116,7 +116,28 @@
       "workflow_run_id": "28502747990",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28502747990",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28502747990"
+    },
+    "Zorn.20.200": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-23T13:01:41Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:add03c1847f85739c317819a9cee1a188e7b696c8a2cb996af8b26789c33a6a5",
+        "services_patched.jar": "sha256:bfc127c73bc927aac9498f7b0abd8ab019dc8a481e10d2c869f64eec891278ba",
+        "miui-services_patched.jar": "sha256:cd4efc2bc7e66f19f3905107aab98c195f1b05f889cef849a581ccd4b4144171",
+        "module_zip": "sha256:273a195d73c59af420945b33fdc06629515648ed06b9c10d079fef1c6c860620"
+      },
+      "workflow_run_id": "30009170737",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30009170737",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30009170737"
     }
   },
-  "last_updated": "2026-07-18T01:03:27Z"
+  "last_updated": "2026-07-23T13:02:18Z"
 }
