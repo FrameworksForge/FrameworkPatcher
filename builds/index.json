@@ -593,6 +593,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.306.0 xiaomi.eu": {
+        "android_version": "16",
+        "build_time": "2026-07-24T02:05:59Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30060632294",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30060632294",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Tapas": {
@@ -8051,6 +8062,6 @@
       }
     }
   },
-  "last_updated": "2026-07-24T01:50:04Z",
+  "last_updated": "2026-07-24T02:06:41Z",
   "engine_version": "3.0.0"
 }
