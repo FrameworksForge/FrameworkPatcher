@@ -153,7 +153,23 @@
       "workflow_run_id": "28472132386",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28472132386",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28472132386"
+    },
+    "HyperWolf_OS1.0.19.0.THGEUXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-25T18:43:27Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:186689a6576981239198f864978e14b16bfc3c6102ea8fb2c3f971f7af7793f7",
+        "module_zip": "sha256:2c8c5e5ba8f1e364e8c65c106aa41d33622441ec1c6318278c652fef21cb5e87"
+      },
+      "workflow_run_id": "30170126752",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30170126752",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30170126752"
     }
   },
-  "last_updated": "2026-06-30T20:03:16Z"
+  "last_updated": "2026-07-25T18:44:00Z"
 }

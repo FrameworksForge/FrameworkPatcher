@@ -4744,6 +4744,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "HyperWolf_OS1.0.19.0.THGEUXM": {
+        "android_version": "15",
+        "build_time": "2026-07-25T18:43:27Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30170126752",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30170126752",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "fog": {
@@ -8142,6 +8152,6 @@
       }
     }
   },
-  "last_updated": "2026-07-25T17:48:00Z",
+  "last_updated": "2026-07-25T18:44:00Z",
   "engine_version": "3.0.0"
 }
