@@ -679,6 +679,16 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "Os3ximi14": {
+        "android_version": "16",
+        "build_time": "2026-07-25T19:39:02Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30171995577",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30171995577",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "mondrian": {
@@ -8152,6 +8162,6 @@
       }
     }
   },
-  "last_updated": "2026-07-25T18:44:00Z",
+  "last_updated": "2026-07-25T19:39:40Z",
   "engine_version": "3.0.0"
 }
