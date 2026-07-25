@@ -8099,8 +8099,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Marble_": {
+      "OS3.0.5.0.VMRCNXM": {
+        "android_version": "15",
+        "build_time": "2026-07-25T02:39:42Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30140713893",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30140713893",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-25T01:55:57Z",
+  "last_updated": "2026-07-25T02:40:16Z",
   "engine_version": "3.0.0"
 }

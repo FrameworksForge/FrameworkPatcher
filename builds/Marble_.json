@@ -1,0 +1,26 @@
+{
+  "device": "Marble_",
+  "builds": {
+    "OS3.0.5.0.VMRCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-07-25T02:39:42Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:12e56a377449aa55e25b2d3c346a7fdf72f6cb8c39b756bba3b4b193db7a1c1a",
+        "services_patched.jar": "sha256:2fd3cb52f8b6ccf219149d5d836a5a040cc084d8a75a9cf48903065749ba6dc0",
+        "miui-services_patched.jar": "sha256:ac543a03cff799edf3fd9197eecec9085bc05033a66f8f309770bfb256c98b55",
+        "module_zip": "sha256:1a99461cce70b7d0373f572d87624bd52e9fc4765f7e10e30077a2cd2cca5083"
+      },
+      "workflow_run_id": "30140713893",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30140713893",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30140713893"
+    }
+  },
+  "last_updated": "2026-07-25T02:40:16Z"
+}
