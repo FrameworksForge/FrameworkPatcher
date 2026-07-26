@@ -8171,8 +8171,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "ZORN": {
+      "OS3.0.306.0.WOKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-26T01:10:21Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30182372900",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30182372900",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-26T00:45:05Z",
+  "last_updated": "2026-07-26T01:11:01Z",
   "engine_version": "3.0.0"
 }

@@ -1,0 +1,24 @@
+{
+  "device": "ZORN",
+  "builds": {
+    "OS3.0.306.0.WOKCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-07-26T01:10:21Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:9d79a46b34f1b7d1c580d2a1cc59d8b88c2a6e884911564971b3ed40eea13e3e",
+        "services_patched.jar": "sha256:720fc17b9b6b26744c03233da131bd14d79c2fc22380338cbb7bd16f7ef82314",
+        "miui-services_patched.jar": "sha256:ae54fb82e6dad4af82a82157556f55fc41426afada78db173c2e76415ef9360d",
+        "module_zip": "sha256:259b427fff76e2b452617134df8ca965dfeafbbc6a5cc375fecce9aa99f08120"
+      },
+      "workflow_run_id": "30182372900",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30182372900",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30182372900"
+    }
+  },
+  "last_updated": "2026-07-26T01:11:01Z"
+}
