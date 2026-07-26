@@ -7914,6 +7914,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.303.0.WNKMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-26T18:41:24Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30215160150",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30215160150",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "aurora": {
@@ -8264,6 +8275,6 @@
       }
     }
   },
-  "last_updated": "2026-07-26T17:00:41Z",
+  "last_updated": "2026-07-26T18:42:01Z",
   "engine_version": "3.0.0"
 }
