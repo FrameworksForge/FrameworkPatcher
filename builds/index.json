@@ -7878,6 +7878,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.311.4": {
+        "android_version": "16",
+        "build_time": "2026-07-26T17:00:01Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30211550548",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30211550548",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "Vermeer": {
@@ -8252,6 +8264,6 @@
       }
     }
   },
-  "last_updated": "2026-07-26T13:48:06Z",
+  "last_updated": "2026-07-26T17:00:41Z",
   "engine_version": "3.0.0"
 }
