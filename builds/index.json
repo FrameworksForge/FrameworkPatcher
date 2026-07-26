@@ -4393,6 +4393,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.304.0.WPRMIXM": {
+        "android_version": "16",
+        "build_time": "2026-07-26T00:30:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30181212251",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30181212251",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "moonstone": {
@@ -8162,6 +8172,6 @@
       }
     }
   },
-  "last_updated": "2026-07-25T19:39:40Z",
+  "last_updated": "2026-07-26T00:31:31Z",
   "engine_version": "3.0.0"
 }
