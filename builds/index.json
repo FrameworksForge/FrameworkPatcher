@@ -1856,6 +1856,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.306.0.WNRCNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-26T08:12:50Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30194131589",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30194131589",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Xaga": {
@@ -8219,6 +8229,6 @@
       }
     }
   },
-  "last_updated": "2026-07-26T07:43:27Z",
+  "last_updated": "2026-07-26T08:13:30Z",
   "engine_version": "3.0.0"
 }
