@@ -6057,10 +6057,10 @@
       },
       "OS3.0.15.0": {
         "android_version": "15",
-        "build_time": "2026-06-27T10:22:50Z",
+        "build_time": "2026-07-26T13:47:32Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28286332646",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28286332646",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30204625449",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30204625449",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -8252,6 +8252,6 @@
       }
     }
   },
-  "last_updated": "2026-07-26T11:22:46Z",
+  "last_updated": "2026-07-26T13:48:06Z",
   "engine_version": "3.0.0"
 }
