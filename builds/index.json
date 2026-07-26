@@ -4047,6 +4047,18 @@
           "kaorios_toolbox",
           "add_gboard"
         ]
+      },
+      "OS3.0.305.0.WPOINXM": {
+        "android_version": "16",
+        "build_time": "2026-07-26T07:42:47Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30193216650",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30193216650",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Annibale": {
@@ -8207,6 +8219,6 @@
       }
     }
   },
-  "last_updated": "2026-07-26T07:08:34Z",
+  "last_updated": "2026-07-26T07:43:27Z",
   "engine_version": "3.0.0"
 }
