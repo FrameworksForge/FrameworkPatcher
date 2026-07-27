@@ -85,18 +85,18 @@
         "disable_secure_flag",
         "kaorios_toolbox"
       ],
-      "build_time": "2026-07-27T03:56:28Z",
+      "build_time": "2026-07-27T03:56:33Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:3c53796581c8c200be3691b11201e846d3e14782ad3785dca66b38c870886f5f",
-        "services_patched.jar": "sha256:8a0fed51e7c764a4f4480411fd515eff9b558e8e1919a48dd605a4f9e8b322e6",
-        "miui-services_patched.jar": "sha256:997ddc68d4c765c3a34f7321b5f1b7a224a7e4cc4505c7567a69cd7e457087d8",
-        "module_zip": "sha256:7ad4831df6597a50878cd9bf275705472f9e9f6b6600ef5c1ad30ea06732b907"
+        "framework_patched.jar": "sha256:0bb2cd53509766ba63dbffdf130ad08d79d81c4f3949fe6c3e154b36501bb67f",
+        "services_patched.jar": "sha256:6ff9b4d7b99fb58ee883fd3d86bdd238f92bfcc53f7e2f63a0ae0b3f760b49d1",
+        "miui-services_patched.jar": "sha256:43b2c38af55087abeb55fb28c0a1be84ca64615d387d211d8aea9cd5ed622680",
+        "module_zip": "sha256:0a73eb4df06527758ee999dbe729c1c60ba42826edef15b6b04e97919ca48224"
       },
-      "workflow_run_id": "30235677483",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30235677483",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30235677483"
+      "workflow_run_id": "30235675200",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30235675200",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30235675200"
     }
   },
-  "last_updated": "2026-07-27T03:57:09Z"
+  "last_updated": "2026-07-27T03:57:32Z"
 }
