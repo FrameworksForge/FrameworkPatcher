@@ -8309,8 +8309,22 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "rodon": {
+      "OS3.0.304.0.WOJCNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-27T07:45:24Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30247155183",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30247155183",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-27T03:57:32Z",
+  "last_updated": "2026-07-27T07:46:03Z",
   "engine_version": "3.0.0"
 }
