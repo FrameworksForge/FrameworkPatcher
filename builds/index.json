@@ -287,6 +287,18 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.305.0.WPLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-28T04:34:37Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30329028823",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30329028823",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "malachite": {
@@ -8370,6 +8382,6 @@
       }
     }
   },
-  "last_updated": "2026-07-27T13:16:23Z",
+  "last_updated": "2026-07-28T04:35:16Z",
   "engine_version": "3.0.0"
 }
