@@ -8379,8 +8379,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "fix": {
+      "34214124515": {
+        "android_version": "16",
+        "build_time": "2026-07-28T13:09:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30362096865",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30362096865",
+        "features": [
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-28T09:34:39Z",
+  "last_updated": "2026-07-28T13:10:39Z",
   "engine_version": "3.0.0"
 }
