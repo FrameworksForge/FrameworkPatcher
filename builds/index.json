@@ -3205,6 +3205,16 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.330.9.XPACNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-29T08:43:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30436583208",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30436583208",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "klee": {
@@ -8402,6 +8412,6 @@
       }
     }
   },
-  "last_updated": "2026-07-29T05:23:22Z",
+  "last_updated": "2026-07-29T08:44:07Z",
   "engine_version": "3.0.0"
 }
