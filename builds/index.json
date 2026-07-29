@@ -7017,12 +7017,14 @@
     "spinel": {
       "OS3.0.301.0.WPGMIXM": {
         "android_version": "16",
-        "build_time": "2026-06-06T14:10:48Z",
+        "build_time": "2026-07-29T05:22:45Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27064458631",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27064458631",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30424799514",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30424799514",
         "features": [
-          "disable_signature_verification"
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
         ]
       }
     },
@@ -8400,6 +8402,6 @@
       }
     }
   },
-  "last_updated": "2026-07-28T19:46:21Z",
+  "last_updated": "2026-07-29T05:23:22Z",
   "engine_version": "3.0.0"
 }
