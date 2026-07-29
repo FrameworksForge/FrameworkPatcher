@@ -1,0 +1,26 @@
+{
+  "device": "Haotian",
+  "builds": {
+    "OS3.0.307.0.WOBCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-07-29T14:49:13Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:d6e7777ba5c3705bc7b290dbd98be507dca64aab69058c44fadb576dcc236bca",
+        "services_patched.jar": "sha256:08adb92ec402798935a99d751c5db72279e556ac590a7ed78057ecab806f70f4",
+        "miui-services_patched.jar": "sha256:361b0ca5e0d6d6a4ad200aeb8e8c5c0ae0b36c80b9e729a28a442939b81bfbdb",
+        "module_zip": "sha256:cef3e6c98957c4a5dec595bd64c3675b41d36f423fd1826d1425d1c9e84d82dd"
+      },
+      "workflow_run_id": "30462537872",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30462537872",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30462537872"
+    }
+  },
+  "last_updated": "2026-07-29T14:50:04Z"
+}

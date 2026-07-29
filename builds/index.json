@@ -8410,8 +8410,22 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "Haotian": {
+      "OS3.0.307.0.WOBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-29T14:49:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30462537872",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30462537872",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-29T08:44:07Z",
+  "last_updated": "2026-07-29T14:50:04Z",
   "engine_version": "3.0.0"
 }
