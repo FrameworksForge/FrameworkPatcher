@@ -1,0 +1,27 @@
+{
+  "device": "Alioth",
+  "builds": {
+    "3.0.303.0.WKHCNXM.C07": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-30T02:45:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f0aed74b0ef260c2bc0c84b53f6e0cae9440eec3d09c1cd1fd6f689f46455381",
+        "services_patched.jar": "sha256:a2c24c9f2956ecb7363f40ad0377aba8c3930cc9d98a013f12e8b28704aa6de8",
+        "miui-services_patched.jar": "sha256:b07f45d9f4c85b5b5283e61721a88b61d578640e9b66b6a4671aa69464907e10",
+        "module_zip": "sha256:4cd0b1bd077cdfbcf259425b3e27711596e98a8c44dc0431a2f6c1629e46dd69"
+      },
+      "workflow_run_id": "30509222600",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30509222600",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30509222600"
+    }
+  },
+  "last_updated": "2026-07-30T02:46:15Z"
+}
