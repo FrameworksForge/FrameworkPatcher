@@ -8459,8 +8459,22 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "alioth": {
+      "OS3.0.303.0.WKHCNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-30T02:25:45Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30508312766",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30508312766",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-07-29T20:39:54Z",
+  "last_updated": "2026-07-30T02:26:23Z",
   "engine_version": "3.0.0"
 }
