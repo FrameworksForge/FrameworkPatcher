@@ -7930,6 +7930,19 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.303.0.4.1WPKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-07-30T06:02:44Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30518253182",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30518253182",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Ishtar": {
@@ -8490,6 +8503,6 @@
       }
     }
   },
-  "last_updated": "2026-07-30T02:49:33Z",
+  "last_updated": "2026-07-30T06:03:25Z",
   "engine_version": "3.0.0"
 }
