@@ -21,7 +21,26 @@
       "workflow_run_id": "28794012278",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/28794012278",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-28794012278"
+    },
+    "OS3.0.303.0.WNAMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-07-31T16:25:23Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b81e3d8c71969adfa85db379e8f98f641b28a6befa3ff66422ae0fa5b3d1b543",
+        "services_patched.jar": "sha256:0f9416c65e77e94e927e2d2495b3bf9e1a485e88a0a727654147f489081e9d3e",
+        "miui-services_patched.jar": "sha256:5f4814221b93f8603b8e1d49d4c591171f489e7409db3daa2aa42b5848b1d473",
+        "module_zip": "sha256:2dc9731a623a44281bf4cf35377676532ef1fa82a65bf79dca421c8406aec5cc"
+      },
+      "workflow_run_id": "30646890043",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30646890043",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30646890043"
     }
   },
-  "last_updated": "2026-07-06T13:14:26Z"
+  "last_updated": "2026-07-31T16:26:14Z"
 }
