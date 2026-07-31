@@ -8059,10 +8059,10 @@
       },
       "OS3.0.303.0.WNAMIXM": {
         "android_version": "16",
-        "build_time": "2026-07-31T16:25:23Z",
+        "build_time": "2026-07-31T16:26:17Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30646890043",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30646890043",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30646952143",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30646952143",
         "features": [
           "disable_signature_verification",
           "kaorios_toolbox"
@@ -8529,6 +8529,6 @@
       }
     }
   },
-  "last_updated": "2026-07-31T16:26:14Z",
+  "last_updated": "2026-07-31T16:26:59Z",
   "engine_version": "3.0.0"
 }
