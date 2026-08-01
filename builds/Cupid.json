@@ -1,0 +1,27 @@
+{
+  "device": "Cupid",
+  "builds": {
+    "OS.2.0.213.0.VLCCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-08-01T17:16:54Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f085ae70523d1fd6979fa3b8dd1d25b14cc46d48286671cedd4e9fbc702f71cc",
+        "services_patched.jar": "sha256:1f140f0acb0ca98b8cc6f38bcf3d499cba1b95125674927e98e188e7865d2b61",
+        "miui-services_patched.jar": "sha256:ae45ace839939ed9a039c6900048694bdeec47e63ba9d2431452259ef47e66b8",
+        "module_zip": "sha256:66cb2943971d7551d213069b2df60e2946d924c77b57e631ffe569cb8957d56b"
+      },
+      "workflow_run_id": "30709834442",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30709834442",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30709834442"
+    }
+  },
+  "last_updated": "2026-08-01T17:17:36Z"
+}
