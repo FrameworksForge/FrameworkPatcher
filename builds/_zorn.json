@@ -1,0 +1,22 @@
+{
+  "device": "_zorn",
+  "builds": {
+    "3.0.302.0.WOKMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-08-01T03:53:14Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:a8c91d7d92f6d025b5f707cd88b08bc44bf62054ed2b7c4a3a137a5bab1b53e8",
+        "module_zip": "sha256:19fb16a5bb7277ea6a873b234b1f6b6bdc120aaca1be0865a35fe81d6f50653c"
+      },
+      "workflow_run_id": "30682813598",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30682813598",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30682813598"
+    }
+  },
+  "last_updated": "2026-08-01T03:53:50Z"
+}
