@@ -1,0 +1,26 @@
+{
+  "device": "Nezha",
+  "builds": {
+    "OS3.0.309.0.WPACNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-01T07:18:53Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:24e7dc761899e65bb9389d9358ecba3388739e4f75edfcf1b7ed110a8ae09bbb",
+        "services_patched.jar": "sha256:960035eb8a8bb6a0bbfd106818685eca575164acbf14b91350507a5318f8e04b",
+        "miui-services_patched.jar": "sha256:3d851599890bcc11b0de4ac03a902aab0770c1a7a2f93a9314caaa9d9431c5bf",
+        "module_zip": "sha256:44511efbca403eec82fdf0dc31dd5a38203ff84ae0b34014e55a8810a5bc4628"
+      },
+      "workflow_run_id": "30689406767",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30689406767",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30689406767"
+    }
+  },
+  "last_updated": "2026-08-01T07:19:44Z"
+}
