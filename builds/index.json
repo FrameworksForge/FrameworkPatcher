@@ -237,6 +237,16 @@
           "disable_signature_verification",
           "add_gboard"
         ]
+      },
+      "3.0.3.0VLHCNXM": {
+        "android_version": "15",
+        "build_time": "2026-08-02T16:26:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30756607441",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30756607441",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "dash": {
@@ -8619,6 +8629,6 @@
       }
     }
   },
-  "last_updated": "2026-08-02T15:17:31Z",
+  "last_updated": "2026-08-02T16:27:37Z",
   "engine_version": "3.0.0"
 }
