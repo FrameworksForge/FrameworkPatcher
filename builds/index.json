@@ -8043,6 +8043,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.312.0.WOACNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-02T15:16:56Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30753884562",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30753884562",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "Vermeer": {
@@ -8607,6 +8619,6 @@
       }
     }
   },
-  "last_updated": "2026-08-02T10:27:37Z",
+  "last_updated": "2026-08-02T15:17:31Z",
   "engine_version": "3.0.0"
 }
