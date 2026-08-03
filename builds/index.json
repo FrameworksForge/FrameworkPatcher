@@ -5683,6 +5683,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.308.0.WOBCNXM_EU": {
+        "android_version": "16",
+        "build_time": "2026-08-03T13:05:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30816177689",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30816177689",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "viva": {
@@ -8653,6 +8664,6 @@
       }
     }
   },
-  "last_updated": "2026-08-03T10:58:58Z",
+  "last_updated": "2026-08-03T13:06:05Z",
   "engine_version": "3.0.0"
 }
