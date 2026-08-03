@@ -3920,6 +3920,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.308.0.WMCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-03T16:55:37Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30834190852",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30834190852",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "pearl": {
@@ -8664,6 +8677,6 @@
       }
     }
   },
-  "last_updated": "2026-08-03T13:06:05Z",
+  "last_updated": "2026-08-03T16:56:21Z",
   "engine_version": "3.0.0"
 }
