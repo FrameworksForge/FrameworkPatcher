@@ -3230,6 +3230,17 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.300.0": {
+        "android_version": "16",
+        "build_time": "2026-08-03T10:58:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30807443917",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30807443917",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "klee": {
@@ -8642,6 +8653,6 @@
       }
     }
   },
-  "last_updated": "2026-08-03T10:42:37Z",
+  "last_updated": "2026-08-03T10:58:58Z",
   "engine_version": "3.0.0"
 }
