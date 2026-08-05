@@ -1,0 +1,25 @@
+{
+  "device": "Klee",
+  "builds": {
+    "OS3.0.303.0.WPJIDXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-05T13:05:47Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:4cfbb276f3a5d3547510967892c46d1d2e3c24633cd9501af7d65d1d4319eaa1",
+        "services_patched.jar": "sha256:18be7ae7528721cb0db97ff0bc978c1067c2d7d81786ebcb4d00977c3b43a376",
+        "miui-services_patched.jar": "sha256:fc2c47b4adab3feb6c9ec871bd0df3128c6c5e5c6d494d46c0ef303e7e232ef4",
+        "module_zip": "sha256:76e8f205f527321cbe2d7cd957032bcdcef2701d4c362ddf85e977df7d454e74"
+      },
+      "workflow_run_id": "31008369172",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31008369172",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31008369172"
+    }
+  },
+  "last_updated": "2026-08-05T13:06:47Z"
+}

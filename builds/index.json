@@ -8730,8 +8730,21 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "Klee": {
+      "OS3.0.303.0.WPJIDXM": {
+        "android_version": "16",
+        "build_time": "2026-08-05T13:05:47Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31008369172",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31008369172",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-05T13:06:27Z",
+  "last_updated": "2026-08-05T13:06:47Z",
   "engine_version": "3.0.0"
 }
