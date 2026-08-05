@@ -240,10 +240,10 @@
       },
       "3.0.3.0VLHCNXM": {
         "android_version": "15",
-        "build_time": "2026-08-05T12:41:59Z",
+        "build_time": "2026-08-05T13:05:49Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31006687822",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31006687822",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31008515307",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31008515307",
         "features": [
           "cn_notification_fix"
         ]
@@ -8732,6 +8732,6 @@
       }
     }
   },
-  "last_updated": "2026-08-05T12:42:31Z",
+  "last_updated": "2026-08-05T13:06:27Z",
   "engine_version": "3.0.0"
 }
