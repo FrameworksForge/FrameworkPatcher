@@ -1,0 +1,26 @@
+{
+  "device": "Houji",
+  "builds": {
+    "OS3.0.305.0.WNCCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-05T18:48:33Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:3f2ccd572270adc8a36fd835a3c0b19fd58bd544cb8144cf01f6da52d71a82c8",
+        "services_patched.jar": "sha256:46183e9209da92f09618e78b30592b0c15ae648f30a9e92f4b7da3c0fc910b61",
+        "miui-services_patched.jar": "sha256:b7b0ff70f94abf9b8e65587c7d8ec843e01ac9d7e6b9d0f3eed67e94565e7b6c",
+        "module_zip": "sha256:6ed75970a300ab77fc7a7a65fcc5d5951dec2e46bb5143d1cc2f9207180f8541"
+      },
+      "workflow_run_id": "31036269822",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31036269822",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31036269822"
+    }
+  },
+  "last_updated": "2026-08-05T18:49:42Z"
+}

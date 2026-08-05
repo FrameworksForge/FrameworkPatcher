@@ -8776,8 +8776,22 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Houji": {
+      "OS3.0.305.0.WNCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-05T18:48:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31036269822",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31036269822",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-05T18:43:03Z",
+  "last_updated": "2026-08-05T18:49:42Z",
   "engine_version": "3.0.0"
 }
