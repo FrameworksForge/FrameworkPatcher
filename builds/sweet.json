@@ -169,7 +169,26 @@
       "workflow_run_id": "30170126752",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30170126752",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30170126752"
+    },
+    "OS1.0.34.0.THGMIXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-05T18:31:55Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:42bafede720e0c8e30ae310a6d3f2d47eb03bb09a70b37238dc9607ffff09afd",
+        "services_patched.jar": "sha256:a00b05434ebbb7a20119268d34eba0bc7434cbfada020f926924299d5970ca21",
+        "miui-services_patched.jar": "sha256:9f2429e2d12cf2273e09e6d51f0fd6db63374fa21a19e2471261db58ccdf3732",
+        "module_zip": "sha256:1b7259b9f05c6109a12a8d0748510de0148e515786167a4d2638173e8214d747"
+      },
+      "workflow_run_id": "31034926308",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31034926308",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31034926308"
     }
   },
-  "last_updated": "2026-07-25T18:44:00Z"
+  "last_updated": "2026-08-05T18:32:35Z"
 }
