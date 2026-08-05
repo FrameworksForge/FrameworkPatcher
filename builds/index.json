@@ -8753,9 +8753,20 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.306.0.WPJMIXM": {
+        "android_version": "16",
+        "build_time": "2026-08-05T18:09:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31033177125",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31033177125",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     }
   },
-  "last_updated": "2026-08-05T15:35:44Z",
+  "last_updated": "2026-08-05T18:10:10Z",
   "engine_version": "3.0.0"
 }
