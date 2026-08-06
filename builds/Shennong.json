@@ -1,0 +1,24 @@
+{
+  "device": "Shennong",
+  "builds": {
+    "OS3.0.7.0.WNBCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-08-06T13:15:37Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:51b573cdd35032d0b82bc6ce94ecd34bf5906cedc6c2d52fafaf0e1ac510cbca",
+        "services_patched.jar": "sha256:83e1a397f26a3df7be85ce200be3c758f93a6080d25e6f7e8875009e76c67360",
+        "miui-services_patched.jar": "sha256:41ffa40a926aa676ac571d7fdc7e46b8929d3e269b7fc65afa886f1d82ec1327",
+        "module_zip": "sha256:63cb3d0a672af8e77f79be917ec475ca8a911aea1727ee1c537a105cbc78b08a"
+      },
+      "workflow_run_id": "31104901990",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31104901990",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31104901990"
+    }
+  },
+  "last_updated": "2026-08-06T13:16:22Z"
+}
