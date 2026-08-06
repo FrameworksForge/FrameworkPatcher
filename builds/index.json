@@ -8775,6 +8775,19 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.304.0.WPJCNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-06T08:02:34Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31083072666",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31083072666",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Houji": {
@@ -8792,6 +8805,6 @@
       }
     }
   },
-  "last_updated": "2026-08-05T18:49:42Z",
+  "last_updated": "2026-08-06T08:03:31Z",
   "engine_version": "3.0.0"
 }
