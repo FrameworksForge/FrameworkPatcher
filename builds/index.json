@@ -8533,6 +8533,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.306.0.WNRCNXM.mod": {
+        "android_version": "16",
+        "build_time": "2026-08-07T00:26:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31134487593",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31134487593",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Goya": {
@@ -8839,6 +8849,6 @@
       }
     }
   },
-  "last_updated": "2026-08-06T14:47:30Z",
+  "last_updated": "2026-08-07T00:26:54Z",
   "engine_version": "3.0.0"
 }
