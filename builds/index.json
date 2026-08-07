@@ -2385,6 +2385,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "TURBO_OS_V3_0_305_0": {
+        "android_version": "16",
+        "build_time": "2026-08-07T12:02:34Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31176353758",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31176353758",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "tapas": {
@@ -8887,6 +8898,6 @@
       }
     }
   },
-  "last_updated": "2026-08-07T11:49:37Z",
+  "last_updated": "2026-08-07T12:03:15Z",
   "engine_version": "3.0.0"
 }

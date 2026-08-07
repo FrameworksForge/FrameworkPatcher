@@ -373,7 +373,26 @@
       "workflow_run_id": "31015262839",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31015262839",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31015262839"
+    },
+    "TURBO_OS_V3_0_305_0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-07T12:02:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f0c20705640b5beadfa44ff1dde4ca4e317351d1ef2a996ddd8b6773a34d90f2",
+        "services_patched.jar": "sha256:7fba6c5b3d919479c9783ee9ac25233364f72774c62d8464107594b66edba9ee",
+        "miui-services_patched.jar": "sha256:26f351be9adcb9aee1a60f34dbfe74d85063a52ace7b61308bbccfec088fb78b",
+        "module_zip": "sha256:99d2304a50accad9733a9ad6b4009f427223a3397fbd529073543d227ef20467"
+      },
+      "workflow_run_id": "31176353758",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31176353758",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31176353758"
     }
   },
-  "last_updated": "2026-08-05T14:30:29Z"
+  "last_updated": "2026-08-07T12:03:15Z"
 }
