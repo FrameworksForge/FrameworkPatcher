@@ -8987,8 +8987,20 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "charoite": {
+      "OS3.0.303.0.WPFMIXM": {
+        "android_version": "16",
+        "build_time": "2026-08-08T12:55:51Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31258262322",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31258262322",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-08T12:56:03Z",
+  "last_updated": "2026-08-08T12:56:26Z",
   "engine_version": "3.0.0"
 }

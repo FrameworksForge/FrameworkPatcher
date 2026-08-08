@@ -1,0 +1,24 @@
+{
+  "device": "charoite",
+  "builds": {
+    "OS3.0.303.0.WPFMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-08-08T12:55:51Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:7d97da4944acb34b40eeae54e5d5ba0900b24cf182f2d1d85a761e318f9beedc",
+        "services_patched.jar": "sha256:024a1915fa6af52c76e4fab435c59839598aa27d8385a61697f7cf8b5448870d",
+        "miui-services_patched.jar": "sha256:9288a82edcb40431b23e71660f2eaa2b03dca1010c4c4a59c35b9d79c256a233",
+        "module_zip": "sha256:acac13f57349d9aa51bcd9d624338498c02a290a12a5d93aec162afe6a5eefea"
+      },
+      "workflow_run_id": "31258262322",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31258262322",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31258262322"
+    }
+  },
+  "last_updated": "2026-08-08T12:56:26Z"
+}
