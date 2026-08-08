@@ -6070,10 +6070,10 @@
       },
       "xiaomi.eu_SHENNONG_OS3.0.8.0.WNBCNXM_16_2": {
         "android_version": "16",
-        "build_time": "2026-08-08T21:01:51Z",
+        "build_time": "2026-08-08T21:02:19Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31278221614",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31278221614",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31278247288",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31278247288",
         "features": [
           "disable_signature_verification"
         ]
@@ -9014,6 +9014,6 @@
       }
     }
   },
-  "last_updated": "2026-08-08T21:02:38Z",
+  "last_updated": "2026-08-08T21:02:58Z",
   "engine_version": "3.0.0"
 }
