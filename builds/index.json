@@ -4058,6 +4058,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.215.0.VMCCNXM": {
+        "android_version": "15",
+        "build_time": "2026-08-08T12:55:21Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31258194122",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31258194122",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "pearl": {
@@ -8976,6 +8989,6 @@
       }
     }
   },
-  "last_updated": "2026-08-08T11:59:41Z",
+  "last_updated": "2026-08-08T12:56:03Z",
   "engine_version": "3.0.0"
 }
