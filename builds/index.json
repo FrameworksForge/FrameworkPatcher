@@ -2423,10 +2423,10 @@
       },
       "16OS3.1.260713.200147223.QCPECN.S": {
         "android_version": "16",
-        "build_time": "2026-08-08T05:37:45Z",
+        "build_time": "2026-08-08T05:58:23Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31242020346",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31242020346",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31242781629",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31242781629",
         "features": [
           "disable_signature_verification"
         ]
@@ -8954,6 +8954,6 @@
       }
     }
   },
-  "last_updated": "2026-08-08T05:38:24Z",
+  "last_updated": "2026-08-08T05:59:00Z",
   "engine_version": "3.0.0"
 }
