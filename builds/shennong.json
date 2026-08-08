@@ -55,7 +55,25 @@
       "workflow_run_id": "27874226827",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/27874226827",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27874226827"
+    },
+    "xiaomi.eu_SHENNONG_OS3.0.8.0.WNBCNXM_16_2": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-08-08T21:01:51Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:2f9ac53ec2eb965cbacf4a981aefe7cd60e34266537d2fe7ba482587b9870038",
+        "services_patched.jar": "sha256:049ded686682d746bdb57e98273476dc5ad57f11611ced98118ce453bc52e686",
+        "miui-services_patched.jar": "sha256:c4e6f39ab6cd568a3a2eda0fb6a61ce4d5976fcac23ae9176ccd107fb1d35ec4",
+        "module_zip": "sha256:b081e3154ec5422eef3540e36c33dedb55efd8f081906bca66ab666c69fc7175"
+      },
+      "workflow_run_id": "31278221614",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31278221614",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31278221614"
     }
   },
-  "last_updated": "2026-06-20T15:32:07Z"
+  "last_updated": "2026-08-08T21:02:38Z"
 }
