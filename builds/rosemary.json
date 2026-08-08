@@ -1,0 +1,24 @@
+{
+  "device": "rosemary",
+  "builds": {
+    "PORT.3.0.13.0.WOSEUXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-08-08T11:59:05Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b30908bb0354ce266a4014dcba86288abe28560986e46518fe8a8a9b08e1d0a7",
+        "services_patched.jar": "sha256:12533136cc87a100bf868fd8ba680c74bf37b899d8be2eb20c6e8e642fa86866",
+        "miui-services_patched.jar": "sha256:8d0f9e33773c21cf066440b626a85d1eef19f5595a1ceb418c5f36938b65186b",
+        "module_zip": "sha256:838f54efdc5eb2e6ec60b920992c8e73170198d822d7b89caf28383d62a6890a"
+      },
+      "workflow_run_id": "31256110018",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31256110018",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31256110018"
+    }
+  },
+  "last_updated": "2026-08-08T11:59:41Z"
+}

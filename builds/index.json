@@ -8962,8 +8962,20 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "rosemary": {
+      "PORT.3.0.13.0.WOSEUXM": {
+        "android_version": "16",
+        "build_time": "2026-08-08T11:59:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31256110018",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31256110018",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-08T10:45:27Z",
+  "last_updated": "2026-08-08T11:59:41Z",
   "engine_version": "3.0.0"
 }
