@@ -9003,16 +9003,16 @@
     "charoite": {
       "OS3.0.303.0.WPFMIXM": {
         "android_version": "16",
-        "build_time": "2026-08-08T12:55:51Z",
+        "build_time": "2026-08-09T05:47:04Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31258262322",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31258262322",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31297344646",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31297344646",
         "features": [
           "disable_signature_verification"
         ]
       }
     }
   },
-  "last_updated": "2026-08-09T04:43:47Z",
+  "last_updated": "2026-08-09T05:47:45Z",
   "engine_version": "3.0.0"
 }
