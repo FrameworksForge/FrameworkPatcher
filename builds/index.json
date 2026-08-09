@@ -2446,14 +2446,13 @@
       },
       "OS3.0.305.0 WOLCNXM": {
         "android_version": "16",
-        "build_time": "2026-08-09T18:32:46Z",
+        "build_time": "2026-08-09T18:39:20Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31329219767",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31329219767",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31329490902",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31329490902",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag",
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       }
     },
@@ -9073,6 +9072,6 @@
       }
     }
   },
-  "last_updated": "2026-08-09T18:33:25Z",
+  "last_updated": "2026-08-09T18:40:08Z",
   "engine_version": "3.0.0"
 }
