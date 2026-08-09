@@ -1,0 +1,26 @@
+{
+  "device": "Avicii",
+  "builds": {
+    "Q_V1_P14": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-08-09T23:13:30Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:d0ef104ee5a241a2641525c80a37518f96847430510ffe5cb537c64f74af4f10",
+        "services_patched.jar": "sha256:5d3ec7d4bfe9917adf5b24516e84ee0e19fb8257cfde42f6a753c87f2ed7db75",
+        "miui-services_patched.jar": "sha256:758e8d4ed31e27dda843270bfc2e3ce852a64e41c2aa52fcbaf4a17621c87f41",
+        "module_zip": "sha256:05d213d9e801364d98bf4efc6cca9b92e8d6bf94b9456e915cded7410b6ec213"
+      },
+      "workflow_run_id": "31341278186",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31341278186",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31341278186"
+    }
+  },
+  "last_updated": "2026-08-09T23:14:04Z"
+}
