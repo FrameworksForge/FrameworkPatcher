@@ -80,7 +80,26 @@
       "workflow_run_id": "30944813536",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30944813536",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30944813536"
+    },
+    "3.0.300.Vermeer": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-09T14:10:10Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:672f4349df97ac13151b211bb51c5b20f50c4b2e439b7bf0194729c679f43b06",
+        "services_patched.jar": "sha256:975022abef239dfdb31984cb02e7fb93a5fedd18ba83a3a292afd23e1ec2a346",
+        "miui-services_patched.jar": "sha256:887dca97ee5ba7e89daf22177e972a34cf8f6d7bfcad23e7103c0fa9953395f2",
+        "module_zip": "sha256:3489c3cc0be080fb850a0ec4ae145aa6d3d58d64d19fdccd7af36e0cad18a4f1"
+      },
+      "workflow_run_id": "31317628966",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31317628966",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31317628966"
     }
   },
-  "last_updated": "2026-08-04T19:49:51Z"
+  "last_updated": "2026-08-09T14:10:51Z"
 }
