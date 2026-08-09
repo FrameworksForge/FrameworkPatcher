@@ -8427,6 +8427,18 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.302.0.WOZIDXM": {
+        "android_version": "16",
+        "build_time": "2026-08-09T16:45:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31324541728",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31324541728",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "Dada": {
@@ -9049,6 +9061,6 @@
       }
     }
   },
-  "last_updated": "2026-08-09T14:15:51Z",
+  "last_updated": "2026-08-09T16:46:26Z",
   "engine_version": "3.0.0"
 }
