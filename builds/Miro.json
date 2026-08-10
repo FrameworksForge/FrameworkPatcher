@@ -1,0 +1,26 @@
+{
+  "device": "Miro",
+  "builds": {
+    "OS3.0.304.0.WOMCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-10T15:44:22Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:e6425aba2cadd6821c9ffd56342c80f855dc745cb156086a3add69a7f09f8620",
+        "services_patched.jar": "sha256:90ffeb9986bb60d6cde3500c9ee883ab3b71a79e1f07dba241cc016dc01e5162",
+        "miui-services_patched.jar": "sha256:856c863e6bc420c8ca5a98c65915168166b89f6f58fc53a0d34053ec55bb630b",
+        "module_zip": "sha256:f2f8faeb35620013c786add922c35f8089cce159656f6710b6c06af3c0b4cc00"
+      },
+      "workflow_run_id": "31404971630",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31404971630",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31404971630"
+    }
+  },
+  "last_updated": "2026-08-10T15:45:09Z"
+}
