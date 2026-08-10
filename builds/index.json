@@ -9133,8 +9133,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "tapas_global": {
+      "2.0.208.0.VMTMIXM": {
+        "android_version": "15",
+        "build_time": "2026-08-10T16:44:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31410164827",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31410164827",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-10T15:45:09Z",
+  "last_updated": "2026-08-10T16:44:52Z",
   "engine_version": "3.0.0"
 }
