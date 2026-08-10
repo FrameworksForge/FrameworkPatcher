@@ -9084,8 +9084,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "xaga_": {
+      "OS1.0.13.0UMLCNXM": {
+        "android_version": "14",
+        "build_time": "2026-08-10T07:58:56Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31367908050",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31367908050",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-09T23:14:04Z",
+  "last_updated": "2026-08-10T07:59:36Z",
   "engine_version": "3.0.0"
 }

@@ -1,0 +1,24 @@
+{
+  "device": "xaga_",
+  "builds": {
+    "OS1.0.13.0UMLCNXM": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-08-10T07:58:56Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:cc0c739167e10bea2226ac1bba358385dcfe86884eec1b9969a4e511fb083952",
+        "services_patched.jar": "sha256:68d52fa41a8e543352221254ce0532b508a6bbab16b2a5948e3ce1f3c6a26bd3",
+        "miui-services_patched.jar": "sha256:6ac27ff5f461bc5b1a78fabd8251f4525f1f601d9416c5b02040222ca777ab6a",
+        "module_zip": "sha256:731fdf93bb29797912fbeb7de45dade69b9fb6fd8d891adc20a13ae5b43fa168"
+      },
+      "workflow_run_id": "31367908050",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31367908050",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31367908050"
+    }
+  },
+  "last_updated": "2026-08-10T07:59:36Z"
+}
