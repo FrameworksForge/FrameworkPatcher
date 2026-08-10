@@ -1,0 +1,24 @@
+{
+  "device": "shennung",
+  "builds": {
+    "TURBO_PLUS_19.07.26": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-08-10T17:11:18Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b1a165b5017f37238938688bc643aec342c018959cc29ba3448501d55270632f",
+        "services_patched.jar": "sha256:598e39c60a0b08fa8962c3d97bf4052a0470316191f425f90c4f4ecbd4a32d46",
+        "miui-services_patched.jar": "sha256:76417db762e4d85a6641e51e7c3843b83faf71254c033ba4fc5c1a343d6abca0",
+        "module_zip": "sha256:57d9e337d8879fe27ff8a170696fe8089e54f77271689c01caaaf8b05e4b7ae5"
+      },
+      "workflow_run_id": "31412583881",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31412583881",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31412583881"
+    }
+  },
+  "last_updated": "2026-08-10T17:12:25Z"
+}
