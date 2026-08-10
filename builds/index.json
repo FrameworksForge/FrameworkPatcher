@@ -761,6 +761,16 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "2.2": {
+        "android_version": "15",
+        "build_time": "2026-08-10T16:46:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31410327674",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31410327674",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "mondrian": {
@@ -9147,6 +9157,6 @@
       }
     }
   },
-  "last_updated": "2026-08-10T16:44:52Z",
+  "last_updated": "2026-08-10T16:46:52Z",
   "engine_version": "3.0.0"
 }
