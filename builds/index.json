@@ -9166,9 +9166,19 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "Xiaomi.Eu  3.0.302.0.WNCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-10T17:15:41Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31412933850",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31412933850",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     }
   },
-  "last_updated": "2026-08-10T17:12:25Z",
+  "last_updated": "2026-08-10T17:16:17Z",
   "engine_version": "3.0.0"
 }

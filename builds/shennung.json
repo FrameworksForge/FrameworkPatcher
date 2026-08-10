@@ -18,7 +18,25 @@
       "workflow_run_id": "31412583881",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31412583881",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31412583881"
+    },
+    "Xiaomi.Eu  3.0.302.0.WNCCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-08-10T17:15:41Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:dff6a8fa0e94cf83763d4eb670b9cdd50583fe24db5823d3bae7bec293b91f6b",
+        "services_patched.jar": "sha256:e31e66bbb7363c089dd7d2f8d1829f6d6d8042268dd9d24882d5c4dbcef2d956",
+        "miui-services_patched.jar": "sha256:ab151cfc377117669df049cbc3a633f8b2a5f528f07f363bfda906f0a6f8bc47",
+        "module_zip": "sha256:372d4ceee03a5095d365254fafa53a63e0d374bc39252a9be2d7d40c457d661f"
+      },
+      "workflow_run_id": "31412933850",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31412933850",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31412933850"
     }
   },
-  "last_updated": "2026-08-10T17:12:25Z"
+  "last_updated": "2026-08-10T17:16:17Z"
 }
