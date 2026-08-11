@@ -9074,6 +9074,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "tw": {
+        "android_version": "16",
+        "build_time": "2026-08-11T18:19:47Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31521905699",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31521905699",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Houji": {
@@ -9201,6 +9211,6 @@
       }
     }
   },
-  "last_updated": "2026-08-11T12:29:54Z",
+  "last_updated": "2026-08-11T18:20:21Z",
   "engine_version": "3.0.0"
 }
