@@ -2660,6 +2660,16 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "3.0.306.0 garnet CN": {
+        "android_version": "16",
+        "build_time": "2026-08-11T10:59:03Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31484519035",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31484519035",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "duchamp": {
@@ -9179,6 +9189,6 @@
       }
     }
   },
-  "last_updated": "2026-08-10T17:16:17Z",
+  "last_updated": "2026-08-11T10:59:38Z",
   "engine_version": "3.0.0"
 }
