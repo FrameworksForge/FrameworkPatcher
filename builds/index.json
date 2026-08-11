@@ -6659,6 +6659,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.316.0.WAACNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-11T12:29:17Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31491239582",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31491239582",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "ruan": {
@@ -9189,6 +9201,6 @@
       }
     }
   },
-  "last_updated": "2026-08-11T10:59:38Z",
+  "last_updated": "2026-08-11T12:29:54Z",
   "engine_version": "3.0.0"
 }
