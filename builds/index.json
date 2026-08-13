@@ -3482,6 +3482,18 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "os3cn": {
+        "android_version": "16",
+        "build_time": "2026-08-13T17:18:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31724804415",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31724804415",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "nezha": {
@@ -9270,6 +9282,6 @@
       }
     }
   },
-  "last_updated": "2026-08-13T17:18:05Z",
+  "last_updated": "2026-08-13T17:18:58Z",
   "engine_version": "3.0.0"
 }
