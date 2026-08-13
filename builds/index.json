@@ -9021,6 +9021,16 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.303.0.WPAEUXM": {
+        "android_version": "16",
+        "build_time": "2026-08-13T09:35:04Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31687064986",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31687064986",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Cupid": {
@@ -9222,6 +9232,6 @@
       }
     }
   },
-  "last_updated": "2026-08-13T00:38:14Z",
+  "last_updated": "2026-08-13T09:35:46Z",
   "engine_version": "3.0.0"
 }
