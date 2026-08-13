@@ -1,0 +1,26 @@
+{
+  "device": "athens",
+  "builds": {
+    "OS3.0.306.0.WPICNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-13T16:22:31Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:4bb7927e242bdf5e640c8007f705ecd82a9a4d0c7a40a7134f9b0be286bddbbc",
+        "services_patched.jar": "sha256:3dbd066fae496942b41b6506579af27ac819d84c41f7de04ea43fff6d7513ed1",
+        "miui-services_patched.jar": "sha256:2d386595bdfeb2df1a3df89aaa5c79e5677944d5936e8f8051ffc182152937ec",
+        "module_zip": "sha256:6403e02d9b09cdb8ff3d331afd3e6643589de3f1d5c9dd82d6d16a11d1d03d56"
+      },
+      "workflow_run_id": "31720145984",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31720145984",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31720145984"
+    }
+  },
+  "last_updated": "2026-08-13T16:23:09Z"
+}
