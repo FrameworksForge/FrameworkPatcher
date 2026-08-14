@@ -448,7 +448,23 @@
       "workflow_run_id": "31329490902",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31329490902",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31329490902"
+    },
+    "17OS4.0.260809.194304611.QCPECN.S": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-08-14T20:58:42Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:9b7e1b74491b63fe5bd738708b359d375c50b01465329964ff0395ca596222fd",
+        "module_zip": "sha256:72c49c25667354e55e521146c7284685bf596c36d57d8324f6f653f2878039b9"
+      },
+      "workflow_run_id": "31840278599",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31840278599",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31840278599"
     }
   },
-  "last_updated": "2026-08-09T18:40:08Z"
+  "last_updated": "2026-08-14T20:59:19Z"
 }
