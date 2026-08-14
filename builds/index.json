@@ -7386,6 +7386,16 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OSXoxoxo": {
+        "android_version": "16",
+        "build_time": "2026-08-14T19:14:30Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31832298895",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31832298895",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "ares": {
@@ -9330,6 +9340,6 @@
       }
     }
   },
-  "last_updated": "2026-08-14T14:02:08Z",
+  "last_updated": "2026-08-14T19:15:03Z",
   "engine_version": "3.0.0"
 }
