@@ -361,7 +361,26 @@
       "workflow_run_id": "31215716554",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31215716554",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31215716554"
+    },
+    "OS2.0.202.0.VOJINXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-14T14:01:29Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:845cf9b44bcc6c14e2bc55db5408c207cecc96e53a575850ec1cfad8dc1dd097",
+        "services_patched.jar": "sha256:0cb7da19c81d195fa0326767af4abd376fcef44d60ca99f114ced949648798a9",
+        "miui-services_patched.jar": "sha256:9ae0028ffb9658978a47f4c4c3a8c11efa2b45f8f63024cde4172e29e72bcc27",
+        "module_zip": "sha256:0eb4dc571109a87a23eda5ed310a81f17327d89d19db8e3d1fe42af7e1067b02"
+      },
+      "workflow_run_id": "31807191849",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31807191849",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31807191849"
     }
   },
-  "last_updated": "2026-08-07T20:27:36Z"
+  "last_updated": "2026-08-14T14:02:08Z"
 }
