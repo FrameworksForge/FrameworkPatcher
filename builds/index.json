@@ -7389,10 +7389,10 @@
       },
       "OSXoxoxo": {
         "android_version": "16",
-        "build_time": "2026-08-14T19:14:30Z",
+        "build_time": "2026-08-14T19:16:50Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31832298895",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31832298895",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31832489345",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31832489345",
         "features": [
           "cn_notification_fix"
         ]
@@ -9340,6 +9340,6 @@
       }
     }
   },
-  "last_updated": "2026-08-14T19:15:03Z",
+  "last_updated": "2026-08-14T19:17:18Z",
   "engine_version": "3.0.0"
 }
