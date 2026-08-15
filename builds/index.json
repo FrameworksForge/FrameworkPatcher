@@ -6117,6 +6117,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "rodin_global_OS3.0.301.0.WOJMIXM_16.0": {
+        "android_version": "16",
+        "build_time": "2026-08-15T02:11:28Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31858428782",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31858428782",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "light": {
@@ -9350,6 +9360,6 @@
       }
     }
   },
-  "last_updated": "2026-08-15T01:43:56Z",
+  "last_updated": "2026-08-15T02:12:11Z",
   "engine_version": "3.0.0"
 }
