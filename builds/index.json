@@ -3515,6 +3515,16 @@
           "disable_signature_verification",
           "cn_notification_fix"
         ]
+      },
+      "OS3.303.0 WPJIDXM": {
+        "android_version": "16",
+        "build_time": "2026-08-15T07:52:21Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31872952331",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31872952331",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "nezha": {
@@ -9360,6 +9370,6 @@
       }
     }
   },
-  "last_updated": "2026-08-15T02:12:11Z",
+  "last_updated": "2026-08-15T07:52:58Z",
   "engine_version": "3.0.0"
 }
