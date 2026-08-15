@@ -4329,6 +4329,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.303.0.WPKCNXM.(KMY 4.1)": {
+        "android_version": "16",
+        "build_time": "2026-08-15T15:47:43Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31893610860",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31893610860",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "miro": {
@@ -9383,6 +9396,6 @@
       }
     }
   },
-  "last_updated": "2026-08-15T15:27:54Z",
+  "last_updated": "2026-08-15T15:48:23Z",
   "engine_version": "3.0.0"
 }
