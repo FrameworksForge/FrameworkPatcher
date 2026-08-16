@@ -9200,10 +9200,10 @@
     "Raphaelin": {
       "3.0.303.0.WPKCNXM": {
         "android_version": "16",
-        "build_time": "2026-08-04T17:49:11Z",
+        "build_time": "2026-08-16T08:51:03Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30935452146",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30935452146",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31937399225",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31937399225",
         "features": [
           "disable_signature_verification"
         ]
@@ -9395,6 +9395,6 @@
       }
     }
   },
-  "last_updated": "2026-08-15T16:05:53Z",
+  "last_updated": "2026-08-16T08:51:41Z",
   "engine_version": "3.0.0"
 }
