@@ -3401,6 +3401,18 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS4.0.4": {
+        "android_version": "15",
+        "build_time": "2026-08-17T05:57:58Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31999498062",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31999498062",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "klee": {
@@ -9418,6 +9430,6 @@
       }
     }
   },
-  "last_updated": "2026-08-16T23:32:48Z",
+  "last_updated": "2026-08-17T05:58:40Z",
   "engine_version": "3.0.0"
 }
