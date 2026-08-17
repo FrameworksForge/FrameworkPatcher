@@ -7476,6 +7476,17 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS4.0.0.9.XPCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-17T16:12:44Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32044597305",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32044597305",
+        "features": [
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "ares": {
@@ -9443,6 +9454,6 @@
       }
     }
   },
-  "last_updated": "2026-08-17T13:38:38Z",
+  "last_updated": "2026-08-17T16:13:20Z",
   "engine_version": "3.0.0"
 }
