@@ -7861,13 +7861,12 @@
       },
       "3.0.303.0.WPKCNXM": {
         "android_version": "16",
-        "build_time": "2026-08-17T09:28:09Z",
+        "build_time": "2026-08-17T09:56:28Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32015130754",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32015130754",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32017548361",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32017548361",
         "features": [
-          "disable_signature_verification",
-          "kaorios_toolbox"
+          "disable_signature_verification"
         ]
       }
     },
@@ -9432,6 +9431,6 @@
       }
     }
   },
-  "last_updated": "2026-08-17T09:28:49Z",
+  "last_updated": "2026-08-17T09:57:06Z",
   "engine_version": "3.0.0"
 }
