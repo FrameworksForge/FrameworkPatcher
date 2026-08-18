@@ -1,0 +1,22 @@
+{
+  "device": "songyuan",
+  "builds": {
+    "OS3.0.306.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-08-18T04:07:31Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:ae0125e42957dc71de10c3eb6172771a7e15e316a333e680b21c5ee82501f04d",
+        "module_zip": "sha256:1232c88eecaea897518f488a1f822fa0223d83cd4e0ea96805bb00daf4f1adeb"
+      },
+      "workflow_run_id": "32097922890",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32097922890",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32097922890"
+    }
+  },
+  "last_updated": "2026-08-18T04:07:58Z"
+}

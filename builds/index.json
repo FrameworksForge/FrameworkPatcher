@@ -9451,8 +9451,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "songyuan": {
+      "OS3.0.306.0": {
+        "android_version": "16",
+        "build_time": "2026-08-18T04:07:31Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32097922890",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32097922890",
+        "features": [
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-18T00:24:50Z",
+  "last_updated": "2026-08-18T04:07:58Z",
   "engine_version": "3.0.0"
 }
