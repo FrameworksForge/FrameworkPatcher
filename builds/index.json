@@ -7560,6 +7560,19 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS.2.0.219.VMBCNXM": {
+        "android_version": "15",
+        "build_time": "2026-08-19T14:00:50Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32261084770",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32261084770",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "giulia": {
@@ -9501,6 +9514,6 @@
       }
     }
   },
-  "last_updated": "2026-08-19T12:13:19Z",
+  "last_updated": "2026-08-19T14:01:31Z",
   "engine_version": "3.0.0"
 }
