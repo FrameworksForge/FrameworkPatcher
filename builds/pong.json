@@ -1,0 +1,25 @@
+{
+  "device": "pong",
+  "builds": {
+    "Pong-B4.1-260618-1026-IND": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-19T14:46:21Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:1183456998b10b3afd4d52957331c225f5cddfb076e2d19d625a475143ea9db0",
+        "services_patched.jar": "sha256:4b94019f186a82eaf423cfb82a04d91a2cc7737e6b249228f9fc6c35e7100217",
+        "miui-services_patched.jar": "sha256:55126290f27fbbe4fef4dbf4d9e7ff8f1bb04a0df342f20a8660efe492bf1308",
+        "module_zip": "sha256:c694ea5c8e0855c371a05bb44bab146e29763157abd60720b28b801f79463869"
+      },
+      "workflow_run_id": "32265730401",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32265730401",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32265730401"
+    }
+  },
+  "last_updated": "2026-08-19T14:48:32Z"
+}

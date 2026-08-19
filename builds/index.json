@@ -9512,8 +9512,21 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "pong": {
+      "Pong-B4.1-260618-1026-IND": {
+        "android_version": "16",
+        "build_time": "2026-08-19T14:46:21Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32265730401",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32265730401",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-19T14:01:31Z",
+  "last_updated": "2026-08-19T14:48:32Z",
   "engine_version": "3.0.0"
 }
