@@ -58,24 +58,24 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-27470625162"
     },
     "OS3": {
-      "android_version": "15",
+      "android_version": "16",
       "patch_version": "3.0.0",
       "features": [
         "disable_signature_verification",
         "cn_notification_fix",
         "disable_secure_flag"
       ],
-      "build_time": "2026-08-10T14:37:16Z",
+      "build_time": "2026-08-21T11:35:50Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:0b4b66fc391b73e88c412dcfac7c8956287da4c873a6496b381a84231acb4e0b",
-        "services_patched.jar": "sha256:9bde479950f53d0560b1e4cb63b858b1914c00809ba3bec582afdc2e30c6f0b9",
-        "miui-services_patched.jar": "sha256:577870af3eec884d459b0f3a4440969113d23b1d370d0e31a3d6c01b8ace296f",
-        "module_zip": "sha256:8bfa9f8403e2fafe84f8d4baf99eb429519a5816a3a7e71eca0fe07c18a29322"
+        "framework_patched.jar": "sha256:26db84d243d53470a7dc7a33372961a4a96630efdb76fe4805afa5c5d2330548",
+        "services_patched.jar": "sha256:65121e8b8c6639618885b2b6a07cf1e03ef51a1b37472e02aa2f4504ec789668",
+        "miui-services_patched.jar": "sha256:46718e4712cc84c00d38a48f2b5af3be9c2c97d9ce511cafa9fd8edec4340e2e",
+        "module_zip": "sha256:191c61c71ceb4c45fdbf4ef6c7daef0e96ad985e74a32a62271ce5f0695f135d"
       },
-      "workflow_run_id": "31398800878",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31398800878",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31398800878"
+      "workflow_run_id": "32477724790",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32477724790",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32477724790"
     },
     "Os3": {
       "android_version": "15",
@@ -99,5 +99,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31774729779"
     }
   },
-  "last_updated": "2026-08-14T06:03:30Z"
+  "last_updated": "2026-08-21T11:36:28Z"
 }
