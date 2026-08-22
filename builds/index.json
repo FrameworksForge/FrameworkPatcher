@@ -5441,6 +5441,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS1.0.24.0.UNCNXM": {
+        "android_version": "15",
+        "build_time": "2026-08-22T05:56:04Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32555485819",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32555485819",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "spes": {
@@ -9599,6 +9612,6 @@
       }
     }
   },
-  "last_updated": "2026-08-22T04:08:56Z",
+  "last_updated": "2026-08-22T05:56:43Z",
   "engine_version": "3.0.0"
 }
