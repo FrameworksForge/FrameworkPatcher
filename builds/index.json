@@ -6764,6 +6764,18 @@
           "cn_notification_fix",
           "add_gboard"
         ]
+      },
+      "OS3.0.302.0.WNSEUXM": {
+        "android_version": "16",
+        "build_time": "2026-08-22T00:21:50Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32539949838",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32539949838",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "RN13PRO_": {
@@ -9575,6 +9587,6 @@
       }
     }
   },
-  "last_updated": "2026-08-21T16:22:40Z",
+  "last_updated": "2026-08-22T00:22:36Z",
   "engine_version": "3.0.0"
 }
