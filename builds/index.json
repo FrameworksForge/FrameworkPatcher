@@ -9635,8 +9635,22 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "peux_veux": {
+      "3.0.301 WNRINXM Port from garnet": {
+        "android_version": "16",
+        "build_time": "2026-08-23T16:17:11Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32651071914",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32651071914",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-23T13:49:31Z",
+  "last_updated": "2026-08-23T16:17:51Z",
   "engine_version": "3.0.0"
 }

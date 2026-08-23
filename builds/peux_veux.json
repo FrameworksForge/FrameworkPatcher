@@ -1,0 +1,26 @@
+{
+  "device": "peux_veux",
+  "builds": {
+    "3.0.301 WNRINXM Port from garnet": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-08-23T16:17:11Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:827f3bf50dfc9b1107b2709af4860c475eebca81e0b4be3af6166746e1cd2785",
+        "services_patched.jar": "sha256:ba0e862cf964d03531060a590343bae8310cffce0a5a9a4aba84b1564bb0f353",
+        "miui-services_patched.jar": "sha256:5ccb64446ef26983d74ad69d20a54a0014c37909549242ce1c5f074ccab28670",
+        "module_zip": "sha256:b9a5c54d6597a37fcb5d8b3a8e805ed86286c62ec20983668cbc2042636ed170"
+      },
+      "workflow_run_id": "32651071914",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32651071914",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32651071914"
+    }
+  },
+  "last_updated": "2026-08-23T16:17:51Z"
+}
