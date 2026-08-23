@@ -98,7 +98,25 @@
       "workflow_run_id": "32297792093",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32297792093",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32297792093"
+    },
+    "rodintwglobal_OS3.0.301.0.WOJTWXM_16.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-08-23T00:49:00Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:2d215f446dafbde7d553f68803c23d6c0cba335824e99cc744b1cf38b8784dac",
+        "services_patched.jar": "sha256:7d4bc9f38d11b24c15aea2bba861332bbdebd1a843bf21c9694c01444351a059",
+        "miui-services_patched.jar": "sha256:a9e4b503233148e888bd201e109c65c1e18ab04de1c06adaa02f62239d290202",
+        "module_zip": "sha256:57356f98055309ef30c1270de5a28bdaaae5ec516f4926da9399c34b5f7e0a13"
+      },
+      "workflow_run_id": "32608710302",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32608710302",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32608710302"
     }
   },
-  "last_updated": "2026-08-19T20:21:13Z"
+  "last_updated": "2026-08-23T00:49:40Z"
 }

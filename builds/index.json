@@ -6285,6 +6285,16 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "rodintwglobal_OS3.0.301.0.WOJTWXM_16.0": {
+        "android_version": "16",
+        "build_time": "2026-08-23T00:49:00Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32608710302",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32608710302",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "light": {
@@ -9626,6 +9636,6 @@
       }
     }
   },
-  "last_updated": "2026-08-22T11:55:35Z",
+  "last_updated": "2026-08-23T00:49:40Z",
   "engine_version": "3.0.0"
 }
