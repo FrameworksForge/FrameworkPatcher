@@ -326,10 +326,10 @@
       },
       "OS3.0.305.0.WPLCNXM": {
         "android_version": "16",
-        "build_time": "2026-08-19T12:12:33Z",
+        "build_time": "2026-08-24T08:50:26Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32251268510",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32251268510",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32708133718",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32708133718",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag"
@@ -9663,6 +9663,6 @@
       }
     }
   },
-  "last_updated": "2026-08-23T16:42:44Z",
+  "last_updated": "2026-08-24T08:51:15Z",
   "engine_version": "3.0.0"
 }
