@@ -1,0 +1,26 @@
+{
+  "device": "Unicorn",
+  "builds": {
+    "OS.2.0.211.0. VLECNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-08-24T11:36:37Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:42fc873337d30de665d1245526056fe7462a6892c48520cfe263645a43ae9118",
+        "services_patched.jar": "sha256:6eba955d059abda6c95ea759de03138c63a3d2b9e311339484ba1bb0f338ce72",
+        "miui-services_patched.jar": "sha256:835bf3e1cd2addaf27816fa4a24ef4bb32a2a460452a08410b254ee9ebed0a4e",
+        "module_zip": "sha256:4fc2c9ba94462e0e7aff3e92fcab723b244e7befd0464eb74389810a54305d60"
+      },
+      "workflow_run_id": "32722391599",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32722391599",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32722391599"
+    }
+  },
+  "last_updated": "2026-08-24T11:37:10Z"
+}

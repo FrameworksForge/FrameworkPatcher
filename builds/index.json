@@ -9661,8 +9661,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Unicorn": {
+      "OS.2.0.211.0. VLECNXM": {
+        "android_version": "15",
+        "build_time": "2026-08-24T11:36:37Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32722391599",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32722391599",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-24T08:51:15Z",
+  "last_updated": "2026-08-24T11:37:10Z",
   "engine_version": "3.0.0"
 }
