@@ -3461,6 +3461,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "4.0.0.14.XPCCNXM.D00": {
+        "android_version": "16",
+        "build_time": "2026-08-25T07:26:31Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32821467540",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32821467540",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "klee": {
@@ -9691,6 +9701,6 @@
       }
     }
   },
-  "last_updated": "2026-08-24T19:29:39Z",
+  "last_updated": "2026-08-25T07:27:11Z",
   "engine_version": "3.0.0"
 }
