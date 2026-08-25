@@ -9251,6 +9251,18 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.307.0 WNSCNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-25T13:19:27Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32852376660",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32852376660",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "ZORN": {
@@ -9701,6 +9713,6 @@
       }
     }
   },
-  "last_updated": "2026-08-25T07:27:11Z",
+  "last_updated": "2026-08-25T13:20:09Z",
   "engine_version": "3.0.0"
 }
