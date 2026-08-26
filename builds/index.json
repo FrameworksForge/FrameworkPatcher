@@ -6315,6 +6315,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "rodin_eea_global_images_OS3.0.301.0.WOJEUXM_16.0": {
+        "android_version": "16",
+        "build_time": "2026-08-26T16:52:42Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32990652517",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32990652517",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "light": {
@@ -9761,6 +9771,6 @@
       }
     }
   },
-  "last_updated": "2026-08-26T08:49:10Z",
+  "last_updated": "2026-08-26T16:59:38Z",
   "engine_version": "3.0.0"
 }

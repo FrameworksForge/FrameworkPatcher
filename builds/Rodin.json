@@ -116,7 +116,25 @@
       "workflow_run_id": "32608710302",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32608710302",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32608710302"
+    },
+    "rodin_eea_global_images_OS3.0.301.0.WOJEUXM_16.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-08-26T16:52:42Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:14fbfe328391433d27bbe44124ae1856a1639dd8b94fe9f1f27dbb94c741560d",
+        "services_patched.jar": "sha256:b6a1fbad99c1b52f8992d02c5aa3b5f8a3834a0d6bfe591480794dc7a818f726",
+        "miui-services_patched.jar": "sha256:531f16eb2fb864636ffeff389888caaecd309c7ec4a22bbddb30281e8a73333f",
+        "module_zip": "sha256:d300a59ea55aeb688c4c752efc219a00b468707bd2342a3676ad8859f7b453e7"
+      },
+      "workflow_run_id": "32990652517",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32990652517",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32990652517"
     }
   },
-  "last_updated": "2026-08-23T00:49:40Z"
+  "last_updated": "2026-08-26T16:59:38Z"
 }
