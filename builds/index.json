@@ -3736,6 +3736,18 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS4.0.0.17": {
+        "android_version": "15",
+        "build_time": "2026-08-26T20:06:10Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33008245236",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33008245236",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "Duchamp": {
@@ -9771,6 +9783,6 @@
       }
     }
   },
-  "last_updated": "2026-08-26T16:59:38Z",
+  "last_updated": "2026-08-26T20:06:56Z",
   "engine_version": "3.0.0"
 }
