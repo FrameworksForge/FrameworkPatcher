@@ -1,0 +1,22 @@
+{
+  "device": "zron",
+  "builds": {
+    "os3.0.6.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-08-26T08:48:16Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:f9dd9444e0619519f5e60d355cb4eb0cfa706aea4662c303a4f8db9633d69ee1",
+        "module_zip": "sha256:295801719e4184514a7a6b0e016e8983decf925d4bc9bdc8668a78ebbfaae373"
+      },
+      "workflow_run_id": "32949564113",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32949564113",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32949564113"
+    }
+  },
+  "last_updated": "2026-08-26T08:48:45Z"
+}

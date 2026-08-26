@@ -9746,8 +9746,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "zron": {
+      "os3.0.6.0": {
+        "android_version": "16",
+        "build_time": "2026-08-26T08:48:16Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32949564113",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32949564113",
+        "features": [
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-26T06:14:30Z",
+  "last_updated": "2026-08-26T08:48:45Z",
   "engine_version": "3.0.0"
 }
