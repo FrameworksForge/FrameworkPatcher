@@ -9750,16 +9750,17 @@
     "zron": {
       "os3.0.6.0": {
         "android_version": "16",
-        "build_time": "2026-08-26T08:48:16Z",
+        "build_time": "2026-08-26T08:48:39Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32949564113",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32949564113",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32949544606",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32949544606",
         "features": [
-          "cn_notification_fix"
+          "cn_notification_fix",
+          "disable_secure_flag"
         ]
       }
     }
   },
-  "last_updated": "2026-08-26T08:48:45Z",
+  "last_updated": "2026-08-26T08:49:10Z",
   "engine_version": "3.0.0"
 }
