@@ -1760,6 +1760,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS4.0.0.6.XOCCNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-27T19:29:12Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33108548922",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33108548922",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "vermeer": {
@@ -9817,6 +9827,6 @@
       }
     }
   },
-  "last_updated": "2026-08-27T16:27:56Z",
+  "last_updated": "2026-08-27T19:29:52Z",
   "engine_version": "3.0.0"
 }
