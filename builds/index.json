@@ -2751,6 +2751,16 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "os3-a15": {
+        "android_version": "15",
+        "build_time": "2026-08-27T15:14:44Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33086613597",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33086613597",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "duchamp": {
@@ -9795,6 +9805,6 @@
       }
     }
   },
-  "last_updated": "2026-08-27T14:54:32Z",
+  "last_updated": "2026-08-27T15:15:19Z",
   "engine_version": "3.0.0"
 }
