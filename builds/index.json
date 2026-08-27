@@ -3640,6 +3640,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.306.0 WPJCNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-27T16:27:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33093065538",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33093065538",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix"
+        ]
       }
     },
     "nezha": {
@@ -9806,6 +9817,6 @@
       }
     }
   },
-  "last_updated": "2026-08-27T15:36:02Z",
+  "last_updated": "2026-08-27T16:27:56Z",
   "engine_version": "3.0.0"
 }
