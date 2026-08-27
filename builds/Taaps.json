@@ -1,0 +1,22 @@
+{
+  "device": "Taaps",
+  "builds": {
+    "Tuff": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-08-27T22:11:52Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:573b68c78e563a53a9d2261b429398385859cf2129ae8858d4abc8d8fa6bd67d",
+        "module_zip": "sha256:b29f029be189331ebf14e7d96363e364e7a3beccd3a574f794f0d071c8f6d08a"
+      },
+      "workflow_run_id": "33121435637",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33121435637",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33121435637"
+    }
+  },
+  "last_updated": "2026-08-27T22:12:28Z"
+}

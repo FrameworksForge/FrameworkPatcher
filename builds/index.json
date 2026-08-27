@@ -9837,8 +9837,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Taaps": {
+      "Tuff": {
+        "android_version": "15",
+        "build_time": "2026-08-27T22:11:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33121435637",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33121435637",
+        "features": [
+          "cn_notification_fix"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-27T21:16:41Z",
+  "last_updated": "2026-08-27T22:12:28Z",
   "engine_version": "3.0.0"
 }
