@@ -9859,8 +9859,22 @@
           "cn_notification_fix"
         ]
       }
+    },
+    "ZEUS": {
+      "OS2.0.214.0.VLBCNXM": {
+        "android_version": "15",
+        "build_time": "2026-08-28T06:32:21Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33148047088",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33148047088",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-28T04:24:48Z",
+  "last_updated": "2026-08-28T06:33:06Z",
   "engine_version": "3.0.0"
 }
