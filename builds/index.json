@@ -6368,6 +6368,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "rodin_globalOS3.0.301.0.WOJMIXM": {
+        "android_version": "16",
+        "build_time": "2026-08-28T04:23:49Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33141568720",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33141568720",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "light": {
@@ -9851,6 +9861,6 @@
       }
     }
   },
-  "last_updated": "2026-08-27T22:12:28Z",
+  "last_updated": "2026-08-28T04:24:48Z",
   "engine_version": "3.0.0"
 }
