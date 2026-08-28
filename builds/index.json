@@ -6467,6 +6467,18 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.308.0.WNBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-08-28T21:29:01Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33212539397",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33212539397",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "ishtar": {
@@ -9907,6 +9919,6 @@
       }
     }
   },
-  "last_updated": "2026-08-28T19:01:59Z",
+  "last_updated": "2026-08-28T21:29:40Z",
   "engine_version": "3.0.0"
 }
