@@ -6411,6 +6411,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "Xiaomi.eu_OS3.0.301.0.WOJTWXM_16.0": {
+        "android_version": "16",
+        "build_time": "2026-08-29T08:41:12Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33243650432",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33243650432",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "light": {
@@ -9944,6 +9954,6 @@
       }
     }
   },
-  "last_updated": "2026-08-29T06:56:55Z",
+  "last_updated": "2026-08-29T08:41:56Z",
   "engine_version": "3.0.0"
 }
