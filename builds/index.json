@@ -9919,8 +9919,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Infinix-X662": {
+      "X662-H6914ABC-R-GL-231010V573": {
+        "android_version": "15",
+        "build_time": "2026-08-29T02:31:03Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33229041981",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33229041981",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-08-28T21:46:23Z",
+  "last_updated": "2026-08-29T02:31:37Z",
   "engine_version": "3.0.0"
 }
