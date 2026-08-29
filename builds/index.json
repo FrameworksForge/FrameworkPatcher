@@ -6400,6 +6400,17 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "rodin_tw_global_OS2.0.204.0.VOJTWXM_15.0": {
+        "android_version": "15",
+        "build_time": "2026-08-29T06:56:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33239519345",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33239519345",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "light": {
@@ -9933,6 +9944,6 @@
       }
     }
   },
-  "last_updated": "2026-08-29T02:33:33Z",
+  "last_updated": "2026-08-29T06:56:55Z",
   "engine_version": "3.0.0"
 }

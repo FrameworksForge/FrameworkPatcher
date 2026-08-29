@@ -152,7 +152,26 @@
       "workflow_run_id": "33141568720",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33141568720",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33141568720"
+    },
+    "rodin_tw_global_OS2.0.204.0.VOJTWXM_15.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-08-29T06:56:13Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:5f01e479f600aa0940f235ddff3f8eac80635c00211d59af722306b6af45430c",
+        "services_patched.jar": "sha256:d1084fe58cb5e0ca577d6ce0edfa7b19c6aede3d58a22780033152becc8183b7",
+        "miui-services_patched.jar": "sha256:46de6266501e9f2ff4b45ce780f12daf5b14874f855baa04db0dbff57e9b4ec3",
+        "module_zip": "sha256:f86baa8239dc00f766c248dd76009ddca08631372843a981a91a9d48f52d8282"
+      },
+      "workflow_run_id": "33239519345",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33239519345",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33239519345"
     }
   },
-  "last_updated": "2026-08-28T04:24:48Z"
+  "last_updated": "2026-08-29T06:56:54Z"
 }
