@@ -1185,6 +1185,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.4.0.VNQTWXM": {
+        "android_version": "15",
+        "build_time": "2026-08-29T11:02:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33249018586",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33249018586",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "topaz": {
@@ -9954,6 +9965,6 @@
       }
     }
   },
-  "last_updated": "2026-08-29T08:41:56Z",
+  "last_updated": "2026-08-29T11:02:58Z",
   "engine_version": "3.0.0"
 }
