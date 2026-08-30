@@ -1,0 +1,27 @@
+{
+  "device": "chopin_",
+  "builds": {
+    "OS.3.6.67": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-08-30T09:51:23Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:4037368c5c3d0d4b3a8d7db983ae6daea0ef7a18d847668a4a289f75765ab69b",
+        "services_patched.jar": "sha256:4dceb59d6ad4b57c76b0f1bee165305b8bd0f2ef8eff24b64c2d6b01d0fa0e15",
+        "miui-services_patched.jar": "sha256:2358b490563b91f2874d74f60c33734dbb4633cded62d8cc78bcfbece7805e21",
+        "module_zip": "sha256:bb2acb85e4af37062db8e34f3648101ff26875010be76d0237944303d240447f"
+      },
+      "workflow_run_id": "33304966426",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33304966426",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33304966426"
+    }
+  },
+  "last_updated": "2026-08-30T09:52:05Z"
+}
