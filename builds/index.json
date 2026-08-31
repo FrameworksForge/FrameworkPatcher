@@ -8388,13 +8388,12 @@
       },
       "OS4.0.0.10.XPTCNXM": {
         "android_version": "15",
-        "build_time": "2026-08-30T19:05:22Z",
+        "build_time": "2026-08-31T14:17:53Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33329681087",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33329681087",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33401353358",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33401353358",
         "features": [
           "disable_signature_verification",
-          "cn_notification_fix",
           "disable_secure_flag"
         ]
       }
@@ -10031,6 +10030,6 @@
       }
     }
   },
-  "last_updated": "2026-08-31T04:57:10Z",
+  "last_updated": "2026-08-31T14:18:34Z",
   "engine_version": "3.0.0"
 }
