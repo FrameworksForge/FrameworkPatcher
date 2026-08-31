@@ -724,6 +724,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.303.0.WOKMIXM": {
+        "android_version": "16",
+        "build_time": "2026-08-31T04:56:34Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33358661592",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33358661592",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Tapas": {
@@ -10020,6 +10031,6 @@
       }
     }
   },
-  "last_updated": "2026-08-31T01:31:52Z",
+  "last_updated": "2026-08-31T04:57:10Z",
   "engine_version": "3.0.0"
 }
