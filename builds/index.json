@@ -7092,6 +7092,18 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS 3.0.306.0": {
+        "android_version": "16",
+        "build_time": "2026-09-01T04:19:14Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33469241846",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33469241846",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "kaorios_toolbox"
+        ]
       }
     },
     "emerald": {
@@ -10062,6 +10074,6 @@
       }
     }
   },
-  "last_updated": "2026-09-01T04:06:20Z",
+  "last_updated": "2026-09-01T04:19:53Z",
   "engine_version": "3.0.0"
 }
