@@ -6129,6 +6129,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.3.5.0.WOLCNXM": {
+        "android_version": "16",
+        "build_time": "2026-09-03T11:21:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33748871081",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33748871081",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "goya": {
@@ -10148,6 +10159,6 @@
       }
     }
   },
-  "last_updated": "2026-09-03T10:18:20Z",
+  "last_updated": "2026-09-03T11:21:49Z",
   "engine_version": "3.0.0"
 }
