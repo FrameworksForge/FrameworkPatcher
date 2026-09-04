@@ -1358,6 +1358,18 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.3.0.VLCIDXM": {
+        "android_version": "15",
+        "build_time": "2026-09-04T09:36:21Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33858858780",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33858858780",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "marble": {
@@ -10159,6 +10171,6 @@
       }
     }
   },
-  "last_updated": "2026-09-03T11:21:49Z",
+  "last_updated": "2026-09-04T09:36:57Z",
   "engine_version": "3.0.0"
 }
