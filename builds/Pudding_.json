@@ -1,0 +1,25 @@
+{
+  "device": "Pudding_",
+  "builds": {
+    "OS3.0.319.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-09-05T11:56:41Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:ab497c60fd3635dc6b37281951d7ed991c70af94f38cb740e0c3f0985912a896",
+        "services_patched.jar": "sha256:4a9acab0e280839f26b49b838b3785f870c01b8b6f5d4429122b31396186f091",
+        "miui-services_patched.jar": "sha256:7ee1babf75a347610f91166ff164d86f064c6a9771395e347046d8dae5221618",
+        "module_zip": "sha256:a5a250eeaa6d68e0ab4781d36a398fa91c88ddd16cc12fb62269964fa49d6a44"
+      },
+      "workflow_run_id": "33964582221",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33964582221",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33964582221"
+    }
+  },
+  "last_updated": "2026-09-05T11:57:17Z"
+}
