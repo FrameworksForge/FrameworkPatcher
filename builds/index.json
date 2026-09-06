@@ -10209,8 +10209,21 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Gold_": {
+      "OS3.0.5.0": {
+        "android_version": "15",
+        "build_time": "2026-09-06T07:01:10Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34017883004",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34017883004",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-09-05T20:20:22Z",
+  "last_updated": "2026-09-06T07:01:44Z",
   "engine_version": "3.0.0"
 }

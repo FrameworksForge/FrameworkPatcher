@@ -1,0 +1,25 @@
+{
+  "device": "Gold_",
+  "builds": {
+    "OS3.0.5.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-09-06T07:01:10Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:64413671540e510015933aca33da1537b29092c067c57832bb10db9e21fb205f",
+        "services_patched.jar": "sha256:c4b5cea350f6c08286fe56293fdbfe9126baa1964352d0fa4940d686cfc0c6bf",
+        "miui-services_patched.jar": "sha256:5edba31467d5b13ab7051c15584c925aadac345544059487b117663c30595ee7",
+        "module_zip": "sha256:e036b1201a508b59cf9d37cba5da00db19c5bb2bf48cfebfd5758a93f8d23b72"
+      },
+      "workflow_run_id": "34017883004",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34017883004",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34017883004"
+    }
+  },
+  "last_updated": "2026-09-06T07:01:44Z"
+}
