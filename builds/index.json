@@ -1967,6 +1967,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.9.0.VNKCNXM": {
+        "android_version": "15",
+        "build_time": "2026-09-06T09:34:06Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34024978607",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34024978607",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     },
     "garnet": {
@@ -10225,6 +10235,6 @@
       }
     }
   },
-  "last_updated": "2026-09-06T07:05:16Z",
+  "last_updated": "2026-09-06T09:34:45Z",
   "engine_version": "3.0.0"
 }

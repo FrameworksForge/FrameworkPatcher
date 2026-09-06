@@ -172,7 +172,23 @@
       "workflow_run_id": "32220583550",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32220583550",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32220583550"
+    },
+    "OS2.0.9.0.VNKCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-09-06T09:34:06Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "miui-services_patched.jar": "sha256:16d846e1915d3e80a5b6f8b68e45360418c210862f7a62e11b7ef3f999787481",
+        "module_zip": "sha256:c8cf233dad7a43187c8334aa35626e90e7bcc41d0dec7d201de9e8f8ff2342a0"
+      },
+      "workflow_run_id": "34024978607",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34024978607",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34024978607"
     }
   },
-  "last_updated": "2026-08-21T00:39:28Z"
+  "last_updated": "2026-09-06T09:34:45Z"
 }
