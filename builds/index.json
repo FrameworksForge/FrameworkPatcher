@@ -10213,17 +10213,18 @@
     "Gold_": {
       "OS3.0.5.0": {
         "android_version": "15",
-        "build_time": "2026-09-06T07:01:10Z",
+        "build_time": "2026-09-06T07:04:39Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34017883004",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34017883004",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34018021041",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34018021041",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag"
+          "disable_secure_flag",
+          "kaorios_toolbox"
         ]
       }
     }
   },
-  "last_updated": "2026-09-06T07:01:44Z",
+  "last_updated": "2026-09-06T07:05:16Z",
   "engine_version": "3.0.0"
 }
