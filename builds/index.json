@@ -7006,6 +7006,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.5.0.VMNMIXM": {
+        "android_version": "15",
+        "build_time": "2026-09-11T06:24:45Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34569583777",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34569583777",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "evergo": {
@@ -10378,6 +10389,6 @@
       }
     }
   },
-  "last_updated": "2026-09-11T04:14:18Z",
+  "last_updated": "2026-09-11T06:25:20Z",
   "engine_version": "3.0.0"
 }
