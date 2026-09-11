@@ -9386,6 +9386,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS2.213.0": {
+        "android_version": "15",
+        "build_time": "2026-09-11T15:52:48Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34618362756",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34618362756",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Uke": {
@@ -10389,6 +10402,6 @@
       }
     }
   },
-  "last_updated": "2026-09-11T06:25:20Z",
+  "last_updated": "2026-09-11T15:53:32Z",
   "engine_version": "3.0.0"
 }
