@@ -1,0 +1,24 @@
+{
+  "device": "X6525",
+  "builds": {
+    "OS3.0.12.0.WBVMIXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-09-13T11:57:46Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:c116429f9ecb467d6aec2c816409a870aa6c812685e97be9df1e63e36f7e011d",
+        "services_patched.jar": "sha256:3e508517911d7d7061c203e29b21c3651b7cbf0efa169320ad88f1abb42abbc8",
+        "miui-services_patched.jar": "sha256:8a0c61fca67fe0ec31d2b655650eef15526794d09430cfc9b6f330a0f72e7d1b",
+        "module_zip": "sha256:abbc0414b93592eb3da62c37ca3767d7dec81e92d6c879e13268acd4fc58f758"
+      },
+      "workflow_run_id": "34755685953",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34755685953",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34755685953"
+    }
+  },
+  "last_updated": "2026-09-13T11:58:28Z"
+}
