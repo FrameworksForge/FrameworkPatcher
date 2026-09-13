@@ -1,0 +1,26 @@
+{
+  "device": "FUXI",
+  "builds": {
+    "OS.2.0.215.0.VMCCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-09-13T03:06:26Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:37484d90198d409c6aadaff595ed53710b2a47ff953b22a44c9c006a3747c425",
+        "services_patched.jar": "sha256:9f94ccf45b7c10dd5f19bc562663d8cc265d657f6dcc3174a2459c7e5acff585",
+        "miui-services_patched.jar": "sha256:bbaf63b6299ff08480c112cc23d811c770d3b905d576af4701a098b40737f89c",
+        "module_zip": "sha256:1f376f0fc4bc64f27db5b7666ef4b2ecb5e8e02ab2161c86509ce589bf6b9894"
+      },
+      "workflow_run_id": "34734530488",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/34734530488",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-34734530488"
+    }
+  },
+  "last_updated": "2026-09-13T03:07:00Z"
+}
