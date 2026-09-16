@@ -7644,6 +7644,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.302.0.WOGTWXM": {
+        "android_version": "16",
+        "build_time": "2026-09-16T01:48:30Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35045385910",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35045385910",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Moonstone": {
@@ -10460,6 +10470,6 @@
       }
     }
   },
-  "last_updated": "2026-09-15T09:05:51Z",
+  "last_updated": "2026-09-16T01:49:05Z",
   "engine_version": "3.0.0"
 }
