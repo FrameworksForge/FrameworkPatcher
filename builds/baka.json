@@ -1,0 +1,22 @@
+{
+  "device": "baka",
+  "builds": {
+    "3.0.3.0.VLHCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-09-16T03:01:52Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:e84735466e94e6daaabdb0686d6812b78b4b6fb543e7c774feb24eb27aa05c0e",
+        "module_zip": "sha256:a591cde77c9204749dc7a2136ccfe4d22e46ab7a7880dee6522345019c95dc0a"
+      },
+      "workflow_run_id": "35050113188",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35050113188",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35050113188"
+    }
+  },
+  "last_updated": "2026-09-16T03:02:26Z"
+}
