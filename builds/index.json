@@ -10249,6 +10249,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "TURBO_PLUS_19.07.26_shennung": {
+        "android_version": "16",
+        "build_time": "2026-09-16T16:30:33Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35122103731",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35122103731",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "athens": {
@@ -10505,6 +10515,6 @@
       }
     }
   },
-  "last_updated": "2026-09-16T03:02:26Z",
+  "last_updated": "2026-09-16T16:31:09Z",
   "engine_version": "3.0.0"
 }

@@ -36,7 +36,25 @@
       "workflow_run_id": "31412933850",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31412933850",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31412933850"
+    },
+    "TURBO_PLUS_19.07.26_shennung": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-09-16T16:30:33Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:9f20d0de4c5a2c9f526a955fc94fc20535341acbf46bb7f64f0ad653c1f25562",
+        "services_patched.jar": "sha256:9bb09354362e9127c14adb9b3c73cde9b1117d011221dd77983a5e16cb5488f6",
+        "miui-services_patched.jar": "sha256:50b25eeec80b3e1ef19a17841c4a0a277c682cbcf24755fb9f0484decddc0f03",
+        "module_zip": "sha256:a6c3704f2bf696ce247519ea1323a9d2da56270c3383c3c4cd53e1909735ebed"
+      },
+      "workflow_run_id": "35122103731",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35122103731",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35122103731"
     }
   },
-  "last_updated": "2026-08-10T17:16:17Z"
+  "last_updated": "2026-09-16T16:31:09Z"
 }
