@@ -484,7 +484,23 @@
       "workflow_run_id": "33661586949",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33661586949",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33661586949"
+    },
+    "3.0.3.0.VLHCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-09-16T02:51:13Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:cbef95a4d4cfb9f8bc88eddb44c3edf36b825c762ca1f5d576ea4332db3f8b55",
+        "module_zip": "sha256:ebec0f81db71b4be79660c863b914d33d89e9e57a7ac87cfbd8f7335795d7eac"
+      },
+      "workflow_run_id": "35049457239",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35049457239",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35049457239"
     }
   },
-  "last_updated": "2026-09-02T17:34:29Z"
+  "last_updated": "2026-09-16T02:51:49Z"
 }
