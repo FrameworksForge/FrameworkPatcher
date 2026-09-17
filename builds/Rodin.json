@@ -189,7 +189,26 @@
       "workflow_run_id": "33243650432",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/33243650432",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-33243650432"
+    },
+    "RODIN3.0.304.0.WOJCNXMA16.0": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix"
+      ],
+      "build_time": "2026-09-17T22:46:09Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:2e280aeed1cfcc9bd2e1183a106ce029646bfcd56ea0ac32c13222ab3b3637a3",
+        "services_patched.jar": "sha256:a72bc16362d57c44f16874bd2ff506b3b2bfb68de8fd0ed05ae6946c2dd67b16",
+        "miui-services_patched.jar": "sha256:b3337892e8b25815c9a214b6b5e0c4c2b74c22172c90d40264110b784373fef4",
+        "module_zip": "sha256:64699e1881f11b5e757f43d0496034ba46a17c82ee68205b69019af0ae3267c5"
+      },
+      "workflow_run_id": "35283462714",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35283462714",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35283462714"
     }
   },
-  "last_updated": "2026-08-29T08:41:56Z"
+  "last_updated": "2026-09-17T22:46:44Z"
 }
