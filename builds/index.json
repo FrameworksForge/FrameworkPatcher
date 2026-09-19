@@ -788,6 +788,17 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.308.0.WOKCNXM": {
+        "android_version": "16",
+        "build_time": "2026-09-19T01:10:42Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35411686083",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35411686083",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Tapas": {
@@ -10559,6 +10570,6 @@
       }
     }
   },
-  "last_updated": "2026-09-18T05:14:23Z",
+  "last_updated": "2026-09-19T01:11:19Z",
   "engine_version": "3.0.0"
 }
