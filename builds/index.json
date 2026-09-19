@@ -10600,8 +10600,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Ginkgo": {
+      "2.0.20.0.UMSCNXM": {
+        "android_version": "15",
+        "build_time": "2026-09-19T18:25:34Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35460978061",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35460978061",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-09-19T17:03:22Z",
+  "last_updated": "2026-09-19T18:26:08Z",
   "engine_version": "3.0.0"
 }

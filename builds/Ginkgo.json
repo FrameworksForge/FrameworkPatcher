@@ -1,0 +1,24 @@
+{
+  "device": "Ginkgo",
+  "builds": {
+    "2.0.20.0.UMSCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-09-19T18:25:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b8df174a44f2a4593e25d7a250b6bdfcbad00ece7bdab790f002c47664d827af",
+        "services_patched.jar": "sha256:a73823068f964e21d070567cd2571a579f1899cc63c21d822b2c92129f68fabc",
+        "miui-services_patched.jar": "sha256:5a62fb84c62898f2f467ae0dec2387bd24a2de709af6ccd69195d4fda23aff0c",
+        "module_zip": "sha256:f6c404d68b02b2d5891e6e94ae840bd658c2f12e911ce055ba4c2b085909074b"
+      },
+      "workflow_run_id": "35460978061",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35460978061",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35460978061"
+    }
+  },
+  "last_updated": "2026-09-19T18:26:08Z"
+}
