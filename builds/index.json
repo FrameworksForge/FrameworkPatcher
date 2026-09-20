@@ -10612,8 +10612,20 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "Rembrandt_": {
+      "OS2.0.25.0": {
+        "android_version": "15",
+        "build_time": "2026-09-20T01:53:25Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35482395933",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35482395933",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-09-19T18:26:08Z",
+  "last_updated": "2026-09-20T01:54:09Z",
   "engine_version": "3.0.0"
 }

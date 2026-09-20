@@ -1,0 +1,24 @@
+{
+  "device": "Rembrandt_",
+  "builds": {
+    "OS2.0.25.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-09-20T01:53:25Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:302a273f2facd8185bad99bb11aee8ecdeb9a077598d92abb1be9f0dc7c898a6",
+        "services_patched.jar": "sha256:77f603e51bdc396d62c6f3856fb233a766a586e57942f1f84798748b2582be6f",
+        "miui-services_patched.jar": "sha256:38a1c081d946fd1f561fd9c1f420a56304f1347d44826f7451c52e7aaa8c42d4",
+        "module_zip": "sha256:d980e35580e796b3aab704cf69d196f0bade636528463a5f004b2576709535d5"
+      },
+      "workflow_run_id": "35482395933",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35482395933",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35482395933"
+    }
+  },
+  "last_updated": "2026-09-20T01:54:09Z"
+}
