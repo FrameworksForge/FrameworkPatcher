@@ -1,0 +1,27 @@
+{
+  "device": "Moonstone_",
+  "builds": {
+    "OS3.0.3.WBXNCND": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-09-21T08:51:48Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:43660cea48ebcbedaedcd98f93a7c265f483903fece60090ba482f89878a5280",
+        "services_patched.jar": "sha256:1577f1c9a0e77206ea8068f61a4369d063e825f61c10c6a960e0563d8432869e",
+        "miui-services_patched.jar": "sha256:4602a8f6bf782c743a2528e91e3221fea24916aee29803cd663c058f81e7319e",
+        "module_zip": "sha256:f89f5f7756f71ddddf2d1f6f40d252c5041f4c07a38681ca3602a9727f8cffa7"
+      },
+      "workflow_run_id": "35579917656",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35579917656",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35579917656"
+    }
+  },
+  "last_updated": "2026-09-21T08:52:24Z"
+}
