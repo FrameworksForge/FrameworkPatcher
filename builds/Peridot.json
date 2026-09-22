@@ -100,7 +100,27 @@
       "workflow_run_id": "35522683748",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35522683748",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35522683748"
+    },
+    "peridot_OS3.0.304.0.WNPIDXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-09-22T09:37:36Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:35fa32c8dd03fcb09e961b4805c4c9e646e70f062ffeea55c3259b1ccd7f89d9",
+        "services_patched.jar": "sha256:ef24832421a811df45c1363e6dcab15588062e72fc26d7b5e6d26ff15b8d537c",
+        "miui-services_patched.jar": "sha256:9f14ee4bdcd503f6ee198c014d569d80c103a5972e9f222dff21a52834a19567",
+        "module_zip": "sha256:5f8f218f63d6a3008d5304fced8da56a7040ec880997f53a2d7ec393c8622aa8"
+      },
+      "workflow_run_id": "35711204003",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35711204003",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35711204003"
     }
   },
-  "last_updated": "2026-09-20T16:28:58Z"
+  "last_updated": "2026-09-22T09:38:17Z"
 }

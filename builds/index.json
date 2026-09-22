@@ -5078,6 +5078,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "peridot_OS3.0.304.0.WNPIDXM": {
+        "android_version": "16",
+        "build_time": "2026-09-22T09:37:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35711204003",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35711204003",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "klimt": {
@@ -10701,6 +10713,6 @@
       }
     }
   },
-  "last_updated": "2026-09-21T19:06:39Z",
+  "last_updated": "2026-09-22T09:38:17Z",
   "engine_version": "3.0.0"
 }
