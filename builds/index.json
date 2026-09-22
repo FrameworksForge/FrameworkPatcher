@@ -10710,8 +10710,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "iron": {
+      "OS3.0.4.0.VNQEUXM": {
+        "android_version": "15",
+        "build_time": "2026-09-22T16:06:50Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35751660573",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35751660573",
+        "features": [
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-09-22T10:21:40Z",
+  "last_updated": "2026-09-22T16:07:27Z",
   "engine_version": "3.0.0"
 }

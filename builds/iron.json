@@ -1,0 +1,22 @@
+{
+  "device": "iron",
+  "builds": {
+    "OS3.0.4.0.VNQEUXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-09-22T16:06:50Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8e1234ab284241ce238ca30023104a6ab0e07e18f6332ca7c5ac038b9f86793b",
+        "module_zip": "sha256:2a2581fb71b930b90eb5a5ec66942188c51fea14607aff1e91f4610a4fd23c82"
+      },
+      "workflow_run_id": "35751660573",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35751660573",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35751660573"
+    }
+  },
+  "last_updated": "2026-09-22T16:07:27Z"
+}
