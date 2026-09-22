@@ -5081,14 +5081,13 @@
       },
       "peridot_OS3.0.304.0.WNPIDXM": {
         "android_version": "16",
-        "build_time": "2026-09-22T09:37:36Z",
+        "build_time": "2026-09-22T10:20:49Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35711204003",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35711204003",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35715215090",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35715215090",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag",
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       }
     },
@@ -10713,6 +10712,6 @@
       }
     }
   },
-  "last_updated": "2026-09-22T09:38:17Z",
+  "last_updated": "2026-09-22T10:21:40Z",
   "engine_version": "3.0.0"
 }
