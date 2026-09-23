@@ -9385,6 +9385,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OSZKOS1.0.26.0.UMPMIXM": {
+        "android_version": "15",
+        "build_time": "2026-09-23T15:26:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35881080585",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35881080585",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "Raphael": {
@@ -10724,6 +10734,6 @@
       }
     }
   },
-  "last_updated": "2026-09-22T16:07:27Z",
+  "last_updated": "2026-09-23T15:26:58Z",
   "engine_version": "3.0.0"
 }

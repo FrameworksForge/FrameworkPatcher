@@ -39,7 +39,25 @@
       "workflow_run_id": "32652343574",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/32652343574",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-32652343574"
+    },
+    "OSZKOS1.0.26.0.UMPMIXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-09-23T15:26:20Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:39e62e7dac08135912d56838455449df80d90a54c0cd7ca3a2cdec196d320e31",
+        "services_patched.jar": "sha256:4e3ed20c4cc1085c31cee5e822acb45db5e86d8b2fb02c7a0e16199dcbc7dfcc",
+        "miui-services_patched.jar": "sha256:62fc72d2a18e0e4dd5801d728df546a4dcd680d91af5932635a752c09684a697",
+        "module_zip": "sha256:e0ad769f8dfd4d4424381aba44b45fa335aa31084126ccd9f3775e1bd6023f1b"
+      },
+      "workflow_run_id": "35881080585",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35881080585",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35881080585"
     }
   },
-  "last_updated": "2026-08-23T16:42:44Z"
+  "last_updated": "2026-09-23T15:26:58Z"
 }
