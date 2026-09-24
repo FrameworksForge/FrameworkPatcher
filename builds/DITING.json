@@ -1,0 +1,26 @@
+{
+  "device": "DITING",
+  "builds": {
+    "OS.2.0.211.0.VLFCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-09-24T04:31:46Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:b9e6480572e5f1757bf6efa3e0020a01d7f3e24b26dc421d74582bf7ec98a92a",
+        "services_patched.jar": "sha256:8a3b40a2949fa9b0661ded09f808defd0f5a1503bff9b72e954a72aab4205da7",
+        "miui-services_patched.jar": "sha256:745e781ffe6a69eb2b361f5536a409eb19da9b420d18e8fab70529c462ca8478",
+        "module_zip": "sha256:aefe8b540e82edc9344947a79c061bdc5185c4105e073e3d7fb0c013707e6843"
+      },
+      "workflow_run_id": "35955735131",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35955735131",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35955735131"
+    }
+  },
+  "last_updated": "2026-09-24T04:33:00Z"
+}
