@@ -7391,6 +7391,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.302.WNSIDXM.C10": {
+        "android_version": "16",
+        "build_time": "2026-09-24T09:10:23Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35979355108",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35979355108",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "RN13PRO_": {
@@ -10783,6 +10793,6 @@
       }
     }
   },
-  "last_updated": "2026-09-24T07:43:41Z",
+  "last_updated": "2026-09-24T09:11:04Z",
   "engine_version": "3.0.0"
 }
