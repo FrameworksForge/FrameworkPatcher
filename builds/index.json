@@ -10804,8 +10804,21 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Redwood_": {
+      "HyperOs 1.0.15": {
+        "android_version": "14",
+        "build_time": "2026-09-25T00:13:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36076399245",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36076399245",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-09-24T20:57:58Z",
+  "last_updated": "2026-09-25T00:14:19Z",
   "engine_version": "3.0.0"
 }

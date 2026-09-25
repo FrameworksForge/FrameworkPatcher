@@ -1,0 +1,25 @@
+{
+  "device": "Redwood_",
+  "builds": {
+    "HyperOs 1.0.15": {
+      "android_version": "14",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-09-25T00:13:40Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f3a46785bc9c5919bba115740c9e2ff59d6be3b957dceddce171acd5e0d367d3",
+        "services_patched.jar": "sha256:896392064e1d80c0647c11a444b942b99c0e5a99a050776abbd2cb0e738af370",
+        "miui-services_patched.jar": "sha256:a02f8d27fda7c281002f1053d6cc95d3b18b328d0a6a98134e4716449484fd13",
+        "module_zip": "sha256:23397e149ec16aece42fb40c5841404be9d112f765073dbd15b36192dd3aa9e5"
+      },
+      "workflow_run_id": "36076399245",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36076399245",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36076399245"
+    }
+  },
+  "last_updated": "2026-09-25T00:14:19Z"
+}
