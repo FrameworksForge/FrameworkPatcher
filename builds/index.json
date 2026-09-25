@@ -5699,10 +5699,10 @@
       },
       "OS1.0.34.0.THGMIXM": {
         "android_version": "15",
-        "build_time": "2026-08-05T18:42:15Z",
+        "build_time": "2026-09-25T07:48:29Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-31035736877",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/31035736877",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36109280438",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36109280438",
         "features": [
           "disable_signature_verification",
           "disable_secure_flag",
@@ -10819,6 +10819,6 @@
       }
     }
   },
-  "last_updated": "2026-09-25T00:14:19Z",
+  "last_updated": "2026-09-25T07:49:11Z",
   "engine_version": "3.0.0"
 }
