@@ -7004,13 +7004,14 @@
       },
       "OS3.0.301.0": {
         "android_version": "16",
-        "build_time": "2026-09-26T12:41:16Z",
+        "build_time": "2026-09-26T12:53:41Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36242571135",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36242571135",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36243229405",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36243229405",
         "features": [
           "disable_signature_verification",
-          "disable_secure_flag"
+          "disable_secure_flag",
+          "kaorios_toolbox"
         ]
       }
     },
@@ -10841,6 +10842,6 @@
       }
     }
   },
-  "last_updated": "2026-09-26T12:41:49Z",
+  "last_updated": "2026-09-26T12:54:24Z",
   "engine_version": "3.0.0"
 }
