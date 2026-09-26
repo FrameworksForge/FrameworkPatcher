@@ -8688,6 +8688,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.302.0": {
+        "android_version": "16",
+        "build_time": "2026-09-26T13:22:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36244841740",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36244841740",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Curtana": {
@@ -10842,6 +10853,6 @@
       }
     }
   },
-  "last_updated": "2026-09-26T12:54:24Z",
+  "last_updated": "2026-09-26T13:23:36Z",
   "engine_version": "3.0.0"
 }
