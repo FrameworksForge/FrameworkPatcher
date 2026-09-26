@@ -6782,6 +6782,17 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "RODIN3.0.305.0.WOJCNXM.A16.0": {
+        "android_version": "16",
+        "build_time": "2026-09-26T02:17:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36211101136",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36211101136",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix"
+        ]
       }
     },
     "light": {
@@ -10819,6 +10830,6 @@
       }
     }
   },
-  "last_updated": "2026-09-25T07:49:11Z",
+  "last_updated": "2026-09-26T02:18:29Z",
   "engine_version": "3.0.0"
 }
