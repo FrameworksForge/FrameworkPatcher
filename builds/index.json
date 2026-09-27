@@ -294,6 +294,18 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS2.0.204.0.VNLCNXM": {
+        "android_version": "15",
+        "build_time": "2026-09-27T06:52:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36301198981",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36301198981",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "dash": {
@@ -10853,6 +10865,6 @@
       }
     }
   },
-  "last_updated": "2026-09-26T13:23:36Z",
+  "last_updated": "2026-09-27T06:52:41Z",
   "engine_version": "3.0.0"
 }
