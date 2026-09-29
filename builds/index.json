@@ -7035,6 +7035,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.301.0.WBOIDXM": {
+        "android_version": "16",
+        "build_time": "2026-09-29T06:07:01Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36529219098",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36529219098",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "sheng": {
@@ -10889,6 +10900,6 @@
       }
     }
   },
-  "last_updated": "2026-09-29T03:35:30Z",
+  "last_updated": "2026-09-29T06:07:42Z",
   "engine_version": "3.0.0"
 }
