@@ -10873,8 +10873,22 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "honhkong": {
+      "OS4.0.11.0.XFRCNXM": {
+        "android_version": "15",
+        "build_time": "2026-09-29T03:34:52Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36517467418",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36517467418",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-09-29T02:31:07Z",
+  "last_updated": "2026-09-29T03:35:30Z",
   "engine_version": "3.0.0"
 }

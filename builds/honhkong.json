@@ -1,0 +1,26 @@
+{
+  "device": "honhkong",
+  "builds": {
+    "OS4.0.11.0.XFRCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-09-29T03:34:52Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:cd05cd83d4d04a165d2f11084a4c1b6a911f8337a4c0c59ca6d3d542e58b0685",
+        "services_patched.jar": "sha256:2d1223095636f4d3b1999aa31165a285b4faf7c2859743b7538c206e6bf5461e",
+        "miui-services_patched.jar": "sha256:12393b464bc9119ec7d344a0260308b7e102d1689af79707f4f7a6b1cfe5db85",
+        "module_zip": "sha256:b7fbfb6b0cf59ac2be61125433133adf08983af39c4d4d2076f53f7a2eef1fd1"
+      },
+      "workflow_run_id": "36517467418",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36517467418",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36517467418"
+    }
+  },
+  "last_updated": "2026-09-29T03:35:30Z"
+}
