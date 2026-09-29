@@ -10898,8 +10898,21 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "hongkong": {
+      "OS4.0.11.0.XFRCNXM": {
+        "android_version": "15",
+        "build_time": "2026-09-29T07:45:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36538267034",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36538267034",
+        "features": [
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-09-29T06:07:42Z",
+  "last_updated": "2026-09-29T07:45:58Z",
   "engine_version": "3.0.0"
 }

@@ -1,0 +1,24 @@
+{
+  "device": "hongkong",
+  "builds": {
+    "OS4.0.11.0.XFRCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-09-29T07:45:20Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:402f25b3002572faf46e142b778f8b7cce6a7a924da61e3beefa999b7266e4d5",
+        "miui-services_patched.jar": "sha256:bf971cb1ce7e503da40fa6226d3a7054390f7e0085db109fa628aedb36d3cd89",
+        "module_zip": "sha256:897822c9749beb0a53f54cfa0b0cb81d0fa0f04eef0c4ddec975cd02b6d6933c"
+      },
+      "workflow_run_id": "36538267034",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36538267034",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36538267034"
+    }
+  },
+  "last_updated": "2026-09-29T07:45:58Z"
+}
