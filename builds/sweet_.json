@@ -1,0 +1,26 @@
+{
+  "device": "sweet_",
+  "builds": {
+    "os1.0.26": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-09-30T13:43:22Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:57e68bac16d19ea3d4b43f9468d474269a8b31c1a665f629c7e918b01a1afc72",
+        "services_patched.jar": "sha256:004b88d5bd9ff330cd621e6d83d70e30ae551514a9916257285b23acbe8f0cd2",
+        "miui-services_patched.jar": "sha256:4fdb2594221ea6855863cfa08e82c0bf845178c1cd9e8c09bf2cf7258d4f4006",
+        "module_zip": "sha256:721ca4a81edfc0a4a54cb436f8d76f4f0d6bfaf79b9f8d388154d9bb6d2f2fc8"
+      },
+      "workflow_run_id": "36723313669",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36723313669",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36723313669"
+    }
+  },
+  "last_updated": "2026-09-30T13:44:06Z"
+}
