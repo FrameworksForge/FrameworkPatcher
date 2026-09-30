@@ -5753,6 +5753,18 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS1.0.26.0.UHGMIXM": {
+        "android_version": "15",
+        "build_time": "2026-09-30T04:06:43Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36667161389",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36667161389",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "fog": {
@@ -10924,6 +10936,6 @@
       }
     }
   },
-  "last_updated": "2026-09-30T04:06:56Z",
+  "last_updated": "2026-09-30T04:07:23Z",
   "engine_version": "3.0.0"
 }
