@@ -6850,6 +6850,17 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "OS3.0.303.0.WOJTWXM.C07": {
+        "android_version": "16",
+        "build_time": "2026-09-30T15:54:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36740011342",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36740011342",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "light": {
@@ -10961,6 +10972,6 @@
       }
     }
   },
-  "last_updated": "2026-09-30T13:44:06Z",
+  "last_updated": "2026-09-30T15:55:28Z",
   "engine_version": "3.0.0"
 }
