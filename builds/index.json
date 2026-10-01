@@ -389,6 +389,16 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS3.0.303.WPLIDXM.C11": {
+        "android_version": "16",
+        "build_time": "2026-10-01T04:19:03Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36814308437",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36814308437",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "malachite": {
@@ -10972,6 +10982,6 @@
       }
     }
   },
-  "last_updated": "2026-09-30T15:55:28Z",
+  "last_updated": "2026-10-01T04:19:45Z",
   "engine_version": "3.0.0"
 }
