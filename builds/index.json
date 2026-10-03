@@ -7101,6 +7101,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS2.0.206.0": {
+        "android_version": "15",
+        "build_time": "2026-10-03T17:37:56Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37140975413",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37140975413",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "sheng": {
@@ -11008,6 +11019,6 @@
       }
     }
   },
-  "last_updated": "2026-10-03T02:48:01Z",
+  "last_updated": "2026-10-03T17:38:36Z",
   "engine_version": "3.0.0"
 }
