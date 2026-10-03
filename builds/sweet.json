@@ -174,21 +174,19 @@
       "android_version": "15",
       "patch_version": "3.0.0",
       "features": [
-        "disable_signature_verification",
-        "disable_secure_flag",
-        "kaorios_toolbox"
+        "disable_signature_verification"
       ],
-      "build_time": "2026-09-25T07:48:29Z",
+      "build_time": "2026-10-03T18:29:03Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:de91a809cc7aa7d11d5b4a9413b3dd7cca691586a884a155a705e5ea6dc77b1b",
-        "services_patched.jar": "sha256:9a51d448b262368274f4ca8b324da3ceea269ff856eb9b13f540a2e3fc42a2b5",
-        "miui-services_patched.jar": "sha256:24612e3e0134a401e3de99f587edccea5881954a927eddb98ac19b88ed592b3e",
-        "module_zip": "sha256:ad582b2b78b8272d5609776954c4dff4081b5f807bec7dc26b0024ecbda9ce39"
+        "framework_patched.jar": "sha256:5648b2af089e3ada184ca9d0022fd7d07e7f6b7239d77e4f9d0d36a077834452",
+        "services_patched.jar": "sha256:217718d2414a49cf77700cb8a6920eff195f7b1241781792ff3a90f21cbe9f4b",
+        "miui-services_patched.jar": "sha256:46ef8ef4eae88ad78630f134902a5fb33d4d0937141326097ce76aeb96f657d1",
+        "module_zip": "sha256:eeb3554bda773f51795b7d6e7cc84b64ee50417ba26dcab1d2207cab87b4eaf8"
       },
-      "workflow_run_id": "36109280438",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/36109280438",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36109280438"
+      "workflow_run_id": "37144192137",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37144192137",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37144192137"
     },
     "1.0.34": {
       "android_version": "15",
@@ -229,5 +227,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-36667161389"
     }
   },
-  "last_updated": "2026-09-30T04:07:23Z"
+  "last_updated": "2026-10-03T18:29:37Z"
 }
