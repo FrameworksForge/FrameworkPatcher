@@ -11026,8 +11026,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "aristotle": {
+      "OS3.0.2.0.WMFIDXM": {
+        "android_version": "16",
+        "build_time": "2026-10-03T21:37:37Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37155606704",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37155606704",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-10-03T19:14:16Z",
+  "last_updated": "2026-10-03T21:38:12Z",
   "engine_version": "3.0.0"
 }

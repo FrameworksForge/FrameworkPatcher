@@ -1,0 +1,25 @@
+{
+  "device": "aristotle",
+  "builds": {
+    "OS3.0.2.0.WMFIDXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-10-03T21:37:37Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:f3f7789ab37f986e476155284a7d724e69915adf405da24ae1e4d0b0f58a3dfd",
+        "services_patched.jar": "sha256:7676fd0971ae3429e861b26fbcb21089ddfdfea239142afc71964e6d74378fe0",
+        "miui-services_patched.jar": "sha256:2a7370b74cc4444bd02653ebc41a717fcbebe0946dffc3bad61b21f7a84bc207",
+        "module_zip": "sha256:4b9c99f68353a8b1cf9bfc74d8dd8adb54fbb265b105c7bef10bd776574f328e"
+      },
+      "workflow_run_id": "37155606704",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37155606704",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37155606704"
+    }
+  },
+  "last_updated": "2026-10-03T21:38:12Z"
+}
