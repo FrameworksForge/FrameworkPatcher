@@ -10973,6 +10973,17 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "1.0.15.eu": {
+        "android_version": "14",
+        "build_time": "2026-10-03T19:13:39Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37146968260",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37146968260",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
       }
     },
     "honhkong": {
@@ -11017,6 +11028,6 @@
       }
     }
   },
-  "last_updated": "2026-10-03T18:29:37Z",
+  "last_updated": "2026-10-03T19:14:16Z",
   "engine_version": "3.0.0"
 }
