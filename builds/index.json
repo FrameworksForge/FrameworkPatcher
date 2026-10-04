@@ -10867,6 +10867,17 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "3.0.7.0": {
+        "android_version": "16",
+        "build_time": "2026-10-04T16:15:59Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37216024322",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37216024322",
+        "features": [
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "FUXI": {
@@ -11078,6 +11089,6 @@
       }
     }
   },
-  "last_updated": "2026-10-04T09:57:01Z",
+  "last_updated": "2026-10-04T16:16:36Z",
   "engine_version": "3.0.0"
 }
