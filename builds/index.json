@@ -11087,8 +11087,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Ziyi": {
+      "OS2.0.206.0.VLLMIXM": {
+        "android_version": "15",
+        "build_time": "2026-10-04T22:38:48Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37240572602",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37240572602",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-10-04T16:16:36Z",
+  "last_updated": "2026-10-04T22:39:20Z",
   "engine_version": "3.0.0"
 }

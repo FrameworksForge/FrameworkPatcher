@@ -1,0 +1,25 @@
+{
+  "device": "Ziyi",
+  "builds": {
+    "OS2.0.206.0.VLLMIXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-10-04T22:38:48Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:bbf36127487e4746dd365513b0a36fa411bad9837db62db032d12c032ff5ea4a",
+        "services_patched.jar": "sha256:b95d0fa65dac989e0722a77a2e3abab1a70bcd22d9b287436f23968170fd4232",
+        "miui-services_patched.jar": "sha256:a0b553eead355060d14b6cbeda47523429fce18cb2ab75a14a3e39031a7d7f95",
+        "module_zip": "sha256:e8344581b6fc54b4cc46526cf15a2c8579c8212a0ffb23b66b2d4a4c00f631de"
+      },
+      "workflow_run_id": "37240572602",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37240572602",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37240572602"
+    }
+  },
+  "last_updated": "2026-10-04T22:39:20Z"
+}
