@@ -1,0 +1,26 @@
+{
+  "device": "ziyi",
+  "builds": {
+    "16OS3.1.260713.150507774.QCPECN.S": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-10-04T04:10:54Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:ae6722254c97ffb0ef3f52bf18efcd15d6efb09e2772ecab3655403cad574f4e",
+        "services_patched.jar": "sha256:a3615ca35ee57c47769dfa778d169404742bed14e8668582fe28b89df13447e8",
+        "miui-services_patched.jar": "sha256:c376c9e892a355ca8be0a110cf92801edf831eb7612587169d91777bc1fd87c7",
+        "module_zip": "sha256:bf1fb65f2271bacfd4eaa453e6a538999d6551cfad088361bb48da281471c3a5"
+      },
+      "workflow_run_id": "37176143270",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37176143270",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37176143270"
+    }
+  },
+  "last_updated": "2026-10-04T04:11:30Z"
+}

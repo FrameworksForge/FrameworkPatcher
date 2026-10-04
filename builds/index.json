@@ -11039,8 +11039,22 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "ziyi": {
+      "16OS3.1.260713.150507774.QCPECN.S": {
+        "android_version": "16",
+        "build_time": "2026-10-04T04:10:54Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37176143270",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37176143270",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-10-03T21:38:12Z",
+  "last_updated": "2026-10-04T04:11:30Z",
   "engine_version": "3.0.0"
 }
