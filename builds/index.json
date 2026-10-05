@@ -11100,8 +11100,21 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Ridin": {
+      "OS3.0.301.0.WOJIDXM.C07": {
+        "android_version": "16",
+        "build_time": "2026-10-05T08:35:40Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37284429037",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37284429037",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-10-04T22:39:20Z",
+  "last_updated": "2026-10-05T08:36:19Z",
   "engine_version": "3.0.0"
 }

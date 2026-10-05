@@ -1,0 +1,25 @@
+{
+  "device": "Ridin",
+  "builds": {
+    "OS3.0.301.0.WOJIDXM.C07": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-10-05T08:35:40Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:44f6ad4e34f996c325b4a0285c338f03d692895c5726497a1661abfd6e289491",
+        "services_patched.jar": "sha256:9141c48f617b5b8ded6b525a340ebcca9a1415673e18b8878958dfc1ec3b7085",
+        "miui-services_patched.jar": "sha256:bb82bc207b1f583a71923d95e51bfa5cc3a8c3b94055bf2380801aa0b92f8de6",
+        "module_zip": "sha256:8dd8a9dc5c409bb9cf44b1d82ba4c1bd1c36988e3cc38974a4071b7efeb25b9e"
+      },
+      "workflow_run_id": "37284429037",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37284429037",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37284429037"
+    }
+  },
+  "last_updated": "2026-10-05T08:36:19Z"
+}
