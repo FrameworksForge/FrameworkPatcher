@@ -1774,10 +1774,10 @@
       },
       "OS3.0.305.0.WNPCNXM": {
         "android_version": "16",
-        "build_time": "2026-09-24T07:43:01Z",
+        "build_time": "2026-10-07T14:45:07Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-35970908757",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/35970908757",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37639067900",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37639067900",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -11137,6 +11137,6 @@
       }
     }
   },
-  "last_updated": "2026-10-05T16:26:12Z",
+  "last_updated": "2026-10-07T14:45:54Z",
   "engine_version": "3.0.0"
 }
