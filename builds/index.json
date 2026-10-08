@@ -8854,6 +8854,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "Hos 3": {
+        "android_version": "16",
+        "build_time": "2026-10-08T16:45:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37810963198",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37810963198",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Curtana": {
@@ -11137,6 +11148,6 @@
       }
     }
   },
-  "last_updated": "2026-10-07T14:45:54Z",
+  "last_updated": "2026-10-08T16:45:57Z",
   "engine_version": "3.0.0"
 }
