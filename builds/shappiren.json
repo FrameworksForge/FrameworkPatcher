@@ -1,0 +1,26 @@
+{
+  "device": "shappiren",
+  "builds": {
+    "OS2.0.211.0.VNHMIXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-10-09T21:58:09Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:5f81279ed582cd001ee7f0e1a3c86e524d81faa47d1f2a78e26777241df82a2f",
+        "services_patched.jar": "sha256:cc950d485255291399de78077da8fb7e76f3c935d9311db4243b3f64640e8b32",
+        "miui-services_patched.jar": "sha256:e9c8a8f0ecb2d7b7e81edd12c0207a7525011062c09ace6bfcefd128ba9c4582",
+        "module_zip": "sha256:04087e72a8eabee545990a54002e6267f8256bae696809f6b0fd696ee2b33b01"
+      },
+      "workflow_run_id": "37996226234",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37996226234",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37996226234"
+    }
+  },
+  "last_updated": "2026-10-09T21:58:45Z"
+}

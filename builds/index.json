@@ -11184,8 +11184,22 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "shappiren": {
+      "OS2.0.211.0.VNHMIXM": {
+        "android_version": "15",
+        "build_time": "2026-10-09T21:58:09Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37996226234",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37996226234",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-10-09T12:45:11Z",
+  "last_updated": "2026-10-09T21:58:45Z",
   "engine_version": "3.0.0"
 }
