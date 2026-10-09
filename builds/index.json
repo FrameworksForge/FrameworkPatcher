@@ -5506,6 +5506,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.3WOWOXII": {
+        "android_version": "16",
+        "build_time": "2026-10-09T10:34:31Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37918200891",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37918200891",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "sapphire": {
@@ -11160,6 +11172,6 @@
       }
     }
   },
-  "last_updated": "2026-10-09T04:24:43Z",
+  "last_updated": "2026-10-09T10:35:22Z",
   "engine_version": "3.0.0"
 }
