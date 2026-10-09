@@ -1,0 +1,26 @@
+{
+  "device": "Xaga_draven",
+  "builds": {
+    "Os3": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-10-09T12:44:34Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:c38f9d5fb5a05225bb19ab6aa3fe8929be1d85f684432d7a2a78f2b8b816a3db",
+        "services_patched.jar": "sha256:4b837f1643963bf245ff60ff115d2a58493db266db17e38f59cf6787032cb277",
+        "miui-services_patched.jar": "sha256:e57696bbd1233b6369ddce135a00a55a10874579281c9bd0b3f20f49e4b67979",
+        "module_zip": "sha256:88921705b3df55146bd27450a35efc04cb5745ea7722d411855441e14b6cdee3"
+      },
+      "workflow_run_id": "37931597826",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37931597826",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37931597826"
+    }
+  },
+  "last_updated": "2026-10-09T12:45:11Z"
+}
