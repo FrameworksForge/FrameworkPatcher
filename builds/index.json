@@ -833,6 +833,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "v30.30.300": {
+        "android_version": "16",
+        "build_time": "2026-10-10T21:16:29Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38086880371",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38086880371",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Tapas": {
@@ -11238,6 +11249,6 @@
       }
     }
   },
-  "last_updated": "2026-10-10T21:13:26Z",
+  "last_updated": "2026-10-10T21:17:02Z",
   "engine_version": "3.0.0"
 }
