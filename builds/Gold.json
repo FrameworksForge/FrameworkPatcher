@@ -119,7 +119,23 @@
       "workflow_run_id": "30071199440",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/30071199440",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-30071199440"
+    },
+    "Lunaris 3.12": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-10-10T14:18:03Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:9db2333296411736b8aa555e34723b15c7fd9e62db2eaa46d9d75c1a851a374d",
+        "module_zip": "sha256:bdb8c0edb734b4e89883e7703019f927b7e10ce081a63fd1382d0e407f99eb40"
+      },
+      "workflow_run_id": "38058995809",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38058995809",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38058995809"
     }
   },
-  "last_updated": "2026-07-24T06:09:16Z"
+  "last_updated": "2026-10-10T14:18:35Z"
 }

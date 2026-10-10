@@ -9055,6 +9055,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "Lunaris 3.12": {
+        "android_version": "16",
+        "build_time": "2026-10-10T14:18:03Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38058995809",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38058995809",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "cph2745": {
@@ -11215,6 +11225,6 @@
       }
     }
   },
-  "last_updated": "2026-10-10T04:57:02Z",
+  "last_updated": "2026-10-10T14:18:35Z",
   "engine_version": "3.0.0"
 }
