@@ -5193,6 +5193,16 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.305.0.WNPCNXM": {
+        "android_version": "16",
+        "build_time": "2026-10-11T07:53:38Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38122844848",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38122844848",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "klimt": {
@@ -11249,6 +11259,6 @@
       }
     }
   },
-  "last_updated": "2026-10-10T21:17:02Z",
+  "last_updated": "2026-10-11T07:54:11Z",
   "engine_version": "3.0.0"
 }
