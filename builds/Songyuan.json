@@ -1,0 +1,24 @@
+{
+  "device": "Songyuan",
+  "builds": {
+    "OS3.0.310.0.WGNCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-10-11T15:04:22Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:393c320482565cc2c723acaf58091f641740f66ca745fe29cb72897e3e924046",
+        "services_patched.jar": "sha256:c6f41015fd70cfa712e45f5a88f4f1be7129e5c45c81055019315a203b1b1509",
+        "miui-services_patched.jar": "sha256:98ce96459c6857a363b81666c984653fc0a114483a6846823bf0ed1d4becc473",
+        "module_zip": "sha256:17a21b11e5e31eccdc96ed63446236a971c58b5680d6540a9b7dc1a8431810d2"
+      },
+      "workflow_run_id": "38149611453",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38149611453",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38149611453"
+    }
+  },
+  "last_updated": "2026-10-11T15:04:59Z"
+}

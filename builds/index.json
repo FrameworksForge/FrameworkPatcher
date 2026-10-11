@@ -11257,8 +11257,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "Songyuan": {
+      "OS3.0.310.0.WGNCNXM": {
+        "android_version": "16",
+        "build_time": "2026-10-11T15:04:22Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38149611453",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38149611453",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-10-11T07:54:11Z",
+  "last_updated": "2026-10-11T15:04:59Z",
   "engine_version": "3.0.0"
 }
