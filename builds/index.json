@@ -11296,16 +11296,16 @@
       },
       "OS3.0.305.0.WGNIDXM": {
         "android_version": "16",
-        "build_time": "2026-10-11T20:33:49Z",
+        "build_time": "2026-10-12T18:23:05Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38172580496",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38172580496",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38290301046",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38290301046",
         "features": [
           "disable_signature_verification"
         ]
       }
     }
   },
-  "last_updated": "2026-10-12T18:16:40Z",
+  "last_updated": "2026-10-12T18:23:42Z",
   "engine_version": "3.0.0"
 }
