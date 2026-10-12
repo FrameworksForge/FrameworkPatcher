@@ -4866,14 +4866,13 @@
       },
       "2.0.215.0": {
         "android_version": "15",
-        "build_time": "2026-10-12T18:16:04Z",
+        "build_time": "2026-10-12T18:41:07Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38289358635",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38289358635",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38292343659",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38292343659",
         "features": [
           "cn_notification_fix",
-          "disable_secure_flag",
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       }
     },
@@ -11306,6 +11305,6 @@
       }
     }
   },
-  "last_updated": "2026-10-12T18:23:42Z",
+  "last_updated": "2026-10-12T18:41:46Z",
   "engine_version": "3.0.0"
 }
