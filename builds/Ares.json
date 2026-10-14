@@ -1,0 +1,26 @@
+{
+  "device": "Ares",
+  "builds": {
+    "3.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-10-14T10:15:22Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:4c16596439811396493452314e728711c8d83cd683704e8183a510d9975aafd6",
+        "services_patched.jar": "sha256:da22e60d6ca07d8b168acf2236ce0552d6b397376f74e5385a435e88d90c4554",
+        "miui-services_patched.jar": "sha256:c0d2af6dea1a6549951cff1df7f3de7269ae3ab386aa0672b5284fe234deb149",
+        "module_zip": "sha256:262c1fb0a237c9aa96b82c39b1a3c4e1fd562b592fe578ed2f40b282323bf94a"
+      },
+      "workflow_run_id": "38547833026",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38547833026",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38547833026"
+    }
+  },
+  "last_updated": "2026-10-14T10:16:03Z"
+}
