@@ -5578,6 +5578,19 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.3JOKOWI": {
+        "android_version": "16",
+        "build_time": "2026-10-14T13:36:15Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38572809717",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38572809717",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "sapphire": {
@@ -11342,6 +11355,6 @@
       }
     }
   },
-  "last_updated": "2026-10-14T10:16:03Z",
+  "last_updated": "2026-10-14T13:37:03Z",
   "engine_version": "3.0.0"
 }
