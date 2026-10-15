@@ -2828,6 +2828,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "xiaomi.eu_ONYX_OS3.0.306.0.WOLCNXM_16": {
+        "android_version": "16",
+        "build_time": "2026-10-15T06:26:28Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38692198121",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38692198121",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "tapas": {
@@ -11367,6 +11379,6 @@
       }
     }
   },
-  "last_updated": "2026-10-15T04:42:24Z",
+  "last_updated": "2026-10-15T06:27:05Z",
   "engine_version": "3.0.0"
 }
