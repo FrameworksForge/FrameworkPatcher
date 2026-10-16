@@ -857,6 +857,18 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "3.0.308.0.WOKCNXM by xiaomi.eu": {
+        "android_version": "16",
+        "build_time": "2026-10-16T13:21:07Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38906823597",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38906823597",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "Tapas": {
@@ -11413,6 +11425,6 @@
       }
     }
   },
-  "last_updated": "2026-10-16T11:58:59Z",
+  "last_updated": "2026-10-16T13:21:47Z",
   "engine_version": "3.0.0"
 }
