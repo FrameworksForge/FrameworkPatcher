@@ -2852,6 +2852,18 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "xiaomi_eu_ONYX_OS3_0_305": {
+        "android_version": "16",
+        "build_time": "2026-10-16T06:49:20Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38863175639",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38863175639",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "tapas": {
@@ -11391,6 +11403,6 @@
       }
     }
   },
-  "last_updated": "2026-10-15T16:04:31Z",
+  "last_updated": "2026-10-16T06:50:00Z",
   "engine_version": "3.0.0"
 }

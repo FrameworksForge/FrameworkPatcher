@@ -522,7 +522,27 @@
       "workflow_run_id": "38693703222",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38693703222",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38693703222"
+    },
+    "xiaomi_eu_ONYX_OS3_0_305": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-10-16T06:49:20Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:fc7fe4924989078429ad19e59db101a2abc113b5d9591678e4cc7795860da499",
+        "services_patched.jar": "sha256:a73d6a106fd18a87bdb2bfeee3cbbf186f14042a74d091867e5487759a1c5ea9",
+        "miui-services_patched.jar": "sha256:a02d55c9d1ab2fdcdf3cc222107b6005b6b2ad1d5bc0ff2d5e313000decbe97c",
+        "module_zip": "sha256:8f3cf297c111f1072eab3fe324c233a8a72a17921b3dbe106608190d187fd2ad"
+      },
+      "workflow_run_id": "38863175639",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38863175639",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38863175639"
     }
   },
-  "last_updated": "2026-10-15T06:42:16Z"
+  "last_updated": "2026-10-16T06:50:00Z"
 }
