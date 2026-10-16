@@ -542,7 +542,23 @@
       "workflow_run_id": "38863175639",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38863175639",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38863175639"
+    },
+    "TURBO_OS_V3.0.305.0_POCO_F7_EnOt.P_A16": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-10-16T11:58:24Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:32e3c78ba7e7577fa40a8e1b03c55580f3b5c6e29954d41fa7f445c726d1fe3e",
+        "module_zip": "sha256:6ea5184c35609333d5499ca94d175f222d5d2e08533cde3d05dfef3487eaeeb5"
+      },
+      "workflow_run_id": "38897196973",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38897196973",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38897196973"
     }
   },
-  "last_updated": "2026-10-16T06:50:00Z"
+  "last_updated": "2026-10-16T11:58:59Z"
 }
