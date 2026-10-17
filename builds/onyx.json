@@ -558,7 +558,26 @@
       "workflow_run_id": "38897196973",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38897196973",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38897196973"
+    },
+    "TURBO_OS_V3.0.306.0_POCO_F7_EnOt.P_A16": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-10-17T13:59:21Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:48cd00428a9ae69360f58c585124124d2c997f73a70e266016413e08e9b65a59",
+        "services_patched.jar": "sha256:2894a51988f73f33f864f13c2a0116514b19dda48c962b90b857f112c14a0ba9",
+        "miui-services_patched.jar": "sha256:54324c3500770f528766591a0247174e201e60e8560eb831615e7435fa31dde9",
+        "module_zip": "sha256:a4e4923cd06bfd1237c988951b38bfc7c7679b858b0c2a8252c989c7c998de36"
+      },
+      "workflow_run_id": "39038671158",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/39038671158",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-39038671158"
     }
   },
-  "last_updated": "2026-10-16T11:58:59Z"
+  "last_updated": "2026-10-17T14:00:00Z"
 }
