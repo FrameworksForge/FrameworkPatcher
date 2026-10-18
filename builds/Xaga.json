@@ -282,7 +282,25 @@
       "workflow_run_id": "37193621070",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37193621070",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37193621070"
+    },
+    "3.0.308.0.WPSCNXM Arcane.C07": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-10-18T14:25:05Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:0ae6128dacd3776e0ffd244f65a8dac6b553ad43c349bf3e28eef38dcc87d697",
+        "services_patched.jar": "sha256:c2278c4ea6ba49e51be96d57150a7362c3576340045ceb61bdda6faedc679a91",
+        "miui-services_patched.jar": "sha256:af5c6896e7437bc85a0f136f29ab250d1fb164ffb5d83a41ffaa7140b1bf07e5",
+        "module_zip": "sha256:441e310a28ff83c3ca99cd6ef2ddf037e8707699f78c526c903a14aea2b5e633"
+      },
+      "workflow_run_id": "39135737409",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/39135737409",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-39135737409"
     }
   },
-  "last_updated": "2026-10-04T09:57:01Z"
+  "last_updated": "2026-10-18T14:25:39Z"
 }

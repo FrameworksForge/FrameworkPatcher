@@ -2463,6 +2463,16 @@
           "disable_signature_verification",
           "kaorios_toolbox"
         ]
+      },
+      "3.0.308.0.WPSCNXM Arcane.C07": {
+        "android_version": "16",
+        "build_time": "2026-10-18T14:25:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-39135737409",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/39135737409",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "amethyst": {
@@ -11459,6 +11469,6 @@
       }
     }
   },
-  "last_updated": "2026-10-17T14:00:00Z",
+  "last_updated": "2026-10-18T14:25:39Z",
   "engine_version": "3.0.0"
 }
