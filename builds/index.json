@@ -10786,6 +10786,18 @@
         "features": [
           "disable_signature_verification"
         ]
+      },
+      "OS2.0.222.0.VNBCNXM": {
+        "android_version": "15",
+        "build_time": "2026-10-19T22:29:01Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-39334826329",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/39334826329",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "rosemary": {
@@ -11469,6 +11481,6 @@
       }
     }
   },
-  "last_updated": "2026-10-18T14:25:39Z",
+  "last_updated": "2026-10-19T22:29:42Z",
   "engine_version": "3.0.0"
 }
