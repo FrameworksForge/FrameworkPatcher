@@ -11479,8 +11479,20 @@
           "disable_secure_flag"
         ]
       }
+    },
+    "Dew": {
+      "OS3.0.302.WBNMIXM.C07": {
+        "android_version": "16",
+        "build_time": "2026-10-20T04:44:59Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-39370973756",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/39370973756",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-10-19T22:29:42Z",
+  "last_updated": "2026-10-20T04:45:40Z",
   "engine_version": "3.0.0"
 }

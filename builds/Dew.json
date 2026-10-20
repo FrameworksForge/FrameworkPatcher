@@ -1,0 +1,24 @@
+{
+  "device": "Dew",
+  "builds": {
+    "OS3.0.302.WBNMIXM.C07": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-10-20T04:44:59Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:0aae3fd5a7adc8b94fc1d419b7d44b41a3d69536e31c4dfc224327ebb66622a4",
+        "services_patched.jar": "sha256:c92a386c2cb240b4d90069a9bce3a10fc7c21eee13f21d7bf7f35b0d7e76c1df",
+        "miui-services_patched.jar": "sha256:cffcdf0d7e9bec1ba42cfbe4e7e397ebc6bc37ee86723525ca7fc045c3399352",
+        "module_zip": "sha256:3d51b360c13b1a121f6fa75e00cdd006807d9c3589a465efe0eca228c6ddaa11"
+      },
+      "workflow_run_id": "39370973756",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/39370973756",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-39370973756"
+    }
+  },
+  "last_updated": "2026-10-20T04:45:40Z"
+}
