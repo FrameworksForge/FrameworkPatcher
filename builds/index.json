@@ -11349,6 +11349,17 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.3.0.WMFIDXM": {
+        "android_version": "16",
+        "build_time": "2026-10-22T15:57:12Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-39809214786",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/39809214786",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "ziyi": {
@@ -11493,6 +11504,6 @@
       }
     }
   },
-  "last_updated": "2026-10-20T04:45:40Z",
+  "last_updated": "2026-10-22T15:58:05Z",
   "engine_version": "3.0.0"
 }
