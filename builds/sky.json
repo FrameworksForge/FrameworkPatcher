@@ -37,7 +37,27 @@
       "workflow_run_id": "26463098279",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/26463098279",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26463098279"
+    },
+    "2.0.204.0.VMWINXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-10-22T22:39:36Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:e1de5e9730396232ced26b93fd2a105643fad5c7351f501f72298766be0fd72d",
+        "services_patched.jar": "sha256:458cd0646051aff8de104e15a0eeb2e1dbb2b81caa03f7a93c6b8b3e1cd42051",
+        "miui-services_patched.jar": "sha256:45ab997a279570c1a65eafff874b0c8d2b4c408bfa8cea92deb4c6a41cafeed5",
+        "module_zip": "sha256:84a28ca2fe7c02d28aab5fba8c370ab236c03c8296d485c04cc69a2f075ee38e"
+      },
+      "workflow_run_id": "39866118756",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/39866118756",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-39866118756"
     }
   },
-  "last_updated": "2026-05-26T17:08:36Z"
+  "last_updated": "2026-10-22T22:40:17Z"
 }

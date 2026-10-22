@@ -6532,6 +6532,18 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "2.0.204.0.VMWINXM": {
+        "android_version": "15",
+        "build_time": "2026-10-22T22:39:36Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-39866118756",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/39866118756",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "obsidian": {
@@ -11504,6 +11516,6 @@
       }
     }
   },
-  "last_updated": "2026-10-22T15:58:05Z",
+  "last_updated": "2026-10-22T22:40:17Z",
   "engine_version": "3.0.0"
 }
