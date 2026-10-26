@@ -192,7 +192,27 @@
       "workflow_run_id": "38292343659",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/38292343659",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-38292343659"
+    },
+    "Kameyuki-8.7-2.0.215.0": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-10-26T19:49:12Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:2caaa08c43a1a002449d7eca5c75edc9a2e57100b366ba436ac8797242ab33b9",
+        "services_patched.jar": "sha256:0132c475c334775637be020e6360847467b1fcf78643aa2cc9781d4133a1eb8c",
+        "miui-services_patched.jar": "sha256:c5acb4617ad0acc02fb2ee307d717a18aaa8b00e27fc1f666cb531297f2a910a",
+        "module_zip": "sha256:d2512b6d997d52b067250074dfee04798efda2bbfa4335ba0b37847764f82d2c"
+      },
+      "workflow_run_id": "40389568095",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/40389568095",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-40389568095"
     }
   },
-  "last_updated": "2026-10-12T18:41:46Z"
+  "last_updated": "2026-10-26T19:49:57Z"
 }

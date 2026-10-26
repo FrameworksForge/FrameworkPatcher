@@ -4977,6 +4977,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "Kameyuki-8.7-2.0.215.0": {
+        "android_version": "15",
+        "build_time": "2026-10-26T19:49:12Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-40389568095",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/40389568095",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "miro": {
@@ -11539,6 +11551,6 @@
       }
     }
   },
-  "last_updated": "2026-10-26T09:26:53Z",
+  "last_updated": "2026-10-26T19:49:57Z",
   "engine_version": "3.0.0"
 }
