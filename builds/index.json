@@ -10824,10 +10824,10 @@
       },
       "OS.2.0.222.0.VNBCNXM": {
         "android_version": "15",
-        "build_time": "2026-10-26T05:26:14Z",
+        "build_time": "2026-10-26T09:26:15Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-40273868562",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/40273868562",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-40299176930",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/40299176930",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -11539,6 +11539,6 @@
       }
     }
   },
-  "last_updated": "2026-10-26T05:26:54Z",
+  "last_updated": "2026-10-26T09:26:53Z",
   "engine_version": "3.0.0"
 }
