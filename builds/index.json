@@ -11206,13 +11206,12 @@
       },
       "3.0.7.0": {
         "android_version": "16",
-        "build_time": "2026-10-04T16:15:59Z",
+        "build_time": "2026-10-29T18:13:58Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-37216024322",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/37216024322",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-40928726554",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/40928726554",
         "features": [
-          "cn_notification_fix",
-          "disable_secure_flag"
+          "cn_notification_fix"
         ]
       }
     },
@@ -11563,6 +11562,6 @@
       }
     }
   },
-  "last_updated": "2026-10-29T01:28:35Z",
+  "last_updated": "2026-10-29T18:14:35Z",
   "engine_version": "3.0.0"
 }
