@@ -4833,15 +4833,14 @@
     "pearl": {
       "OS3.0.3.0.VLHCNXM": {
         "android_version": "15",
-        "build_time": "2026-11-02T19:37:40Z",
+        "build_time": "2026-11-02T20:00:41Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-41511158492",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/41511158492",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-41514548314",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/41514548314",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
-          "disable_secure_flag",
-          "kaorios_toolbox"
+          "disable_secure_flag"
         ]
       },
       "OS3.0.3.0.VLHCNXM (Android 15.0)": {
@@ -11608,6 +11607,6 @@
       }
     }
   },
-  "last_updated": "2026-11-02T19:38:24Z",
+  "last_updated": "2026-11-02T20:01:35Z",
   "engine_version": "3.0.0"
 }
