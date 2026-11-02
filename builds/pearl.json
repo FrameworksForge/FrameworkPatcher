@@ -8,20 +8,19 @@
         "disable_signature_verification",
         "cn_notification_fix",
         "disable_secure_flag",
-        "add_gboard"
+        "kaorios_toolbox"
       ],
-      "build_time": "2026-05-15T08:59:25Z",
+      "build_time": "2026-11-02T19:37:40Z",
       "git_commit": "4809dd6",
       "checksums": {
-        "framework_patched.jar": "sha256:beef043676ebcfc1d436e79119e97d39a126db3b08b0f4c1d55ff2720fac438e",
-        "services_patched.jar": "sha256:bc23a22d843b1e9d9ce7f1297c0a073befd5a920191b561509f00ab12092d78d",
-        "miui-services_patched.jar": "sha256:ca0230f890eaed22653a67e86d97045f98b8ac0df29f78b52038e093687567f8",
-        "miui-framework_patched.jar": "sha256:0c16de51f0938fdef1f8be6f2205503915fadb305fca26587bc03124edc0ade8",
-        "module_zip": "sha256:aff4c15c64feed980a4bb7b5564acf685b33e8453ca1cbb25f830a4dbc361cf9"
+        "framework_patched.jar": "sha256:57678d5220c90110a68e94a5ebcd9290ce61aefcc6025259f103e6da7d80c200",
+        "services_patched.jar": "sha256:8bdafe4d05f9b4abc06e99cda4615a62533036fef947e78b0e21ec3847482f5c",
+        "miui-services_patched.jar": "sha256:841bfb590db0cfe5848499e632c60d32d22aeaa43f386eba6754768a2544023a",
+        "module_zip": "sha256:3e1ff76549bc1129fa9d61af6bc7483bca06d87f1d5aa40889aa4da7052ca5c7"
       },
-      "workflow_run_id": "25909252493",
-      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/25909252493",
-      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-25909252493"
+      "workflow_run_id": "41511158492",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/41511158492",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-41511158492"
     },
     "OS3.0.3.0.VLHCNXM (Android 15.0)": {
       "android_version": "15",
@@ -67,5 +66,5 @@
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-26954986671"
     }
   },
-  "last_updated": "2026-06-04T13:37:05Z"
+  "last_updated": "2026-11-02T19:38:24Z"
 }
