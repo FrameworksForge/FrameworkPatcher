@@ -6050,6 +6050,16 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "Ryu hyper 1": {
+        "android_version": "15",
+        "build_time": "2026-11-05T14:05:08Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-42041303948",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/42041303948",
+        "features": [
+          "kaorios_toolbox"
+        ]
       }
     },
     "fog": {
@@ -11607,6 +11617,6 @@
       }
     }
   },
-  "last_updated": "2026-11-02T20:01:35Z",
+  "last_updated": "2026-11-05T14:05:48Z",
   "engine_version": "3.0.0"
 }

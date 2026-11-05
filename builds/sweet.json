@@ -261,7 +261,23 @@
       "workflow_run_id": "41206980240",
       "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/41206980240",
       "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-41206980240"
+    },
+    "Ryu hyper 1": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-11-05T14:05:08Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:78adbfd05fa21721a91f285a236c73840d2e9a1be0cb910b3e19d80b69c95847",
+        "module_zip": "sha256:0f5c24ac5000f5caa96dfa3055718cf2eee16cbe9cea2c00b81a3ad09bddd348"
+      },
+      "workflow_run_id": "42041303948",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/42041303948",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-42041303948"
     }
   },
-  "last_updated": "2026-10-31T13:48:57Z"
+  "last_updated": "2026-11-05T14:05:48Z"
 }
