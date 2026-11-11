@@ -10926,10 +10926,10 @@
       },
       "3.0.310.0.WNBCNXM": {
         "android_version": "16",
-        "build_time": "2026-11-11T23:36:56Z",
+        "build_time": "2026-11-11T23:37:05Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43120884521",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43120884521",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43120900205",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43120900205",
         "features": [
           "disable_signature_verification",
           "cn_notification_fix",
@@ -11641,6 +11641,6 @@
       }
     }
   },
-  "last_updated": "2026-11-11T23:37:34Z",
+  "last_updated": "2026-11-11T23:37:58Z",
   "engine_version": "3.0.0"
 }
