@@ -11670,16 +11670,16 @@
     "V14.0.10.0.TLHCNXM": {
       "V14.0.10.0.TLHCNXM": {
         "android_version": "13",
-        "build_time": "2026-11-15T16:56:07Z",
+        "build_time": "2026-11-15T17:29:45Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43738081549",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43738081549",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43741269030",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43741269030",
         "features": [
           "disable_signature_verification"
         ]
       }
     }
   },
-  "last_updated": "2026-11-15T16:56:47Z",
+  "last_updated": "2026-11-15T17:30:20Z",
   "engine_version": "3.0.0"
 }
