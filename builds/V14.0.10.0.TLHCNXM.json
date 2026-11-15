@@ -1,0 +1,24 @@
+{
+  "device": "V14.0.10.0.TLHCNXM",
+  "builds": {
+    "V14.0.10.0.TLHCNXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-11-15T16:56:07Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:9c0b5f93c1eb91e4c6705f4c77619cc0ac2adf25a44c18355ef1942efbdc3be0",
+        "services_patched.jar": "sha256:d067613ea48543c886daa6db10b3ad0a6b37bcafe2538e4feaf670d02c35e0a3",
+        "miui-services_patched.jar": "sha256:caea391f47664fbdd4a772926697e58a465fe4476c5e79ba23a75f297df1b6b7",
+        "module_zip": "sha256:fd3ef0057eef19a7223992ca22bf2f67e95166ea3690362ac03443fbb57a865c"
+      },
+      "workflow_run_id": "43738081549",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43738081549",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43738081549"
+    }
+  },
+  "last_updated": "2026-11-15T16:56:47Z"
+}

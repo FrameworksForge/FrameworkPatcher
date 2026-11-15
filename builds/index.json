@@ -11666,8 +11666,20 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "V14.0.10.0.TLHCNXM": {
+      "V14.0.10.0.TLHCNXM": {
+        "android_version": "13",
+        "build_time": "2026-11-15T16:56:07Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43738081549",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43738081549",
+        "features": [
+          "disable_signature_verification"
+        ]
+      }
     }
   },
-  "last_updated": "2026-11-15T06:25:46Z",
+  "last_updated": "2026-11-15T16:56:47Z",
   "engine_version": "3.0.0"
 }
