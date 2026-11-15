@@ -1,0 +1,24 @@
+{
+  "device": "16227391580",
+  "builds": {
+    "16227391580": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-11-15T20:13:15Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:b634a13d1566a9c4778ade6c3ae70c6e2338f395d3320acf336a28984042bfb2",
+        "miui-services_patched.jar": "sha256:b0106c2b390e3ea94b016853897242a281e45f9b9e756725c2d5937cb2373f75",
+        "module_zip": "sha256:b7e4f3d723efc82f7e97b322e7ca9265f432ed22ab2cd3e50e1004fae064c958"
+      },
+      "workflow_run_id": "43756664434",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43756664434",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43756664434"
+    }
+  },
+  "last_updated": "2026-11-15T20:13:53Z"
+}
