@@ -11670,16 +11670,17 @@
     "V14.0.10.0.TLHCNXM": {
       "V14.0.10.0.TLHCNXM": {
         "android_version": "13",
-        "build_time": "2026-11-15T17:29:45Z",
+        "build_time": "2026-11-15T17:51:40Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43741269030",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43741269030",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43743328816",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43743328816",
         "features": [
-          "disable_signature_verification"
+          "disable_signature_verification",
+          "kaorios_toolbox"
         ]
       }
     }
   },
-  "last_updated": "2026-11-15T17:30:20Z",
+  "last_updated": "2026-11-15T17:52:13Z",
   "engine_version": "3.0.0"
 }
