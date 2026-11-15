@@ -11690,8 +11690,21 @@
           "kaorios_toolbox"
         ]
       }
+    },
+    "V14.0.7.0.TLOCNXM": {
+      "V14.0.7.0.TLOCNXM": {
+        "android_version": "13",
+        "build_time": "2026-11-15T19:04:46Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43750198789",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43750198789",
+        "features": [
+          "disable_signature_verification",
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-11-15T18:59:18Z",
+  "last_updated": "2026-11-15T19:05:19Z",
   "engine_version": "3.0.0"
 }

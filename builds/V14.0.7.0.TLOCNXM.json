@@ -1,0 +1,24 @@
+{
+  "device": "V14.0.7.0.TLOCNXM",
+  "builds": {
+    "V14.0.7.0.TLOCNXM": {
+      "android_version": "13",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-11-15T19:04:46Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "services_patched.jar": "sha256:d3ff69bb3347fb92f698ceeec2a6d40633dcdbd54767747ddbeebcf738a158ad",
+        "miui-services_patched.jar": "sha256:3174216a460903126a8e596a8357b46b38feae28713329e8d4428bfe5abe3faf",
+        "module_zip": "sha256:3629dcff562d90aa7f699a7d928a244a92d8f476f9c0ace82e34a4a7bc820b78"
+      },
+      "workflow_run_id": "43750198789",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43750198789",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43750198789"
+    }
+  },
+  "last_updated": "2026-11-15T19:05:19Z"
+}
