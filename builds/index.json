@@ -11718,17 +11718,16 @@
     "16227391580": {
       "16227391580": {
         "android_version": "13",
-        "build_time": "2026-11-15T20:47:17Z",
+        "build_time": "2026-11-15T20:51:29Z",
         "patch_version": "3.0.0",
-        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43759862728",
-        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43759862728",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43760281187",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43760281187",
         "features": [
-          "disable_signature_verification",
-          "kaorios_toolbox"
+          "disable_signature_verification"
         ]
       }
     }
   },
-  "last_updated": "2026-11-15T20:47:50Z",
+  "last_updated": "2026-11-15T20:52:10Z",
   "engine_version": "3.0.0"
 }
