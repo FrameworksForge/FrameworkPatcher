@@ -11739,8 +11739,20 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "beryllium": {
+      "eng.NotDhe.20251113.110742": {
+        "android_version": "15",
+        "build_time": "2026-11-16T12:36:30Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43867899905",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43867899905",
+        "features": [
+          "kaorios_toolbox"
+        ]
+      }
     }
   },
-  "last_updated": "2026-11-16T10:28:35Z",
+  "last_updated": "2026-11-16T12:37:07Z",
   "engine_version": "3.0.0"
 }

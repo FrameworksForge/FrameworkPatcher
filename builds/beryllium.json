@@ -1,0 +1,21 @@
+{
+  "device": "beryllium",
+  "builds": {
+    "eng.NotDhe.20251113.110742": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-11-16T12:36:30Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "module_zip": "sha256:5caaa62fd72d66408acf37de7d3715d2f695a60ab2a69eb92b72aa0606cc623d"
+      },
+      "workflow_run_id": "43867899905",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43867899905",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43867899905"
+    }
+  },
+  "last_updated": "2026-11-16T12:37:07Z"
+}
