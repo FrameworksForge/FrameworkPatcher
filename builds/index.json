@@ -10970,6 +10970,18 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS3.0.310.0.WNBCNXM": {
+        "android_version": "16",
+        "build_time": "2026-11-16T21:30:50Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-43960429693",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/43960429693",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "rosemary": {
@@ -11753,6 +11765,6 @@
       }
     }
   },
-  "last_updated": "2026-11-16T12:37:07Z",
+  "last_updated": "2026-11-16T21:31:29Z",
   "engine_version": "3.0.0"
 }
