@@ -6094,6 +6094,18 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "1.0.34.0": {
+        "android_version": "15",
+        "build_time": "2026-11-17T09:25:05Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-44054954964",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/44054954964",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag",
+          "kaorios_toolbox"
+        ]
       }
     },
     "fog": {
@@ -11765,6 +11777,6 @@
       }
     }
   },
-  "last_updated": "2026-11-16T21:31:29Z",
+  "last_updated": "2026-11-17T09:25:45Z",
   "engine_version": "3.0.0"
 }
