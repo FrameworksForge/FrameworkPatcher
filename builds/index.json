@@ -11774,9 +11774,20 @@
         "features": [
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.4.0.VLCMIXM": {
+        "android_version": "15",
+        "build_time": "2026-11-19T06:25:25Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-44471504269",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/44471504269",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     }
   },
-  "last_updated": "2026-11-17T09:25:45Z",
+  "last_updated": "2026-11-19T06:26:15Z",
   "engine_version": "3.0.0"
 }
