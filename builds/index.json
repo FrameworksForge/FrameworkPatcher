@@ -8244,6 +8244,17 @@
           "disable_secure_flag",
           "kaorios_toolbox"
         ]
+      },
+      "OS3.0.302.0": {
+        "android_version": "16",
+        "build_time": "2026-11-21T08:17:13Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-44883969731",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/44883969731",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
       }
     },
     "Corot": {
@@ -11788,6 +11799,6 @@
       }
     }
   },
-  "last_updated": "2026-11-19T06:53:26Z",
+  "last_updated": "2026-11-21T08:17:53Z",
   "engine_version": "3.0.0"
 }
