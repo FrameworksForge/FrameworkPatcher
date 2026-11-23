@@ -7248,6 +7248,16 @@
           "disable_signature_verification",
           "disable_secure_flag"
         ]
+      },
+      "3.0.303.0.WOJTWXM16.0": {
+        "android_version": "16",
+        "build_time": "2026-11-23T12:49:48Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-45177620157",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/45177620157",
+        "features": [
+          "disable_signature_verification"
+        ]
       }
     },
     "light": {
@@ -11814,6 +11824,6 @@
       }
     }
   },
-  "last_updated": "2026-11-23T04:34:03Z",
+  "last_updated": "2026-11-23T12:50:33Z",
   "engine_version": "3.0.0"
 }
