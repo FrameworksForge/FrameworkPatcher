@@ -1,0 +1,27 @@
+{
+  "device": "iolite",
+  "builds": {
+    "OS3.0.305.0.WDQCNXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag",
+        "kaorios_toolbox"
+      ],
+      "build_time": "2026-11-23T04:33:20Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:8e658323c44d22eb2303a347341cf202edc793a4cb6be899fa8fbfe9a196193d",
+        "services_patched.jar": "sha256:a3c6cd9f994b4b3d92b15603821d0b7935e18a3dd39438444ee30d18833b42df",
+        "miui-services_patched.jar": "sha256:55721bd5f61092f30b57431be912cac13e95e8aaa1309eac3b556900e43059e9",
+        "module_zip": "sha256:c3404604ae623e21652163428d7366fe920f9933d552980e2447a4f2d1d0cacd"
+      },
+      "workflow_run_id": "45112297695",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/45112297695",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-45112297695"
+    }
+  },
+  "last_updated": "2026-11-23T04:34:03Z"
+}
