@@ -1,0 +1,26 @@
+{
+  "device": "Ruby",
+  "builds": {
+    "OS3.0.11.0.UMOCNXM": {
+      "android_version": "15",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification",
+        "cn_notification_fix",
+        "disable_secure_flag"
+      ],
+      "build_time": "2026-11-26T02:04:54Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:c9cd820b45818731a86c113acf27a321e5bbf531cd6317b74c54755ab7d8f63e",
+        "services_patched.jar": "sha256:5033706b8626ffde8ecbfc3d086d8961bae8bd52646a9e546d74c93adcd44816",
+        "miui-services_patched.jar": "sha256:05a843b05168bc221e2ed9c699f6512b02d41c8fa5b87b8548d6549069137311",
+        "module_zip": "sha256:db2bd22771a762cc009fc0ca9918e73a9a7fa63ebb4f3dd9ff7e0afb35126a01"
+      },
+      "workflow_run_id": "45739599745",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/45739599745",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-45739599745"
+    }
+  },
+  "last_updated": "2026-11-26T02:05:31Z"
+}
