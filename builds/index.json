@@ -3168,6 +3168,18 @@
         "features": [
           "cn_notification_fix"
         ]
+      },
+      "3.0.307.0": {
+        "android_version": "16",
+        "build_time": "2026-11-26T16:34:07Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-45859585992",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/45859585992",
+        "features": [
+          "disable_signature_verification",
+          "cn_notification_fix",
+          "disable_secure_flag"
+        ]
       }
     },
     "duchamp": {
@@ -11859,6 +11871,6 @@
       }
     }
   },
-  "last_updated": "2026-11-26T04:26:45Z",
+  "last_updated": "2026-11-26T16:34:50Z",
   "engine_version": "3.0.0"
 }
