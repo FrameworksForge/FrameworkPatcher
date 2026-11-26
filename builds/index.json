@@ -11846,9 +11846,19 @@
           "cn_notification_fix",
           "disable_secure_flag"
         ]
+      },
+      "OS4.0.5.0.UMOCNXM": {
+        "android_version": "16",
+        "build_time": "2026-11-26T04:26:12Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-45755109718",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/45755109718",
+        "features": [
+          "cn_notification_fix"
+        ]
       }
     }
   },
-  "last_updated": "2026-11-26T02:05:31Z",
+  "last_updated": "2026-11-26T04:26:45Z",
   "engine_version": "3.0.0"
 }
