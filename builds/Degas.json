@@ -1,0 +1,24 @@
+{
+  "device": "Degas",
+  "builds": {
+    "3.0.304.0.WNETWXM": {
+      "android_version": "16",
+      "patch_version": "3.0.0",
+      "features": [
+        "disable_signature_verification"
+      ],
+      "build_time": "2026-11-27T22:40:02Z",
+      "git_commit": "4809dd6",
+      "checksums": {
+        "framework_patched.jar": "sha256:1a2f62086a576189c1cb6a3e4a37ec69f7c461afb16f4ae17bbbba867f16c29f",
+        "services_patched.jar": "sha256:e23d6d4132433475351d3b33a32a4967c34c784e103109b704a08ea37e5c92ff",
+        "miui-services_patched.jar": "sha256:b354a6e93b22bd8bf57cb9ce0a154b2611cc01b5c874042ee841ae16a0e90ce9",
+        "module_zip": "sha256:5f2253fc7e6c1792ae4712e3da190c078bbb5f4755491a3d1cba154edb619aba"
+      },
+      "workflow_run_id": "46077813693",
+      "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/46077813693",
+      "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-46077813693"
+    }
+  },
+  "last_updated": "2026-11-27T22:40:44Z"
+}
