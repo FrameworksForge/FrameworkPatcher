@@ -11881,8 +11881,21 @@
           "disable_signature_verification"
         ]
       }
+    },
+    "honkong": {
+      "OS4.0.6.0": {
+        "android_version": "15",
+        "build_time": "2026-11-28T09:36:18Z",
+        "patch_version": "3.0.0",
+        "release_url": "https://github.com/FrameworksForge/FrameworkPatcher/releases/tag/build-tmp-46131003401",
+        "workflow_url": "https://github.com/FrameworksForge/FrameworkPatcher/actions/runs/46131003401",
+        "features": [
+          "disable_signature_verification",
+          "disable_secure_flag"
+        ]
+      }
     }
   },
-  "last_updated": "2026-11-27T22:40:44Z",
+  "last_updated": "2026-11-28T09:36:55Z",
   "engine_version": "3.0.0"
 }
